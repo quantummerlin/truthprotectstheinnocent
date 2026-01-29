@@ -5,7 +5,7 @@ subtitle: Latest developments and news
 permalink: /updates/
 ---
 
-<div class="container">
+<div class="container" markdown="1">
 
 ## Latest Updates
 
@@ -53,7 +53,7 @@ Browse updates by category:
 - **Legal** — Court proceedings, legal strategy updates
 - **Evidence** — New evidence and documentation
 - **Media** — Press coverage and interviews
-- **Action** — Campaigns, petitions, and calls to action
+- **Action** — Campaigns and calls to action
 - **International** — Diplomatic developments
 
 ---

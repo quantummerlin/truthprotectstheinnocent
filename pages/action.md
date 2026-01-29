@@ -5,7 +5,7 @@ subtitle: Your voice matters. Here's how you can help.
 permalink: /action/
 ---
 
-<div class="container-narrow">
+<div class="container-narrow" markdown="1">
 
 ## Why Your Action Matters
 
@@ -191,20 +191,6 @@ Media coverage creates public awareness and pressure on authorities to act fairl
 - Human rights focused publications
 - Family rights organizations
 - Podcasts covering justice issues
-
----
-
-<h2 id="petition">📝 Sign & Share Petitions</h2>
-
-Petitions demonstrate mass public support and create visible pressure.
-
-*Petition links will be added here as they become available.*
-
-### What Petitions Accomplish:
-- Show officials that thousands of people are watching
-- Create media interest in the story
-- Provide documented evidence of public concern
-- Build momentum for the cause
 
 ---
 

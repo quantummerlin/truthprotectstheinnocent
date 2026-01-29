@@ -51,7 +51,6 @@ The message from supporters is clear: **"It's time for people to make their voic
 While the family faces restrictions and surveillance, the public has the freedom and right to:
 - Speak the truth
 - Write letters to officials
-- Sign petitions
 - Share factual information
 - Contact media
 - Support a family that has done nothing wrong
@@ -65,9 +64,8 @@ While the family faces restrictions and surveillance, the public has the freedom
 ## What You Can Do
 
 1. **[Email Italian officials](/action/#email)** — Use the template provided
-2. **Sign petitions** — Add your voice to the growing movement
-3. **Share the story** — Use #TruthProtectsTheInnocent
-4. **Contact media** — Help get this story covered
+2. **Share the story** — Use #TruthProtectsTheInnocent
+3. **Contact media** — Help get this story covered
 
 ## The Central Question
 

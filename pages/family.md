@@ -17,7 +17,7 @@ permalink: /family/
     </div>
 </section>
 
-<div class="container-narrow">
+<div class="container-narrow" markdown="1">
 
 ## An Australian Family in Italy
 
@@ -64,7 +64,7 @@ These choices are legal. They are not unusual. Thousands of families across Ital
     </div>
 </section>
 
-<div class="container-narrow">
+<div class="container-narrow" markdown="1">
 
 ---
 

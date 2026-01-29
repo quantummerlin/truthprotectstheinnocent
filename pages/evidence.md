@@ -5,7 +5,7 @@ subtitle: Documented facts from official sources
 permalink: /evidence/
 ---
 
-<div class="container-narrow">
+<div class="container-narrow" markdown="1">
 
 ## Overview
 

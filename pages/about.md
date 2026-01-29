@@ -111,7 +111,7 @@ If you find inaccurate information on this site, let us know so we can correct i
 Share this site with others who may want to help.
 
 ### Take Action
-Use the resources on this site to write letters, sign petitions, and support the family.
+Use the resources on this site to write letters and support the family.
 
 ---
 
