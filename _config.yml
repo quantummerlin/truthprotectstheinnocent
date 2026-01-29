@@ -53,6 +53,16 @@ author: "Truth Protects The Innocent"
 twitter_card: summary_large_image
 og_image: /assets/images/og-image.jpg
 
+# SEO Settings
+lang: en
+locale: en_US
+tagline: "Three children. Three false claims. One family fighting for truth."
+logo: /assets/images/logo.png
+social:
+  name: Truth Protects The Innocent
+  links:
+    - https://truthprotectstheinnocent.quantummerlin.com
+
 # Navigation
 navigation:
   - title: Home
