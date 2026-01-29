@@ -60,7 +60,7 @@ title: Home
         
         <div class="video-gallery">
             <div class="video-card">
-                <video controls poster="">
+                <video controls playsinline preload="metadata">
                     <source src="/assets/videos/family1.MP4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video>
@@ -71,7 +71,7 @@ title: Home
             </div>
             
             <div class="video-card">
-                <video controls poster="">
+                <video controls playsinline preload="metadata">
                     <source src="/assets/videos/family2.MOV" type="video/mp4">
                     Your browser does not support the video tag.
                 </video>
@@ -82,7 +82,7 @@ title: Home
             </div>
             
             <div class="video-card">
-                <video controls poster="">
+                <video controls playsinline preload="metadata">
                     <source src="/assets/videos/family3.MP4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video>

@@ -501,7 +501,7 @@ a:hover {
    ============================================ */
 .video-gallery {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: var(--spacing-xl);
     margin-top: var(--spacing-2xl);
 }
@@ -526,6 +526,23 @@ a:hover {
     display: block;
     aspect-ratio: 16/9;
     object-fit: cover;
+    /* Ensure video controls are always accessible */
+    min-height: 200px;
+}
+
+/* Make video controls more accessible on mobile */
+.video-card video::-webkit-media-controls {
+    opacity: 1 !important;
+}
+
+.video-card video::-webkit-media-controls-panel {
+    background: linear-gradient(transparent, rgba(0,0,0,0.7));
+    padding-bottom: 10px;
+}
+
+.video-card video::-webkit-media-controls-play-button {
+    width: 44px;
+    height: 44px;
 }
 
 .video-card-overlay {
@@ -536,6 +553,7 @@ a:hover {
     padding: var(--spacing-xl);
     background: linear-gradient(transparent, rgba(0, 0, 0, 0.8));
     color: var(--color-white);
+    pointer-events: none; /* Allow clicks to pass through to video */
 }
 
 .video-card-title {
@@ -1113,6 +1131,39 @@ a:hover {
         gap: var(--spacing-lg);
     }
     
+    .video-card {
+        border-radius: var(--radius-lg);
+    }
+    
+    .video-card:hover {
+        transform: none; /* Disable hover effect on touch */
+    }
+    
+    .video-card:active {
+        transform: scale(0.98);
+    }
+    
+    .video-card video {
+        min-height: 180px;
+        /* Show controls prominently on mobile */
+        -webkit-tap-highlight-color: transparent;
+    }
+    
+    .video-card-overlay {
+        padding: var(--spacing-md) var(--spacing-lg);
+        /* Reduce overlay height to not block controls */
+        background: linear-gradient(transparent 0%, rgba(0, 0, 0, 0.75) 50%);
+    }
+    
+    .video-card-title {
+        font-size: 1rem;
+    }
+    
+    .video-card-desc {
+        font-size: 0.85rem;
+        margin-bottom: var(--spacing-sm);
+    }
+
     .action-grid {
         grid-template-columns: 1fr;
     }

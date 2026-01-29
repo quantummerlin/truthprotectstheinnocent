@@ -42,7 +42,7 @@ These choices are legal. They are not unusual. Thousands of families across Ital
         
         <div class="video-gallery">
             <div class="video-card">
-                <video controls>
+                <video controls playsinline preload="metadata">
                     <source src="/assets/videos/family1.MP4" type="video/mp4">
                 </video>
                 <div class="video-card-overlay">
@@ -52,7 +52,7 @@ These choices are legal. They are not unusual. Thousands of families across Ital
             </div>
             
             <div class="video-card">
-                <video controls>
+                <video controls playsinline preload="metadata">
                     <source src="/assets/videos/family2.MOV" type="video/mp4">
                 </video>
                 <div class="video-card-overlay">
