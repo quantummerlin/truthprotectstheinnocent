@@ -25,7 +25,7 @@ Italian authorities gave three reasons for removing the children from their pare
 
 ### Claim #1: "Children Not Vaccinated"
 
-<div class="evidence-card">
+<div class="evidence-card" markdown="1">
 <div class="evidence-header">
 <h4>What Authorities Claimed</h4>
 <span class="evidence-badge badge-disputed">DISPROVEN</span>
@@ -42,7 +42,7 @@ Italian authorities gave three reasons for removing the children from their pare
 
 ### Claim #2: "Children Not Educated"
 
-<div class="evidence-card">
+<div class="evidence-card" markdown="1">
 <div class="evidence-header">
 <h4>What Authorities Claimed</h4>
 <span class="evidence-badge badge-disputed">DISPROVEN</span>
@@ -61,7 +61,7 @@ Italian authorities gave three reasons for removing the children from their pare
 
 ### Claim #3: "House Unsafe"
 
-<div class="evidence-card">
+<div class="evidence-card" markdown="1">
 <div class="evidence-header">
 <h4>What Authorities Claimed</h4>
 <span class="evidence-badge badge-disputed">DISPROVEN</span>
@@ -80,7 +80,7 @@ Italian authorities gave three reasons for removing the children from their pare
 
 ## The Central Question
 
-<div class="alert alert-danger">
+<div class="alert alert-danger" markdown="1">
 <h3 style="margin-top: 0;">If all three justifications are false, what is the legal basis for this separation?</h3>
 
 Under Italian law, child removal requires evidence of "exceptional gravity." 
@@ -105,7 +105,7 @@ Three children remain separated from their parents based on justifications that 
 
 A qualified psychologist conducted an assessment of the children following their removal. The findings were significant enough that the psychologist held a formal press conference to present them.
 
-<div class="evidence-card" style="background: #fef2f2; border-left: 4px solid #dc2626;">
+<div class="evidence-card" markdown="1" style="background: #fef2f2; border-left: 4px solid #dc2626;">
 <div class="evidence-header">
 <h4>Assessment Finding</h4>
 <span class="evidence-badge badge-verified">DOCUMENTED</span>
