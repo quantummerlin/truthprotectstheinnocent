@@ -100,6 +100,41 @@ title: Home
     </div>
 </section>
 
+<!-- What People Say About This Family -->
+<section class="section" style="background: var(--color-gray-50);">
+    <div class="container">
+        <div class="section-header">
+            <h2>What People Say About This Family</h2>
+            <p>Testimonials from people who know the Birmingham-Trevallion family</p>
+        </div>
+        
+        <div class="testimonial-gallery" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem;">
+            <div class="testimonial-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-md);">
+                <img src="/assets/images/testimonials/photo_2026-01-11_21-41-12.jpg" alt="Testimonial" style="width: 100%; height: auto;">
+            </div>
+            <div class="testimonial-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-md);">
+                <img src="/assets/images/testimonials/photo_2026-01-11_21-41-16.jpg" alt="Testimonial" style="width: 100%; height: auto;">
+            </div>
+            <div class="testimonial-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-md);">
+                <img src="/assets/images/testimonials/photo_2026-01-11_21-41-19.jpg" alt="Testimonial" style="width: 100%; height: auto;">
+            </div>
+            <div class="testimonial-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-md);">
+                <img src="/assets/images/testimonials/photo_2026-01-11_21-41-21.jpg" alt="Testimonial" style="width: 100%; height: auto;">
+            </div>
+            <div class="testimonial-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-md);">
+                <img src="/assets/images/testimonials/photo_2026-01-11_21-41-26.jpg" alt="Testimonial" style="width: 100%; height: auto;">
+            </div>
+            <div class="testimonial-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-md);">
+                <img src="/assets/images/testimonials/photo_2026-01-11_21-41-28.jpg" alt="Testimonial" style="width: 100%; height: auto;">
+            </div>
+        </div>
+        
+        <div class="text-center mt-2">
+            <p style="color: var(--color-gray-600); font-style: italic;">These are real messages from people who know the family personally.</p>
+        </div>
+    </div>
+</section>
+
 <!-- The Three False Claims -->
 <section class="section section-dark">
     <div class="container">
@@ -189,9 +224,9 @@ title: Home
         <div class="action-grid">
             <div class="action-card urgent">
                 <div class="action-icon">📧</div>
-                <h3>Email Officials</h3>
+                <h3>Send The Letter</h3>
                 <p>Write to Italian parliamentary officials. Every email creates diplomatic pressure and shows that the world is watching.</p>
-                <a href="/action/#email" class="btn btn-danger">Get Email Templates</a>
+                <a href="/action/#email" class="btn btn-danger">Get The Letter Template</a>
             </div>
             
             <div class="action-card">
@@ -207,6 +242,13 @@ title: Home
                 <p>Reach out to journalists and news outlets. This story deserves coverage. Media attention creates accountability.</p>
                 <a href="/action/#media" class="btn btn-outline">Media Resources</a>
             </div>
+        </div>
+        
+        <!-- Prominent Letter CTA -->
+        <div style="background: linear-gradient(135deg, #1e3a5f, #2d5a8a); border-radius: 1rem; padding: 2rem; margin-top: 2rem; text-align: center;">
+            <h3 style="color: white; margin-bottom: 1rem;">📧 The Letter to Italian Officials</h3>
+            <p style="color: var(--color-gray-300); margin-bottom: 1.5rem;">A professional letter template in Italian, ready to send to parliamentary officials. Your email will be noticed.</p>
+            <a href="/action/#email" class="btn btn-primary btn-lg" style="background: white; color: var(--color-primary);">View &amp; Copy The Letter →</a>
         </div>
     </div>
 </section>
