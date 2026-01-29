@@ -1,0 +1,71 @@
+# Truth Protects the Innocent - Jekyll Configuration
+title: Truth Protects The Innocent
+description: "Three children. Three false claims. One family fighting for truth."
+url: "https://truthprotectstheinnocent.quantummerlin.com"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title/
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Collections
+collections:
+  updates:
+    output: true
+    permalink: /updates/:title/
+  evidence:
+    output: true
+    permalink: /evidence/:title/
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "updates"
+    values:
+      layout: "update"
+
+# Pagination
+paginate: 10
+paginate_path: "/updates/page:num/"
+
+# Exclude from build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Social/Meta
+author: "Truth Protects The Innocent"
+twitter_card: summary_large_image
+og_image: /assets/images/og-image.jpg
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: The Family
+    url: /family/
+  - title: Evidence
+    url: /evidence/
+  - title: Updates
+    url: /updates/
+  - title: Take Action
+    url: /action/
+  - title: Media
+    url: /media/
+  - title: About
+    url: /about/
