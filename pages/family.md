@@ -151,7 +151,110 @@ We have the freedom to:
 
 The family's supporters report that they have asked for public support — for people to speak the truth and not be silenced by fear.
 
----
+</div>
+
+<!-- Testimonials Section -->
+<section class="section" style="background: var(--color-gray-50);">
+    <div class="container">
+        <div class="section-header">
+            <h2>What People Say About This Family</h2>
+            <p>Real testimonials from people who know the Birmingham-Trevallion family personally</p>
+        </div>
+        
+        <div class="testimonial-gallery" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem;">
+            <div class="testimonial-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-md);">
+                <img src="/assets/images/testimonials/photo_2026-01-11_21-41-12.jpg" alt="Testimonial" style="width: 100%; height: auto;">
+            </div>
+            <div class="testimonial-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-md);">
+                <img src="/assets/images/testimonials/photo_2026-01-11_21-41-16.jpg" alt="Testimonial" style="width: 100%; height: auto;">
+            </div>
+            <div class="testimonial-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-md);">
+                <img src="/assets/images/testimonials/photo_2026-01-11_21-41-19.jpg" alt="Testimonial" style="width: 100%; height: auto;">
+            </div>
+            <div class="testimonial-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-md);">
+                <img src="/assets/images/testimonials/photo_2026-01-11_21-41-21.jpg" alt="Testimonial" style="width: 100%; height: auto;">
+            </div>
+            <div class="testimonial-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-md);">
+                <img src="/assets/images/testimonials/photo_2026-01-11_21-41-26.jpg" alt="Testimonial" style="width: 100%; height: auto;">
+            </div>
+            <div class="testimonial-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-md);">
+                <img src="/assets/images/testimonials/photo_2026-01-11_21-41-28.jpg" alt="Testimonial" style="width: 100%; height: auto;">
+            </div>
+            <div class="testimonial-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-md);">
+                <img src="/assets/images/testimonials/photo_2026-01-11_21-41-30.jpg" alt="Testimonial" style="width: 100%; height: auto;">
+            </div>
+            <div class="testimonial-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-md);">
+                <img src="/assets/images/testimonials/photo_2026-01-11_21-41-33.jpg" alt="Testimonial" style="width: 100%; height: auto;">
+            </div>
+            <div class="testimonial-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-md);">
+                <img src="/assets/images/testimonials/photo_2026-01-11_21-41-35.jpg" alt="Testimonial" style="width: 100%; height: auto;">
+            </div>
+            <div class="testimonial-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-md);">
+                <img src="/assets/images/testimonials/photo_2026-01-11_21-41-38.jpg" alt="Testimonial" style="width: 100%; height: auto;">
+            </div>
+            <div class="testimonial-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-md);">
+                <img src="/assets/images/testimonials/photo_2026-01-11_21-41-40.jpg" alt="Testimonial" style="width: 100%; height: auto;">
+            </div>
+            <div class="testimonial-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-md);">
+                <img src="/assets/images/testimonials/photo_2026-01-11_21-41-43.jpg" alt="Testimonial" style="width: 100%; height: auto;">
+            </div>
+            <div class="testimonial-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-md);">
+                <img src="/assets/images/testimonials/photo_2026-01-11_21-41-46.jpg" alt="Testimonial" style="width: 100%; height: auto;">
+            </div>
+            <div class="testimonial-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-md);">
+                <img src="/assets/images/testimonials/photo_2026-01-11_21-41-48.jpg" alt="Testimonial" style="width: 100%; height: auto;">
+            </div>
+            <div class="testimonial-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-md);">
+                <img src="/assets/images/testimonials/photo_2026-01-11_21-41-51.jpg" alt="Testimonial" style="width: 100%; height: auto;">
+            </div>
+            <div class="testimonial-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-md);">
+                <img src="/assets/images/testimonials/photo_2026-01-11_21-41-53.jpg" alt="Testimonial" style="width: 100%; height: auto;">
+            </div>
+            <div class="testimonial-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-md);">
+                <img src="/assets/images/testimonials/photo_2026-01-11_21-41-55.jpg" alt="Testimonial" style="width: 100%; height: auto;">
+            </div>
+            <div class="testimonial-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-md);">
+                <img src="/assets/images/testimonials/photo_2026-01-11_21-41-57.jpg" alt="Testimonial" style="width: 100%; height: auto;">
+            </div>
+            <div class="testimonial-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-md);">
+                <img src="/assets/images/testimonials/photo_2026-01-11_21-41-59.jpg" alt="Testimonial" style="width: 100%; height: auto;">
+            </div>
+            <div class="testimonial-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-md);">
+                <img src="/assets/images/testimonials/photo_2026-01-11_21-42-01.jpg" alt="Testimonial" style="width: 100%; height: auto;">
+            </div>
+            <div class="testimonial-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-md);">
+                <img src="/assets/images/testimonials/photo_2026-01-11_21-42-06.jpg" alt="Testimonial" style="width: 100%; height: auto;">
+            </div>
+            <div class="testimonial-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-md);">
+                <img src="/assets/images/testimonials/photo_1_2026-01-11_22-20-46.jpg" alt="Testimonial" style="width: 100%; height: auto;">
+            </div>
+            <div class="testimonial-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-md);">
+                <img src="/assets/images/testimonials/photo_2_2026-01-11_22-20-46.jpg" alt="Testimonial" style="width: 100%; height: auto;">
+            </div>
+            <div class="testimonial-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-md);">
+                <img src="/assets/images/testimonials/photo_3_2026-01-11_22-20-46.jpg" alt="Testimonial" style="width: 100%; height: auto;">
+            </div>
+            <div class="testimonial-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-md);">
+                <img src="/assets/images/testimonials/photo_4_2026-01-11_22-20-46.jpg" alt="Testimonial" style="width: 100%; height: auto;">
+            </div>
+            <div class="testimonial-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-md);">
+                <img src="/assets/images/testimonials/photo_5_2026-01-11_22-20-46.jpg" alt="Testimonial" style="width: 100%; height: auto;">
+            </div>
+            <div class="testimonial-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-md);">
+                <img src="/assets/images/testimonials/photo_6_2026-01-11_22-20-46.jpg" alt="Testimonial" style="width: 100%; height: auto;">
+            </div>
+            <div class="testimonial-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-md);">
+                <img src="/assets/images/testimonials/photo_7_2026-01-11_22-20-46.jpg" alt="Testimonial" style="width: 100%; height: auto;">
+            </div>
+        </div>
+        
+        <div class="text-center mt-2">
+            <p style="color: var(--color-gray-600); font-style: italic; margin-top: 2rem;">These are real messages from people who know the family personally. They paint a picture very different from the one presented by authorities.</p>
+        </div>
+    </div>
+</section>
+
+<div class="container-narrow" markdown="1">
 
 ## How You Can Help
 
