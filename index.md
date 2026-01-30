@@ -32,8 +32,8 @@ title: Home
         </div>
         
         <div class="hero-cta">
-            <a href="/evidence/" class="btn btn-primary btn-lg">See The Evidence</a>
-            <a href="/action/" class="btn btn-secondary btn-lg">Take Action Now</a>
+            <a href="#share-now" class="btn btn-primary btn-lg">Share This Now</a>
+            <a href="/evidence/" class="btn btn-secondary btn-lg">See The Evidence</a>
         </div>
     </div>
     <div class="scroll-indicator">
@@ -51,7 +51,7 @@ title: Home
 </section>
 
 <!-- Meet The Family - Video Section -->
-<section class="section">
+<section class="section" id="share-now">
     <div class="container">
         <div class="section-header">
             <h2>Meet The Family</h2>

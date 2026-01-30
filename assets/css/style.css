@@ -11,9 +11,9 @@
     --color-primary-light: #2d5a8a;
     
     /* Accent Colors - Warm, Human */
-    --color-accent: #e07b39;
-    --color-accent-light: #f4a261;
-    --color-accent-dark: #c45e1a;
+    --color-accent: #d9822b;
+    --color-accent-light: #f0b37a;
+    --color-accent-dark: #b9661f;
     
     /* Semantic Colors */
     --color-success: #10b981;
@@ -409,14 +409,15 @@ a:hover {
 }
 
 .btn-primary {
-    background: var(--color-accent);
+    background: linear-gradient(135deg, var(--color-accent) 0%, var(--color-accent-dark) 100%);
     color: var(--color-white);
-    border-color: var(--color-accent);
+    border-color: var(--color-accent-dark);
+    box-shadow: var(--shadow-md);
 }
 
 .btn-primary:hover {
-    background: var(--color-accent-dark);
-    border-color: var(--color-accent-dark);
+    background: linear-gradient(135deg, var(--color-accent-dark) 0%, #a95818 100%);
+    border-color: #a95818;
     transform: translateY(-2px);
     box-shadow: var(--shadow-lg);
 }
@@ -1124,6 +1125,10 @@ a:hover {
     .hero-cta .btn {
         width: 100%;
         text-align: center;
+    }
+
+    .scroll-indicator {
+        display: none;
     }
     
     .video-gallery {
