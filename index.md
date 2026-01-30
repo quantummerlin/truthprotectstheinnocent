@@ -152,7 +152,8 @@ lang: en
                 <img src="/assets/images/photo_2026-01-30_21-50-16.jpg" alt="Corriere della Sera" style="width: 100%; height: auto;">
                 <div style="padding: 1rem;">
                     <span style="background: var(--color-accent); color: white; padding: 0.2rem 0.6rem; border-radius: 1rem; font-size: 0.7rem; font-weight: 600;">CORRIERE DELLA SERA</span>
-                    <p style="color: var(--color-gray-700); font-size: 0.85rem; margin: 0.5rem 0 0 0;">"Those who don't conform get put under guardianship"</p>
+                    <p style="color: var(--color-gray-500); font-size: 0.75rem; font-style: italic; margin: 0.5rem 0 0.25rem 0;">"Chi non si uniforma viene messo sotto tutela"</p>
+                    <p style="color: var(--color-gray-700); font-size: 0.85rem; margin: 0;"><strong>EN:</strong> "Those who don't conform get put under guardianship"</p>
                 </div>
             </a>
             
@@ -160,7 +161,8 @@ lang: en
                 <img src="/assets/images/photo_2026-01-30_21-49-52.jpg" alt="Il Centro" style="width: 100%; height: auto;">
                 <div style="padding: 1rem;">
                     <span style="background: var(--color-primary); color: white; padding: 0.2rem 0.6rem; border-radius: 1rem; font-size: 0.7rem; font-weight: 600;">IL CENTRO</span>
-                    <p style="color: var(--color-gray-700); font-size: 0.85rem; margin: 0.5rem 0 0 0;">"She's hostile, must be revoked immediately"</p>
+                    <p style="color: var(--color-gray-500); font-size: 0.75rem; font-style: italic; margin: 0.5rem 0 0.25rem 0;">"È ostile, va revocata subito"</p>
+                    <p style="color: var(--color-gray-700); font-size: 0.85rem; margin: 0;"><strong>EN:</strong> "She's hostile, must be revoked immediately"</p>
                 </div>
             </a>
         </div>

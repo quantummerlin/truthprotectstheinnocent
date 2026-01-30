@@ -24,7 +24,9 @@ permalink: /media/
                         <span style="color: var(--color-gray-500); font-size: 0.875rem;">30 Jan 2026</span>
                     </div>
                     <h3 style="margin: 0 0 0.5rem 0; font-size: 1.1rem;">Corriere della Sera</h3>
-                    <p style="color: var(--color-gray-600); font-size: 0.9rem; margin: 0;">"Chi non si uniforma viene messo sotto tutela" — Susanna Tamaro compares the case to Vittorio Sgarbi, questioning why families who don't conform face intervention.</p>
+                    <p style="color: var(--color-gray-500); font-size: 0.85rem; font-style: italic; margin: 0 0 0.5rem 0;">"Chi non si uniforma viene messo sotto tutela"</p>
+                    <p style="color: var(--color-gray-700); font-size: 0.9rem; margin: 0 0 0.75rem 0;"><strong>EN:</strong> "Those who don't conform get put under guardianship"</p>
+                    <p style="color: var(--color-gray-600); font-size: 0.85rem; margin: 0;">By Susanna Tamaro — Compares the case to Vittorio Sgarbi, questioning why families who don't conform face state intervention.</p>
                 </div>
             </div>
             
@@ -38,7 +40,9 @@ permalink: /media/
                         <span style="color: var(--color-gray-500); font-size: 0.875rem;">29 Jan 2026</span>
                     </div>
                     <h3 style="margin: 0 0 0.5rem 0; font-size: 1.1rem;">Il Centro</h3>
-                    <p style="color: var(--color-gray-600); font-size: 0.9rem; margin: 0;">"È ostile, va revocata subito" — Full page coverage of the formal complaint filed against the social worker with the professional order.</p>
+                    <p style="color: var(--color-gray-500); font-size: 0.85rem; font-style: italic; margin: 0 0 0.5rem 0;">"È ostile, va revocata subito"</p>
+                    <p style="color: var(--color-gray-700); font-size: 0.9rem; margin: 0 0 0.75rem 0;"><strong>EN:</strong> "She's hostile, must be revoked immediately"</p>
+                    <p style="color: var(--color-gray-600); font-size: 0.85rem; margin: 0;">Full-page coverage of the formal complaint filed against the social worker with the professional order.</p>
                 </div>
             </div>
         </div>
