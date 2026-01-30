@@ -217,38 +217,53 @@ title: Home
 <section class="section">
     <div class="container">
         <div class="section-header">
-            <h2>What You Can Do</h2>
-            <p>Public awareness and pressure are essential. Your voice matters.</p>
+            <h2>Want To Do Something Right Now?</h2>
+            <p>You don't need to donate. You don't need to sign up for anything.</p>
         </div>
         
-        <div class="action-grid">
-            <div class="action-card urgent">
+        <!-- The One Thing CTA - Chase Hughes style -->
+        <div style="background: linear-gradient(135deg, #1e3a5f, #2d5a8a); border-radius: 1.5rem; padding: 3rem; text-align: center; max-width: 800px; margin: 0 auto;">
+            <h3 style="color: #f59e0b; font-size: 1.5rem; margin-bottom: 1rem;">We don't need your money. We don't need your data.</h3>
+            <h2 style="color: white; font-size: 2rem; margin-bottom: 1.5rem;">We just need you to share this link.</h2>
+            
+            <p style="color: var(--color-gray-300); font-size: 1.2rem; margin-bottom: 1.5rem;">One share to the right person could change everything. A journalist. An official. Someone who knows someone.</p>
+            
+            <p style="color: white; font-size: 1.1rem; margin-bottom: 2rem;"><strong>Sharing this with five people you trust is worth more than any donation we could ask for.</strong></p>
+            
+            <div style="background: rgba(255,255,255,0.1); border-radius: 0.5rem; padding: 1rem; margin-bottom: 1.5rem;">
+                <code style="color: #f59e0b; font-size: 1.1rem; word-break: break-all;">truthprotectstheinnocent.quantummerlin.com</code>
+            </div>
+            
+            <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+                <button onclick="navigator.clipboard.writeText('truthprotectstheinnocent.quantummerlin.com').then(()=>this.textContent='✓ Copied!')" class="btn btn-primary btn-lg" style="background: white; color: var(--color-primary); min-width: 200px;">📋 Copy Link</button>
+                <a href="https://wa.me/?text=Three%20children%20separated%20from%20loving%20parents.%20Three%20official%20reasons.%20All%20three%20proven%20false.%20truthprotectstheinnocent.quantummerlin.com" class="btn btn-lg" style="background: #25D366; color: white;">💬 WhatsApp</a>
+            </div>
+            
+            <p style="color: var(--color-gray-400); font-size: 0.9rem; margin-top: 2rem; margin-bottom: 0;">Think of 5 people who would care about this. Send it now, before you forget.</p>
+        </div>
+        
+        <!-- Secondary Actions -->
+        <div class="action-grid" style="margin-top: 3rem;">
+            <div class="action-card">
                 <div class="action-icon">📧</div>
-                <h3>Send The Letter</h3>
-                <p>Write to Italian parliamentary officials. Every email creates diplomatic pressure and shows that the world is watching.</p>
-                <a href="/action/#email" class="btn btn-danger">Get The Letter Template</a>
+                <h3>Email Officials</h3>
+                <p>Ready to do more? Send a letter directly to Italian parliamentary officials.</p>
+                <a href="/action/#email" class="btn btn-outline">Get The Letter</a>
             </div>
             
             <div class="action-card">
                 <div class="action-icon">📢</div>
-                <h3>Share The Facts</h3>
-                <p>Share this story on social media. Use #TruthProtectsTheInnocent. Let people know what's happening.</p>
-                <a href="/action/#share" class="btn btn-outline">Get Share Templates</a>
+                <h3>Social Media</h3>
+                <p>Share on your platforms with ready-made posts and #TruthProtectsTheInnocent</p>
+                <a href="/action/#share" class="btn btn-outline">Share Templates</a>
             </div>
             
             <div class="action-card">
                 <div class="action-icon">📰</div>
                 <h3>Contact Media</h3>
-                <p>Reach out to journalists and news outlets. This story deserves coverage. Media attention creates accountability.</p>
+                <p>Know a journalist? This story deserves coverage. Pass it on.</p>
                 <a href="/action/#media" class="btn btn-outline">Media Resources</a>
             </div>
-        </div>
-        
-        <!-- Prominent Letter CTA -->
-        <div style="background: linear-gradient(135deg, #1e3a5f, #2d5a8a); border-radius: 1rem; padding: 2rem; margin-top: 2rem; text-align: center;">
-            <h3 style="color: white; margin-bottom: 1rem;">📧 The Letter to Italian Officials</h3>
-            <p style="color: var(--color-gray-300); margin-bottom: 1.5rem;">A professional letter template in Italian, ready to send to parliamentary officials. Your email will be noticed.</p>
-            <a href="/action/#email" class="btn btn-primary btn-lg" style="background: white; color: var(--color-primary);">View &amp; Copy The Letter →</a>
         </div>
     </div>
 </section>
