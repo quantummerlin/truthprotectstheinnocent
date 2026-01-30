@@ -23,7 +23,7 @@ permalink: /family/
 
 The Birmingham-Trevallion family — Nathan, Catherine, and their three children — are Australian citizens who chose to make their home in rural Italy. They made deliberate choices about how to raise their family:
 
-- **Education** — Following Italy's legal "istruzione parentale" (parental instruction) framework, the same model used by over 15,000 families across Italy
+- **Education** — Following Italy's legal "istruzione parentale" (parental instruction) framework using Steiner pedagogy, the same model used by over 15,000 families across Italy
 - **Rural living** — Choosing to live in the countryside, close to nature
 - **Limited screen time** — Prioritizing outdoor activities and hands-on learning over television and devices
 - **Simple lifestyle** — Living modestly and sustainably

@@ -50,11 +50,11 @@ Italian authorities gave three reasons for removing the children from their pare
 
 **The claim:** The children were not receiving proper education.
 
-**The evidence:** The Ministry of Education confirmed the children **correctly followed parental instruction** (istruzione parentale) — the legal homeschooling framework used by over 15,000 children across Italy.
+**The evidence:** The Ministry of Education confirmed the children **correctly followed parental instruction** (istruzione parentale) using Steiner pedagogy — the legal education framework used by over 15,000 children across Italy.
 
 **Source:** Ministry of Education confirmation
 
-**Legal context:** Homeschooling is protected under Article 30 of the Italian Constitution and regulated by ministerial guidelines. It is not illegal. It is not unusual. Over 15,000 Italian children are educated this way.
+**Legal context:** Parental instruction is protected under Article 30 of the Italian Constitution and regulated by ministerial guidelines. It is not illegal. It is not unusual. Over 15,000 Italian children are educated this way.
 </div>
 
 ---

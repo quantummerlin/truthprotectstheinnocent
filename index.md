@@ -197,7 +197,7 @@ lang: en
                         <h4 style="color: white;">❌ Claim #2: "Children not educated"</h4>
                         <span class="evidence-badge badge-disputed">DISPROVEN</span>
                     </div>
-                    <p style="color: var(--color-gray-300);"><strong style="color: white;">The Ministry of Education confirmed the children were legally educated.</strong></p>
+                    <p style="color: var(--color-gray-300);"><strong style="color: white;">The Ministry of Education confirmed the children were legally educated using Steiner pedagogy.</strong></p>
                     <p class="evidence-source" style="color: var(--color-gray-500);">Following the legal parental instruction framework used by over 15,000 families in Italy.</p>
                 </div>
                 
