@@ -24,9 +24,9 @@ permalink: /media/
                         <span style="color: var(--color-gray-500); font-size: 0.875rem;">30 Jan 2026</span>
                     </div>
                     <h3 style="margin: 0 0 0.5rem 0; font-size: 1.1rem;">Corriere della Sera</h3>
-                    <p style="color: var(--color-gray-500); font-size: 0.85rem; font-style: italic; margin: 0 0 0.5rem 0;">"Chi non si uniforma viene messo sotto tutela"</p>
-                    <p style="color: var(--color-gray-700); font-size: 0.9rem; margin: 0 0 0.75rem 0;"><strong>EN:</strong> "Those who don't conform get put under guardianship"</p>
-                    <p style="color: var(--color-gray-600); font-size: 0.85rem; margin: 0;">By Susanna Tamaro — Compares the case to Vittorio Sgarbi, questioning why families who don't conform face state intervention.</p>
+                    <h4 style="margin: 0 0 1rem 0; font-size: 1rem; font-weight: 600; color: var(--color-gray-700);">"Those who don't conform get put under guardianship"</h4>
+                    <p style="color: var(--color-gray-600); font-size: 0.9rem; margin: 0 0 0.75rem 0; line-height: 1.6;"><strong>By Susanna Tamaro</strong> — Italy's renowned author draws parallels between Vittorio Sgarbi and the Birmingham-Trevallion family. She argues that people with exceptional talent and intelligence outside societal norms often face persecution rather than appreciation.</p>
+                    <p style="color: var(--color-gray-600); font-size: 0.9rem; margin: 0; line-height: 1.6;">Tamaro questions why our society treats non-conformity as a problem requiring state intervention, asking whether bureaucratic uniformity should determine if children remain with loving parents. She suggests the Decalogue principle — honoring parents — cannot be selectively applied based on whether parents fit the mold of mediocrity.</p>
                 </div>
             </div>
             
@@ -40,9 +40,9 @@ permalink: /media/
                         <span style="color: var(--color-gray-500); font-size: 0.875rem;">29 Jan 2026</span>
                     </div>
                     <h3 style="margin: 0 0 0.5rem 0; font-size: 1.1rem;">Il Centro</h3>
-                    <p style="color: var(--color-gray-500); font-size: 0.85rem; font-style: italic; margin: 0 0 0.5rem 0;">"È ostile, va revocata subito"</p>
-                    <p style="color: var(--color-gray-700); font-size: 0.9rem; margin: 0 0 0.75rem 0;"><strong>EN:</strong> "She's hostile, must be revoked immediately"</p>
-                    <p style="color: var(--color-gray-600); font-size: 0.85rem; margin: 0;">Full-page coverage of the formal complaint filed against the social worker with the professional order.</p>
+                    <h4 style="margin: 0 0 1rem 0; font-size: 1rem; font-weight: 600; color: var(--color-gray-700);">"She's hostile, must be revoked immediately"</h4>
+                    <p style="color: var(--color-gray-600); font-size: 0.9rem; margin: 0 0 0.75rem 0; line-height: 1.6;">Full-page coverage of the family's legal action against the social worker. The article reports on an eight-page formal complaint submitted to the Professional Order of Social Workers by lawyers Nathan Trevallion, Catherine Birmingham, Silvia Ferrantelli, and Pamela Pace.</p>
+                    <p style="color: var(--color-gray-600); font-size: 0.9rem; margin: 0; line-height: 1.6;">The complaint alleges the social worker has been hostile and adversarial toward the family, including making phone calls between the children and grandmother unavailable, and providing inaccurate information in reports. The lawyers argue she must be immediately removed from the case.</p>
                 </div>
             </div>
         </div>
