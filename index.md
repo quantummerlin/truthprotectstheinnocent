@@ -3,12 +3,15 @@ layout: default
 title: Home
 ---
 
-<!-- Hero Section with Video Background -->
+<!-- Hero Section with Slideshow Background -->
 <section class="hero">
-    <div class="hero-video-bg">
-        <video autoplay muted loop playsinline>
-            <source src="/assets/videos/family1.MP4" type="video/mp4">
-        </video>
+    <div class="hero-slideshow">
+        <img src="/assets/images/testimonials/photo_2026-01-11_21-41-12.jpg" alt="" class="hero-slide active">
+        <img src="/assets/images/testimonials/photo_2026-01-11_21-41-19.jpg" alt="" class="hero-slide">
+        <img src="/assets/images/testimonials/photo_2026-01-11_21-41-26.jpg" alt="" class="hero-slide">
+        <img src="/assets/images/testimonials/photo_2026-01-11_21-41-33.jpg" alt="" class="hero-slide">
+        <img src="/assets/images/testimonials/photo_2026-01-11_21-41-40.jpg" alt="" class="hero-slide">
+        <img src="/assets/images/testimonials/photo_2026-01-11_21-41-48.jpg" alt="" class="hero-slide">
     </div>
     <div class="hero-overlay"></div>
     <div class="hero-content">
@@ -36,10 +39,19 @@ title: Home
             <a href="/evidence/" class="btn btn-secondary btn-lg">See The Evidence</a>
         </div>
     </div>
-    <div class="scroll-indicator">
-        <span></span>
-    </div>
 </section>
+
+<script>
+(function() {
+    const slides = document.querySelectorAll('.hero-slide');
+    let current = 0;
+    setInterval(() => {
+        slides[current].classList.remove('active');
+        current = (current + 1) % slides.length;
+        slides[current].classList.add('active');
+    }, 5000);
+})();
+</script>
 
 <!-- Breaking Alert -->
 <section class="section" style="background: #fef2f2; padding: 1.5rem 0;">
