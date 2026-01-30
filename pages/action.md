@@ -175,7 +175,7 @@ Media coverage creates public awareness and pressure on authorities to act fairl
 
 3. **"International Diplomatic Situation"** — Australian family in Italy, both embassies aware, Prime Ministers informed.
 
-4. **"Legal Homeschooling Family Targeted"** — One of 15,000+ families legally homeschooling in Italy, but only one had children removed.
+4. **"Legally Educated Children Removed"** — One of 15,000+ families using Italy's legal parental instruction framework, but only one had children removed.
 
 ### What to Include When Contacting Media:
 - Link to this website with documented evidence

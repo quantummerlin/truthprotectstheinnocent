@@ -220,7 +220,7 @@ A qualified psychologist conducted an assessment of the children following their
 ### When Writing to Officials
 Reference the specific evidence:
 - "The Assembly of Chieti and Teramo confirmed the children were vaccinated"
-- "The Ministry of Education confirmed legal homeschooling"
+- "The Ministry of Education confirmed legal parental instruction"
 - "A certified geometer confirmed structural safety"
 - "A psychological assessment documented self-harm behaviors emerging after separation"
 

@@ -140,7 +140,7 @@ A psychologist documented that children who were healthy before removal are now 
 An Australian family, Italian authorities, embassies involved, Prime Ministers informed. This local child welfare case has become an international incident.
 
 ### Angle 4: "One of 15,000 — Why This Family?"
-Over 15,000 families legally homeschool in Italy. Only one had their children removed. What makes this family different?
+Over 15,000 families use Italy's legal parental instruction framework. Only one had their children removed. What makes this family different?
 
 ---
 

@@ -30,7 +30,7 @@ According to supporters with knowledge of the case, all three primary justificat
 
 ### 2. Education Status
 **Claim:** Children were not being properly educated
-**Truth:** The Ministry of Education confirmed the children correctly followed legal parental instruction (homeschooling), like 15,000+ other children in Italy
+**Truth:** The Ministry of Education confirmed the children correctly followed legal parental instruction, like 15,000+ other children in Italy
 
 ### 3. Housing Safety
 **Claim:** The house was unsafe

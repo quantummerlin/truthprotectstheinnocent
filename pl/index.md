@@ -163,7 +163,7 @@ lang: pl
                         <h4 style="color: white;">❌ Zarzut #2: „Dzieci nieuczone”</h4>
                         <span class="evidence-badge badge-disputed">OBALONE</span>
                     </div>
-                    <p style="color: var(--color-gray-300);"><strong style="color: white;">Ministerstwo Edukacji potwierdziło legalny homeschooling.</strong></p>
+                    <p style="color: var(--color-gray-300);"><strong style="color: white;">Ministerstwo Edukacji potwierdziło legalną edukację rodzicielską.</strong></p>
                     <p class="evidence-source" style="color: var(--color-gray-500);">Ponad 15 000 dzieci we Włoszech uczy się w tym samym legalnym systemie.</p>
                 </div>
                 

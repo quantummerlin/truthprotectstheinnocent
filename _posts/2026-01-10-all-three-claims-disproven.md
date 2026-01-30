@@ -23,7 +23,7 @@ Italian authorities gave three reasons for removing the Birmingham-Trevallion ch
 
 **What authorities claimed:** The children were not receiving proper education.
 
-**What official records show:** The Ministry of Education confirmed the children **correctly followed parental instruction** (istruzione parentale) — the legal homeschooling framework in Italy.
+**What official records show:** The Ministry of Education confirmed the children **correctly followed parental instruction** (istruzione parentale) — the legal education framework in Italy.
 
 **Context:** Over 15,000 children in Italy are educated through parental instruction. It is legal under Article 30 of the Italian Constitution.
 
@@ -62,7 +62,7 @@ This is not a case of authorities making difficult judgment calls in a complex s
 When contacting officials or media, reference these specific facts:
 
 - "The Assembly of Chieti and Teramo confirmed the children were vaccinated"
-- "The Ministry of Education confirmed legal homeschooling"
+- "The Ministry of Education confirmed legal parental instruction"
 - "A certified geometer confirmed structural safety"
 
 Ask the direct question: **If all justifications are false, what is the legal basis for this separation?**

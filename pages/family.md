@@ -23,7 +23,7 @@ permalink: /family/
 
 The Birmingham-Trevallion family — Nathan, Catherine, and their three children — are Australian citizens who chose to make their home in rural Italy. They made deliberate choices about how to raise their family:
 
-- **Homeschooling** — Following Italy's legal "istruzione parentale" (parental instruction) framework, the same model used by over 15,000 families across Italy
+- **Education** — Following Italy's legal "istruzione parentale" (parental instruction) framework, the same model used by over 15,000 families across Italy
 - **Rural living** — Choosing to live in the countryside, close to nature
 - **Limited screen time** — Prioritizing outdoor activities and hands-on learning over television and devices
 - **Simple lifestyle** — Living modestly and sustainably
@@ -93,7 +93,7 @@ Authorities gave three reasons for the removal:
 <h4>❌ "The children weren't being educated"</h4>
 <span class="evidence-badge badge-disputed">FALSE</span>
 </div>
-<p>The Ministry of Education confirmed the children were correctly enrolled in <strong>parental instruction (homeschooling)</strong> — a legal educational option in Italy protected under Article 30 of the Constitution.</p>
+<p>The Ministry of Education confirmed the children were correctly enrolled in <strong>parental instruction</strong> (istruzione parentale) — a legal educational option in Italy protected under Article 30 of the Constitution.</p>
 </div>
 
 <div class="evidence-card verified">
@@ -129,7 +129,7 @@ Now, in institutional care, they are showing signs of psychological trauma direc
 This case raises serious questions:
 
 - **If all official justifications have been proven false, what is the legal basis for continued separation?**
-- **Why were these children removed when 15,000+ other homeschooling families in Italy are left alone?**
+- **Why were these children removed when 15,000+ other families using the same legal education model in Italy are left alone?**
 - **How can an intervention that is causing documented psychological harm be considered "protection"?**
 
 These are not rhetorical questions. They deserve answers.
