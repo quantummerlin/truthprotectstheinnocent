@@ -5,6 +5,50 @@ subtitle: Press materials, videos, and downloadable resources
 permalink: /media/
 ---
 
+<!-- Press Coverage Section -->
+<section class="section" style="padding-top: 0;">
+    <div class="container">
+        <div class="section-header">
+            <h2>📰 Press Coverage</h2>
+            <p>Major Italian newspapers are reporting on this case</p>
+        </div>
+        
+        <div class="press-gallery" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem;">
+            <div class="press-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-lg);">
+                <a href="/assets/images/photo_2026-01-30_21-50-16.jpg" target="_blank">
+                    <img src="/assets/images/photo_2026-01-30_21-50-16.jpg" alt="Corriere della Sera - January 30, 2026" style="width: 100%; height: auto;">
+                </a>
+                <div style="padding: 1.5rem;">
+                    <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.75rem;">
+                        <span style="background: var(--color-accent); color: white; padding: 0.25rem 0.75rem; border-radius: 1rem; font-size: 0.75rem; font-weight: 600;">NATIONAL NEWS</span>
+                        <span style="color: var(--color-gray-500); font-size: 0.875rem;">30 Jan 2026</span>
+                    </div>
+                    <h3 style="margin: 0 0 0.5rem 0; font-size: 1.1rem;">Corriere della Sera</h3>
+                    <p style="color: var(--color-gray-600); font-size: 0.9rem; margin: 0;">"Chi non si uniforma viene messo sotto tutela" — Susanna Tamaro compares the case to Vittorio Sgarbi, questioning why families who don't conform face intervention.</p>
+                </div>
+            </div>
+            
+            <div class="press-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-lg);">
+                <a href="/assets/images/photo_2026-01-30_21-49-52.jpg" target="_blank">
+                    <img src="/assets/images/photo_2026-01-30_21-49-52.jpg" alt="Il Centro - January 29, 2026" style="width: 100%; height: auto;">
+                </a>
+                <div style="padding: 1.5rem;">
+                    <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.75rem;">
+                        <span style="background: var(--color-primary); color: white; padding: 0.25rem 0.75rem; border-radius: 1rem; font-size: 0.75rem; font-weight: 600;">REGIONAL</span>
+                        <span style="color: var(--color-gray-500); font-size: 0.875rem;">29 Jan 2026</span>
+                    </div>
+                    <h3 style="margin: 0 0 0.5rem 0; font-size: 1.1rem;">Il Centro</h3>
+                    <p style="color: var(--color-gray-600); font-size: 0.9rem; margin: 0;">"È ostile, va revocata subito" — Full page coverage of the formal complaint filed against the social worker with the professional order.</p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="quote-block" style="margin-top: 2rem;">
+            "The story is now making headlines. Italy's largest newspaper has taken notice."
+        </div>
+    </div>
+</section>
+
 <!-- Video Gallery Section -->
 <section class="section" style="padding-top: 0;">
     <div class="container">

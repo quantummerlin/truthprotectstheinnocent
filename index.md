@@ -139,6 +139,38 @@ lang: en
     </div>
 </section>
 
+<!-- Media Coverage Section -->
+<section class="section">
+    <div class="container">
+        <div class="section-header">
+            <h2>📰 In The Press</h2>
+            <p>Major Italian newspapers are covering this story</p>
+        </div>
+        
+        <div class="press-gallery" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem;">
+            <a href="/assets/images/photo_2026-01-30_21-50-16.jpg" target="_blank" class="press-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-lg); text-decoration: none; transition: transform 0.3s ease;">
+                <img src="/assets/images/photo_2026-01-30_21-50-16.jpg" alt="Corriere della Sera" style="width: 100%; height: auto;">
+                <div style="padding: 1rem;">
+                    <span style="background: var(--color-accent); color: white; padding: 0.2rem 0.6rem; border-radius: 1rem; font-size: 0.7rem; font-weight: 600;">CORRIERE DELLA SERA</span>
+                    <p style="color: var(--color-gray-700); font-size: 0.85rem; margin: 0.5rem 0 0 0;">"Those who don't conform get put under guardianship"</p>
+                </div>
+            </a>
+            
+            <a href="/assets/images/photo_2026-01-30_21-49-52.jpg" target="_blank" class="press-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-lg); text-decoration: none; transition: transform 0.3s ease;">
+                <img src="/assets/images/photo_2026-01-30_21-49-52.jpg" alt="Il Centro" style="width: 100%; height: auto;">
+                <div style="padding: 1rem;">
+                    <span style="background: var(--color-primary); color: white; padding: 0.2rem 0.6rem; border-radius: 1rem; font-size: 0.7rem; font-weight: 600;">IL CENTRO</span>
+                    <p style="color: var(--color-gray-700); font-size: 0.85rem; margin: 0.5rem 0 0 0;">"She's hostile, must be revoked immediately"</p>
+                </div>
+            </a>
+        </div>
+        
+        <div class="text-center mt-2">
+            <a href="/media/" class="btn btn-outline">View All Media Coverage →</a>
+        </div>
+    </div>
+</section>
+
 <!-- The Three False Claims -->
 <section class="section section-dark">
     <div class="container">

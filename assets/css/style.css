@@ -648,6 +648,25 @@ a:hover {
     margin: 0;
 }
 
+/* Press Cards */
+.press-card {
+    display: block;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.press-card:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--shadow-2xl);
+}
+
+.press-gallery img {
+    transition: transform 0.3s ease;
+}
+
+.press-card:hover img {
+    transform: scale(1.02);
+}
+
 /* Featured Video */
 .featured-video {
     position: relative;
