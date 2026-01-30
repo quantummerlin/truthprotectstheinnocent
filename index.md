@@ -148,23 +148,23 @@ lang: en
         </div>
         
         <div class="press-gallery" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem;">
-            <a href="/assets/images/photo_2026-01-30_21-50-16.jpg" target="_blank" class="press-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-lg); text-decoration: none; transition: transform 0.3s ease;">
+            <div class="press-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-lg);">
                 <img src="/assets/images/photo_2026-01-30_21-50-16.jpg" alt="Corriere della Sera" style="width: 100%; height: auto;">
                 <div style="padding: 1rem;">
                     <span style="background: var(--color-accent); color: white; padding: 0.2rem 0.6rem; border-radius: 1rem; font-size: 0.7rem; font-weight: 600;">CORRIERE DELLA SERA</span>
                     <p style="color: var(--color-gray-700); font-weight: 600; font-size: 0.9rem; margin: 0.5rem 0 0.5rem 0;">"Those who don't conform get put under guardianship"</p>
                     <p style="color: var(--color-gray-600); font-size: 0.8rem; margin: 0; line-height: 1.4;">Author Susanna Tamaro compares the Birmingham-Trevallion case to Vittorio Sgarbi, arguing that people with talent and intelligence outside the norm face persecution. She questions why the state decides to put children under guardianship when families don't conform to bureaucratic standards.</p>
                 </div>
-            </a>
+            </div>
             
-            <a href="/assets/images/photo_2026-01-30_21-49-52.jpg" target="_blank" class="press-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-lg); text-decoration: none; transition: transform 0.3s ease;">
+            <div class="press-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-lg);">
                 <img src="/assets/images/photo_2026-01-30_21-49-52.jpg" alt="Il Centro" style="width: 100%; height: auto;">
                 <div style="padding: 1rem;">
                     <span style="background: var(--color-primary); color: white; padding: 0.2rem 0.6rem; border-radius: 1rem; font-size: 0.7rem; font-weight: 600;">IL CENTRO</span>
                     <p style="color: var(--color-gray-700); font-weight: 600; font-size: 0.9rem; margin: 0.5rem 0 0.5rem 0;">"She's hostile, must be revoked immediately"</p>
                     <p style="color: var(--color-gray-600); font-size: 0.8rem; margin: 0; line-height: 1.4;">Full-page report on the formal eight-page complaint submitted to the Professional Order of Social Workers, challenging the social worker's conduct. The family's lawyers argue the social worker is hostile and should be immediately removed from the case.</p>
                 </div>
-            </a>
+            </div>
         </div>
         
         <div class="text-center mt-2">

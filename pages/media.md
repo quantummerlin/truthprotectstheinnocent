@@ -15,9 +15,7 @@ permalink: /media/
         
         <div class="press-gallery" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem;">
             <div class="press-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-lg);">
-                <a href="/assets/images/photo_2026-01-30_21-50-16.jpg" target="_blank">
-                    <img src="/assets/images/photo_2026-01-30_21-50-16.jpg" alt="Corriere della Sera - January 30, 2026" style="width: 100%; height: auto;">
-                </a>
+                <img src="/assets/images/photo_2026-01-30_21-50-16.jpg" alt="Corriere della Sera - January 30, 2026" style="width: 100%; height: auto;">
                 <div style="padding: 1.5rem;">
                     <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.75rem;">
                         <span style="background: var(--color-accent); color: white; padding: 0.25rem 0.75rem; border-radius: 1rem; font-size: 0.75rem; font-weight: 600;">NATIONAL NEWS</span>
@@ -31,9 +29,7 @@ permalink: /media/
             </div>
             
             <div class="press-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-lg);">
-                <a href="/assets/images/photo_2026-01-30_21-49-52.jpg" target="_blank">
-                    <img src="/assets/images/photo_2026-01-30_21-49-52.jpg" alt="Il Centro - January 29, 2026" style="width: 100%; height: auto;">
-                </a>
+                <img src="/assets/images/photo_2026-01-30_21-49-52.jpg" alt="Il Centro - January 29, 2026" style="width: 100%; height: auto;">
                 <div style="padding: 1.5rem;">
                     <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.75rem;">
                         <span style="background: var(--color-primary); color: white; padding: 0.25rem 0.75rem; border-radius: 1rem; font-size: 0.75rem; font-weight: 600;">REGIONAL</span>
