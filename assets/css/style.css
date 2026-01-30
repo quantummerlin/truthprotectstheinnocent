@@ -205,6 +205,32 @@ a:hover {
     width: 100%;
 }
 
+/* Share CTA Button in Nav */
+.nav-share-btn {
+    display: inline-flex;
+    align-items: center;
+    background: linear-gradient(135deg, var(--color-accent) 0%, var(--color-accent-dark) 100%);
+    color: var(--color-white) !important;
+    padding: 0.6rem 1.25rem;
+    border-radius: var(--radius-full);
+    font-size: 0.9rem;
+    font-weight: 600;
+    margin-left: var(--spacing-lg);
+    transition: all var(--transition-base);
+    box-shadow: var(--shadow-md);
+}
+
+.nav-share-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-lg);
+    background: linear-gradient(135deg, var(--color-accent-dark) 0%, #a95818 100%);
+    color: var(--color-white) !important;
+}
+
+.nav-share-btn::after {
+    display: none !important;
+}
+
 /* Mobile Menu Toggle */
 .mobile-menu-toggle {
     display: none;
@@ -1121,6 +1147,15 @@ a:hover {
     
     .main-nav a {
         display: block;
+        padding: var(--spacing-md);
+        font-size: 1.1rem;
+    }
+    
+    .nav-share-btn {
+        display: block;
+        width: 100%;
+        text-align: center;
+        margin: var(--spacing-lg) 0 0 0;
         padding: var(--spacing-md);
         font-size: 1.1rem;
     }
