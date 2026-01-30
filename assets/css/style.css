@@ -205,6 +205,34 @@ a:hover {
     width: 100%;
 }
 
+/* Language Toggle (Header) */
+.language-toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    margin-left: var(--spacing-lg);
+    padding: 0.25rem 0.4rem;
+    background: rgba(255, 255, 255, 0.7);
+    border: 1px solid var(--color-gray-200);
+    border-radius: var(--radius-full);
+    backdrop-filter: blur(10px);
+}
+
+.language-toggle a {
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: var(--color-gray-600);
+    padding: 0.25rem 0.45rem;
+    border-radius: var(--radius-full);
+    text-transform: uppercase;
+}
+
+.language-toggle a.active,
+.language-toggle a:hover {
+    color: var(--color-primary);
+    background: rgba(30, 58, 95, 0.08);
+}
+
 /* Share CTA Button in Nav */
 .nav-share-btn {
     display: inline-flex;
@@ -1158,6 +1186,17 @@ a:hover {
         margin: var(--spacing-lg) 0 0 0;
         padding: var(--spacing-md);
         font-size: 1.1rem;
+    }
+
+    .language-toggle {
+        margin-left: var(--spacing-sm);
+        gap: 0.25rem;
+        padding: 0.2rem 0.3rem;
+    }
+
+    .language-toggle a {
+        font-size: 0.7rem;
+        padding: 0.2rem 0.35rem;
     }
     
     .hero {

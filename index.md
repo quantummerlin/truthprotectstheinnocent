@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+lang: en
 ---
 
 <!-- Hero Section with Slideshow Background -->
@@ -317,20 +318,6 @@ title: Home
         </div>
     </div>
 </section>
-
-<!-- Language Selector -->
-<div style="position: fixed; bottom: 20px; right: 20px; z-index: 1000;">
-    <div style="background: white; padding: 0.5rem; border-radius: 0.5rem; box-shadow: var(--shadow-lg);">
-        <a href="/" style="padding: 0.25rem 0.5rem; font-weight: bold;">🇬🇧</a>
-        <a href="/it/" style="padding: 0.25rem 0.5rem;">🇮🇹</a>
-        <a href="/de/" style="padding: 0.25rem 0.5rem;">🇩🇪</a>
-        <a href="/fr/" style="padding: 0.25rem 0.5rem;">🇫🇷</a>
-        <a href="/es/" style="padding: 0.25rem 0.5rem;">🇪🇸</a>
-        <a href="/pt/" style="padding: 0.25rem 0.5rem;">🇵🇹</a>
-        <a href="/ru/" style="padding: 0.25rem 0.5rem;">🇷🇺</a>
-        <a href="/pl/" style="padding: 0.25rem 0.5rem;">🇵🇱</a>
-    </div>
-</div>
 
 <style>
 /* Responsive grid fix for impact section */

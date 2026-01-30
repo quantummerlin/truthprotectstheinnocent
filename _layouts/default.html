@@ -1,5 +1,14 @@
+{% assign current_lang = page.lang | default: "en" %}
+{% assign og_locale = "en_US" %}
+{% if current_lang == "it" %}{% assign og_locale = "it_IT" %}{% endif %}
+{% if current_lang == "de" %}{% assign og_locale = "de_DE" %}{% endif %}
+{% if current_lang == "fr" %}{% assign og_locale = "fr_FR" %}{% endif %}
+{% if current_lang == "es" %}{% assign og_locale = "es_ES" %}{% endif %}
+{% if current_lang == "pt" %}{% assign og_locale = "pt_PT" %}{% endif %}
+{% if current_lang == "ru" %}{% assign og_locale = "ru_RU" %}{% endif %}
+{% if current_lang == "pl" %}{% assign og_locale = "pl_PL" %}{% endif %}
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ current_lang }}">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
@@ -23,7 +32,7 @@
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
     <meta property="og:site_name" content="{{ site.title }}">
-    <meta property="og:locale" content="en_US">
+    <meta property="og:locale" content="{{ og_locale }}">
     
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
@@ -92,6 +101,15 @@
     
     <!-- Jekyll SEO Tag -->
     {% seo %}
+    <link rel="alternate" hreflang="x-default" href="{{ site.url }}/" />
+    <link rel="alternate" hreflang="en" href="{{ site.url }}/" />
+    <link rel="alternate" hreflang="it" href="{{ site.url }}/it/" />
+    <link rel="alternate" hreflang="de" href="{{ site.url }}/de/" />
+    <link rel="alternate" hreflang="fr" href="{{ site.url }}/fr/" />
+    <link rel="alternate" hreflang="es" href="{{ site.url }}/es/" />
+    <link rel="alternate" hreflang="pt" href="{{ site.url }}/pt/" />
+    <link rel="alternate" hreflang="ru" href="{{ site.url }}/ru/" />
+    <link rel="alternate" hreflang="pl" href="{{ site.url }}/pl/" />
 </head>
 <body>
     <!-- Header -->
@@ -117,6 +135,16 @@
                     </ul>
                     <a href="/#share-now" class="nav-share-btn">Share Now</a>
                 </nav>
+                <div class="language-toggle" aria-label="Language selector">
+                    <a href="/" class="{% if current_lang == 'en' %}active{% endif %}">EN</a>
+                    <a href="/it/" class="{% if current_lang == 'it' %}active{% endif %}">IT</a>
+                    <a href="/de/" class="{% if current_lang == 'de' %}active{% endif %}">DE</a>
+                    <a href="/fr/" class="{% if current_lang == 'fr' %}active{% endif %}">FR</a>
+                    <a href="/es/" class="{% if current_lang == 'es' %}active{% endif %}">ES</a>
+                    <a href="/pt/" class="{% if current_lang == 'pt' %}active{% endif %}">PT</a>
+                    <a href="/ru/" class="{% if current_lang == 'ru' %}active{% endif %}">RU</a>
+                    <a href="/pl/" class="{% if current_lang == 'pl' %}active{% endif %}">PL</a>
+                </div>
             </div>
         </div>
     </header>
