@@ -53,15 +53,6 @@ title: Home
 })();
 </script>
 
-<!-- Breaking Alert -->
-<section class="section" style="background: #fef2f2; padding: 1.5rem 0;">
-    <div class="container">
-        <div class="alert alert-danger" style="margin: 0; text-align: center;">
-            <strong>⚠️ BREAKING:</strong> A psychologist has documented that the children are now showing <strong>self-harm behaviors</strong> — behaviors that did not exist before the separation. The intervention itself is causing documented harm.
-        </div>
-    </div>
-</section>
-
 <!-- Meet The Family - Video Section -->
 <section class="section" id="share-now">
     <div class="container">
