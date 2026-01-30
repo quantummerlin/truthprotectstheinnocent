@@ -4,12 +4,15 @@ title: Home
 lang: es
 ---
 
-<!-- Hero Section with Video Background -->
+<!-- Hero Section with Slideshow Background -->
 <section class="hero">
-    <div class="hero-video-bg">
-        <video autoplay muted loop playsinline>
-            <source src="/assets/videos/family1.MP4" type="video/mp4">
-        </video>
+    <div class="hero-slideshow">
+        <img src="/assets/images/testimonials/photo_2026-01-11_21-41-12.jpg" alt="" class="hero-slide active">
+        <img src="/assets/images/testimonials/photo_2026-01-11_21-41-19.jpg" alt="" class="hero-slide">
+        <img src="/assets/images/testimonials/photo_2026-01-11_21-41-26.jpg" alt="" class="hero-slide">
+        <img src="/assets/images/testimonials/photo_2026-01-11_21-41-33.jpg" alt="" class="hero-slide">
+        <img src="/assets/images/testimonials/photo_2026-01-11_21-41-40.jpg" alt="" class="hero-slide">
+        <img src="/assets/images/testimonials/photo_2026-01-11_21-41-48.jpg" alt="" class="hero-slide">
     </div>
     <div class="hero-overlay"></div>
     <div class="hero-content">
@@ -33,23 +36,23 @@ lang: es
         </div>
         
         <div class="hero-cta">
-            <a href="#pruebas" class="btn btn-primary btn-lg">Ver Las Pruebas</a>
-            <a href="#actuar" class="btn btn-secondary btn-lg">Actúa Ahora</a>
+            <a href="#compartir" class="btn btn-primary btn-lg">Compartir Ahora</a>
+            <a href="#pruebas" class="btn btn-secondary btn-lg">Ver Las Pruebas</a>
         </div>
-    </div>
-    <div class="scroll-indicator">
-        <span></span>
     </div>
 </section>
 
-<!-- Breaking Alert -->
-<section class="section" style="background: #fef2f2; padding: 1.5rem 0;">
-    <div class="container">
-        <div class="alert alert-danger" style="margin: 0; text-align: center;">
-            <strong>⚠️ URGENTE:</strong> Un psicólogo ha documentado que los niños ahora muestran <strong>comportamientos de autolesión</strong> — comportamientos que no existían antes de la separación. La intervención misma está causando daños documentados.
-        </div>
-    </div>
-</section>
+<script>
+(function() {
+    const slides = document.querySelectorAll('.hero-slide');
+    let current = 0;
+    setInterval(() => {
+        slides[current].classList.remove('active');
+        current = (current + 1) % slides.length;
+        slides[current].classList.add('active');
+    }, 5000);
+})();
+</script>
 
 <!-- La Verdad -->
 <section class="section" id="verdad">

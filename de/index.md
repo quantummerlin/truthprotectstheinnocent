@@ -4,12 +4,15 @@ title: Home
 lang: de
 ---
 
-<!-- Hero Section with Video Background -->
+<!-- Hero Section with Slideshow Background -->
 <section class="hero">
-    <div class="hero-video-bg">
-        <video autoplay muted loop playsinline>
-            <source src="/assets/videos/family1.MP4" type="video/mp4">
-        </video>
+    <div class="hero-slideshow">
+        <img src="/assets/images/testimonials/photo_2026-01-11_21-41-12.jpg" alt="" class="hero-slide active">
+        <img src="/assets/images/testimonials/photo_2026-01-11_21-41-19.jpg" alt="" class="hero-slide">
+        <img src="/assets/images/testimonials/photo_2026-01-11_21-41-26.jpg" alt="" class="hero-slide">
+        <img src="/assets/images/testimonials/photo_2026-01-11_21-41-33.jpg" alt="" class="hero-slide">
+        <img src="/assets/images/testimonials/photo_2026-01-11_21-41-40.jpg" alt="" class="hero-slide">
+        <img src="/assets/images/testimonials/photo_2026-01-11_21-41-48.jpg" alt="" class="hero-slide">
     </div>
     <div class="hero-overlay"></div>
     <div class="hero-content">
@@ -33,23 +36,23 @@ lang: de
         </div>
         
         <div class="hero-cta">
-            <a href="#beweise" class="btn btn-primary btn-lg">Beweise Ansehen</a>
-            <a href="#handeln" class="btn btn-secondary btn-lg">Jetzt Handeln</a>
+            <a href="#teilen" class="btn btn-primary btn-lg">Jetzt Teilen</a>
+            <a href="#beweise" class="btn btn-secondary btn-lg">Beweise Ansehen</a>
         </div>
-    </div>
-    <div class="scroll-indicator">
-        <span></span>
     </div>
 </section>
 
-<!-- Breaking Alert -->
-<section class="section" style="background: #fef2f2; padding: 1.5rem 0;">
-    <div class="container">
-        <div class="alert alert-danger" style="margin: 0; text-align: center;">
-            <strong>⚠️ EILMELDUNG:</strong> Ein Psychologe hat dokumentiert, dass die Kinder jetzt <strong>selbstverletzendes Verhalten</strong> zeigen — Verhaltensweisen, die vor der Trennung nicht existierten. Die Intervention selbst verursacht dokumentierten Schaden.
-        </div>
-    </div>
-</section>
+<script>
+(function() {
+    const slides = document.querySelectorAll('.hero-slide');
+    let current = 0;
+    setInterval(() => {
+        slides[current].classList.remove('active');
+        current = (current + 1) % slides.length;
+        slides[current].classList.add('active');
+    }, 5000);
+})();
+</script>
 
 <!-- Die Wahrheit -->
 <section class="section" id="wahrheit">
