@@ -36,8 +36,8 @@ lang: fr
         </div>
         
         <div class="hero-cta">
-            <a href="#partager" class="btn btn-primary btn-lg">Partager</a>
-            <a href="#preuves" class="btn btn-secondary btn-lg">Voir Les Preuves</a>
+            <a href="#share-now" class="btn btn-primary btn-lg">Partager</a>
+            <a href="/evidence/" class="btn btn-secondary btn-lg">Voir Les Preuves</a>
         </div>
     </div>
 </section>
@@ -184,7 +184,7 @@ lang: fr
 </section>
 
 <!-- What You Can Do -->
-<section class="section" id="agir">
+<section class="section" id="share-now">
     <div class="container">
         <div class="section-header">
             <h2>Ce Que Vous Pouvez Faire</h2>
@@ -203,7 +203,7 @@ lang: fr
                 <div class="action-icon">📢</div>
                 <h3>Partager Les Faits</h3>
                 <p>Partagez cette histoire sur les réseaux sociaux. Utilisez #TruthProtectsTheInnocent. Faites savoir aux gens ce qui se passe.</p>
-                <a href="#partager" class="btn btn-outline">Partager Maintenant</a>
+                <a href="#share-now" class="btn btn-outline">Partager Maintenant</a>
             </div>
             
             <div class="action-card">
@@ -279,8 +279,8 @@ Cordialement,
             <p style="font-size: 1.2rem; color: var(--color-gray-300); margin-bottom: 2rem;">Trois enfants sont séparés de leurs parents sur la base d'accusations prouvées fausses. Ils présentent maintenant des dommages psychologiques documentés. Ce n'est pas de la protection de l'enfance — c'est de l'injustice.</p>
             
             <div class="hero-cta">
-                <a href="#preuves" class="btn btn-primary btn-lg">Voir Les Preuves</a>
-                <a href="#agir" class="btn btn-secondary btn-lg">Agir Maintenant</a>
+                <a href="/evidence/" class="btn btn-primary btn-lg">Voir Les Preuves</a>
+                <a href="/action/" class="btn btn-secondary btn-lg">Agir Maintenant</a>
             </div>
             
             <div style="margin-top: 2rem; padding: 1.5rem; background: rgba(255,255,255,0.1); border-radius: 0.5rem;">
@@ -298,6 +298,9 @@ Cordialement,
         <a href="/de/" style="padding: 0.25rem 0.5rem;">🇩🇪</a>
         <a href="/fr/" style="padding: 0.25rem 0.5rem; font-weight: bold;">🇫🇷</a>
         <a href="/es/" style="padding: 0.25rem 0.5rem;">🇪🇸</a>
+        <a href="/pt/" style="padding: 0.25rem 0.5rem;">🇵🇹</a>
+        <a href="/ru/" style="padding: 0.25rem 0.5rem;">🇷🇺</a>
+        <a href="/pl/" style="padding: 0.25rem 0.5rem;">🇵🇱</a>
     </div>
 </div>
 

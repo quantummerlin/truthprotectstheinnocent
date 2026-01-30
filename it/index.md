@@ -36,8 +36,8 @@ lang: it
         </div>
         
         <div class="hero-cta">
-            <a href="#condividi" class="btn btn-primary btn-lg">Condividi Ora</a>
-            <a href="#prove" class="btn btn-secondary btn-lg">Vedi Le Prove</a>
+            <a href="#share-now" class="btn btn-primary btn-lg">Condividi Ora</a>
+            <a href="/evidence/" class="btn btn-secondary btn-lg">Vedi Le Prove</a>
         </div>
     </div>
 </section>
@@ -184,7 +184,7 @@ lang: it
 </section>
 
 <!-- What You Can Do -->
-<section class="section" id="azione">
+<section class="section" id="share-now">
     <div class="container">
         <div class="section-header">
             <h2>Cosa Puoi Fare</h2>
@@ -203,7 +203,7 @@ lang: it
                 <div class="action-icon">📢</div>
                 <h3>Condividi i Fatti</h3>
                 <p>Condividi questa storia sui social media. Usa #TruthProtectsTheInnocent. Fai sapere alle persone cosa sta succedendo.</p>
-                <a href="#condividi" class="btn btn-outline">Condividi Ora</a>
+                <a href="#share-now" class="btn btn-outline">Condividi Ora</a>
             </div>
             
             <div class="action-card">
@@ -281,8 +281,8 @@ Distinti saluti,
             <p style="font-size: 1.2rem; color: var(--color-gray-300); margin-bottom: 2rem;">Tre bambini sono separati dai loro genitori sulla base di accuse dimostrate false. Ora mostrano danni psicologici documentati. Questa non è protezione dell'infanzia — questa è ingiustizia.</p>
             
             <div class="hero-cta">
-                <a href="#prove" class="btn btn-primary btn-lg">Vedi Le Prove</a>
-                <a href="#azione" class="btn btn-secondary btn-lg">Agisci Ora</a>
+                <a href="/evidence/" class="btn btn-primary btn-lg">Vedi Le Prove</a>
+                <a href="/action/" class="btn btn-secondary btn-lg">Agisci Ora</a>
             </div>
             
             <div style="margin-top: 2rem; padding: 1.5rem; background: rgba(255,255,255,0.1); border-radius: 0.5rem;">
@@ -300,6 +300,9 @@ Distinti saluti,
         <a href="/de/" style="padding: 0.25rem 0.5rem;">🇩🇪</a>
         <a href="/fr/" style="padding: 0.25rem 0.5rem;">🇫🇷</a>
         <a href="/es/" style="padding: 0.25rem 0.5rem;">🇪🇸</a>
+        <a href="/pt/" style="padding: 0.25rem 0.5rem;">🇵🇹</a>
+        <a href="/ru/" style="padding: 0.25rem 0.5rem;">🇷🇺</a>
+        <a href="/pl/" style="padding: 0.25rem 0.5rem;">🇵🇱</a>
     </div>
 </div>
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+lang: pt
 ---
 
 <!-- Hero Section with Slideshow Background -->
@@ -15,28 +16,28 @@ title: Home
     </div>
     <div class="hero-overlay"></div>
     <div class="hero-content">
-        <span class="hero-badge">⚠️ Urgent: Family Separated</span>
-        <h1>Truth Protects The Innocent</h1>
-        <p class="lead">Three children removed from their loving parents in Italy. Three official justifications given. All three proven false by official sources.</p>
+        <span class="hero-badge">⚠️ Urgente: Família Separada</span>
+        <h1>A Verdade Protege Os Inocentes</h1>
+        <p class="lead">Três crianças removidas dos seus pais amorosos na Itália. Três justificativas oficiais. Todas as três comprovadamente falsas por fontes oficiais.</p>
         
         <div class="hero-stats">
             <div class="hero-stat">
                 <span class="hero-stat-number">3</span>
-                <span class="hero-stat-label">Children Separated</span>
+                <span class="hero-stat-label">Crianças Separadas</span>
             </div>
             <div class="hero-stat">
                 <span class="hero-stat-number">3</span>
-                <span class="hero-stat-label">False Claims</span>
+                <span class="hero-stat-label">Acusações Falsas</span>
             </div>
             <div class="hero-stat">
                 <span class="hero-stat-number">0</span>
-                <span class="hero-stat-label">Valid Reasons</span>
+                <span class="hero-stat-label">Razões Válidas</span>
             </div>
         </div>
         
         <div class="hero-cta">
-            <a href="#share-now" class="btn btn-primary btn-lg">Share This Now</a>
-            <a href="/evidence/" class="btn btn-secondary btn-lg">See The Evidence</a>
+            <a href="#share-now" class="btn btn-primary btn-lg">Compartilhar Agora</a>
+            <a href="/evidence/" class="btn btn-secondary btn-lg">Ver As Provas</a>
         </div>
     </div>
 </section>
@@ -57,48 +58,48 @@ title: Home
 <section class="section">
     <div class="container">
         <div class="section-header">
-            <h2>Meet The Family</h2>
-            <p>These are the children at the center of this case — healthy, happy, and thriving before they were taken</p>
+            <h2>Conheça A Família</h2>
+            <p>Estas são as crianças no centro deste caso — saudáveis, felizes e prosperando antes de serem levadas</p>
         </div>
         
         <div class="video-gallery">
             <div class="video-card">
                 <video controls playsinline preload="metadata">
                     <source src="/assets/videos/family1.MP4" type="video/mp4">
-                    Your browser does not support the video tag.
+                    Seu navegador não suporta o elemento de vídeo.
                 </video>
                 <div class="video-card-overlay">
-                    <div class="video-card-title">Life Before Separation</div>
-                    <p class="video-card-desc">Happy children living close to nature</p>
+                    <div class="video-card-title">Vida Antes da Separação</div>
+                    <p class="video-card-desc">Crianças felizes vivendo junto à natureza</p>
                 </div>
             </div>
             
             <div class="video-card">
                 <video controls playsinline preload="metadata">
                     <source src="/assets/videos/family2.MOV" type="video/mp4">
-                    Your browser does not support the video tag.
+                    Seu navegador não suporta o elemento de vídeo.
                 </video>
                 <div class="video-card-overlay">
-                    <div class="video-card-title">A Loving Family</div>
-                    <p class="video-card-desc">The bond that authorities are breaking</p>
+                    <div class="video-card-title">Uma Família Amorosa</div>
+                    <p class="video-card-desc">O vínculo que as autoridades estão quebrando</p>
                 </div>
             </div>
             
             <div class="video-card">
                 <video controls playsinline preload="metadata">
                     <source src="/assets/videos/family3.MP4" type="video/mp4">
-                    Your browser does not support the video tag.
+                    Seu navegador não suporta o elemento de vídeo.
                 </video>
                 <div class="video-card-overlay">
-                    <div class="video-card-title">Childhood Joy</div>
-                    <p class="video-card-desc">What these children have lost</p>
+                    <div class="video-card-title">Alegria da Infância</div>
+                    <p class="video-card-desc">O que essas crianças perderam</p>
                 </div>
             </div>
         </div>
         
         <div class="quote-block" style="margin-top: 3rem;">
-            "These children were healthy, happy, and thriving. Now they're showing signs of trauma caused by the very intervention that was supposed to 'protect' them."
-            <cite>— From psychological assessment findings</cite>
+            "Estas crianças eram saudáveis, felizes e prosperavam. Agora mostram sinais de trauma causados pela própria intervenção que deveria 'protegê-las'."
+            <cite>— De conclusões da avaliação psicológica</cite>
         </div>
     </div>
 </section>
@@ -107,33 +108,33 @@ title: Home
 <section class="section" style="background: var(--color-gray-50);">
     <div class="container">
         <div class="section-header">
-            <h2>What People Say About This Family</h2>
-            <p>Testimonials from people who know the Birmingham-Trevallion family</p>
+            <h2>O Que As Pessoas Dizem Sobre Esta Família</h2>
+            <p>Depoimentos de pessoas que conhecem a família Birmingham-Trevallion</p>
         </div>
         
         <div class="testimonial-gallery" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem;">
             <div class="testimonial-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-md);">
-                <img src="/assets/images/testimonials/photo_2026-01-11_21-41-12.jpg" alt="Testimonial" style="width: 100%; height: auto;">
+                <img src="/assets/images/testimonials/photo_2026-01-11_21-41-12.jpg" alt="Depoimento" style="width: 100%; height: auto;">
             </div>
             <div class="testimonial-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-md);">
-                <img src="/assets/images/testimonials/photo_2026-01-11_21-41-16.jpg" alt="Testimonial" style="width: 100%; height: auto;">
+                <img src="/assets/images/testimonials/photo_2026-01-11_21-41-16.jpg" alt="Depoimento" style="width: 100%; height: auto;">
             </div>
             <div class="testimonial-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-md);">
-                <img src="/assets/images/testimonials/photo_2026-01-11_21-41-19.jpg" alt="Testimonial" style="width: 100%; height: auto;">
+                <img src="/assets/images/testimonials/photo_2026-01-11_21-41-19.jpg" alt="Depoimento" style="width: 100%; height: auto;">
             </div>
             <div class="testimonial-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-md);">
-                <img src="/assets/images/testimonials/photo_2026-01-11_21-41-21.jpg" alt="Testimonial" style="width: 100%; height: auto;">
+                <img src="/assets/images/testimonials/photo_2026-01-11_21-41-21.jpg" alt="Depoimento" style="width: 100%; height: auto;">
             </div>
             <div class="testimonial-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-md);">
-                <img src="/assets/images/testimonials/photo_2026-01-11_21-41-26.jpg" alt="Testimonial" style="width: 100%; height: auto;">
+                <img src="/assets/images/testimonials/photo_2026-01-11_21-41-26.jpg" alt="Depoimento" style="width: 100%; height: auto;">
             </div>
             <div class="testimonial-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-md);">
-                <img src="/assets/images/testimonials/photo_2026-01-11_21-41-28.jpg" alt="Testimonial" style="width: 100%; height: auto;">
+                <img src="/assets/images/testimonials/photo_2026-01-11_21-41-28.jpg" alt="Depoimento" style="width: 100%; height: auto;">
             </div>
         </div>
         
         <div class="text-center mt-2">
-            <p style="color: var(--color-gray-600); font-style: italic;">These are real messages from people who know the family personally.</p>
+            <p style="color: var(--color-gray-600); font-style: italic;">Estas são mensagens reais de pessoas que conhecem a família pessoalmente.</p>
         </div>
     </div>
 </section>
@@ -142,47 +143,47 @@ title: Home
 <section class="section section-dark">
     <div class="container">
         <div class="section-header">
-            <h2>The Three False Claims</h2>
-            <p style="color: var(--color-gray-400);">Each official justification has been disproven by Italian authorities themselves</p>
+            <h2>As Três Alegações Falsas</h2>
+            <p style="color: var(--color-gray-400);">Cada justificativa oficial foi refutada pelas próprias autoridades italianas</p>
         </div>
         
         <div class="container-narrow">
             <div class="evidence-grid">
                 <div class="evidence-card verified" style="background: rgba(255,255,255,0.05); border-left-color: #ef4444;">
                     <div class="evidence-header">
-                        <h4 style="color: white;">❌ Claim #1: "Children not vaccinated"</h4>
-                        <span class="evidence-badge badge-disputed">DISPROVEN</span>
+                        <h4 style="color: white;">❌ Alegação #1: "Crianças não vacinadas"</h4>
+                        <span class="evidence-badge badge-disputed">DESMENTIDO</span>
                     </div>
-                    <p style="color: var(--color-gray-300);"><strong style="color: white;">The Assembly of Chieti and Teramo confirmed the children were vaccinated.</strong></p>
-                    <p class="evidence-source" style="color: var(--color-gray-500);">Source: Official regional health authority records</p>
+                    <p style="color: var(--color-gray-300);"><strong style="color: white;">A Assembleia de Chieti e Teramo confirmou que as crianças estavam vacinadas.</strong></p>
+                    <p class="evidence-source" style="color: var(--color-gray-500);">Fonte: registros oficiais da autoridade regional de saúde</p>
                 </div>
                 
                 <div class="evidence-card verified" style="background: rgba(255,255,255,0.05); border-left-color: #ef4444;">
                     <div class="evidence-header">
-                        <h4 style="color: white;">❌ Claim #2: "Children not educated"</h4>
-                        <span class="evidence-badge badge-disputed">DISPROVEN</span>
+                        <h4 style="color: white;">❌ Alegação #2: "Crianças não educadas"</h4>
+                        <span class="evidence-badge badge-disputed">DESMENTIDO</span>
                     </div>
-                    <p style="color: var(--color-gray-300);"><strong style="color: white;">The Ministry of Education confirmed the children were legally homeschooled.</strong></p>
-                    <p class="evidence-source" style="color: var(--color-gray-500);">Over 15,000 children in Italy follow the same legal program.</p>
+                    <p style="color: var(--color-gray-300);"><strong style="color: white;">O Ministério da Educação confirmou que as crianças foram educadas em casa legalmente.</strong></p>
+                    <p class="evidence-source" style="color: var(--color-gray-500);">Mais de 15.000 crianças na Itália seguem o mesmo programa legal.</p>
                 </div>
                 
                 <div class="evidence-card verified" style="background: rgba(255,255,255,0.05); border-left-color: #ef4444;">
                     <div class="evidence-header">
-                        <h4 style="color: white;">❌ Claim #3: "House unsafe"</h4>
-                        <span class="evidence-badge badge-disputed">DISPROVEN</span>
+                        <h4 style="color: white;">❌ Alegação #3: "Casa insegura"</h4>
+                        <span class="evidence-badge badge-disputed">DESMENTIDO</span>
                     </div>
-                    <p style="color: var(--color-gray-300);"><strong style="color: white;">A certified geometer confirmed the structure is not at risk.</strong></p>
-                    <p class="evidence-source" style="color: var(--color-gray-500);">Source: Professional structural assessment</p>
+                    <p style="color: var(--color-gray-300);"><strong style="color: white;">Um geômetra certificado confirmou que a estrutura não está em risco.</strong></p>
+                    <p class="evidence-source" style="color: var(--color-gray-500);">Fonte: avaliação profissional da estrutura</p>
                 </div>
             </div>
             
             <div class="alert alert-warning" style="margin-top: 2rem; background: rgba(245, 158, 11, 0.1); border-color: rgba(245, 158, 11, 0.3);">
-                <strong style="color: #fbbf24;">The Question Nobody Can Answer:</strong> 
-                <span style="color: var(--color-gray-300);">If all three official justifications have been proven false, on what legal basis do these children remain separated from their parents?</span>
+                <strong style="color: #fbbf24;">A Pergunta Que Ninguém Consegue Responder:</strong> 
+                <span style="color: var(--color-gray-300);">Se todas as três justificativas oficiais foram comprovadamente falsas, com que base legal essas crianças continuam separadas de seus pais?</span>
             </div>
             
             <div class="text-center mt-2">
-                <a href="/evidence/" class="btn btn-primary">View Complete Evidence →</a>
+                <a href="/evidence/" class="btn btn-primary">Ver Todas As Provas →</a>
             </div>
         </div>
     </div>
@@ -194,17 +195,17 @@ title: Home
         <div class="impact-content">
             <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 3rem; align-items: center;">
                 <div>
-                    <h2 style="color: white;">The Documented Harm</h2>
-                    <p style="color: var(--color-gray-300); font-size: 1.1rem;">A qualified psychologist conducted an assessment of the children after their removal. The findings were significant enough that the psychologist held a formal press conference.</p>
+                    <h2 style="color: white;">O Dano Documentado</h2>
+                    <p style="color: var(--color-gray-300); font-size: 1.1rem;">Um psicólogo qualificado realizou uma avaliação das crianças após a remoção. As conclusões foram significativas a ponto de o psicólogo realizar uma coletiva de imprensa formal.</p>
                     
                     <div style="background: rgba(220, 38, 38, 0.2); border-left: 4px solid #dc2626; padding: 1.5rem; border-radius: 0.5rem; margin: 1.5rem 0;">
-                        <h4 style="color: #fca5a5; margin-bottom: 0.5rem;">Key Finding:</h4>
-                        <p style="color: white; font-size: 1.1rem; margin: 0;">The children are now exhibiting <strong>self-harm behaviors</strong> that <strong>did not exist before the separation</strong>.</p>
+                        <h4 style="color: #fca5a5; margin-bottom: 0.5rem;">Conclusão Principal:</h4>
+                        <p style="color: white; font-size: 1.1rem; margin: 0;">As crianças agora apresentam <strong>comportamentos de autolesão</strong> que <strong>não existiam antes da separação</strong>.</p>
                     </div>
                     
-                    <p style="color: var(--color-gray-300);">Before the removal, these children were described as healthy, happy, and thriving. They lived outdoors, learned from nature, and had limited screen time.</p>
+                    <p style="color: var(--color-gray-300);">Antes da remoção, estas crianças eram descritas como saudáveis, felizes e prosperando. Viviam ao ar livre, aprendiam com a natureza e tinham pouco tempo de tela.</p>
                     
-                    <p style="color: var(--color-gray-300);"><strong style="color: white;">The "protection" is causing the harm.</strong></p>
+                    <p style="color: var(--color-gray-300);"><strong style="color: white;">A "proteção" está causando o dano.</strong></p>
                 </div>
                 <div class="impact-video">
                     <video controls style="border-radius: 1rem;">
@@ -220,52 +221,52 @@ title: Home
 <section class="section" id="share-now">
     <div class="container">
         <div class="section-header">
-            <h2>Want To Do Something Right Now?</h2>
-            <p>You don't need to donate. You don't need to sign up for anything.</p>
+            <h2>Quer Fazer Algo Agora?</h2>
+            <p>Você não precisa doar. Não precisa se cadastrar em nada.</p>
         </div>
         
         <!-- The One Thing CTA - Chase Hughes style -->
         <div style="background: linear-gradient(135deg, #1e3a5f, #2d5a8a); border-radius: 1.5rem; padding: 3rem; text-align: center; max-width: 800px; margin: 0 auto;">
-            <h3 style="color: #f59e0b; font-size: 1.5rem; margin-bottom: 1rem;">We don't need your money. We don't need your data.</h3>
-            <h2 style="color: white; font-size: 2rem; margin-bottom: 1.5rem;">We just need you to share this link.</h2>
+            <h3 style="color: #f59e0b; font-size: 1.5rem; margin-bottom: 1rem;">Não precisamos do seu dinheiro. Não precisamos dos seus dados.</h3>
+            <h2 style="color: white; font-size: 2rem; margin-bottom: 1.5rem;">Só precisamos que você compartilhe este link.</h2>
             
-            <p style="color: var(--color-gray-300); font-size: 1.2rem; margin-bottom: 1.5rem;">One share to the right person could change everything. A journalist. An official. Someone who knows someone.</p>
+            <p style="color: var(--color-gray-300); font-size: 1.2rem; margin-bottom: 1.5rem;">Um compartilhamento para a pessoa certa pode mudar tudo. Um jornalista. Uma autoridade. Alguém que conhece alguém.</p>
             
-            <p style="color: white; font-size: 1.1rem; margin-bottom: 2rem;"><strong>Sharing this with five people you trust is worth more than any donation we could ask for.</strong></p>
+            <p style="color: white; font-size: 1.1rem; margin-bottom: 2rem;"><strong>Compartilhar isso com cinco pessoas de confiança vale mais do que qualquer doação que poderíamos pedir.</strong></p>
             
             <div style="background: rgba(255,255,255,0.1); border-radius: 0.5rem; padding: 1rem; margin-bottom: 1.5rem;">
                 <code style="color: #f59e0b; font-size: 1.1rem; word-break: break-all;">truthprotectstheinnocent.quantummerlin.com</code>
             </div>
             
             <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
-                <button onclick="navigator.clipboard.writeText('truthprotectstheinnocent.quantummerlin.com').then(()=>this.textContent='✓ Copied!')" class="btn btn-primary btn-lg" style="background: white; color: var(--color-primary); min-width: 200px;">📋 Copy Link</button>
+                <button onclick="navigator.clipboard.writeText('truthprotectstheinnocent.quantummerlin.com').then(()=>this.textContent='✓ Copiado!')" class="btn btn-primary btn-lg" style="background: white; color: var(--color-primary); min-width: 200px;">📋 Copiar Link</button>
                 <a href="https://wa.me/?text=Three%20children%20separated%20from%20loving%20parents.%20Three%20official%20reasons.%20All%20three%20proven%20false.%20truthprotectstheinnocent.quantummerlin.com" class="btn btn-lg" style="background: #25D366; color: white;">💬 WhatsApp</a>
             </div>
             
-            <p style="color: var(--color-gray-400); font-size: 0.9rem; margin-top: 2rem; margin-bottom: 0;">Think of 5 people who would care about this. Send it now, before you forget.</p>
+            <p style="color: var(--color-gray-400); font-size: 0.9rem; margin-top: 2rem; margin-bottom: 0;">Pense em 5 pessoas que se importariam com isso. Envie agora, antes de esquecer.</p>
         </div>
         
         <!-- Secondary Actions -->
         <div class="action-grid" style="margin-top: 3rem;">
             <div class="action-card">
                 <div class="action-icon">📧</div>
-                <h3>Email Officials</h3>
-                <p>Ready to do more? Send a letter directly to Italian parliamentary officials.</p>
-                <a href="/action/#email" class="btn btn-outline">Get The Letter</a>
+                <h3>Enviar Email às Autoridades</h3>
+                <p>Pronto para fazer mais? Envie uma carta diretamente às autoridades parlamentares italianas.</p>
+                <a href="/action/#email" class="btn btn-outline">Obter a Carta</a>
             </div>
             
             <div class="action-card">
                 <div class="action-icon">📢</div>
-                <h3>Social Media</h3>
-                <p>Share on your platforms with ready-made posts and #TruthProtectsTheInnocent</p>
-                <a href="/action/#share" class="btn btn-outline">Share Templates</a>
+                <h3>Redes Sociais</h3>
+                <p>Compartilhe nas suas plataformas com posts prontos e #TruthProtectsTheInnocent</p>
+                <a href="/action/#share" class="btn btn-outline">Modelos de Compartilhamento</a>
             </div>
             
             <div class="action-card">
                 <div class="action-icon">📰</div>
-                <h3>Contact Media</h3>
-                <p>Know a journalist? This story deserves coverage. Pass it on.</p>
-                <a href="/action/#media" class="btn btn-outline">Media Resources</a>
+                <h3>Contatar a Imprensa</h3>
+                <p>Conhece um jornalista? Esta história merece cobertura. Repasse.</p>
+                <a href="/action/#media" class="btn btn-outline">Recursos de Mídia</a>
             </div>
         </div>
     </div>
@@ -276,27 +277,27 @@ title: Home
     <div class="container">
         <div class="container-narrow">
             <div class="section-header">
-                <h2>International Attention</h2>
-                <p>This case has attracted attention at the highest levels</p>
+                <h2>Atenção Internacional</h2>
+                <p>Este caso atraiu atenção nos níveis mais altos</p>
             </div>
             
             <div class="stats-grid" style="margin-bottom: 2rem;">
                 <div class="stat-card" style="background: white; box-shadow: var(--shadow-md);">
                     <div class="stat-number" style="color: var(--color-primary);">🇦🇺</div>
-                    <div class="stat-label" style="color: var(--color-gray-600);">Australian Embassy Aware</div>
+                    <div class="stat-label" style="color: var(--color-gray-600);">Embaixada da Austrália Ciente</div>
                 </div>
                 <div class="stat-card" style="background: white; box-shadow: var(--shadow-md);">
                     <div class="stat-number" style="color: var(--color-primary);">🇮🇹</div>
-                    <div class="stat-label" style="color: var(--color-gray-600);">Italian Officials Contacted</div>
+                    <div class="stat-label" style="color: var(--color-gray-600);">Autoridades Italianas Contatadas</div>
                 </div>
                 <div class="stat-card" style="background: white; box-shadow: var(--shadow-md);">
                     <div class="stat-number" style="color: var(--color-primary);">🌍</div>
-                    <div class="stat-label" style="color: var(--color-gray-600);">Worldwide Support Growing</div>
+                    <div class="stat-label" style="color: var(--color-gray-600);">Apoio Mundial Crescendo</div>
                 </div>
             </div>
             
-            <p class="text-center" style="font-size: 1.1rem;">The family cannot speak publicly while legal proceedings are ongoing. <strong>But we can.</strong></p>
-            <p class="text-center">Public pressure and international attention are essential to ensuring this case receives fair treatment.</p>
+            <p class="text-center" style="font-size: 1.1rem;">A família não pode falar publicamente enquanto os processos legais estão em andamento. <strong>Mas nós podemos.</strong></p>
+            <p class="text-center">A pressão pública e a atenção internacional são essenciais para garantir que este caso receba tratamento justo.</p>
         </div>
     </div>
 </section>
@@ -305,15 +306,15 @@ title: Home
 <section class="section section-dark" style="text-align: center;">
     <div class="container">
         <div class="container-narrow">
-            <h2>The Truth Must Be Told</h2>
-            <p style="font-size: 1.2rem; color: var(--color-gray-300); margin-bottom: 2rem;">Three children are separated from their parents based on claims that have been proven false. They are now showing documented psychological harm. This is not child protection — this is injustice.</p>
+            <h2>A Verdade Precisa Ser Contada</h2>
+            <p style="font-size: 1.2rem; color: var(--color-gray-300); margin-bottom: 2rem;">Três crianças estão separadas de seus pais com base em alegações que foram comprovadamente falsas. Agora apresentam danos psicológicos documentados. Isto não é proteção infantil — é injustiça.</p>
             
             <div class="hero-cta">
-                <a href="/evidence/" class="btn btn-primary btn-lg">See The Evidence</a>
-                <a href="/action/" class="btn btn-secondary btn-lg">Take Action Now</a>
+                <a href="/evidence/" class="btn btn-primary btn-lg">Ver As Provas</a>
+                <a href="/action/" class="btn btn-secondary btn-lg">Agir Agora</a>
             </div>
             
-            <p style="margin-top: 2rem; color: var(--color-gray-500);">Bookmark this site for updates. Share it with others who believe in justice.</p>
+            <p style="margin-top: 2rem; color: var(--color-gray-500);">Salve este site para atualizações. Compartilhe com outras pessoas que acreditam na justiça.</p>
         </div>
     </div>
 </section>
@@ -321,19 +322,18 @@ title: Home
 <!-- Language Selector -->
 <div style="position: fixed; bottom: 20px; right: 20px; z-index: 1000;">
     <div style="background: white; padding: 0.5rem; border-radius: 0.5rem; box-shadow: var(--shadow-lg);">
-        <a href="/" style="padding: 0.25rem 0.5rem; font-weight: bold;">🇬🇧</a>
+        <a href="/" style="padding: 0.25rem 0.5rem;">🇬🇧</a>
         <a href="/it/" style="padding: 0.25rem 0.5rem;">🇮🇹</a>
         <a href="/de/" style="padding: 0.25rem 0.5rem;">🇩🇪</a>
         <a href="/fr/" style="padding: 0.25rem 0.5rem;">🇫🇷</a>
         <a href="/es/" style="padding: 0.25rem 0.5rem;">🇪🇸</a>
-        <a href="/pt/" style="padding: 0.25rem 0.5rem;">🇵🇹</a>
+        <a href="/pt/" style="padding: 0.25rem 0.5rem; font-weight: bold;">🇵🇹</a>
         <a href="/ru/" style="padding: 0.25rem 0.5rem;">🇷🇺</a>
         <a href="/pl/" style="padding: 0.25rem 0.5rem;">🇵🇱</a>
     </div>
 </div>
 
 <style>
-/* Responsive grid fix for impact section */
 @media (max-width: 900px) {
     .impact-section [style*="grid-template-columns: 1fr 1fr"] {
         grid-template-columns: 1fr !important;
