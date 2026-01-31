@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Frequently Asked Questions
+subtitle: Complete context for media coverage questions
 description: Complete, factual answers to questions raised by media coverage of the Birmingham-Trevallion case.
+permalink: /faq/
 lang: en
 ---
 
