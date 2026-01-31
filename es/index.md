@@ -271,6 +271,57 @@ Atentamente,
     </div>
 </section>
 
+<!-- FAQ Teaser -->
+<section class="section">
+    <div class="container">
+        <div class="container-narrow">
+            <div class="section-header">
+                <span class="hero-badge" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; margin-bottom: 1rem;">Contexto Completo</span>
+                <h2>¿Preguntas Sobre La Cobertura Mediática?</h2>
+                <p>Algunos reportajes han sido incompletos o sacados de contexto. Obtén la historia completa.</p>
+            </div>
+            
+            <div style="background: linear-gradient(135deg, #f8fafc, #f1f5f9); border-radius: 1.5rem; padding: 2.5rem; margin: 2rem 0; box-shadow: var(--shadow-lg);">
+                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin-bottom: 2rem;">
+                    <div style="display: flex; gap: 1rem; align-items: flex-start;">
+                        <div style="background: rgba(239, 68, 68, 0.1); color: #dc2626; width: 48px; height: 48px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 1.25rem; flex-shrink: 0;">X</div>
+                        <div>
+                            <strong style="color: var(--color-gray-700);">"Sin baño = negligencia"</strong>
+                            <p style="color: var(--color-gray-600); font-size: 0.9rem; margin: 0.25rem 0 0 0;">Realidad: Los baños de compostaje son legales en todo el mundo. Baño completo ahora instalado.</p>
+                        </div>
+                    </div>
+                    <div style="display: flex; gap: 1rem; align-items: flex-start;">
+                        <div style="background: rgba(239, 68, 68, 0.1); color: #dc2626; width: 48px; height: 48px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 1.25rem; flex-shrink: 0;">X</div>
+                        <div>
+                            <strong style="color: var(--color-gray-700);">"Niños sin educación"</strong>
+                            <p style="color: var(--color-gray-600); font-size: 0.9rem; margin: 0.25rem 0 0 0;">Realidad: Educación Steiner legal, confirmada por el Ministerio de Educación.</p>
+                        </div>
+                    </div>
+                    <div style="display: flex; gap: 1rem; align-items: flex-start;">
+                        <div style="background: rgba(239, 68, 68, 0.1); color: #dc2626; width: 48px; height: 48px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 1.25rem; flex-shrink: 0;">X</div>
+                        <div>
+                            <strong style="color: var(--color-gray-700);">"Estilo de vida extremo"</strong>
+                            <p style="color: var(--color-gray-600); font-size: 0.9rem; margin: 0.25rem 0 0 0;">Realidad: Opciones sostenibles basadas en valores, cada vez más comunes en el mundo.</p>
+                        </div>
+                    </div>
+                    <div style="display: flex; gap: 1rem; align-items: flex-start;">
+                        <div style="background: rgba(239, 68, 68, 0.1); color: #dc2626; width: 48px; height: 48px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 1.25rem; flex-shrink: 0;">X</div>
+                        <div>
+                            <strong style="color: var(--color-gray-700);">"Padres no calificados"</strong>
+                            <p style="color: var(--color-gray-600); font-size: 0.9rem; margin: 0.25rem 0 0 0;">Realidad: Ambos con formación profesional. Evaluaciones confirman alta capacidad.</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div style="text-align: center; padding-top: 1rem; border-top: 1px solid rgba(0,0,0,0.1);">
+                    <p style="color: var(--color-gray-600); margin-bottom: 1rem;">La cobertura mediática suele ser incompleta. Obtén información completa y factual.</p>
+                    <a href="/faq/" class="btn btn-primary btn-lg">Leer FAQ Completa →</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 <!-- Final CTA -->
 <section class="section section-dark" style="text-align: center;">
     <div class="container">

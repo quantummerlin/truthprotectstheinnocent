@@ -271,6 +271,57 @@ Mit freundlichen Grüßen,
     </div>
 </section>
 
+<!-- FAQ Teaser -->
+<section class="section">
+    <div class="container">
+        <div class="container-narrow">
+            <div class="section-header">
+                <span class="hero-badge" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; margin-bottom: 1rem;">Vollständiger Kontext</span>
+                <h2>Fragen Zur Medienberichterstattung?</h2>
+                <p>Einige Berichte waren unvollständig oder aus dem Kontext gerissen. Erfahren Sie die ganze Geschichte.</p>
+            </div>
+            
+            <div style="background: linear-gradient(135deg, #f8fafc, #f1f5f9); border-radius: 1.5rem; padding: 2.5rem; margin: 2rem 0; box-shadow: var(--shadow-lg);">
+                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin-bottom: 2rem;">
+                    <div style="display: flex; gap: 1rem; align-items: flex-start;">
+                        <div style="background: rgba(239, 68, 68, 0.1); color: #dc2626; width: 48px; height: 48px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 1.25rem; flex-shrink: 0;">X</div>
+                        <div>
+                            <strong style="color: var(--color-gray-700);">"Kein Bad = Vernachlässigung"</strong>
+                            <p style="color: var(--color-gray-600); font-size: 0.9rem; margin: 0.25rem 0 0 0;">Realität: Komposttoiletten sind weltweit legal. Vollbad jetzt installiert.</p>
+                        </div>
+                    </div>
+                    <div style="display: flex; gap: 1rem; align-items: flex-start;">
+                        <div style="background: rgba(239, 68, 68, 0.1); color: #dc2626; width: 48px; height: 48px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 1.25rem; flex-shrink: 0;">X</div>
+                        <div>
+                            <strong style="color: var(--color-gray-700);">"Kinder nicht gebildet"</strong>
+                            <p style="color: var(--color-gray-600); font-size: 0.9rem; margin: 0.25rem 0 0 0;">Realität: Legale Steiner-Bildung, vom Bildungsministerium bestätigt.</p>
+                        </div>
+                    </div>
+                    <div style="display: flex; gap: 1rem; align-items: flex-start;">
+                        <div style="background: rgba(239, 68, 68, 0.1); color: #dc2626; width: 48px; height: 48px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 1.25rem; flex-shrink: 0;">X</div>
+                        <div>
+                            <strong style="color: var(--color-gray-700);">"Extremer Lebensstil"</strong>
+                            <p style="color: var(--color-gray-600); font-size: 0.9rem; margin: 0.25rem 0 0 0;">Realität: Wertebasierte nachhaltige Lebensweise, weltweit zunehmend verbreitet.</p>
+                        </div>
+                    </div>
+                    <div style="display: flex; gap: 1rem; align-items: flex-start;">
+                        <div style="background: rgba(239, 68, 68, 0.1); color: #dc2626; width: 48px; height: 48px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 1.25rem; flex-shrink: 0;">X</div>
+                        <div>
+                            <strong style="color: var(--color-gray-700);">"Unqualifizierte Eltern"</strong>
+                            <p style="color: var(--color-gray-600); font-size: 0.9rem; margin: 0.25rem 0 0 0;">Realität: Beide beruflich ausgebildet. Bewertungen bestätigen hohe Kompetenz.</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div style="text-align: center; padding-top: 1rem; border-top: 1px solid rgba(0,0,0,0.1);">
+                    <p style="color: var(--color-gray-600); margin-bottom: 1rem;">Medienberichte sind oft unvollständig. Erhalten Sie vollständige, sachliche Informationen.</p>
+                    <a href="/faq/" class="btn btn-primary btn-lg">Vollständige FAQ Lesen →</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 <!-- Final CTA -->
 <section class="section section-dark" style="text-align: center;">
     <div class="container">
