@@ -75,5 +75,7 @@ navigation:
     url: /updates/
   - title: Media
     url: /media/
+  - title: FAQ
+    url: /faq/
   - title: About
     url: /about/

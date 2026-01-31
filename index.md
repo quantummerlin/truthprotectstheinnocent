@@ -306,6 +306,57 @@ lang: en
     </div>
 </section>
 
+<!-- FAQ Teaser - Addressing Media Misrepresentations -->
+<section class="section">
+    <div class="container">
+        <div class="container-narrow">
+            <div class="section-header">
+                <span class="hero-badge" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b; margin-bottom: 1rem;">📋 Complete Context</span>
+                <h2>Questions About Media Coverage?</h2>
+                <p>Some reporting has been incomplete or taken out of context. Get the full story.</p>
+            </div>
+            
+            <div style="background: linear-gradient(135deg, #f8fafc, #f1f5f9); border-radius: 1.5rem; padding: 2.5rem; margin: 2rem 0; box-shadow: var(--shadow-lg);">
+                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin-bottom: 2rem;">
+                    <div style="display: flex; gap: 1rem; align-items: flex-start;">
+                        <div style="background: rgba(239, 68, 68, 0.1); color: #dc2626; width: 48px; height: 48px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 1.25rem; flex-shrink: 0;">❌</div>
+                        <div>
+                            <strong style="color: var(--color-gray-700);">"No bathroom = neglect"</strong>
+                            <p style="color: var(--color-gray-600); font-size: 0.9rem; margin: 0.25rem 0 0 0;">Reality: Composting toilets are legal worldwide. Full bathroom now installed.</p>
+                        </div>
+                    </div>
+                    <div style="display: flex; gap: 1rem; align-items: flex-start;">
+                        <div style="background: rgba(239, 68, 68, 0.1); color: #dc2626; width: 48px; height: 48px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 1.25rem; flex-shrink: 0;">❌</div>
+                        <div>
+                            <strong style="color: var(--color-gray-700);">"Children not educated"</strong>
+                            <p style="color: var(--color-gray-600); font-size: 0.9rem; margin: 0.25rem 0 0 0;">Reality: Legal Steiner education, confirmed by Ministry of Education.</p>
+                        </div>
+                    </div>
+                    <div style="display: flex; gap: 1rem; align-items: flex-start;">
+                        <div style="background: rgba(239, 68, 68, 0.1); color: #dc2626; width: 48px; height: 48px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 1.25rem; flex-shrink: 0;">❌</div>
+                        <div>
+                            <strong style="color: var(--color-gray-700);">"Extreme lifestyle"</strong>
+                            <p style="color: var(--color-gray-600); font-size: 0.9rem; margin: 0.25rem 0 0 0;">Reality: Values-based sustainable living, increasingly common worldwide.</p>
+                        </div>
+                    </div>
+                    <div style="display: flex; gap: 1rem; align-items: flex-start;">
+                        <div style="background: rgba(239, 68, 68, 0.1); color: #dc2626; width: 48px; height: 48px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 1.25rem; flex-shrink: 0;">❌</div>
+                        <div>
+                            <strong style="color: var(--color-gray-700);">"Unqualified parents"</strong>
+                            <p style="color: var(--color-gray-600); font-size: 0.9rem; margin: 0.25rem 0 0 0;">Reality: Both professionally trained. Assessments confirmed high capability.</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div style="text-align: center; padding-top: 1rem; border-top: 1px solid rgba(0,0,0,0.1);">
+                    <p style="color: var(--color-gray-600); margin-bottom: 1rem;">Media coverage is often incomplete. Get complete, factual information.</p>
+                    <a href="/faq/" class="btn btn-primary btn-lg">📋 Read Full FAQ →</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 <!-- International Attention -->
 <section class="section" style="background: var(--color-gray-50);">
     <div class="container">
