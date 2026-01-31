@@ -135,15 +135,21 @@
                     </ul>
                     <a href="/#share-now" class="nav-share-btn">Share Now</a>
                 </nav>
-                <div class="language-toggle" aria-label="Language selector">
-                    <a href="/" class="{% if current_lang == 'en' %}active{% endif %}">EN</a>
-                    <a href="/it/" class="{% if current_lang == 'it' %}active{% endif %}">IT</a>
-                    <a href="/de/" class="{% if current_lang == 'de' %}active{% endif %}">DE</a>
-                    <a href="/fr/" class="{% if current_lang == 'fr' %}active{% endif %}">FR</a>
-                    <a href="/es/" class="{% if current_lang == 'es' %}active{% endif %}">ES</a>
-                    <a href="/pt/" class="{% if current_lang == 'pt' %}active{% endif %}">PT</a>
-                    <a href="/ru/" class="{% if current_lang == 'ru' %}active{% endif %}">RU</a>
-                    <a href="/pl/" class="{% if current_lang == 'pl' %}active{% endif %}">PL</a>
+                <div class="language-dropdown" aria-label="Language selector">
+                    <button class="language-dropdown-btn" aria-expanded="false" aria-haspopup="true">
+                        <span class="current-lang">{% if current_lang == 'en' %}EN{% elsif current_lang == 'it' %}IT{% elsif current_lang == 'de' %}DE{% elsif current_lang == 'fr' %}FR{% elsif current_lang == 'es' %}ES{% elsif current_lang == 'pt' %}PT{% elsif current_lang == 'ru' %}RU{% elsif current_lang == 'pl' %}PL{% else %}EN{% endif %}</span>
+                        <svg class="dropdown-arrow" width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M2.5 4.5L6 8L9.5 4.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                    </button>
+                    <div class="language-dropdown-menu">
+                        <a href="/" class="{% if current_lang == 'en' %}active{% endif %}"><span class="lang-flag">🇬🇧</span> English</a>
+                        <a href="/it/" class="{% if current_lang == 'it' %}active{% endif %}"><span class="lang-flag">🇮🇹</span> Italiano</a>
+                        <a href="/de/" class="{% if current_lang == 'de' %}active{% endif %}"><span class="lang-flag">🇩🇪</span> Deutsch</a>
+                        <a href="/fr/" class="{% if current_lang == 'fr' %}active{% endif %}"><span class="lang-flag">🇫🇷</span> Français</a>
+                        <a href="/es/" class="{% if current_lang == 'es' %}active{% endif %}"><span class="lang-flag">🇪🇸</span> Español</a>
+                        <a href="/pt/" class="{% if current_lang == 'pt' %}active{% endif %}"><span class="lang-flag">🇵🇹</span> Português</a>
+                        <a href="/ru/" class="{% if current_lang == 'ru' %}active{% endif %}"><span class="lang-flag">🇷🇺</span> Русский</a>
+                        <a href="/pl/" class="{% if current_lang == 'pl' %}active{% endif %}"><span class="lang-flag">🇵🇱</span> Polski</a>
+                    </div>
                 </div>
             </div>
         </div>
@@ -195,6 +201,36 @@
 
     <!-- Scripts -->
     <script>
+        // Language Dropdown Toggle
+        (function() {
+            const dropdown = document.querySelector('.language-dropdown');
+            const btn = dropdown?.querySelector('.language-dropdown-btn');
+            
+            if (btn && dropdown) {
+                btn.addEventListener('click', function(e) {
+                    e.stopPropagation();
+                    dropdown.classList.toggle('open');
+                    btn.setAttribute('aria-expanded', dropdown.classList.contains('open'));
+                });
+                
+                // Close when clicking outside
+                document.addEventListener('click', function(e) {
+                    if (!dropdown.contains(e.target)) {
+                        dropdown.classList.remove('open');
+                        btn.setAttribute('aria-expanded', 'false');
+                    }
+                });
+                
+                // Close on Escape key
+                document.addEventListener('keydown', function(e) {
+                    if (e.key === 'Escape') {
+                        dropdown.classList.remove('open');
+                        btn.setAttribute('aria-expanded', 'false');
+                    }
+                });
+            }
+        })();
+
         // Mobile Menu Toggle
         document.querySelector('.mobile-menu-toggle').addEventListener('click', function() {
             document.querySelector('.main-nav').classList.toggle('active');
