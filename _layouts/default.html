@@ -68,6 +68,7 @@
     
     <!-- Styles -->
     <link rel="stylesheet" href="/assets/css/style.css?v=20260308">
+    <link rel="stylesheet" href="/css/ticker.css">
     
     <!-- Structured Data / Schema.org -->
     <script type="application/ld+json">
@@ -371,5 +372,20 @@
             }, 0);
         });
     </script>
+
+    <!-- Scrolling Public Voice Ticker -->
+    <script src="/js/quotes-data.js"></script>
+    <script src="/js/ticker.js"></script>
+    <div id="quotes-ticker" class="ticker-wrapper">
+        <div class="ticker-stats">
+            <span class="ticker-stats-number">243</span>
+            <span class="ticker-stats-label">VOICES</span>
+        </div>
+        <div class="ticker-scroll-container">
+            <div class="ticker-scroll" id="ticker-scroll"></div>
+        </div>
+        <div class="ticker-pause-indicator" id="pause-indicator">⏸ PAUSED</div>
+    </div>
+    <style>body { padding-bottom: 60px; }</style>
 </body>
 </html>

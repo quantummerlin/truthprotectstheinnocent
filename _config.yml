@@ -78,6 +78,10 @@ navigation:
     url: /updates/
   - title: Media
     url: /media/
+  - title: Public Voice
+    url: /public-voice/
+  - title: Gold Quotes
+    url: /gold-quotes/
   - title: FAQ
     url: /faq/
   - title: About

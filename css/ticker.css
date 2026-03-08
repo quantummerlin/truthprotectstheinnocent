@@ -1,0 +1,156 @@
+/*
+===========================================
+SCROLLING QUOTES TICKER - STYLES
+===========================================
+Copy this CSS into your stylesheet
+===========================================
+*/
+
+:root {
+    --ticker-bg: #1a1a2e;
+    --ticker-text: #ffffff;
+    --ticker-accent: #f39c12;
+    --ticker-font: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    --ticker-height: 60px;
+    --ticker-speed: 80s;
+}
+
+.ticker-wrapper {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: var(--ticker-height);
+    background: var(--ticker-bg);
+    z-index: 9999;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.3);
+}
+
+.ticker-wrapper.ticker-top {
+    bottom: auto;
+    top: 0;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+
+.ticker-stats {
+    background: linear-gradient(135deg, var(--ticker-accent), #e67e22);
+    color: white;
+    padding: 8px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    min-width: 90px;
+    flex-shrink: 0;
+}
+
+.ticker-stats-number {
+    font-size: 1.4rem;
+    font-weight: 900;
+    line-height: 1;
+}
+
+.ticker-stats-label {
+    font-size: 0.6rem;
+    letter-spacing: 1px;
+    opacity: 0.9;
+}
+
+.ticker-scroll-container {
+    flex: 1;
+    overflow: hidden;
+    padding: 0 20px;
+}
+
+.ticker-scroll {
+    display: flex;
+    gap: 60px;
+    animation: ticker-scroll var(--ticker-speed) linear infinite;
+    cursor: pointer;
+}
+
+.ticker-scroll:hover {
+    animation-play-state: paused;
+}
+
+.ticker-scroll.paused {
+    animation-play-state: paused;
+}
+
+.ticker-item {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    white-space: nowrap;
+    padding-right: 40px;
+}
+
+.ticker-quote {
+    font-family: var(--ticker-font);
+    font-size: 0.95rem;
+    color: #e0e0e0;
+    font-style: italic;
+    max-width: 500px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.ticker-quote::before { content: '"'; }
+.ticker-quote::after { content: '"'; }
+
+.ticker-author {
+    font-family: var(--ticker-font);
+    font-size: 0.8rem;
+    color: var(--ticker-accent);
+    font-weight: 600;
+    white-space: nowrap;
+}
+
+.ticker-author::before { content: '— '; }
+
+.ticker-flag { font-size: 1rem; }
+
+.ticker-item[data-category="action"] .ticker-author { color: #e74c3c; }
+.ticker-item[data-category="family"] .ticker-author { color: #9b59b6; }
+.ticker-item[data-category="corruption"] .ticker-author { color: #e67e22; }
+.ticker-item[data-category="international"] .ticker-author { color: #1abc9c; }
+.ticker-item[data-category="skeptical"] .ticker-author { color: #f39c12; }
+
+.ticker-pause-indicator {
+    position: absolute;
+    right: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(255, 255, 255, 0.1);
+    color: white;
+    padding: 5px 15px;
+    border-radius: 20px;
+    font-size: 0.7rem;
+    letter-spacing: 1px;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.ticker-pause-indicator.visible { opacity: 1; }
+
+@keyframes ticker-scroll {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-50%); }
+}
+
+@media (max-width: 768px) {
+    :root {
+        --ticker-height: 50px;
+        --ticker-speed: 60s;
+    }
+    .ticker-stats { min-width: 70px; padding: 5px 15px; }
+    .ticker-stats-number { font-size: 1.1rem; }
+    .ticker-quote { font-size: 0.85rem; max-width: 300px; }
+    .ticker-author { font-size: 0.7rem; }
+    .ticker-scroll { gap: 40px; }
+    .ticker-item { padding-right: 30px; gap: 10px; }
+}
