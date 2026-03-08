@@ -1,12 +1,13 @@
 ---
 layout: default
-title: Кэтрин Бирмингем и Натан Тревальон | Дети забраны в Италии
-description: "Трое детей разлучены с родителями Кэтрин Бирмингем и Натаном Тревальоном в Италии. Три причины - все опровергнуты. Помогите воссоединить Утопию, Галориана и Блю Белл. #TruthProtectsTheInnocent"
+title: "СРОЧНО 8 Марта — Детей перевели, Катрин изгнана | La Famiglia Nel Bosco"
+description: "СРОЧНО 8 марта 2026: После 60 Minutes итальянские власти перевели детей в новое учреждение — где Катрин не может оставаться. Три официальные причины — все опровергнуты. #TruthProtectsTheInnocent #LaFamigliaNelBosco"
 lang: ru
 image: /assets/images/og-image.jpg
+updated: 2026-03-08-breaking
 ---
 
-<!-- Hero Section: 60 Minutes Australia Feature -->
+<!-- Hero: Breaking News -->
 <section class="hero hero-60mins">
     <div class="hero-video-bg">
         <video autoplay muted loop playsinline>
@@ -16,41 +17,31 @@ image: /assets/images/og-image.jpg
     <div class="hero-overlay hero-overlay-60mins"></div>
     <div class="hero-content">
         <div class="sixty-mins-badge-wrap">
-            <span class="sixty-mins-badge" id="sixtyMinsBadge">
-                📺 СЕГОДНЯ НА 60 MINUTES AUSTRALIA — 20:45 AEST
+            <span class="sixty-mins-badge sixty-mins-badge-aired">
+                🚨 СРОЧНО — 8 МАРТА 2026
             </span>
         </div>
 
-        <h1 class="sixty-mins-headline">Мир Смотрит</h1>
-        <p class="lead">Самая рейтинговая программа Австралии рассказывает историю троих детей, отобранных у родителей — и трёх официальных причин, которые <strong>все оказались ложными</strong>.</p>
+        <h1 class="sixty-mins-headline">Детей перевели. Катрин изгнана.</h1>
+        <p class="lead">После 60 Minutes итальянские власти решили перевести детей в <strong>новое учреждение</strong> — <strong>где Катрин не может оставаться</strong>. Прощание было записано на видео.</p>
 
-        <div class="sixty-mins-countdown" id="sixtyMinsCountdown">
-            <div class="countdown-item">
-                <span class="countdown-number" id="countHours">--</span>
-                <span class="countdown-label">ЧАСЫ</span>
-            </div>
-            <div class="countdown-separator">:</div>
-            <div class="countdown-item">
-                <span class="countdown-number" id="countMinutes">--</span>
-                <span class="countdown-label">МИНУТЫ</span>
-            </div>
-            <div class="countdown-separator">:</div>
-            <div class="countdown-item">
-                <span class="countdown-number" id="countSeconds">--</span>
-                <span class="countdown-label">СЕКУНДЫ</span>
+        <div class="hero-alert-box">
+            <p style="color: #fef08a; font-weight: 700; font-size: 1rem; margin-bottom: 0.5rem;">📹 Смотреть: Момент прощания</p>
+            <p style="color: rgba(255,255,255,0.9); font-size: 0.95rem; line-height: 1.6; margin-bottom: 1rem;">Катрин была вынуждена попрощаться с детьми перед их переводом. Внимание — тяжёлое видео.</p>
+            <div class="hero-alert-btns">
+                <a href="https://www.facebook.com/share/v/1HpVpWjzMC/" target="_blank" rel="noopener noreferrer" style="background: #1877f2; color: white; padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 700; font-size: 0.95rem; display: block; text-align: center;">▶ Смотреть на Facebook</a>
+                <a href="https://www.youtube.com/watch?v=FZPMGep5CKU" target="_blank" rel="noopener noreferrer" style="background: rgba(255,255,255,0.15); color: white; border: 1.5px solid rgba(255,255,255,0.5); padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 600; font-size: 0.95rem; display: block; text-align: center;">▶ 60 Minutes на YouTube</a>
             </div>
         </div>
 
-        <div class="sixty-mins-trailer">
-            <div class="trailer-container" id="trailerContainer">
-                <video id="trailerVideo" playsinline preload="metadata" poster="">
-                    <source src="/assets/videos/60-minutes-trailer.mp4" type="video/mp4">
-                </video>
-                <button class="trailer-play-btn" id="trailerPlayBtn" aria-label="Смотреть трейлер">
-                    <svg width="60" height="60" viewBox="0 0 60 60" fill="none"><circle cx="30" cy="30" r="30" fill="rgba(255,255,255,0.2)"/><circle cx="30" cy="30" r="28" stroke="white" stroke-width="2" fill="none"/><polygon points="24,18 24,42 44,30" fill="white"/></svg>
-                </button>
-                <span class="trailer-label">▶ Смотреть превью</span>
-            </div>
+        <div class="hero-tv-box">
+            <p style="color: white; font-weight: 700; font-size: 0.95rem; margin-bottom: 0.75rem; text-align: center;">📺 Canale 5 освещал это дело:</p>
+            <ul style="color: rgba(255,255,255,0.85); font-size: 0.9rem; line-height: 1.9; margin: 0; padding-left: 1.25rem; text-align: left;">
+                <li><a href="https://mediasetinfinity.mediaset.it/video/dentrolanotizia20252026/la-festa-di-compleanno-per-papa-nathan-senza-moglie-e-figli_F314098101128C09" target="_blank" rel="noopener" style="color: #fef08a;">День рождения Натана — один, без жены и детей</a> — <em>«худший день рождения в моей жизни»</em></li>
+                <li><a href="https://mediasetinfinity.mediaset.it/video/dentrolanotizia20252026/famiglia-nel-bosco-compleanno-separato-per-i-gemellini_F314098101130C09" target="_blank" rel="noopener" style="color: #fef08a;">7-й день рождения близнецов — вдали от родителей</a></li>
+                <li><a href="https://mediasetinfinity.mediaset.it/video/dentrolanotizia20252026/famiglia-nel-bosco-la-zia-respinge-laccusa-di-condizionare-i-bimbi_F314098101126C11" target="_blank" rel="noopener" style="color: #fef08a;">Тётя опровергает обвинения на национальном ТВ</a></li>
+                <li>Адвокат требует: <strong style="color: white;">«Объясните детям, почему мать выгнали»</strong></li>
+            </ul>
         </div>
 
         <div class="hero-stats sixty-mins-stats">
@@ -60,7 +51,7 @@ image: /assets/images/og-image.jpg
             </div>
             <div class="hero-stat">
                 <span class="hero-stat-number">🇮🇹</span>
-                <span class="hero-stat-label">Итальянская<br>Пресса</span>
+                <span class="hero-stat-label">Canale 5<br>Италия</span>
             </div>
             <div class="hero-stat">
                 <span class="hero-stat-number">🌍</span>
@@ -69,74 +60,14 @@ image: /assets/images/og-image.jpg
         </div>
 
         <div class="hero-cta">
-            <a href="https://www.youtube.com/watch?v=FZPMGep5CKU" target="_blank" rel="noopener" class="btn btn-primary btn-lg btn-glow">▶ Смотреть на YouTube</a>
-            <a href="https://www.facebook.com/share/1C7HNu7Knu/?mibextid=wwXIfr" target="_blank" rel="noopener" class="btn btn-secondary btn-lg">📘 Поделиться в Facebook</a>
+            <a href="/ru/petition/" class="btn btn-primary btn-lg btn-glow">🇺🇳 Подписать Петицию ООН</a>
+            <a href="/action/" class="btn btn-secondary btn-lg">Действовать сейчас</a>
             <a href="/evidence/" class="btn btn-secondary btn-lg">Смотреть доказательства</a>
         </div>
 
-        <p class="sixty-mins-subtext">Трое детей. Три ложных обвинения. Ноль обоснованных причин.<br>Сегодня миллионы узнают правду.</p>
+        <p class="sixty-mins-subtext">Трое детей. Три ложных обвинения. Ноль обоснованных причин.<br>Катрин не может оставаться там, где содержатся её дети.</p>
     </div>
 </section>
-
-<script>
-(function() {
-    const airTimeUTC = new Date(Date.UTC(2026, 2, 1, 9, 45, 0));
-    const showDurationMs = 90 * 60 * 1000;
-    const countdownEl = document.getElementById('sixtyMinsCountdown');
-    const badgeEl = document.getElementById('sixtyMinsBadge');
-    const hoursEl = document.getElementById('countHours');
-    const minutesEl = document.getElementById('countMinutes');
-    const secondsEl = document.getElementById('countSeconds');
-
-    function updateCountdown() {
-        const now = new Date();
-        const diff = airTimeUTC - now;
-        const afterShow = now - (airTimeUTC.getTime() + showDurationMs);
-
-        if (diff > 0) {
-            const h = Math.floor(diff / 3600000);
-            const m = Math.floor((diff % 3600000) / 60000);
-            const s = Math.floor((diff % 60000) / 1000);
-            hoursEl.textContent = String(h).padStart(2, '0');
-            minutesEl.textContent = String(m).padStart(2, '0');
-            secondsEl.textContent = String(s).padStart(2, '0');
-        } else if (afterShow < 0) {
-            countdownEl.innerHTML = '<div class="now-airing"><span class="now-airing-dot"></span> СЕЙЧАС В ЭФИРЕ 60 MINUTES</div>';
-            badgeEl.textContent = '🔴 В ЭФИРЕ — 60 Minutes Australia';
-            badgeEl.classList.add('sixty-mins-badge-live');
-        } else {
-            countdownEl.innerHTML = '<a href="https://www.9now.com.au/60-minutes" target="_blank" rel="noopener" class="btn btn-primary btn-lg btn-glow">Смотреть на 9Now →</a>';
-            badgeEl.textContent = '📺 ПОКАЗАНО НА 60 MINUTES AUSTRALIA';
-            badgeEl.classList.remove('sixty-mins-badge-live');
-            badgeEl.classList.add('sixty-mins-badge-aired');
-            clearInterval(timer);
-        }
-    }
-
-    updateCountdown();
-    const timer = setInterval(updateCountdown, 1000);
-
-    const trailerVideo = document.getElementById('trailerVideo');
-    const playBtn = document.getElementById('trailerPlayBtn');
-    const trailerContainer = document.getElementById('trailerContainer');
-
-    if (playBtn && trailerVideo) {
-        playBtn.addEventListener('click', function() {
-            trailerVideo.controls = true;
-            trailerVideo.play();
-            playBtn.style.display = 'none';
-            trailerContainer.querySelector('.trailer-label').style.display = 'none';
-            trailerContainer.classList.add('trailer-playing');
-        });
-        trailerVideo.addEventListener('ended', function() {
-            playBtn.style.display = '';
-            trailerContainer.querySelector('.trailer-label').style.display = '';
-            trailerContainer.classList.remove('trailer-playing');
-            trailerVideo.controls = false;
-        });
-    }
-})();
-</script>
 
 <!-- УТЕЧКА ИНФОРМАЦИИ - СРОЧНО -->
 <section style="background: linear-gradient(135deg, #dc2626 0%, #991b1b 100%); padding: 2rem 0; position: relative; overflow: hidden;">

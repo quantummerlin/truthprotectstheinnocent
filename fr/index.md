@@ -1,12 +1,13 @@
 ---
 layout: default
-title: Catherine Birmingham et Nathan Trevallion | Enfants retirés en Italie
-description: "Trois enfants séparés de Catherine Birmingham et Nathan Trevallion en Italie. Trois raisons officielles - toutes réfutées. Aidez à réunir Utopia, Galorian et Blue Bell. #TruthProtectsTheInnocent #LaFamigliaNelBosco"
+title: "BREAKING 8 Mars — Enfants déplacés, Catherine interdite | La Famiglia Nel Bosco"
+description: "DERNIÈRE HEURE 8 mars 2026 : Après 60 Minutes, les autorités italiennes ont transféré les enfants dans un nouvel établissement où Catherine ne peut pas rester. Trois raisons officielles — toutes réfutées. #TruthProtectsTheInnocent #LaFamigliaNelBosco"
 lang: fr
 image: /assets/images/og-image.jpg
+updated: 2026-03-08-breaking
 ---
 
-<!-- Hero Section: 60 Minutes Australia Feature -->
+<!-- Hero: Breaking News -->
 <section class="hero hero-60mins">
     <div class="hero-video-bg">
         <video autoplay muted loop playsinline>
@@ -16,41 +17,31 @@ image: /assets/images/og-image.jpg
     <div class="hero-overlay hero-overlay-60mins"></div>
     <div class="hero-content">
         <div class="sixty-mins-badge-wrap">
-            <span class="sixty-mins-badge" id="sixtyMinsBadge">
-                📺 CE SOIR SUR 60 MINUTES AUSTRALIA — 20H45 AEST
+            <span class="sixty-mins-badge sixty-mins-badge-aired">
+                🚨 DERNIÈRE HEURE — 8 MARS 2026
             </span>
         </div>
 
-        <h1 class="sixty-mins-headline">Le Monde Regarde</h1>
-        <p class="lead">L'émission d'actualité la plus regardée d'Australie raconte l'histoire de trois enfants retirés à leurs parents — et les trois raisons officielles qui se sont <strong>toutes révélées fausses</strong>.</p>
+        <h1 class="sixty-mins-headline">Enfants déplacés. Catherine interdite.</h1>
+        <p class="lead">Après 60 Minutes, les autorités italiennes ont décidé de transférer les enfants dans un <strong>nouvel établissement</strong> — <strong>où Catherine ne peut pas rester</strong>. Les adieux ont été filmés.</p>
 
-        <div class="sixty-mins-countdown" id="sixtyMinsCountdown">
-            <div class="countdown-item">
-                <span class="countdown-number" id="countHours">--</span>
-                <span class="countdown-label">HEURES</span>
-            </div>
-            <div class="countdown-separator">:</div>
-            <div class="countdown-item">
-                <span class="countdown-number" id="countMinutes">--</span>
-                <span class="countdown-label">MINUTES</span>
-            </div>
-            <div class="countdown-separator">:</div>
-            <div class="countdown-item">
-                <span class="countdown-number" id="countSeconds">--</span>
-                <span class="countdown-label">SECONDES</span>
+        <div class="hero-alert-box">
+            <p style="color: #fef08a; font-weight: 700; font-size: 1rem; margin-bottom: 0.5rem;">📹 Voir : Le moment des adieux</p>
+            <p style="color: rgba(255,255,255,0.9); font-size: 0.95rem; line-height: 1.6; margin-bottom: 1rem;">Catherine a été forcée de dire au revoir à ses enfants avant leur transfert. Attention — contenu bouleversant.</p>
+            <div class="hero-alert-btns">
+                <a href="https://www.facebook.com/share/v/1HpVpWjzMC/" target="_blank" rel="noopener noreferrer" style="background: #1877f2; color: white; padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 700; font-size: 0.95rem; display: block; text-align: center;">▶ Voir sur Facebook</a>
+                <a href="https://www.youtube.com/watch?v=FZPMGep5CKU" target="_blank" rel="noopener noreferrer" style="background: rgba(255,255,255,0.15); color: white; border: 1.5px solid rgba(255,255,255,0.5); padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 600; font-size: 0.95rem; display: block; text-align: center;">▶ 60 Minutes sur YouTube</a>
             </div>
         </div>
 
-        <div class="sixty-mins-trailer">
-            <div class="trailer-container" id="trailerContainer">
-                <video id="trailerVideo" playsinline preload="metadata" poster="">
-                    <source src="/assets/videos/60-minutes-trailer.mp4" type="video/mp4">
-                </video>
-                <button class="trailer-play-btn" id="trailerPlayBtn" aria-label="Lire la bande-annonce">
-                    <svg width="60" height="60" viewBox="0 0 60 60" fill="none"><circle cx="30" cy="30" r="30" fill="rgba(255,255,255,0.2)"/><circle cx="30" cy="30" r="28" stroke="white" stroke-width="2" fill="none"/><polygon points="24,18 24,42 44,30" fill="white"/></svg>
-                </button>
-                <span class="trailer-label">▶ Voir l'aperçu</span>
-            </div>
+        <div class="hero-tv-box">
+            <p style="color: white; font-weight: 700; font-size: 0.95rem; margin-bottom: 0.75rem; text-align: center;">📺 Canale 5 a couvert l'affaire :</p>
+            <ul style="color: rgba(255,255,255,0.85); font-size: 0.9rem; line-height: 1.9; margin: 0; padding-left: 1.25rem; text-align: left;">
+                <li><a href="https://mediasetinfinity.mediaset.it/video/dentrolanotizia20252026/la-festa-di-compleanno-per-papa-nathan-senza-moglie-e-figli_F314098101128C09" target="_blank" rel="noopener" style="color: #fef08a;">L'anniversaire de Nathan — seul, sans femme ni enfants</a> — <em>« le pire anniversaire de ma vie »</em></li>
+                <li><a href="https://mediasetinfinity.mediaset.it/video/dentrolanotizia20252026/famiglia-nel-bosco-compleanno-separato-per-i-gemellini_F314098101130C09" target="_blank" rel="noopener" style="color: #fef08a;">7e anniversaire des jumeaux — séparés de leurs parents</a></li>
+                <li><a href="https://mediasetinfinity.mediaset.it/video/dentrolanotizia20252026/famiglia-nel-bosco-la-zia-respinge-laccusa-di-condizionare-i-bimbi_F314098101126C11" target="_blank" rel="noopener" style="color: #fef08a;">La tante réfute les accusations à la télévision nationale</a></li>
+                <li>L'avocat exige : <strong style="color: white;">« Expliquez aux enfants pourquoi la mère a été chassée »</strong></li>
+            </ul>
         </div>
 
         <div class="hero-stats sixty-mins-stats">
@@ -60,7 +51,7 @@ image: /assets/images/og-image.jpg
             </div>
             <div class="hero-stat">
                 <span class="hero-stat-number">🇮🇹</span>
-                <span class="hero-stat-label">Presse<br>Italienne</span>
+                <span class="hero-stat-label">Canale 5<br>Italie</span>
             </div>
             <div class="hero-stat">
                 <span class="hero-stat-number">🌍</span>
@@ -69,74 +60,14 @@ image: /assets/images/og-image.jpg
         </div>
 
         <div class="hero-cta">
-            <a href="https://www.youtube.com/watch?v=FZPMGep5CKU" target="_blank" rel="noopener" class="btn btn-primary btn-lg btn-glow">▶ Regarder sur YouTube</a>
-            <a href="https://www.facebook.com/share/1C7HNu7Knu/?mibextid=wwXIfr" target="_blank" rel="noopener" class="btn btn-secondary btn-lg">📘 Partager sur Facebook</a>
+            <a href="/fr/petition/" class="btn btn-primary btn-lg btn-glow">🇺🇳 Signer la Pétition ONU</a>
+            <a href="/action/" class="btn btn-secondary btn-lg">Agir Maintenant</a>
             <a href="/evidence/" class="btn btn-secondary btn-lg">Voir Les Preuves</a>
         </div>
 
-        <p class="sixty-mins-subtext">Trois enfants. Trois fausses accusations. Zéro raison valide.<br>Ce soir, des millions découvriront la vérité.</p>
+        <p class="sixty-mins-subtext">Trois enfants. Trois fausses accusations. Zéro raison valide.<br>Catherine ne peut pas rester là où ses enfants sont détenus.</p>
     </div>
 </section>
-
-<script>
-(function() {
-    const airTimeUTC = new Date(Date.UTC(2026, 2, 1, 9, 45, 0));
-    const showDurationMs = 90 * 60 * 1000;
-    const countdownEl = document.getElementById('sixtyMinsCountdown');
-    const badgeEl = document.getElementById('sixtyMinsBadge');
-    const hoursEl = document.getElementById('countHours');
-    const minutesEl = document.getElementById('countMinutes');
-    const secondsEl = document.getElementById('countSeconds');
-
-    function updateCountdown() {
-        const now = new Date();
-        const diff = airTimeUTC - now;
-        const afterShow = now - (airTimeUTC.getTime() + showDurationMs);
-
-        if (diff > 0) {
-            const h = Math.floor(diff / 3600000);
-            const m = Math.floor((diff % 3600000) / 60000);
-            const s = Math.floor((diff % 60000) / 1000);
-            hoursEl.textContent = String(h).padStart(2, '0');
-            minutesEl.textContent = String(m).padStart(2, '0');
-            secondsEl.textContent = String(s).padStart(2, '0');
-        } else if (afterShow < 0) {
-            countdownEl.innerHTML = '<div class="now-airing"><span class="now-airing-dot"></span> EN DIRECT SUR 60 MINUTES</div>';
-            badgeEl.textContent = '🔴 EN DIRECT — 60 Minutes Australia';
-            badgeEl.classList.add('sixty-mins-badge-live');
-        } else {
-            countdownEl.innerHTML = '<a href="https://www.9now.com.au/60-minutes" target="_blank" rel="noopener" class="btn btn-primary btn-lg btn-glow">Regarder sur 9Now →</a>';
-            badgeEl.textContent = '📺 VU SUR 60 MINUTES AUSTRALIA';
-            badgeEl.classList.remove('sixty-mins-badge-live');
-            badgeEl.classList.add('sixty-mins-badge-aired');
-            clearInterval(timer);
-        }
-    }
-
-    updateCountdown();
-    const timer = setInterval(updateCountdown, 1000);
-
-    const trailerVideo = document.getElementById('trailerVideo');
-    const playBtn = document.getElementById('trailerPlayBtn');
-    const trailerContainer = document.getElementById('trailerContainer');
-
-    if (playBtn && trailerVideo) {
-        playBtn.addEventListener('click', function() {
-            trailerVideo.controls = true;
-            trailerVideo.play();
-            playBtn.style.display = 'none';
-            trailerContainer.querySelector('.trailer-label').style.display = 'none';
-            trailerContainer.classList.add('trailer-playing');
-        });
-        trailerVideo.addEventListener('ended', function() {
-            playBtn.style.display = '';
-            trailerContainer.querySelector('.trailer-label').style.display = '';
-            trailerContainer.classList.remove('trailer-playing');
-            trailerVideo.controls = false;
-        });
-    }
-})();
-</script>
 
 <!-- INFORMATIONS DIVULGUÉES - URGENT -->
 <section style="background: linear-gradient(135deg, #dc2626 0%, #991b1b 100%); padding: 2rem 0; position: relative; overflow: hidden;">
