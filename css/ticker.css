@@ -2,17 +2,15 @@
 ===========================================
 SCROLLING QUOTES TICKER - STYLES
 ===========================================
-Copy this CSS into your stylesheet
-===========================================
 */
 
 :root {
-    --ticker-bg: #1a1a2e;
+    --ticker-bg: #0d0d1a;
     --ticker-text: #ffffff;
     --ticker-accent: #f39c12;
     --ticker-font: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-    --ticker-height: 60px;
-    --ticker-speed: 80s;
+    --ticker-height: 48px;
+    --ticker-speed: 35s;
 }
 
 .ticker-wrapper {
@@ -26,55 +24,104 @@ Copy this CSS into your stylesheet
     display: flex;
     align-items: center;
     overflow: hidden;
-    box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 -2px 0 rgba(243,156,18,0.7), 0 -8px 28px rgba(0,0,0,0.6);
+    cursor: pointer;
+    user-select: none;
+}
+
+/* Gold fade-out on right edge */
+.ticker-wrapper::after {
+    content: '';
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 80px;
+    background: linear-gradient(to right, transparent, var(--ticker-bg));
+    pointer-events: none;
+    z-index: 2;
 }
 
 .ticker-wrapper.ticker-top {
     bottom: auto;
     top: 0;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 2px 0 rgba(243,156,18,0.7), 0 8px 28px rgba(0,0,0,0.6);
 }
 
+/* Red accent line when paused */
+.ticker-wrapper.is-paused {
+    box-shadow: 0 -2px 0 rgba(231,76,60,0.9), 0 -8px 28px rgba(0,0,0,0.6);
+}
+
+/* Animated gold shimmer stats tab */
 .ticker-stats {
-    background: linear-gradient(135deg, var(--ticker-accent), #e67e22);
+    background: linear-gradient(135deg, #e67e22 0%, #f39c12 50%, #f5c518 100%);
+    background-size: 200% 200%;
+    animation: stats-shimmer 3s ease-in-out infinite;
     color: white;
-    padding: 8px 20px;
+    padding: 0 18px;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     height: 100%;
-    min-width: 90px;
+    min-width: 78px;
     flex-shrink: 0;
+    position: relative;
+    z-index: 3;
+    box-shadow: 4px 0 20px rgba(243,156,18,0.4);
+}
+
+@keyframes stats-shimmer {
+    0%, 100% { background-position: 0% 50%; }
+    50%       { background-position: 100% 50%; }
+}
+
+/* Live pulse dot */
+.ticker-stats::before {
+    content: '';
+    position: absolute;
+    top: 7px;
+    right: 7px;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background: white;
+    animation: ticker-blink 1.4s ease-in-out infinite;
+}
+
+@keyframes ticker-blink {
+    0%, 100% { opacity: 1; }
+    50%       { opacity: 0.15; }
 }
 
 .ticker-stats-number {
-    font-size: 1.4rem;
+    font-size: 1.15rem;
     font-weight: 900;
     line-height: 1;
+    text-shadow: 0 1px 4px rgba(0,0,0,0.25);
 }
 
 .ticker-stats-label {
-    font-size: 0.6rem;
-    letter-spacing: 1px;
-    opacity: 0.9;
+    font-size: 0.52rem;
+    letter-spacing: 2px;
+    opacity: 0.92;
+    text-transform: uppercase;
+    margin-top: 2px;
 }
 
 .ticker-scroll-container {
     flex: 1;
     overflow: hidden;
-    padding: 0 20px;
+    padding: 0 8px;
+    min-width: 0;
 }
 
 .ticker-scroll {
     display: flex;
-    gap: 60px;
+    gap: 0;
     animation: ticker-scroll var(--ticker-speed) linear infinite;
-    cursor: pointer;
-}
-
-.ticker-scroll:hover {
-    animation-play-state: paused;
+    will-change: transform;
 }
 
 .ticker-scroll.paused {
@@ -82,75 +129,95 @@ Copy this CSS into your stylesheet
 }
 
 .ticker-item {
-    display: flex;
+    display: inline-flex;
     align-items: center;
-    gap: 15px;
+    gap: 10px;
     white-space: nowrap;
-    padding-right: 40px;
+    padding: 0 30px;
+    position: relative;
+}
+
+/* Diamond bullet separator between quotes */
+.ticker-item::after {
+    content: '\25C6';
+    position: absolute;
+    right: 0;
+    transform: translateX(50%);
+    color: rgba(243,156,18,0.4);
+    font-size: 0.55rem;
 }
 
 .ticker-quote {
     font-family: var(--ticker-font);
-    font-size: 0.95rem;
-    color: #e0e0e0;
+    font-size: 0.86rem;
+    color: #dde5f0;
     font-style: italic;
-    max-width: 500px;
+    max-width: 480px;
     overflow: hidden;
     text-overflow: ellipsis;
+    letter-spacing: 0.01em;
 }
 
-.ticker-quote::before { content: '"'; }
-.ticker-quote::after { content: '"'; }
+.ticker-quote::before { content: '\201C'; color: var(--ticker-accent); font-style: normal; }
+.ticker-quote::after  { content: '\201D'; color: var(--ticker-accent); font-style: normal; }
 
 .ticker-author {
     font-family: var(--ticker-font);
-    font-size: 0.8rem;
+    font-size: 0.74rem;
     color: var(--ticker-accent);
-    font-weight: 600;
+    font-weight: 700;
     white-space: nowrap;
+    letter-spacing: 0.03em;
 }
 
-.ticker-author::before { content: '— '; }
+.ticker-author::before { content: '\2014\00A0'; opacity: 0.55; }
 
-.ticker-flag { font-size: 1rem; }
+.ticker-flag { font-size: 0.88rem; }
 
-.ticker-item[data-category="action"] .ticker-author { color: #e74c3c; }
-.ticker-item[data-category="family"] .ticker-author { color: #9b59b6; }
-.ticker-item[data-category="corruption"] .ticker-author { color: #e67e22; }
-.ticker-item[data-category="international"] .ticker-author { color: #1abc9c; }
-.ticker-item[data-category="skeptical"] .ticker-author { color: #f39c12; }
+/* Category colours on author names */
+.ticker-item[data-category="action"]        .ticker-author { color: #ff6b6b; }
+.ticker-item[data-category="family"]        .ticker-author { color: #c084fc; }
+.ticker-item[data-category="corruption"]    .ticker-author { color: #fb923c; }
+.ticker-item[data-category="international"] .ticker-author { color: #34d399; }
+.ticker-item[data-category="skeptical"]     .ticker-author { color: #fbbf24; }
+.ticker-item[data-category="legal"]         .ticker-author { color: #60a5fa; }
 
+/* Pause indicator -- centred red pill */
 .ticker-pause-indicator {
     position: absolute;
-    right: 20px;
+    left: 50%;
     top: 50%;
-    transform: translateY(-50%);
-    background: rgba(255, 255, 255, 0.1);
+    transform: translate(-50%, -50%);
+    background: rgba(220, 38, 38, 0.95);
     color: white;
-    padding: 5px 15px;
+    padding: 3px 14px;
     border-radius: 20px;
-    font-size: 0.7rem;
-    letter-spacing: 1px;
+    font-size: 0.65rem;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-transform: uppercase;
     opacity: 0;
-    transition: opacity 0.3s ease;
+    transition: opacity 0.2s ease;
+    pointer-events: none;
+    z-index: 10;
+    white-space: nowrap;
 }
 
 .ticker-pause-indicator.visible { opacity: 1; }
 
 @keyframes ticker-scroll {
-    0% { transform: translateX(0); }
+    0%   { transform: translateX(0); }
     100% { transform: translateX(-50%); }
 }
 
 @media (max-width: 768px) {
     :root {
-        --ticker-height: 50px;
-        --ticker-speed: 60s;
+        --ticker-height: 40px;
+        --ticker-speed: 28s;
     }
-    .ticker-stats { min-width: 70px; padding: 5px 15px; }
-    .ticker-stats-number { font-size: 1.1rem; }
-    .ticker-quote { font-size: 0.85rem; max-width: 300px; }
-    .ticker-author { font-size: 0.7rem; }
-    .ticker-scroll { gap: 40px; }
-    .ticker-item { padding-right: 30px; gap: 10px; }
+    .ticker-stats { min-width: 62px; padding: 0 12px; }
+    .ticker-stats-number { font-size: 0.95rem; }
+    .ticker-quote { font-size: 0.78rem; max-width: 240px; }
+    .ticker-author { font-size: 0.66rem; }
+    .ticker-item { padding: 0 20px; gap: 7px; }
 }

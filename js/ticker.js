@@ -9,39 +9,48 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 function initTicker() {
-    const tickerScroll = document.getElementById('ticker-scroll');
-    const pauseIndicator = document.getElementById('pause-indicator');
-    
+    var tickerScroll = document.getElementById('ticker-scroll');
+    var pauseIndicator = document.getElementById('pause-indicator');
+    var tickerWrapper = document.getElementById('quotes-ticker');
+
     if (!tickerScroll) {
         console.warn('Ticker element not found');
         return;
     }
-    
-    let tickerHTML = '';
-    
+
+    var tickerHTML = '';
+
     // Duplicate content for seamless looping
-    QUOTES_DATA.forEach(quote => {
+    QUOTES_DATA.forEach(function(quote) {
         tickerHTML += createTickerItem(quote);
     });
-    QUOTES_DATA.forEach(quote => {
+    QUOTES_DATA.forEach(function(quote) {
         tickerHTML += createTickerItem(quote);
     });
-    
+
     tickerScroll.innerHTML = tickerHTML;
-    
-    // Pause on click
-    tickerScroll.addEventListener('click', function() {
-        this.classList.toggle('paused');
-        if (pauseIndicator) {
-            pauseIndicator.classList.toggle('visible');
-        }
-    });
-    
+
+    // Whole wrapper is clickable to pause/resume
+    if (tickerWrapper) {
+        tickerWrapper.addEventListener('click', function() {
+            var isPaused = tickerScroll.classList.toggle('paused');
+            tickerWrapper.classList.toggle('is-paused', isPaused);
+            if (pauseIndicator) {
+                if (isPaused) {
+                    pauseIndicator.textContent = '\u23F8 PAUSED \u2014 CLICK TO RESUME';
+                    pauseIndicator.classList.add('visible');
+                } else {
+                    pauseIndicator.classList.remove('visible');
+                }
+            }
+        });
+    }
+
     updateStats();
 }
 
 function createTickerItem(quote) {
-    const flag = COUNTRY_FLAGS[quote.country] || '🌍';
+    var flag = (typeof COUNTRY_FLAGS !== 'undefined' && COUNTRY_FLAGS[quote.country]) ? COUNTRY_FLAGS[quote.country] : '\uD83C\uDF0D';
     return '<div class="ticker-item" data-category="' + quote.category + '">' +
         '<span class="ticker-flag">' + flag + '</span>' +
         '<span class="ticker-quote">' + quote.text + '</span>' +
@@ -50,21 +59,21 @@ function createTickerItem(quote) {
 }
 
 function updateStats() {
-    const statsNumber = document.querySelector('.ticker-stats-number');
-    if (statsNumber) {
+    var statsNumber = document.querySelector('.ticker-stats-number');
+    if (statsNumber && typeof QUOTES_STATS !== 'undefined') {
         statsNumber.textContent = QUOTES_STATS.totalComments;
     }
 }
 
 function addNewQuote(quoteObj) {
     QUOTES_DATA.push(quoteObj);
-    QUOTES_STATS.totalComments++;
-    
-    const tickerScroll = document.getElementById('ticker-scroll');
+    if (typeof QUOTES_STATS !== 'undefined') QUOTES_STATS.totalComments++;
+
+    var tickerScroll = document.getElementById('ticker-scroll');
     if (tickerScroll) {
-        const item = createTickerItem(quoteObj);
+        var item = createTickerItem(quoteObj);
         tickerScroll.innerHTML += item + item;
     }
-    
+
     updateStats();
 }
