@@ -68,6 +68,10 @@ social:
 navigation:
   - title: Home
     url: /
+  - title: Public Voice
+    url: /public-voice/
+  - title: Gold Quotes
+    url: /gold-quotes/
   - title: The Family
     url: /family/
   - title: Evidence
@@ -78,10 +82,6 @@ navigation:
     url: /updates/
   - title: Media
     url: /media/
-  - title: Public Voice
-    url: /public-voice/
-  - title: Gold Quotes
-    url: /gold-quotes/
   - title: FAQ
     url: /faq/
   - title: About

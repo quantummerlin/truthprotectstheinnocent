@@ -8,6 +8,12 @@ document.addEventListener('DOMContentLoaded', function() {
     initTicker();
 });
 
+function getDailyQuote() {
+    var daysSinceEpoch = Math.floor(Date.now() / 86400000);
+    var idx = daysSinceEpoch % QUOTES_DATA.length;
+    return QUOTES_DATA[idx];
+}
+
 function initTicker() {
     var tickerScroll = document.getElementById('ticker-scroll');
 
@@ -16,9 +22,10 @@ function initTicker() {
         return;
     }
 
-    var tickerHTML = '';
+    var qotd = getDailyQuote();
+    var tickerHTML = createQOTDItem(qotd);
 
-    // Duplicate content for seamless looping
+    // All quotes x2 for seamless loop
     QUOTES_DATA.forEach(function(quote) {
         tickerHTML += createTickerItem(quote);
     });
@@ -37,6 +44,17 @@ function initTicker() {
     });
 
     updateStats();
+    injectHomepageVoices();
+}
+
+function createQOTDItem(quote) {
+    var flag = (typeof COUNTRY_FLAGS !== 'undefined' && COUNTRY_FLAGS[quote.country]) ? COUNTRY_FLAGS[quote.country] : '\uD83C\uDF0D';
+    return '<a href="/public-voice/" class="ticker-item ticker-qotd" data-category="' + quote.category + '">' +
+        '<span class="ticker-qotd-label">\u2B50 Today</span>' +
+        '<span class="ticker-flag">' + flag + '</span>' +
+        '<span class="ticker-quote">' + quote.text + '</span>' +
+        '<span class="ticker-author">' + quote.author + '</span>' +
+    '</a>';
 }
 
 function createTickerItem(quote) {
@@ -53,6 +71,31 @@ function updateStats() {
     if (statsNumber && typeof QUOTES_STATS !== 'undefined') {
         statsNumber.textContent = QUOTES_STATS.totalComments;
     }
+}
+
+// Inject 3 random voices into homepage #public-voices-strip if present
+function injectHomepageVoices() {
+    var strip = document.getElementById('public-voices-strip');
+    if (!strip || typeof QUOTES_DATA === 'undefined') return;
+
+    // Pick 3 diverse voices (one diamond, one gold, one random)
+    var diamonds = QUOTES_DATA.filter(function(q){ return q.rating === 'diamond'; });
+    var golds    = QUOTES_DATA.filter(function(q){ return q.rating === 'gold'; });
+    var day      = Math.floor(Date.now() / 86400000);
+
+    var picks = [
+        diamonds[day % diamonds.length],
+        golds[(day + 1) % golds.length],
+        QUOTES_DATA[(day * 7 + 3) % QUOTES_DATA.length]
+    ];
+
+    strip.innerHTML = picks.map(function(q) {
+        var flag = (typeof COUNTRY_FLAGS !== 'undefined' && COUNTRY_FLAGS[q.country]) ? COUNTRY_FLAGS[q.country] : '\uD83C\uDF0D';
+        return '<div class="pv-strip-card">' +
+            '<p class="pv-strip-quote">' + q.text + '</p>' +
+            '<div class="pv-strip-meta">' + flag + ' <strong>' + q.author + '</strong> \u2014 ' + q.country + '</div>' +
+        '</div>';
+    }).join('');
 }
 
 function addNewQuote(quoteObj) {

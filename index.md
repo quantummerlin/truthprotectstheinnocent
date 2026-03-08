@@ -248,6 +248,20 @@ updated: 2026-03-08-breaking
                 <a href="/public-voice/" class="stats-link">Read all voices →</a>
             </div>
         </div>
+
+        <!-- Dynamic daily voices strip -->
+        <div id="public-voices-strip" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1rem;margin-top:2rem;"></div>
+        <style>
+        .pv-strip-card { background: rgba(255,255,255,0.06); border: 1px solid rgba(243,156,18,0.2); border-radius: 12px; padding: 1.25rem 1.5rem; color: white; }
+        .pv-strip-quote { font-style: italic; font-size: 0.9rem; line-height: 1.65; color: #e0e0e0; margin: 0 0 0.75rem; }
+        .pv-strip-quote::before { content: '\201C'; color: #f39c12; }
+        .pv-strip-quote::after  { content: '\201D'; color: #f39c12; }
+        .pv-strip-meta { font-size: 0.8rem; color: #f39c12; font-weight: 600; }
+        </style>
+        <div style="text-align:center;margin-top:1.5rem;">
+            <a href="/public-voice/" class="btn" style="background:linear-gradient(135deg,#e67e22,#f39c12);color:#1a1a00;font-weight:700;border:none;padding:0.75rem 2rem;border-radius:2rem;">Read All 763 Voices →</a>
+            <a href="/gold-quotes/" class="btn btn-outline" style="color:white;border-color:rgba(255,255,255,0.3);margin-left:0.75rem;padding:0.75rem 2rem;border-radius:2rem;">🏅 Gold Quotes</a>
+        </div>
         <style>
         .stats-counter-wrapper { background: linear-gradient(135deg, #1a1a2e, #16213e); border-radius: 20px; padding: 30px; color: white; max-width: 800px; margin: 0 auto; }
         .stats-counter-header { display: flex; align-items: center; gap: 15px; margin-bottom: 25px; }

@@ -212,6 +212,29 @@ a.ticker-item:hover {
 
 .ticker-pause-indicator.visible { opacity: 1; }
 
+/* ---- Quote of the Day ---- */
+.ticker-item.ticker-qotd {
+    background: linear-gradient(135deg, rgba(243,156,18,0.18), rgba(243,156,18,0.06));
+    border-left: 3px solid #f39c12;
+    border-right: 3px solid rgba(243,156,18,0.3);
+    border-radius: 4px;
+    padding: 0 28px 0 14px;
+    margin-right: 8px;
+}
+.ticker-item.ticker-qotd .ticker-qotd-label {
+    font-size: 0.58rem;
+    font-weight: 900;
+    letter-spacing: 2px;
+    color: #f39c12;
+    text-transform: uppercase;
+    background: rgba(243,156,18,0.18);
+    padding: 1px 6px;
+    border-radius: 8px;
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+.ticker-item.ticker-qotd .ticker-quote { color: #fff8e7; }
+
 @keyframes ticker-scroll {
     0%   { transform: translateX(0); }
     100% { transform: translateX(-50%); }

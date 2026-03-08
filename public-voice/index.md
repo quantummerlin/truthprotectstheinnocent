@@ -22,24 +22,49 @@ lang: en
 
 .pv-filters {
     background: white;
-    padding: 1.5rem 0;
+    padding: 0.85rem 0;
     border-bottom: 2px solid #e5e7eb;
     position: sticky;
     top: 70px;
     z-index: 100;
     box-shadow: 0 2px 12px rgba(0,0,0,0.08);
 }
-.pv-filter-inner { display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center; justify-content: center; }
+.pv-filter-inner {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+    justify-content: flex-start;
+    overflow-x: auto;
+    padding: 0 1rem;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    flex-wrap: nowrap;
+}
+.pv-filter-inner::-webkit-scrollbar { display: none; }
+.pv-filter-inner::before {
+    content: 'Filter:';
+    font-size: 0.75rem;
+    font-weight: 700;
+    color: #9ca3af;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    white-space: nowrap;
+    flex-shrink: 0;
+    margin-right: 0.25rem;
+}
 .pv-filter-btn {
-    padding: 0.5rem 1.25rem;
+    padding: 0.4rem 1rem;
     border-radius: 2rem;
     border: 2px solid #e5e7eb;
     background: white;
-    font-size: 0.85rem;
+    font-size: 0.8rem;
     font-weight: 600;
     cursor: pointer;
     transition: all 0.2s;
     color: #374151;
+    white-space: nowrap;
+    flex-shrink: 0;
 }
 .pv-filter-btn:hover, .pv-filter-btn.active { background: #1a1a2e; color: white; border-color: #1a1a2e; }
 .pv-filter-btn[data-cat="action"].active { background: #e74c3c; border-color: #e74c3c; }
@@ -52,11 +77,13 @@ lang: en
 .pv-filter-btn[data-cat="supportive"].active { background: #27ae60; border-color: #27ae60; }
 
 .pv-search {
-    padding: 0.5rem 1.25rem;
+    padding: 0.4rem 1rem;
     border-radius: 2rem;
     border: 2px solid #e5e7eb;
-    font-size: 0.9rem;
-    width: 240px;
+    font-size: 0.85rem;
+    width: 180px;
+    min-width: 140px;
+    flex-shrink: 0;
     outline: none;
 }
 .pv-search:focus { border-color: #1a1a2e; }
