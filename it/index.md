@@ -1,12 +1,13 @@
 ---
 layout: default
-title: Catherine Birmingham e Nathan Trevallion | La Famiglia Nel Bosco
-description: "Tre bambini separati dai genitori Catherine Birmingham e Nathan Trevallion in Italia. Tre motivazioni ufficiali - tutte smentite. Aiuta a riunire Utopia, Galorian e Blue Bell. #TruthProtectsTheInnocent #LaFamigliaNelBosco"
+title: "BREAKING 8 Marzo — Bambini Spostati, Catherine Esclusa | La Famiglia Nel Bosco"
+description: "ULTIME NOTIZIE 8 marzo 2026: Dopo la trasmissione di 60 Minutes, le autorità italiane hanno spostato i bambini in una nuova struttura e vietato a Catherine di rimanervi. Tre motivazioni ufficiali — tutte smentite. #TruthProtectsTheInnocent #LaFamigliaNelBosco"
 lang: it
 image: /assets/images/og-image.jpg
+updated: 2026-03-08-breaking
 ---
 
-<!-- Hero Section: 60 Minutes Australia Feature -->
+<!-- Hero: Breaking News -->
 <section class="hero hero-60mins">
     <div class="hero-video-bg">
         <video autoplay muted loop playsinline>
@@ -16,41 +17,36 @@ image: /assets/images/og-image.jpg
     <div class="hero-overlay hero-overlay-60mins"></div>
     <div class="hero-content">
         <div class="sixty-mins-badge-wrap">
-            <span class="sixty-mins-badge" id="sixtyMinsBadge">
-                📺 STASERA SU 60 MINUTES AUSTRALIA — 20:45 AEST
+            <span class="sixty-mins-badge sixty-mins-badge-aired">
+                🚨 ULTIME NOTIZIE — 8 MARZO 2026
             </span>
         </div>
 
-        <h1 class="sixty-mins-headline">Il Mondo Sta Guardando</h1>
-        <p class="lead">Il programma di attualità più seguito dell'Australia racconta la storia di tre bambini allontanati dai genitori — e delle tre motivazioni ufficiali che si sono <strong>tutte rivelate false</strong>.</p>
+        <h1 class="sixty-mins-headline">Bambini Spostati. Catherine Esclusa.</h1>
+        <p class="lead">Dopo la trasmissione di 60 Minutes, le autorità italiane hanno deciso di trasferire i bambini in una <strong>nuova struttura</strong> — <strong>dove Catherine non può stare</strong>. L'addio è stato ripreso in video.</p>
 
-        <div class="sixty-mins-countdown" id="sixtyMinsCountdown">
-            <div class="countdown-item">
-                <span class="countdown-number" id="countHours">--</span>
-                <span class="countdown-label">ORE</span>
-            </div>
-            <div class="countdown-separator">:</div>
-            <div class="countdown-item">
-                <span class="countdown-number" id="countMinutes">--</span>
-                <span class="countdown-label">MINUTI</span>
-            </div>
-            <div class="countdown-separator">:</div>
-            <div class="countdown-item">
-                <span class="countdown-number" id="countSeconds">--</span>
-                <span class="countdown-label">SECONDI</span>
+        <!-- Riquadro Breaking -->
+        <div class="hero-alert-box">
+            <p style="color: #fef08a; font-weight: 700; font-size: 1rem; margin-bottom: 0.5rem;">📹 Guarda: Il Momento dell'Addio</p>
+            <p style="color: rgba(255,255,255,0.9); font-size: 0.95rem; line-height: 1.6; margin-bottom: 1rem;">Catherine è stata costretta a salutare i suoi bambini prima che fossero trasferiti. Attenzione — contenuto straziante.</p>
+            <div class="hero-alert-btns">
+                <a href="https://www.facebook.com/share/v/1HpVpWjzMC/" target="_blank" rel="noopener noreferrer"
+                   style="background: #1877f2; color: white; padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 700; font-size: 0.95rem; display: block; text-align: center;">▶ Guarda su Facebook</a>
+                <a href="https://www.youtube.com/watch?v=FZPMGep5CKU" target="_blank" rel="noopener noreferrer"
+                   style="background: rgba(255,255,255,0.15); color: white; border: 1.5px solid rgba(255,255,255,0.5); padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 600; font-size: 0.95rem; display: block; text-align: center;">▶ Guarda 60 Minutes su YouTube</a>
             </div>
         </div>
 
-        <div class="sixty-mins-trailer">
-            <div class="trailer-container" id="trailerContainer">
-                <video id="trailerVideo" playsinline preload="metadata" poster="">
-                    <source src="/assets/videos/60-minutes-trailer.mp4" type="video/mp4">
-                </video>
-                <button class="trailer-play-btn" id="trailerPlayBtn" aria-label="Guarda il trailer">
-                    <svg width="60" height="60" viewBox="0 0 60 60" fill="none"><circle cx="30" cy="30" r="30" fill="rgba(255,255,255,0.2)"/><circle cx="30" cy="30" r="28" stroke="white" stroke-width="2" fill="none"/><polygon points="24,18 24,42 44,30" fill="white"/></svg>
-                </button>
-                <span class="trailer-label">▶ Guarda l'anteprima</span>
-            </div>
+        <!-- Copertura TV Italiana -->
+        <div class="hero-tv-box">
+            <p style="color: white; font-weight: 700; font-size: 0.95rem; margin-bottom: 0.75rem; text-align: center;">📺 Canale 5 ha seguito la vicenda:</p>
+            <ul style="color: rgba(255,255,255,0.85); font-size: 0.9rem; line-height: 1.9; margin: 0; padding-left: 1.25rem; text-align: left;">
+                <li><a href="https://mediasetinfinity.mediaset.it/video/dentrolanotizia20252026/la-festa-di-compleanno-per-papa-nathan-senza-moglie-e-figli_F314098101128C09" target="_blank" rel="noopener" style="color: #fef08a;">Il compleanno di Nathan da solo</a> — <em>"il peggior compleanno della mia vita"</em></li>
+                <li><a href="https://mediasetinfinity.mediaset.it/video/dentrolanotizia20252026/famiglia-nel-bosco-compleanno-separato-per-i-gemellini_F314098101130C09" target="_blank" rel="noopener" style="color: #fef08a;">Il 7° compleanno dei gemelli — separati dai genitori</a></li>
+                <li><a href="https://mediasetinfinity.mediaset.it/video/dentrolanotizia20252026/famiglia-nel-bosco-la-zia-respinge-laccusa-di-condizionare-i-bimbi_F314098101126C11" target="_blank" rel="noopener" style="color: #fef08a;">La zia respinge le accuse su Canale 5</a></li>
+                <li><a href="https://mediasetinfinity.mediaset.it/video/dentrolanotizia20252026/famiglia-nel-bosco-compleanno-lontano-da-casa-per-i-gemellini-parla-la-zia_F314098101130C10" target="_blank" rel="noopener" style="color: #fef08a;">La zia parla del compleanno lontano da casa</a></li>
+                <li>L'avvocato esige: <strong style="color: white;">"Spiegate ai bambini perché la madre è stata cacciata"</strong></li>
+            </ul>
         </div>
 
         <div class="hero-stats sixty-mins-stats">
@@ -60,7 +56,7 @@ image: /assets/images/og-image.jpg
             </div>
             <div class="hero-stat">
                 <span class="hero-stat-number">🇮🇹</span>
-                <span class="hero-stat-label">Stampa<br>Italiana</span>
+                <span class="hero-stat-label">Canale 5<br>Italia</span>
             </div>
             <div class="hero-stat">
                 <span class="hero-stat-number">🌍</span>
@@ -69,74 +65,14 @@ image: /assets/images/og-image.jpg
         </div>
 
         <div class="hero-cta">
-            <a href="https://www.youtube.com/watch?v=FZPMGep5CKU" target="_blank" rel="noopener" class="btn btn-primary btn-lg btn-glow">▶ Guarda su YouTube</a>
-            <a href="https://www.facebook.com/share/1C7HNu7Knu/?mibextid=wwXIfr" target="_blank" rel="noopener" class="btn btn-secondary btn-lg">📘 Condividi su Facebook</a>
+            <a href="/it/petition/" class="btn btn-primary btn-lg btn-glow">🇺🇳 Firma la Petizione ONU</a>
+            <a href="/action/" class="btn btn-secondary btn-lg">Agisci Ora</a>
             <a href="/evidence/" class="btn btn-secondary btn-lg">Vedi Le Prove</a>
         </div>
 
-        <p class="sixty-mins-subtext">Tre bambini. Tre false accuse. Zero motivi validi.<br>Stasera, milioni scopriranno la verità.</p>
+        <p class="sixty-mins-subtext">Tre bambini. Tre false accuse. Zero motivi validi.<br>Catherine è ora esclusa dalla struttura dove sono tenuti i suoi figli.</p>
     </div>
 </section>
-
-<script>
-(function() {
-    const airTimeUTC = new Date(Date.UTC(2026, 2, 1, 9, 45, 0));
-    const showDurationMs = 90 * 60 * 1000;
-    const countdownEl = document.getElementById('sixtyMinsCountdown');
-    const badgeEl = document.getElementById('sixtyMinsBadge');
-    const hoursEl = document.getElementById('countHours');
-    const minutesEl = document.getElementById('countMinutes');
-    const secondsEl = document.getElementById('countSeconds');
-
-    function updateCountdown() {
-        const now = new Date();
-        const diff = airTimeUTC - now;
-        const afterShow = now - (airTimeUTC.getTime() + showDurationMs);
-
-        if (diff > 0) {
-            const h = Math.floor(diff / 3600000);
-            const m = Math.floor((diff % 3600000) / 60000);
-            const s = Math.floor((diff % 60000) / 1000);
-            hoursEl.textContent = String(h).padStart(2, '0');
-            minutesEl.textContent = String(m).padStart(2, '0');
-            secondsEl.textContent = String(s).padStart(2, '0');
-        } else if (afterShow < 0) {
-            countdownEl.innerHTML = '<div class="now-airing"><span class="now-airing-dot"></span> IN ONDA ORA SU 60 MINUTES</div>';
-            badgeEl.textContent = '🔴 IN DIRETTA — 60 Minutes Australia';
-            badgeEl.classList.add('sixty-mins-badge-live');
-        } else {
-            countdownEl.innerHTML = '<a href="https://www.9now.com.au/60-minutes" target="_blank" rel="noopener" class="btn btn-primary btn-lg btn-glow">Guarda su 9Now →</a>';
-            badgeEl.textContent = '📺 VISTO SU 60 MINUTES AUSTRALIA';
-            badgeEl.classList.remove('sixty-mins-badge-live');
-            badgeEl.classList.add('sixty-mins-badge-aired');
-            clearInterval(timer);
-        }
-    }
-
-    updateCountdown();
-    const timer = setInterval(updateCountdown, 1000);
-
-    const trailerVideo = document.getElementById('trailerVideo');
-    const playBtn = document.getElementById('trailerPlayBtn');
-    const trailerContainer = document.getElementById('trailerContainer');
-
-    if (playBtn && trailerVideo) {
-        playBtn.addEventListener('click', function() {
-            trailerVideo.controls = true;
-            trailerVideo.play();
-            playBtn.style.display = 'none';
-            trailerContainer.querySelector('.trailer-label').style.display = 'none';
-            trailerContainer.classList.add('trailer-playing');
-        });
-        trailerVideo.addEventListener('ended', function() {
-            playBtn.style.display = '';
-            trailerContainer.querySelector('.trailer-label').style.display = '';
-            trailerContainer.classList.remove('trailer-playing');
-            trailerVideo.controls = false;
-        });
-    }
-})();
-</script>
 
 <!-- ULTIME NOTIZIE - URGENTE -->
 <section style="background: linear-gradient(135deg, #dc2626 0%, #991b1b 100%); padding: 2rem 0; position: relative; overflow: hidden;">
