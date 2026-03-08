@@ -10,8 +10,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
 function initTicker() {
     var tickerScroll = document.getElementById('ticker-scroll');
-    var pauseIndicator = document.getElementById('pause-indicator');
-    var tickerWrapper = document.getElementById('quotes-ticker');
 
     if (!tickerScroll) {
         console.warn('Ticker element not found');
@@ -30,32 +28,24 @@ function initTicker() {
 
     tickerScroll.innerHTML = tickerHTML;
 
-    // Whole wrapper is clickable to pause/resume
-    if (tickerWrapper) {
-        tickerWrapper.addEventListener('click', function() {
-            var isPaused = tickerScroll.classList.toggle('paused');
-            tickerWrapper.classList.toggle('is-paused', isPaused);
-            if (pauseIndicator) {
-                if (isPaused) {
-                    pauseIndicator.textContent = '\u23F8 PAUSED \u2014 CLICK TO RESUME';
-                    pauseIndicator.classList.add('visible');
-                } else {
-                    pauseIndicator.classList.remove('visible');
-                }
-            }
-        });
-    }
+    // Pause scroll on hover so user can read; resume on mouse-leave
+    tickerScroll.addEventListener('mouseenter', function() {
+        this.style.animationPlayState = 'paused';
+    });
+    tickerScroll.addEventListener('mouseleave', function() {
+        this.style.animationPlayState = 'running';
+    });
 
     updateStats();
 }
 
 function createTickerItem(quote) {
     var flag = (typeof COUNTRY_FLAGS !== 'undefined' && COUNTRY_FLAGS[quote.country]) ? COUNTRY_FLAGS[quote.country] : '\uD83C\uDF0D';
-    return '<div class="ticker-item" data-category="' + quote.category + '">' +
+    return '<a href="/public-voice/" class="ticker-item" data-category="' + quote.category + '">' +
         '<span class="ticker-flag">' + flag + '</span>' +
         '<span class="ticker-quote">' + quote.text + '</span>' +
         '<span class="ticker-author">' + quote.author + '</span>' +
-    '</div>';
+    '</a>';
 }
 
 function updateStats() {
