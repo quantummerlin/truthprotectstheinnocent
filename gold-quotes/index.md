@@ -335,6 +335,18 @@ lang: en
                 "These children are not Italian."
                 <div class="gq-liner-attr">— Mariana Lant, International 🌍</div>
             </div>
+            <div class="gq-liner">
+                "30,000 minors taken from their families… and they speak only of one family."
+                <div class="gq-liner-attr">— Cristian Pesaresi, Italy 🇮🇹</div>
+            </div>
+            <div class="gq-liner">
+                "Not just that family — they have destroyed many, creating an insurmountable wall."
+                <div class="gq-liner-attr">— Vita Maria Nardiello, Italy 🇮🇹</div>
+            </div>
+            <div class="gq-liner">
+                "The law should protect the weakest — not divide them from their mothers."
+                <div class="gq-liner-attr">— Angelina Ambrosio, Italy 🇮🇹</div>
+            </div>
         </div>
     </div>
 </div>
@@ -344,13 +356,13 @@ lang: en
     <div class="container">
         <p>Every voice on this page is real. Every name is a person who chose to speak up publicly.</p>
         <div class="gq-stats-row">
-            <div class="gq-stat"><div class="n">243</div><div class="l">Public Comments</div></div>
-            <div class="gq-stat"><div class="n">0</div><div class="l">Supporto la Rimozione</div></div>
-            <div class="gq-stat"><div class="n">8</div><div class="l">Countries</div></div>
-            <div class="gq-stat"><div class="n">100%</div><div class="l">Support Reunion</div></div>
+            <div class="gq-stat"><div class="n">763</div><div class="l">Public Comments</div></div>
+            <div class="gq-stat"><div class="n">678</div><div class="l">Unique Voices</div></div>
+            <div class="gq-stat"><div class="n">10+</div><div class="l">Countries</div></div>
+            <div class="gq-stat"><div class="n">95%</div><div class="l">Support Reunion</div></div>
         </div>
         <div style="margin-top: 3rem; display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
-            <a href="/public-voice/" class="btn btn-primary" style="background: #f39c12; border-color: #f39c12; color: #1a1a00;">See All 243 Voices</a>
+            <a href="/public-voice/" class="btn btn-primary" style="background: #f39c12; border-color: #f39c12; color: #1a1a00;">See All 763 Voices</a>
             <a href="/petition/" class="btn btn-secondary">Sign the UN Petition</a>
             <a href="/action/" class="btn btn-outline" style="border-color: rgba(255,255,255,0.3); color: white;">Take Action Now</a>
         </div>

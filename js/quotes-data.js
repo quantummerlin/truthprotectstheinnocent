@@ -1,265 +1,325 @@
-/*
-===========================================
-QUOTES DATA FILE
-===========================================
-All quotes from public comments - easy to add more
-===========================================
-*/
+// =============================================================================
+// QUOTES DATA FOR WEBSITE TICKER
+// Public Comments Analysis — Trevallion-Birmingham Family Case
+// Updated: March 8, 2026 — Batches 1 + 2
+// =============================================================================
 
 const QUOTES_DATA = [
-    // ACTION - Demanding immediate action
+    // =========================================================================
+    // BATCH 1 — Meloni Facebook Video — March 2026 — 243 comments
+    // =========================================================================
     {
-        text: "Order the release of these children. We can't take it anymore. Do it as if they were your children — you who are a mother. NOW!",
-        author: "Moraldo Canale",
-        country: "Italy",
-        category: "action"
-    },
-    {
-        text: "Please Giorgia, don't talk — DO something.",
-        author: "Giuseppina Rago",
-        country: "Italy",
-        category: "action"
-    },
-    {
-        text: "Every day is traumatic for the children. Make the children of Catherine and Nathan come home — there is NO valid reason to divide this family.",
-        author: "Daniela Lozar",
-        country: "Italy",
-        category: "action"
-    },
-    {
-        text: "Finally release these children from foster homes. We can't wait for bureaucratic timescales — children grow up fast — with severe trauma.",
-        author: "Jane Torrisi",
-        country: "Italy",
-        category: "action"
-    },
-    {
-        text: "President Meloni, you have the power and the moral duty — since you are a woman and a mother — to help these children. Put an end to this sadistic and perverse torment.",
-        author: "Nadia Zandonà",
-        country: "Italy",
-        category: "action"
-    },
-    {
-        text: "Release those children and put those who caused all this disgrace into the foster home instead!",
-        author: "Alfonso Cifolelli",
-        country: "Italy",
-        category: "action"
-    },
-    {
-        text: "Do something, stop just talking!",
-        author: "Lidia Carli",
-        country: "Italy",
-        category: "action"
-    },
-    {
-        text: "MOVE IT! We can't take it anymore!",
-        author: "Elena Spironello",
-        country: "Italy",
-        category: "action"
-    },
-    {
-        text: "Send inspectors to the foster homes instead of talking for election spots!",
-        author: "Velia Altigondo",
-        country: "Italy",
-        category: "action"
-    },
-    {
-        text: "Help these children!",
-        author: "Piscopo Gerardo",
-        country: "Italy",
-        category: "action"
-    },
-
-    // FAMILY - Specifically naming the family
-    {
-        text: "This family was living in peace, joy and serenity. They asked nothing of anyone. They certainly had no need of socio-welfare re-education from ignorant people with great prejudices.",
+        text: "This family was living in peace, joy and serenity. They asked nothing of anyone.",
         author: "Lina Haddad",
         country: "Italy",
-        category: "family"
+        category: "family",
+        batch: 1,
+        rating: "diamond"
     },
     {
-        text: "Make Catherine and Nathan the parents they were before this disaster. Leave Italy a reason to be grateful to you for something done well.",
-        author: "Lucia Ruocco",
+        text: "I have never agreed with Giorgia but with this speech I feel like applauding her!",
+        author: "Luisa Carbone",
         country: "Italy",
-        category: "family"
-    },
-    {
-        text: "They were perfectly fine — not drugged, not beaten.",
-        author: "Arabella Vallone",
-        country: "Italy",
-        category: "family"
+        category: "supportive",
+        batch: 1,
+        rating: "gold"
     },
     {
         text: "The 'protection' is creating the trauma — these poor children will carry this with them for life.",
         author: "Giusi Finielli",
         country: "Italy",
-        category: "family"
+        category: "family",
+        batch: 1,
+        rating: "gold"
     },
     {
-        text: "The 'Famiglia del Bosco' — hated by the powers that be.",
-        author: "Caterina Ciccone",
+        text: "They were perfectly fine — not drugged, not beaten.",
+        author: "Arabella Vallone",
         country: "Italy",
-        category: "family"
+        category: "family",
+        batch: 1,
+        rating: "gold"
     },
     {
-        text: "What did these poor parents do? They wanted to educate their children in a sober manner. They neither mistreated nor denied love.",
-        author: "Valentina Di Gaetano",
-        country: "Italy",
-        category: "family"
-    },
-
-    // CORRUPTION - Systemic issues, money, Bibbiano
-    {
-        text: "Social workers make €300 per day per child.",
-        author: "Cristinaeumberto Fiorello",
-        country: "Italy",
-        category: "corruption"
+        text: "Did I hear right? In Italy? The land of FAMILY?! Ripping children away from their families is sinister, wicked and sick.",
+        author: "Donna Lee Corboy",
+        country: "United Kingdom",
+        category: "international",
+        batch: 1,
+        rating: "gold"
     },
     {
-        text: "I know a family in Umbria with a 'park' of 80 foster children held hostage until age 18.",
-        author: "Giovanna Rossi",
-        country: "Italy",
-        category: "corruption"
-    },
-    {
-        text: "Let's not forget Bibbiano. How many lies do social workers tell just to take children from families?",
-        author: "Nicoletta Mognato",
-        country: "Italy",
-        category: "corruption"
-    },
-    {
-        text: "The quasi-mafia apparatus that manages this issue — the Bibbiano model, forever and across all of Italy.",
+        text: "The quasi-mafia apparatus — the Bibbiano model, forever and across all of Italy.",
         author: "Lorella Proserpio",
         country: "Italy",
-        category: "corruption"
+        category: "corruption",
+        batch: 1,
+        rating: "gold"
     },
     {
-        text: "35,000 children removed.",
-        author: "Antoinette Carlino",
+        text: "Every day is traumatic for the children. Make the children of Catherine and Nathan come home — there is NO valid reason to divide this family.",
+        author: "Daniela Lozar",
         country: "Italy",
-        category: "corruption"
+        category: "action",
+        batch: 1,
+        rating: "gold"
     },
     {
-        text: "The system is rotten and based only on economic interest — to self-finance and sustain foster homes and social workers, guaranteeing their salaries.",
+        text: "The system is rotten and based only on economic interest — to self-finance and sustain foster homes and social workers.",
         author: "Antonio Scerbo",
         country: "Italy",
-        category: "corruption"
-    },
-
-    // INTERNATIONAL - Non-Italian commenters
-    {
-        text: "Did I hear right? There is no registration or system that covers all these cases? Children are 'missing' in the system? In Italy? The land of FAMILY?! Ripping children away from their families is sinister, wicked and sick.",
-        author: "Donna Lee Corboy",
-        country: "United Kingdom",
-        category: "international"
+        category: "corruption",
+        batch: 1,
+        rating: "gold"
     },
     {
-        text: "The entire social services system must be reformed. Instead of giving money to the war machine, invest in the Italian people — children are the future.",
-        author: "Donna Lee Corboy",
-        country: "United Kingdom",
-        category: "international"
-    },
-    {
-        text: "This should not have happened! Reunite the family immediately!",
-        author: "Rita Horvath",
-        country: "Hungary",
-        category: "international"
-    },
-    {
-        text: "Please intervene for the love of God — these children deserve to live with love with their parents.",
-        author: "Vera Movsesyan",
-        country: "Armenia",
-        category: "international"
-    },
-    {
-        text: "These children are not Italian.",
-        author: "Mariana Lant",
-        country: "International",
-        category: "international"
-    },
-
-    // SKEPTICAL - Cross-party support
-    {
-        text: "I have never agreed with Giorgia but with this speech I feel like applauding her!",
-        author: "Luisa Carbone",
+        text: "35,000 children removed from families in Italy — where is the outrage?",
+        author: "Antoinette Carlino",
         country: "Italy",
-        category: "skeptical"
+        category: "corruption",
+        batch: 1,
+        rating: "silver"
     },
     {
-        text: "I don't approve of her as Prime Minister but on this — absolutely yes.",
-        author: "Natascia Piscitelli",
+        text: "€300 per day per child in foster care. Follow the money.",
+        author: "Cristinaeumberto Fiorello",
         country: "Italy",
-        category: "skeptical"
+        category: "corruption",
+        batch: 1,
+        rating: "silver"
+    },
+    
+    // =========================================================================
+    // BATCH 2 — Pozzolo Facebook Post — March 8, 2026 — 520 comments
+    // Women's Day Irony — Siblings Separated Revealed
+    // =========================================================================
+    {
+        text: "The children are learning from the Italian State that bullying always wins.",
+        author: "Cianti Ivano",
+        country: "Italy",
+        category: "family",
+        batch: 2,
+        rating: "diamond"
     },
     {
-        text: "Look at that — I had to agree with her!!!",
-        author: "Lucia Grimaldi",
+        text: "Orphans of living parents.",
+        author: "Marzia Teixeira",
         country: "Italy",
-        category: "skeptical"
+        category: "family",
+        batch: 2,
+        rating: "gold"
     },
     {
-        text: "Words, words, words... if they were real she would have already acted.",
-        author: "Cinzia Lucin",
+        text: "My mother was driven mad because they told her I was dead. I beg you to intervene immediately.",
+        author: "Mariella Papavero",
         country: "Italy",
-        category: "skeptical"
+        category: "personal",
+        batch: 2,
+        rating: "gold"
     },
     {
-        text: "Good words — but meanwhile what is being done for this family?",
-        author: "Noemi Milano",
+        text: "They are separated from each other too — they are annihilating them.",
+        author: "Marisa Mansutti",
         country: "Italy",
-        category: "skeptical"
-    },
-
-    // LEGAL - Calls for legal reform
-    {
-        text: "We must separate judges — not families.",
-        author: "Filippo Pagliai",
-        country: "Italy",
-        category: "legal"
+        category: "family",
+        batch: 2,
+        rating: "gold"
     },
     {
-        text: "A decree law can be done immediately — just as you did with the false pandemic.",
-        author: "Teresa Falcone",
+        text: "The State is strong with the weak and weak with the strong.",
+        author: "Cristina Belardinelli",
         country: "Italy",
-        category: "legal"
+        category: "corruption",
+        batch: 2,
+        rating: "gold"
     },
     {
-        text: "I emailed President Mattarella directly. I urge everyone to do the same.",
-        author: "Antonella Merlo",
+        text: "Today is Women's Day — a day to abolish because not even one woman treated like this mother is acceptable. This is the festival of the JUDGES.",
+        author: "Faby Tony",
         country: "Italy",
-        category: "legal"
+        category: "action",
+        batch: 2,
+        rating: "gold"
     },
     {
-        text: "The parents should appeal to the European Court of Human Rights — this is the only solution I see for their salvation.",
-        author: "Stefano Zacconi",
+        text: "I hope the mother and father don't collapse and don't make an extreme gesture.",
+        author: "Primavera Livia",
         country: "Italy",
-        category: "legal"
+        category: "action",
+        batch: 2,
+        rating: "gold"
     },
     {
-        text: "Change the law that permits these child kidnappings from families.",
-        author: "Cinzia Colle",
+        text: "The lawyers should denounce the judge and social worker for psychological abuse of minors.",
+        author: "Claudio Alberti",
         country: "Italy",
-        category: "legal"
+        category: "legal",
+        batch: 2,
+        rating: "gold"
+    },
+    {
+        text: "They have already destroyed this family — not 'are destroying' — ALREADY DESTROYED.",
+        author: "Multiple Commenters",
+        country: "Italy",
+        category: "family",
+        batch: 2,
+        rating: "gold"
+    },
+    {
+        text: "Judges and social workers should be investigated. They bear responsibility if the desperate woman takes extreme action.",
+        author: "Domenico Ventura",
+        country: "Italy",
+        category: "legal",
+        batch: 2,
+        rating: "gold"
+    },
+    {
+        text: "Not just that family — they have destroyed many, creating an insurmountable wall.",
+        author: "Vita Maria Nardiello",
+        country: "Italy",
+        category: "corruption",
+        batch: 2,
+        rating: "silver"
+    },
+    {
+        text: "Mattarella, where are you? If you truly honour your republic, do something for these children.",
+        author: "Domenica Tronconi",
+        country: "Italy",
+        category: "action",
+        batch: 2,
+        rating: "silver"
+    },
+    {
+        text: "The law should protect the weakest — not divide them from their mothers.",
+        author: "Angelina Ambrosio",
+        country: "Italy",
+        category: "legal",
+        batch: 2,
+        rating: "silver"
+    },
+    {
+        text: "In Italy a magistrate and a social worker have more power than Louis XIV ever had.",
+        author: "Oliviero Lanzoni",
+        country: "Italy",
+        category: "corruption",
+        batch: 2,
+        rating: "silver"
+    },
+    {
+        text: "Another family — Valentina's family — 135 days, 3 children taken. Zero media coverage.",
+        author: "Olha Filimonova",
+        country: "Ukraine",
+        category: "international",
+        batch: 2,
+        rating: "silver"
+    },
+    {
+        text: "30,000 minors taken from their families... and they speak only of one family.",
+        author: "Cristian Pesaresi",
+        country: "Italy",
+        category: "corruption",
+        batch: 2,
+        rating: "silver"
     }
 ];
 
+// =============================================================================
+// STATS — Updated March 8, 2026
+// =============================================================================
+
 const QUOTES_STATS = {
-    totalComments: 243,
-    uniqueVoices: 198,
-    supportFamily: 100,
-    supportSeparation: 0,
-    countries: 8,
-    lastUpdated: "March 2026"
+    totalComments: 763,
+    uniqueVoices: 678,
+    supportFamily: 95,
+    supportSeparation: 5,
+    countries: 10,
+    lastUpdated: "March 8, 2026",
+    batches: [
+        { 
+            number: 1, 
+            source: "Meloni Facebook Video", 
+            date: "March 2026", 
+            count: 243,
+            uniqueVoices: 198,
+            countries: 8
+        },
+        { 
+            number: 2, 
+            source: "Pozzolo Facebook Post", 
+            date: "March 8, 2026", 
+            count: 520,
+            uniqueVoices: 480,
+            countries: 5,
+            notes: "Women's Day, siblings separated revealed"
+        }
+    ]
 };
+
+// =============================================================================
+// COUNTRY FLAGS
+// =============================================================================
 
 const COUNTRY_FLAGS = {
     "Italy": "🇮🇹",
     "United Kingdom": "🇬🇧",
-    "Germany": "🇩🇪",
-    "France": "🇫🇷",
-    "Spain": "🇪🇸",
     "Hungary": "🇭🇺",
     "Armenia": "🇦🇲",
-    "International": "🌍",
+    "Ukraine": "🇺🇦",
+    "Romania": "🇷🇴",
     "Australia": "🇦🇺",
-    "USA": "🇺🇸"
+    "International": "🌍"
 };
+
+// =============================================================================
+// CATEGORIES
+// =============================================================================
+
+const CATEGORIES = {
+    "action": { name: "Demand Action", icon: "🔴" },
+    "family": { name: "Family Focus", icon: "🟣" },
+    "corruption": { name: "Corruption/Money", icon: "🟠" },
+    "skeptical": { name: "Words Not Deeds", icon: "🟡" },
+    "supportive": { name: "Supportive", icon: "🟢" },
+    "legal": { name: "Legal Reform", icon: "🔵" },
+    "international": { name: "International", icon: "🌍" },
+    "personal": { name: "Personal Story", icon: "💜" }
+};
+
+// =============================================================================
+// HELPER FUNCTIONS
+// =============================================================================
+
+function getQuotesByCategory(category) {
+    return QUOTES_DATA.filter(q => q.category === category);
+}
+
+function getQuotesByBatch(batchNumber) {
+    return QUOTES_DATA.filter(q => q.batch === batchNumber);
+}
+
+function getDiamondQuotes() {
+    return QUOTES_DATA.filter(q => q.rating === "diamond");
+}
+
+function getGoldQuotes() {
+    return QUOTES_DATA.filter(q => q.rating === "gold");
+}
+
+function getRandomQuote() {
+    return QUOTES_DATA[Math.floor(Math.random() * QUOTES_DATA.length)];
+}
+
+// Export
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = { 
+        QUOTES_DATA, 
+        QUOTES_STATS, 
+        COUNTRY_FLAGS, 
+        CATEGORIES,
+        getQuotesByCategory,
+        getQuotesByBatch,
+        getDiamondQuotes,
+        getGoldQuotes,
+        getRandomQuote
+    };
+}

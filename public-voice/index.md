@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Public Voice — 243 People Speak Out"
-description: "243 public comments from Italy and around the world demanding the release of Utopia, Galorian and Blue Bell. 100% support the family. Voices from 8 countries."
+title: "Public Voice — 763 Voices Speak Out"
+description: "763 public comments from Italy and around the world demanding the release of Utopia, Galorian and Blue Bell. 95% support the family. Voices from 10+ countries."
 permalink: /public-voice/
 lang: en
 ---
@@ -48,6 +48,8 @@ lang: en
 .pv-filter-btn[data-cat="international"].active { background: #1abc9c; border-color: #1abc9c; }
 .pv-filter-btn[data-cat="skeptical"].active { background: #f39c12; border-color: #f39c12; }
 .pv-filter-btn[data-cat="legal"].active { background: #3498db; border-color: #3498db; }
+.pv-filter-btn[data-cat="personal"].active { background: #e91e8c; border-color: #e91e8c; }
+.pv-filter-btn[data-cat="supportive"].active { background: #27ae60; border-color: #27ae60; }
 
 .pv-search {
     padding: 0.5rem 1.25rem;
@@ -137,14 +139,17 @@ lang: en
 <div class="pv-hero">
     <div class="container">
         <h1>The World Speaks Out</h1>
-        <p>Hundreds of people — from Italy and around the world — have publicly commented, demanding the immediate return of Utopia, Galorian and Blue Bell to their parents.</p>
+        <p>Hundreds of people — from Italy and around the world — have publicly commented across two sources, demanding the immediate return of Utopia, Galorian and Blue Bell to their parents.</p>
         <div class="pv-hero-stats">
-            <div class="pv-hero-stat"><div class="num">243</div><div class="lbl">Public Comments</div></div>
-            <div class="pv-hero-stat"><div class="num">198</div><div class="lbl">Unique Voices</div></div>
-            <div class="pv-hero-stat"><div class="num">100%</div><div class="lbl">Support the Family</div></div>
-            <div class="pv-hero-stat"><div class="num">8</div><div class="lbl">Countries</div></div>
+            <div class="pv-hero-stat"><div class="num">763</div><div class="lbl">Public Comments</div></div>
+            <div class="pv-hero-stat"><div class="num">678</div><div class="lbl">Unique Voices</div></div>
+            <div class="pv-hero-stat"><div class="num">95%</div><div class="lbl">Support the Family</div></div>
+            <div class="pv-hero-stat"><div class="num">10+</div><div class="lbl">Countries</div></div>
         </div>
-        <p style="font-size:0.9rem; color: rgba(255,255,255,0.5);">Not one single public comment supports the removal. Every voice demands reunification.</p>
+        <div style="display:flex;gap:2rem;justify-content:center;flex-wrap:wrap;margin-top:1rem;">
+            <div style="background:rgba(255,255,255,0.08);border-radius:0.75rem;padding:0.75rem 1.25rem;font-size:0.85rem;color:rgba(255,255,255,0.7);">📣 Batch 1: Meloni Facebook · 243 comments</div>
+            <div style="background:rgba(243,156,18,0.15);border:1px solid rgba(243,156,18,0.3);border-radius:0.75rem;padding:0.75rem 1.25rem;font-size:0.85rem;color:rgba(255,255,255,0.85);">🆕 Batch 2: Pozzolo Facebook · 520 comments · March 8, 2026 (Women's Day)</div>
+        </div>
     </div>
 </div>
 
@@ -155,10 +160,12 @@ lang: en
             <button class="pv-filter-btn active" data-cat="all">All Voices</button>
             <button class="pv-filter-btn" data-cat="action">⚡ Demanding Action</button>
             <button class="pv-filter-btn" data-cat="family">💜 For the Family</button>
-            <button class="pv-filter-btn" data-cat="corruption">🔥 Systemic Corruption</button>
+            <button class="pv-filter-btn" data-cat="corruption">🔥 Corruption</button>
             <button class="pv-filter-btn" data-cat="international">🌍 International</button>
             <button class="pv-filter-btn" data-cat="skeptical">🤔 Cross-Party</button>
             <button class="pv-filter-btn" data-cat="legal">⚖️ Legal Reform</button>
+            <button class="pv-filter-btn" data-cat="personal">💔 Personal Story</button>
+            <button class="pv-filter-btn" data-cat="supportive">🟢 Supportive</button>
             <input type="search" class="pv-search" id="pv-search" placeholder="Search quotes…">
         </div>
     </div>
@@ -166,7 +173,7 @@ lang: en
 
 <!-- Count bar -->
 <div class="pv-count-bar" id="pv-count-bar">
-    Showing <strong id="pv-visible-count">—</strong> of <strong>243</strong> voices
+    Showing <strong id="pv-visible-count">—</strong> of <strong>763</strong> voices
 </div>
 
 <!-- Quote Grid -->
@@ -201,7 +208,9 @@ lang: en
         corruption: 'Systemic Corruption',
         international: 'International',
         skeptical: 'Cross-Party',
-        legal: 'Legal Reform'
+        legal: 'Legal Reform',
+        personal: 'Personal Story',
+        supportive: 'Supportive'
     };
 
     // Render cards

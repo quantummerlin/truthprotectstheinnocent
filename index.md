@@ -223,28 +223,28 @@ updated: 2026-03-08-breaking
             </div>
             <div class="stats-counter-grid">
                 <div class="stat-item">
-                    <div class="stat-number" id="stat-comments">243</div>
+                    <div class="stat-number" id="stat-comments">763</div>
                     <div class="stat-label">Public Comments</div>
-                    <div class="stat-change up">↑ Growing daily</div>
+                    <div class="stat-change up">↑ 2 sources analysed</div>
                 </div>
                 <div class="stat-item">
-                    <div class="stat-number" id="stat-voices">198</div>
+                    <div class="stat-number" id="stat-voices">678</div>
                     <div class="stat-label">Unique Voices</div>
-                    <div class="stat-change up">↑ +12 today</div>
+                    <div class="stat-change up">↑ +480 batch 2</div>
                 </div>
                 <div class="stat-item highlight">
-                    <div class="stat-number" id="stat-support">100%</div>
+                    <div class="stat-number" id="stat-support">95%</div>
                     <div class="stat-label">Support Family</div>
-                    <div class="stat-change">Unanimous</div>
+                    <div class="stat-change">763 comments</div>
                 </div>
                 <div class="stat-item">
-                    <div class="stat-number" id="stat-countries">8</div>
+                    <div class="stat-number" id="stat-countries">10</div>
                     <div class="stat-label">Countries</div>
                     <div class="stat-change up">↑ International</div>
                 </div>
             </div>
             <div class="stats-counter-footer">
-                <span>Last updated: <span id="stats-date">March 2026</span></span>
+                <span>Last updated: <span id="stats-date">March 8, 2026</span></span>
                 <a href="/public-voice/" class="stats-link">Read all voices →</a>
             </div>
         </div>
