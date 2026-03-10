@@ -1,0 +1,46 @@
+<!-- STATS COUNTER COMPONENT -->
+<!-- Paste this into your website where you want the stats to appear -->
+
+<link rel="stylesheet" href="css/ticker.css">
+<div class="stats-counter"></div>
+
+<script src="js/quotes-data.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    var statsContainer = document.querySelector('.stats-counter');
+    if (statsContainer && typeof QUOTES_STATS !== 'undefined') {
+        statsContainer.innerHTML = `
+            <div class="stat-item">
+                <span class="stat-number">${QUOTES_STATS.totalComments.toLocaleString()}</span>
+                <span class="stat-label">Comments Analysed</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-number">${QUOTES_STATS.uniqueVoices.toLocaleString()}</span>
+                <span class="stat-label">Unique Voices</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-number stat-highlight">${QUOTES_STATS.supportFamily}%</span>
+                <span class="stat-label">Support Family</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-number stat-warning">${QUOTES_STATS.supportSeparation}%</span>
+                <span class="stat-label">Support Separation</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-number">${QUOTES_STATS.countries}+</span>
+                <span class="stat-label">Countries</span>
+            </div>
+        `;
+    }
+});
+</script>
+
+<!-- 
+CURRENT STATS (March 8, 2026):
+- 763 comments analysed
+- 678 unique voices
+- 95% support family reunification
+- 5% support separation
+- 10+ countries represented
+-->
+<script src="https://sites.super.myninja.ai/_assets/ninja-daytona-script.js"></script>

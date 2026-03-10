@@ -1,7 +1,7 @@
 // =============================================================================
 // QUOTES DATA FOR WEBSITE TICKER
 // Public Comments Analysis — Trevallion-Birmingham Family Case
-// Updated: March 10, 2026 — Batches 1 + 2 + 3
+// Updated: March 8, 2026 — Batches 1 + 2
 // =============================================================================
 
 const QUOTES_DATA = [
@@ -220,110 +220,20 @@ const QUOTES_DATA = [
         category: "corruption",
         batch: 2,
         rating: "silver"
-    },
-
-    // =========================================================================
-    // BATCH 3 — Pozzolo Facebook Reel — March 10, 2026 — 472 comments
-    // Source: facebook.com/reel/1924420691613532
-    // =========================================================================
-    {
-        text: "Excuse me — but can anyone tell me what really lies behind this persecution?",
-        author: "Paolo Zennaro",
-        country: "Italy",
-        category: "corruption",
-        batch: 3,
-        rating: "diamond",
-        likes: 115
-    },
-    {
-        text: "Everyone says the same things — but nobody has the power to intervene and put an end to this outrage.",
-        author: "Sofia Massari",
-        country: "Italy",
-        category: "action",
-        batch: 3,
-        rating: "gold",
-        likes: 102
-    },
-    {
-        text: "Without words... these judges and social workers should go dig the fields and remember that karma exists.",
-        author: "Rosanna Colombarini",
-        country: "Italy",
-        category: "corruption",
-        batch: 3,
-        rating: "gold",
-        likes: 52
-    },
-    {
-        text: "Expropriated like state property — infinite shame!",
-        author: "Fiorella Moriano",
-        country: "Italy",
-        category: "family",
-        batch: 3,
-        rating: "gold",
-        likes: 24
-    },
-    {
-        text: "Is it really possible that nobody has the power to bring these children home to their parents?",
-        author: "Paola De Santi",
-        country: "Italy",
-        category: "action",
-        batch: 3,
-        rating: "gold",
-        likes: 12
-    },
-    {
-        text: "At this point it is just an absurd, illegal, unnatural tug of war. What do you expect from children and a mother held prisoner? Everything they do is an act of legitimate self-defence.",
-        author: "Antonino Mascali",
-        country: "Italy",
-        category: "legal",
-        batch: 3,
-        rating: "gold"
-    },
-    {
-        text: "When the suffering of three children is at stake, transparency must be total. We need clarity, truth and justice.",
-        author: "Giovanni Romano",
-        country: "Italy",
-        category: "legal",
-        batch: 3,
-        rating: "gold"
-    },
-    {
-        text: "Not just that family — they have destroyed many without anyone being heard, creating an insurmountable wall.",
-        author: "Vita Maria Nardiello",
-        country: "Italy",
-        category: "corruption",
-        batch: 3,
-        rating: "silver"
-    },
-    {
-        text: "Honestly, in this case I am ashamed to be Italian.",
-        author: "Antonella Sampaolesi",
-        country: "Italy",
-        category: "family",
-        batch: 3,
-        rating: "silver"
-    },
-    {
-        text: "Make judges and social workers personally liable — citizens should not pay to keep children in facilities against their will for no valid reason.",
-        author: "Savoia Marianna",
-        country: "Italy",
-        category: "legal",
-        batch: 3,
-        rating: "silver"
     }
 ];
 
 // =============================================================================
-// STATS — Updated March 10, 2026
+// STATS — Updated March 8, 2026
 // =============================================================================
 
 const QUOTES_STATS = {
-    totalComments: 1235,
-    uniqueVoices: 1058,
-    supportFamily: 96,
-    supportSeparation: 4,
-    countries: 12,
-    lastUpdated: "March 10, 2026",
+    totalComments: 763,
+    uniqueVoices: 678,
+    supportFamily: 95,
+    supportSeparation: 5,
+    countries: 10,
+    lastUpdated: "March 8, 2026",
     batches: [
         { 
             number: 1, 
@@ -341,15 +251,6 @@ const QUOTES_STATS = {
             uniqueVoices: 480,
             countries: 5,
             notes: "Women's Day, siblings separated revealed"
-        },
-        {
-            number: 3,
-            source: "Pozzolo Facebook Reel",
-            date: "March 10, 2026",
-            count: 472,
-            uniqueVoices: 380,
-            countries: 4,
-            notes: "Viral reel — 115-like top comment asking what lies behind the persecution"
         }
     ]
 };

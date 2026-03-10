@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Public Voice — 763 Voices Speak Out"
-description: "763 public comments from Italy and around the world demanding the release of Utopia, Galorian and Blue Bell. 95% support the family. Voices from 10+ countries."
+title: "Public Voice — 1,235 Voices Speak Out"
+description: "1,235 public comments from Italy and around the world demanding the release of Utopia, Galorian and Blue Bell. 96% support the family. Voices from 12+ countries."
 permalink: /public-voice/
 lang: en
 ---
@@ -168,14 +168,15 @@ lang: en
         <h1>The World Speaks Out</h1>
         <p>Hundreds of people — from Italy and around the world — have publicly commented across two sources, demanding the immediate return of Utopia, Galorian and Blue Bell to their parents.</p>
         <div class="pv-hero-stats">
-            <div class="pv-hero-stat"><div class="num">763</div><div class="lbl">Public Comments</div></div>
-            <div class="pv-hero-stat"><div class="num">678</div><div class="lbl">Unique Voices</div></div>
-            <div class="pv-hero-stat"><div class="num">95%</div><div class="lbl">Support the Family</div></div>
-            <div class="pv-hero-stat"><div class="num">10+</div><div class="lbl">Countries</div></div>
+            <div class="pv-hero-stat"><div class="num">1,235</div><div class="lbl">Public Comments</div></div>
+            <div class="pv-hero-stat"><div class="num">1,058</div><div class="lbl">Unique Voices</div></div>
+            <div class="pv-hero-stat"><div class="num">96%</div><div class="lbl">Support the Family</div></div>
+            <div class="pv-hero-stat"><div class="num">12+</div><div class="lbl">Countries</div></div>
         </div>
         <div style="display:flex;gap:2rem;justify-content:center;flex-wrap:wrap;margin-top:1rem;">
             <div style="background:rgba(255,255,255,0.08);border-radius:0.75rem;padding:0.75rem 1.25rem;font-size:0.85rem;color:rgba(255,255,255,0.7);">📣 Batch 1: Meloni Facebook · 243 comments</div>
-            <div style="background:rgba(243,156,18,0.15);border:1px solid rgba(243,156,18,0.3);border-radius:0.75rem;padding:0.75rem 1.25rem;font-size:0.85rem;color:rgba(255,255,255,0.85);">🆕 Batch 2: Pozzolo Facebook · 520 comments · March 8, 2026 (Women's Day)</div>
+            <div style="background:rgba(255,255,255,0.08);border-radius:0.75rem;padding:0.75rem 1.25rem;font-size:0.85rem;color:rgba(255,255,255,0.7);">📣 Batch 2: Pozzolo Facebook · 520 comments · March 8, 2026 (Women's Day)</div>
+            <div style="background:rgba(243,156,18,0.15);border:1px solid rgba(243,156,18,0.3);border-radius:0.75rem;padding:0.75rem 1.25rem;font-size:0.85rem;color:rgba(255,255,255,0.85);">🆕 Batch 3: Pozzolo Facebook Reel · 472 comments · March 10, 2026</div>
         </div>
     </div>
 </div>
@@ -200,7 +201,7 @@ lang: en
 
 <!-- Count bar -->
 <div class="pv-count-bar" id="pv-count-bar">
-    Showing <strong id="pv-visible-count">—</strong> of <strong>763</strong> voices
+    Showing <strong id="pv-visible-count">—</strong> of <strong>1,235</strong> voices
 </div>
 
 <!-- Quote Grid -->

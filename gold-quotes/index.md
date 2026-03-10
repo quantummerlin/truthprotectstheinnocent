@@ -356,13 +356,13 @@ lang: en
     <div class="container">
         <p>Every voice on this page is real. Every name is a person who chose to speak up publicly.</p>
         <div class="gq-stats-row">
-            <div class="gq-stat"><div class="n">763</div><div class="l">Public Comments</div></div>
-            <div class="gq-stat"><div class="n">678</div><div class="l">Unique Voices</div></div>
-            <div class="gq-stat"><div class="n">10+</div><div class="l">Countries</div></div>
-            <div class="gq-stat"><div class="n">95%</div><div class="l">Support Reunion</div></div>
+            <div class="gq-stat"><div class="n">1,235</div><div class="l">Public Comments</div></div>
+            <div class="gq-stat"><div class="n">1,058</div><div class="l">Unique Voices</div></div>
+            <div class="gq-stat"><div class="n">12+</div><div class="l">Countries</div></div>
+            <div class="gq-stat"><div class="n">96%</div><div class="l">Support Reunion</div></div>
         </div>
         <div style="margin-top: 3rem; display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
-            <a href="/public-voice/" class="btn btn-primary" style="background: #f39c12; border-color: #f39c12; color: #1a1a00;">See All 763 Voices</a>
+            <a href="/public-voice/" class="btn btn-primary" style="background: #f39c12; border-color: #f39c12; color: #1a1a00;">See All 1,235 Voices</a>
             <a href="/petition/" class="btn btn-secondary">Sign the UN Petition</a>
             <a href="/action/" class="btn btn-outline" style="border-color: rgba(255,255,255,0.3); color: white;">Take Action Now</a>
         </div>

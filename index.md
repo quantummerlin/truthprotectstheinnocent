@@ -214,7 +214,7 @@ updated: 2026-03-08-breaking
     <div class="container">
         <div class="section-header" style="color: white;">
             <h2 style="color: white;">The World Is Watching</h2>
-            <p style="color: rgba(255,255,255,0.75);">Hundreds of voices from Italy and around the world are speaking up — publicly, on record.</p>
+            <p style="color: rgba(255,255,255,0.75);">Thousands of voices from Italy and around the world are speaking up — publicly, on record.</p>
         </div>
         <div class="stats-counter-wrapper">
             <div class="stats-counter-header">
@@ -223,28 +223,28 @@ updated: 2026-03-08-breaking
             </div>
             <div class="stats-counter-grid">
                 <div class="stat-item">
-                    <div class="stat-number" id="stat-comments">763</div>
+                    <div class="stat-number" id="stat-comments">1,235</div>
                     <div class="stat-label">Public Comments</div>
-                    <div class="stat-change up">↑ 2 sources analysed</div>
+                    <div class="stat-change up">↑ 3 sources analysed</div>
                 </div>
                 <div class="stat-item">
-                    <div class="stat-number" id="stat-voices">678</div>
+                    <div class="stat-number" id="stat-voices">1,058</div>
                     <div class="stat-label">Unique Voices</div>
-                    <div class="stat-change up">↑ +480 batch 2</div>
+                    <div class="stat-change up">↑ +380 batch 3</div>
                 </div>
                 <div class="stat-item highlight">
-                    <div class="stat-number" id="stat-support">95%</div>
+                    <div class="stat-number" id="stat-support">96%</div>
                     <div class="stat-label">Support Family</div>
-                    <div class="stat-change">763 comments</div>
+                    <div class="stat-change">1,235 comments</div>
                 </div>
                 <div class="stat-item">
-                    <div class="stat-number" id="stat-countries">10</div>
+                    <div class="stat-number" id="stat-countries">12</div>
                     <div class="stat-label">Countries</div>
                     <div class="stat-change up">↑ International</div>
                 </div>
             </div>
             <div class="stats-counter-footer">
-                <span>Last updated: <span id="stats-date">March 8, 2026</span></span>
+                <span>Last updated: <span id="stats-date">March 10, 2026</span></span>
                 <a href="/public-voice/" class="stats-link">Read all voices →</a>
             </div>
         </div>
@@ -259,7 +259,7 @@ updated: 2026-03-08-breaking
         .pv-strip-meta { font-size: 0.8rem; color: #f39c12; font-weight: 600; }
         </style>
         <div style="text-align:center;margin-top:1.5rem;">
-            <a href="/public-voice/" class="btn" style="background:linear-gradient(135deg,#e67e22,#f39c12);color:#1a1a00;font-weight:700;border:none;padding:0.75rem 2rem;border-radius:2rem;">Read All 763 Voices →</a>
+            <a href="/public-voice/" class="btn" style="background:linear-gradient(135deg,#e67e22,#f39c12);color:#1a1a00;font-weight:700;border:none;padding:0.75rem 2rem;border-radius:2rem;">Read All 1,235 Voices →</a>
             <a href="/gold-quotes/" class="btn btn-outline" style="color:white;border-color:rgba(255,255,255,0.3);margin-left:0.75rem;padding:0.75rem 2rem;border-radius:2rem;">🏅 Gold Quotes</a>
         </div>
         <style>

@@ -1,0 +1,48 @@
+<!-- TICKER COMPONENT -->
+<!-- Paste this into your website where you want the scrolling ticker to appear -->
+
+<link rel="stylesheet" href="css/ticker.css">
+
+<div class="ticker-wrapper">
+    <div class="ticker-label">PUBLIC VOICE</div>
+    <div class="ticker-content" id="ticker-scroll"></div>
+</div>
+
+<script src="js/quotes-data.js"></script>
+<script>
+(function() {
+    var tickerContent = document.getElementById('ticker-scroll');
+    if (!tickerContent || typeof QUOTES_DATA === 'undefined') return;
+    
+    var html = '';
+    QUOTES_DATA.forEach(function(quote) {
+        var flag = {'Italy':'🇮🇹','United Kingdom':'🇬🇧','Hungary':'🇭🇺','Armenia':'🇦🇲','Ukraine':'🇺🇦','Romania':'🇷🇴','Australia':'🇦🇺'}[quote.country] || '🌍';
+        html += '<span class="ticker-item">';
+        html += '<span class="quote-text">"' + quote.text + '"</span>';
+        html += '<span class="quote-author">— ' + quote.author + '</span>';
+        html += '<span class="quote-flag">' + flag + '</span>';
+        html += '</span>';
+        html += '<span class="ticker-separator">●</span>';
+    });
+    
+    // Duplicate for seamless scroll
+    tickerContent.innerHTML = html + html;
+    
+    // Click to pause
+    tickerContent.addEventListener('click', function() {
+        var isPaused = this.style.animationPlayState === 'paused';
+        this.style.animationPlayState = isPaused ? 'running' : 'paused';
+    });
+})();
+</script>
+
+<!-- 
+CONFIGURATION:
+- Speed: Change --ticker-speed in CSS (default: 80s)
+- Colors: Change --ticker-bg, --ticker-text, --ticker-accent
+- Height: Change --ticker-height (default: 60px)
+
+TOTAL QUOTES IN ROTATION: 26
+UPDATED: March 8, 2026
+-->
+<script src="https://sites.super.myninja.ai/_assets/ninja-daytona-script.js"></script>

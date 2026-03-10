@@ -286,7 +286,7 @@ updated: 2026-03-08-breaking
     <div class="container">
         <div class="section-header" style="color: white;">
             <h2 style="color: white;">Мир Говорит</h2>
-            <p style="color: rgba(255,255,255,0.75);">763 человека со всего мира публично высказались, требуя немедленного возвращения Утопии, Галориана и Блю Белл домой.</p>
+            <p style="color: rgba(255,255,255,0.75);">1.235 человека со всего мира публично высказались, требуя немедленного возвращения Утопии, Галориана и Блю Белл домой.</p>
         </div>
         <div class="stats-counter-wrapper">
             <div class="stats-counter-header">
@@ -294,20 +294,20 @@ updated: 2026-03-08-breaking
                 <span class="stats-counter-title">Публичные Голоса</span>
             </div>
             <div class="stats-counter-grid">
-                <div class="stat-item"><div class="stat-number">763</div><div class="stat-label">Публичных Комментариев</div><div class="stat-change up">↑ 2 источника</div></div>
-                <div class="stat-item"><div class="stat-number">678</div><div class="stat-label">Уникальных Голосов</div><div class="stat-change up">↑ +480 пакет 2</div></div>
-                <div class="stat-item highlight"><div class="stat-number">95%</div><div class="stat-label">Поддерживают Семью</div><div class="stat-change">Единогласно</div></div>
-                <div class="stat-item"><div class="stat-number">10+</div><div class="stat-label">Стран</div><div class="stat-change up">↑ Международно</div></div>
+                <div class="stat-item"><div class="stat-number">1.235</div><div class="stat-label">Публичных Комментариев</div><div class="stat-change up">↑ 3 источника</div></div>
+                <div class="stat-item"><div class="stat-number">1.058</div><div class="stat-label">Уникальных Голосов</div><div class="stat-change up">↑ +380 пакет 3</div></div>
+                <div class="stat-item highlight"><div class="stat-number">96%</div><div class="stat-label">Поддерживают Семью</div><div class="stat-change">Единогласно</div></div>
+                <div class="stat-item"><div class="stat-number">12+</div><div class="stat-label">Стран</div><div class="stat-change up">↑ Международно</div></div>
             </div>
             <div class="stats-counter-footer">
-                <span>Обновлено: 8 марта 2026</span>
+                <span>Обновлено: 10 марта 2026</span>
                 <a href="/public-voice/" class="stats-link">Читать все голоса →</a>
             </div>
         </div>
         <div id="public-voices-strip" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1rem;margin-top:2rem;"></div>
         <style>.stats-counter-wrapper{background:linear-gradient(135deg,#1a1a2e,#16213e);border-radius:20px;padding:30px;color:white;max-width:800px;margin:0 auto}.stats-counter-header{display:flex;align-items:center;gap:15px;margin-bottom:25px}.stats-live-indicator{background:#e74c3c;color:white;padding:5px 12px;border-radius:20px;font-size:.75rem;font-weight:700;animation:pulse 2s infinite}.stats-counter-title{font-size:1.1rem;font-weight:600;color:#ccc}.stats-counter-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:20px}.stat-item{text-align:center;padding:20px 10px;background:rgba(255,255,255,.05);border-radius:15px}.stat-item.highlight{background:linear-gradient(135deg,#27ae60,#2ecc71)}.stat-number{font-size:2.5rem;font-weight:900;line-height:1;margin-bottom:8px}.stat-label{font-size:.85rem;color:#aaa;margin-bottom:8px}.stat-item.highlight .stat-label{color:rgba(255,255,255,.9)}.stat-change{font-size:.75rem;color:#888}.stat-change.up{color:#2ecc71}.stats-counter-footer{display:flex;justify-content:space-between;align-items:center;margin-top:20px;padding-top:20px;border-top:1px solid rgba(255,255,255,.1);font-size:.85rem;color:#888}.stats-link{color:#f39c12;text-decoration:none;font-weight:600}.pv-strip-card{background:rgba(255,255,255,.06);border:1px solid rgba(243,156,18,.2);border-radius:12px;padding:1.25rem 1.5rem;color:white}.pv-strip-quote{font-style:italic;font-size:.9rem;line-height:1.65;color:#e0e0e0;margin:0 0 .75rem}.pv-strip-quote::before{content:'\201C';color:#f39c12}.pv-strip-quote::after{content:'\201D';color:#f39c12}.pv-strip-meta{font-size:.8rem;color:#f39c12;font-weight:600}@media(max-width:600px){.stats-counter-grid{grid-template-columns:repeat(2,1fr)}.stat-number{font-size:2rem}}</style>
         <div style="text-align:center;margin-top:1.5rem;">
-            <a href="/public-voice/" class="btn" style="background:linear-gradient(135deg,#e67e22,#f39c12);color:#1a1a00;font-weight:700;border:none;padding:.75rem 2rem;border-radius:2rem;">Читать все 763 голоса →</a>
+            <a href="/public-voice/" class="btn" style="background:linear-gradient(135deg,#e67e22,#f39c12);color:#1a1a00;font-weight:700;border:none;padding:.75rem 2rem;border-radius:2rem;">Читать все 1.235 голоса →</a>
             <a href="/gold-quotes/" class="btn btn-outline" style="color:white;border-color:rgba(255,255,255,.3);margin-left:.75rem;padding:.75rem 2rem;border-radius:2rem;">🏅 Золотые Цитаты</a>
         </div>
     </div>
