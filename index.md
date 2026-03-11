@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Children Moved, Catherine Banned — After 60 Minutes | Catherine Birmingham & Nathan Trevallion"
-description: "BREAKING March 8 2026: After Italy's 60 Minutes broadcast, authorities moved the children to a new facility and banned Catherine from staying. Three official reasons for removal — all proven false. Help reunite Utopia, Galorian & Blue Bell. #TruthProtectsTheInnocent #LaFamigliaNelBosco"
+title: "URGENT: Siblings Isolated, Adoption Threatened | Catherine Birmingham & Nathan Trevallion"
+description: "BREAKING March 11 2026: The siblings are now being isolated from each other inside the institution. Adoption proceedings are being raised under Italian law — against parents whose children were taken with justifications all officially disproven. Act now. #TruthProtectsTheInnocent"
 lang: en
 image: /assets/images/og-image.jpg
-updated: 2026-03-08-breaking
+updated: 2026-03-11-breaking
 ---
 
 <!-- Hero Section: Breaking Update + 60 Minutes -->
@@ -19,21 +19,21 @@ updated: 2026-03-08-breaking
         <!-- Breaking Badge -->
         <div class="sixty-mins-badge-wrap">
             <span class="sixty-mins-badge sixty-mins-badge-aired" id="sixtyMinsBadge">
-                🚨 BREAKING — MARCH 8, 2026
+                🚨 URGENT — MARCH 11, 2026
             </span>
         </div>
 
-        <h1 class="sixty-mins-headline">Children Moved. Catherine Banned.</h1>
-        <p class="lead">After the 60 Minutes broadcast, Italian authorities have ruled to transfer the children to a new facility — <strong>where Catherine is not permitted to stay</strong>. The goodbye was captured on video.</p>
+        <h1 class="sixty-mins-headline">Siblings Isolated. Adoption Threatened.</h1>
+        <p class="lead">The three children are now being <strong>isolated from each other</strong> inside the institution. Italian law permits adoption against parents who are still fighting — even when all official justifications have been disproven. <strong>The window to stop this is closing.</strong></p>
 
         <!-- Breaking Alert Box -->
         <div class="hero-alert-box">
-            <p style="color: #fef08a; font-weight: 700; font-size: 1rem; margin-bottom: 0.5rem;">📹 Watch: The Goodbye Moment</p>
-            <p style="color: rgba(255,255,255,0.9); font-size: 0.95rem; line-height: 1.6; margin-bottom: 1rem;">Catherine was forced to say goodbye to her children before they were transferred. Warning — distressing content.</p>
+            <p style="color: #fef08a; font-weight: 700; font-size: 1rem; margin-bottom: 0.5rem;">⚠️ Most Urgent Escalation Yet</p>
+            <p style="color: rgba(255,255,255,0.9); font-size: 0.95rem; line-height: 1.6; margin-bottom: 1rem;">Adoption proceedings are irreversible once concluded. Every justification for removing these children has been officially disproven. Act today — not tomorrow.</p>
             <div class="hero-alert-btns">
-                <a href="https://www.facebook.com/share/v/1HpVpWjzMC/" target="_blank" rel="noopener noreferrer"
-                   style="background: #1877f2; color: white; padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 700; font-size: 0.95rem; display: block; text-align: center;">▶ Watch on Facebook</a>
-                <a href="/updates/2026/03/08/children-moved-new-facility-catherine-banned.html"
+                <a href="/action/"
+                   style="background: #dc2626; color: white; padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 700; font-size: 0.95rem; display: block; text-align: center;">→ Take Action Now</a>
+                <a href="/breaking/legal/action/2026/03/11/siblings-isolated-adoption-threatened.html"
                    style="background: rgba(255,255,255,0.15); color: white; border: 1.5px solid rgba(255,255,255,0.5); padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 600; font-size: 0.95rem; display: block; text-align: center;">Read Full Update</a>
             </div>
         </div>
