@@ -10,7 +10,7 @@ const QUOTES_DATA = [
     // =========================================================================
     {
         text: "This family was living in peace, joy and serenity. They asked nothing of anyone.",
-        author: "Lina Haddad",
+        author: "Lina H.",
         country: "Italy",
         category: "family",
         batch: 1,
@@ -18,7 +18,7 @@ const QUOTES_DATA = [
     },
     {
         text: "I have never agreed with Giorgia but with this speech I feel like applauding her!",
-        author: "Luisa Carbone",
+        author: "Luisa C.",
         country: "Italy",
         category: "supportive",
         batch: 1,
@@ -26,7 +26,7 @@ const QUOTES_DATA = [
     },
     {
         text: "The 'protection' is creating the trauma — these poor children will carry this with them for life.",
-        author: "Giusi Finielli",
+        author: "Giusi F.",
         country: "Italy",
         category: "family",
         batch: 1,
@@ -34,7 +34,7 @@ const QUOTES_DATA = [
     },
     {
         text: "They were perfectly fine — not drugged, not beaten.",
-        author: "Arabella Vallone",
+        author: "Arabella V.",
         country: "Italy",
         category: "family",
         batch: 1,
@@ -42,7 +42,7 @@ const QUOTES_DATA = [
     },
     {
         text: "Did I hear right? In Italy? The land of FAMILY?! Ripping children away from their families is sinister, wicked and sick.",
-        author: "Donna Lee Corboy",
+        author: "Donna C.",
         country: "United Kingdom",
         category: "international",
         batch: 1,
@@ -50,7 +50,7 @@ const QUOTES_DATA = [
     },
     {
         text: "The quasi-mafia apparatus — the Bibbiano model, forever and across all of Italy.",
-        author: "Lorella Proserpio",
+        author: "Lorella P.",
         country: "Italy",
         category: "corruption",
         batch: 1,
@@ -58,7 +58,7 @@ const QUOTES_DATA = [
     },
     {
         text: "Every day is traumatic for the children. Make the children of Catherine and Nathan come home — there is NO valid reason to divide this family.",
-        author: "Daniela Lozar",
+        author: "Daniela L.",
         country: "Italy",
         category: "action",
         batch: 1,
@@ -66,7 +66,7 @@ const QUOTES_DATA = [
     },
     {
         text: "The system is rotten and based only on economic interest — to self-finance and sustain foster homes and social workers.",
-        author: "Antonio Scerbo",
+        author: "Antonio S.",
         country: "Italy",
         category: "corruption",
         batch: 1,
@@ -74,7 +74,7 @@ const QUOTES_DATA = [
     },
     {
         text: "35,000 children removed from families in Italy — where is the outrage?",
-        author: "Antoinette Carlino",
+        author: "Antoinette C.",
         country: "Italy",
         category: "corruption",
         batch: 1,
@@ -82,7 +82,7 @@ const QUOTES_DATA = [
     },
     {
         text: "€300 per day per child in foster care. Follow the money.",
-        author: "Cristinaeumberto Fiorello",
+        author: "Cristina & Umberto F.",
         country: "Italy",
         category: "corruption",
         batch: 1,
@@ -95,7 +95,7 @@ const QUOTES_DATA = [
     // =========================================================================
     {
         text: "The children are learning from the Italian State that bullying always wins.",
-        author: "Cianti Ivano",
+        author: "Ivano C.",
         country: "Italy",
         category: "family",
         batch: 2,
@@ -103,7 +103,7 @@ const QUOTES_DATA = [
     },
     {
         text: "Orphans of living parents.",
-        author: "Marzia Teixeira",
+        author: "Marzia T.",
         country: "Italy",
         category: "family",
         batch: 2,
@@ -111,7 +111,7 @@ const QUOTES_DATA = [
     },
     {
         text: "My mother was driven mad because they told her I was dead. I beg you to intervene immediately.",
-        author: "Mariella Papavero",
+        author: "Mariella P.",
         country: "Italy",
         category: "personal",
         batch: 2,
@@ -119,7 +119,7 @@ const QUOTES_DATA = [
     },
     {
         text: "They are separated from each other too — they are annihilating them.",
-        author: "Marisa Mansutti",
+        author: "Marisa M.",
         country: "Italy",
         category: "family",
         batch: 2,
@@ -127,7 +127,7 @@ const QUOTES_DATA = [
     },
     {
         text: "The State is strong with the weak and weak with the strong.",
-        author: "Cristina Belardinelli",
+        author: "Cristina B.",
         country: "Italy",
         category: "corruption",
         batch: 2,
@@ -135,7 +135,7 @@ const QUOTES_DATA = [
     },
     {
         text: "Today is Women's Day — a day to abolish because not even one woman treated like this mother is acceptable. This is the festival of the JUDGES.",
-        author: "Faby Tony",
+        author: "Faby T.",
         country: "Italy",
         category: "action",
         batch: 2,
@@ -143,7 +143,7 @@ const QUOTES_DATA = [
     },
     {
         text: "I hope the mother and father don't collapse and don't make an extreme gesture.",
-        author: "Primavera Livia",
+        author: "Primavera L.",
         country: "Italy",
         category: "action",
         batch: 2,
@@ -151,7 +151,7 @@ const QUOTES_DATA = [
     },
     {
         text: "The lawyers should denounce the judge and social worker for psychological abuse of minors.",
-        author: "Claudio Alberti",
+        author: "Claudio A.",
         country: "Italy",
         category: "legal",
         batch: 2,
@@ -167,7 +167,7 @@ const QUOTES_DATA = [
     },
     {
         text: "Judges and social workers should be investigated. They bear responsibility if the desperate woman takes extreme action.",
-        author: "Domenico Ventura",
+        author: "Domenico V.",
         country: "Italy",
         category: "legal",
         batch: 2,
@@ -175,7 +175,7 @@ const QUOTES_DATA = [
     },
     {
         text: "Not just that family — they have destroyed many, creating an insurmountable wall.",
-        author: "Vita Maria Nardiello",
+        author: "Vita N.",
         country: "Italy",
         category: "corruption",
         batch: 2,
@@ -183,7 +183,7 @@ const QUOTES_DATA = [
     },
     {
         text: "Mattarella, where are you? If you truly honour your republic, do something for these children.",
-        author: "Domenica Tronconi",
+        author: "Domenica T.",
         country: "Italy",
         category: "action",
         batch: 2,
@@ -191,7 +191,7 @@ const QUOTES_DATA = [
     },
     {
         text: "The law should protect the weakest — not divide them from their mothers.",
-        author: "Angelina Ambrosio",
+        author: "Angelina A.",
         country: "Italy",
         category: "legal",
         batch: 2,
@@ -199,7 +199,7 @@ const QUOTES_DATA = [
     },
     {
         text: "In Italy a magistrate and a social worker have more power than Louis XIV ever had.",
-        author: "Oliviero Lanzoni",
+        author: "Oliviero L.",
         country: "Italy",
         category: "corruption",
         batch: 2,
@@ -207,7 +207,7 @@ const QUOTES_DATA = [
     },
     {
         text: "Another family — Valentina's family — 135 days, 3 children taken. Zero media coverage.",
-        author: "Olha Filimonova",
+        author: "Olha F.",
         country: "Ukraine",
         category: "international",
         batch: 2,
@@ -215,7 +215,7 @@ const QUOTES_DATA = [
     },
     {
         text: "30,000 minors taken from their families... and they speak only of one family.",
-        author: "Cristian Pesaresi",
+        author: "Cristian P.",
         country: "Italy",
         category: "corruption",
         batch: 2,
@@ -228,7 +228,7 @@ const QUOTES_DATA = [
     // =========================================================================
     {
         text: "Excuse me — but can anyone tell me what really lies behind this persecution?",
-        author: "Paolo Zennaro",
+        author: "Paolo Z.",
         country: "Italy",
         category: "corruption",
         batch: 3,
@@ -237,7 +237,7 @@ const QUOTES_DATA = [
     },
     {
         text: "Everyone says the same things — but nobody has the power to intervene and put an end to this outrage.",
-        author: "Sofia Massari",
+        author: "Sofia M.",
         country: "Italy",
         category: "action",
         batch: 3,
@@ -246,7 +246,7 @@ const QUOTES_DATA = [
     },
     {
         text: "Without words... these judges and social workers should go dig the fields and remember that karma exists.",
-        author: "Rosanna Colombarini",
+        author: "Rosanna C.",
         country: "Italy",
         category: "corruption",
         batch: 3,
@@ -255,7 +255,7 @@ const QUOTES_DATA = [
     },
     {
         text: "Expropriated like state property — infinite shame!",
-        author: "Fiorella Moriano",
+        author: "Fiorella M.",
         country: "Italy",
         category: "family",
         batch: 3,
@@ -264,7 +264,7 @@ const QUOTES_DATA = [
     },
     {
         text: "Is it really possible that nobody has the power to bring these children home to their parents?",
-        author: "Paola De Santi",
+        author: "Paola D.",
         country: "Italy",
         category: "action",
         batch: 3,
@@ -273,7 +273,7 @@ const QUOTES_DATA = [
     },
     {
         text: "At this point it is just an absurd, illegal, unnatural tug of war. What do you expect from children and a mother held prisoner? Everything they do is an act of legitimate self-defence.",
-        author: "Antonino Mascali",
+        author: "Antonino M.",
         country: "Italy",
         category: "legal",
         batch: 3,
@@ -281,7 +281,7 @@ const QUOTES_DATA = [
     },
     {
         text: "When the suffering of three children is at stake, transparency must be total. We need clarity, truth and justice.",
-        author: "Giovanni Romano",
+        author: "Giovanni R.",
         country: "Italy",
         category: "legal",
         batch: 3,
@@ -289,7 +289,7 @@ const QUOTES_DATA = [
     },
     {
         text: "Not just that family — they have destroyed many without anyone being heard, creating an insurmountable wall.",
-        author: "Vita Maria Nardiello",
+        author: "Vita N.",
         country: "Italy",
         category: "corruption",
         batch: 3,
@@ -297,7 +297,7 @@ const QUOTES_DATA = [
     },
     {
         text: "Honestly, in this case I am ashamed to be Italian.",
-        author: "Antonella Sampaolesi",
+        author: "Antonella S.",
         country: "Italy",
         category: "family",
         batch: 3,
@@ -305,7 +305,7 @@ const QUOTES_DATA = [
     },
     {
         text: "Make judges and social workers personally liable — citizens should not pay to keep children in facilities against their will for no valid reason.",
-        author: "Savoia Marianna",
+        author: "Marianna S.",
         country: "Italy",
         category: "legal",
         batch: 3,

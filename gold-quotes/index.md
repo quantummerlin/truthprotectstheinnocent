@@ -181,7 +181,7 @@ lang: en
     <div class="gq-hero-inner container">
         <span class="gq-crown">🏅</span>
         <h1>Gold Quotes</h1>
-        <p>The most powerful things people have said publicly about this case. Real names. Real outrage. An indictment no authority can ignore.</p>
+        <p>The most powerful things people have said publicly about this case. Real voices, responsibly attributed. An indictment no authority can ignore.</p>
     </div>
 </div>
 
@@ -220,27 +220,27 @@ lang: en
     <div class="gq-grid">
         <div class="gq-card">
             <p class="gq-card-text">This family was living in peace, joy and serenity. They asked nothing of anyone. They certainly had no need of socio-welfare re-education from ignorant people with great prejudices.</p>
-            <div class="gq-card-meta"><span>🇮🇹</span><span class="gq-card-author">Lina Haddad</span><span class="gq-card-country">Italy</span></div>
+            <div class="gq-card-meta"><span>🇮🇹</span><span class="gq-card-author">Lina H.</span><span class="gq-card-country">Italy</span></div>
         </div>
         <div class="gq-card">
             <p class="gq-card-text">What did these poor parents do? They wanted to educate their children in a sober manner. They neither mistreated nor denied love.</p>
-            <div class="gq-card-meta"><span>🇮🇹</span><span class="gq-card-author">Valentina Di Gaetano</span><span class="gq-card-country">Italy</span></div>
+            <div class="gq-card-meta"><span>🇮🇹</span><span class="gq-card-author">Valentina D.</span><span class="gq-card-country">Italy</span></div>
         </div>
         <div class="gq-card">
             <p class="gq-card-text">Make Catherine and Nathan the parents they were before this disaster. Leave Italy a reason to be grateful to you for something done well.</p>
-            <div class="gq-card-meta"><span>🇮🇹</span><span class="gq-card-author">Lucia Ruocco</span><span class="gq-card-country">Italy</span></div>
+            <div class="gq-card-meta"><span>🇮🇹</span><span class="gq-card-author">Lucia R.</span><span class="gq-card-country">Italy</span></div>
         </div>
         <div class="gq-card">
             <p class="gq-card-text">They were perfectly fine — not drugged, not beaten.</p>
-            <div class="gq-card-meta"><span>🇮🇹</span><span class="gq-card-author">Arabella Vallone</span><span class="gq-card-country">Italy</span></div>
+            <div class="gq-card-meta"><span>🇮🇹</span><span class="gq-card-author">Arabella V.</span><span class="gq-card-country">Italy</span></div>
         </div>
         <div class="gq-card">
             <p class="gq-card-text">Every day is traumatic for the children. Make the children of Catherine and Nathan come home — there is NO valid reason to divide this family.</p>
-            <div class="gq-card-meta"><span>🇮🇹</span><span class="gq-card-author">Daniela Lozar</span><span class="gq-card-country">Italy</span></div>
+            <div class="gq-card-meta"><span>🇮🇹</span><span class="gq-card-author">Daniela L.</span><span class="gq-card-country">Italy</span></div>
         </div>
         <div class="gq-card">
             <p class="gq-card-text">Finally release these children from foster homes. We can't wait for bureaucratic timescales — children grow up fast — with severe trauma.</p>
-            <div class="gq-card-meta"><span>🇮🇹</span><span class="gq-card-author">Jane Torrisi</span><span class="gq-card-country">Italy</span></div>
+            <div class="gq-card-meta"><span>🇮🇹</span><span class="gq-card-author">Jane T.</span><span class="gq-card-country">Italy</span></div>
         </div>
     </div>
 
@@ -250,23 +250,23 @@ lang: en
     <div class="gq-grid">
         <div class="gq-card">
             <p class="gq-card-text">Social workers make €300 per day per child.</p>
-            <div class="gq-card-meta"><span>🇮🇹</span><span class="gq-card-author">Cristinaeumberto Fiorello</span><span class="gq-card-country">Italy</span></div>
+            <div class="gq-card-meta"><span>🇮🇹</span><span class="gq-card-author">Cristina & Umberto F.</span><span class="gq-card-country">Italy</span></div>
         </div>
         <div class="gq-card">
             <p class="gq-card-text">Let's not forget Bibbiano. How many lies do social workers tell just to take children from families?</p>
-            <div class="gq-card-meta"><span>🇮🇹</span><span class="gq-card-author">Nicoletta Mognato</span><span class="gq-card-country">Italy</span></div>
+            <div class="gq-card-meta"><span>🇮🇹</span><span class="gq-card-author">Nicoletta M.</span><span class="gq-card-country">Italy</span></div>
         </div>
         <div class="gq-card">
             <p class="gq-card-text">The quasi-mafia apparatus that manages this issue — the Bibbiano model, forever and across all of Italy.</p>
-            <div class="gq-card-meta"><span>🇮🇹</span><span class="gq-card-author">Lorella Proserpio</span><span class="gq-card-country">Italy</span></div>
+            <div class="gq-card-meta"><span>🇮🇹</span><span class="gq-card-author">Lorella P.</span><span class="gq-card-country">Italy</span></div>
         </div>
         <div class="gq-card">
             <p class="gq-card-text">I know a family in Umbria with a 'park' of 80 foster children held hostage until age 18.</p>
-            <div class="gq-card-meta"><span>🇮🇹</span><span class="gq-card-author">Giovanna Rossi</span><span class="gq-card-country">Italy</span></div>
+            <div class="gq-card-meta"><span>🇮🇹</span><span class="gq-card-author">Giovanna R.</span><span class="gq-card-country">Italy</span></div>
         </div>
         <div class="gq-card">
             <p class="gq-card-text">35,000 children removed.</p>
-            <div class="gq-card-meta"><span>🇮🇹</span><span class="gq-card-author">Antoinette Carlino</span><span class="gq-card-country">Italy</span></div>
+            <div class="gq-card-meta"><span>🇮🇹</span><span class="gq-card-author">Antoinette C.</span><span class="gq-card-country">Italy</span></div>
         </div>
     </div>
 
@@ -276,23 +276,23 @@ lang: en
     <div class="gq-grid">
         <div class="gq-card">
             <p class="gq-card-text">We must separate judges — not families.</p>
-            <div class="gq-card-meta"><span>🇮🇹</span><span class="gq-card-author">Filippo Pagliai</span><span class="gq-card-country">Italy</span></div>
+            <div class="gq-card-meta"><span>🇮🇹</span><span class="gq-card-author">Filippo P.</span><span class="gq-card-country">Italy</span></div>
         </div>
         <div class="gq-card">
             <p class="gq-card-text">A decree law can be done immediately — just as you did with the false pandemic.</p>
-            <div class="gq-card-meta"><span>🇮🇹</span><span class="gq-card-author">Teresa Falcone</span><span class="gq-card-country">Italy</span></div>
+            <div class="gq-card-meta"><span>🇮🇹</span><span class="gq-card-author">Teresa F.</span><span class="gq-card-country">Italy</span></div>
         </div>
         <div class="gq-card">
             <p class="gq-card-text">The parents should appeal to the European Court of Human Rights — this is the only solution I see for their salvation.</p>
-            <div class="gq-card-meta"><span>🇮🇹</span><span class="gq-card-author">Stefano Zacconi</span><span class="gq-card-country">Italy</span></div>
+            <div class="gq-card-meta"><span>🇮🇹</span><span class="gq-card-author">Stefano Z.</span><span class="gq-card-country">Italy</span></div>
         </div>
         <div class="gq-card">
             <p class="gq-card-text">I emailed President Mattarella directly. I urge everyone to do the same.</p>
-            <div class="gq-card-meta"><span>🇮🇹</span><span class="gq-card-author">Antonella Merlo</span><span class="gq-card-country">Italy</span></div>
+            <div class="gq-card-meta"><span>🇮🇹</span><span class="gq-card-author">Antonella M.</span><span class="gq-card-country">Italy</span></div>
         </div>
         <div class="gq-card">
             <p class="gq-card-text">Change the law that permits these child kidnappings from families.</p>
-            <div class="gq-card-meta"><span>🇮🇹</span><span class="gq-card-author">Cinzia Colle</span><span class="gq-card-country">Italy</span></div>
+            <div class="gq-card-meta"><span>🇮🇹</span><span class="gq-card-author">Cinzia C.</span><span class="gq-card-country">Italy</span></div>
         </div>
     </div>
 </div>
