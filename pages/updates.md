@@ -14,9 +14,9 @@ permalink: /updates/
 <div style="display: flex; gap: 1.25rem; margin-bottom: 1.75rem; padding-left: 1.5rem;">
     <div style="flex-shrink: 0; width: 11px; height: 11px; background: #7f1d1d; border-radius: 50%; margin-top: 0.35rem; margin-left: -1.75rem; box-shadow: 0 0 0 3px rgba(220,38,38,0.3);"></div>
     <div>
-        <p style="color: #dc2626; font-size: 0.8rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; margin: 0 0 0.2rem 0;">🚨 March 11, 2026 — MOST URGENT</p>
-        <p style="font-weight: 700; margin: 0 0 0.25rem 0;"><a href="/breaking/legal/action/2026/03/11/siblings-isolated-adoption-threatened.html">Siblings isolated from each other — adoption proceedings threatened</a></p>
-        <p style="color: #6b7280; font-size: 0.9rem; margin: 0;">The three children are now being isolated from each other inside the institution. Italian law permits adoption against parents still fighting for their children — even when all official justifications have been officially disproven. The window to act is closing.</p>
+        <p style="color: #6b7280; font-size: 0.8rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; margin: 0 0 0.2rem 0;">March 11, 2026</p>
+        <p style="font-weight: 700; margin: 0 0 0.25rem 0;"><a href="/breaking/legal/action/2026/03/11/siblings-isolated-adoption-threatened.html">The children are being kept apart from each other — how much further can this go?</a></p>
+        <p style="color: #6b7280; font-size: 0.9rem; margin: 0;">Inside the institution, the three siblings are now also being separated from each other. The case for reunification has already been made — all official justifications for removal have been officially disproven. Sustained public pressure is what changes outcomes.</p>
     </div>
 </div>
 

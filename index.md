@@ -19,20 +19,20 @@ updated: 2026-03-11-breaking
         <!-- Breaking Badge -->
         <div class="sixty-mins-badge-wrap">
             <span class="sixty-mins-badge sixty-mins-badge-aired" id="sixtyMinsBadge">
-                🚨 URGENT — MARCH 11, 2026
+                Update — March 11, 2026
             </span>
         </div>
 
-        <h1 class="sixty-mins-headline">Siblings Isolated. Adoption Threatened.</h1>
-        <p class="lead">The three children are now being <strong>isolated from each other</strong> inside the institution. Italian law permits adoption against parents who are still fighting — even when all official justifications have been disproven. <strong>The window to stop this is closing.</strong></p>
+        <h1 class="sixty-mins-headline">The Siblings Are Being Kept Apart</h1>
+        <p class="lead">Inside the institution, the three children are now also being separated from each other. The case for their reunification has <strong>already been made</strong> — every official reason for removing them has been officially disproven. What’s needed now is sustained pressure from a world that’s still watching.</p>
 
         <!-- Breaking Alert Box -->
         <div class="hero-alert-box">
-            <p style="color: #fef08a; font-weight: 700; font-size: 1rem; margin-bottom: 0.5rem;">⚠️ Most Urgent Escalation Yet</p>
-            <p style="color: rgba(255,255,255,0.9); font-size: 0.95rem; line-height: 1.6; margin-bottom: 1rem;">Adoption proceedings are irreversible once concluded. Every justification for removing these children has been officially disproven. Act today — not tomorrow.</p>
+            <p style="color: #fef08a; font-weight: 700; font-size: 1rem; margin-bottom: 0.5rem;">How much further can this go?</p>
+            <p style="color: rgba(255,255,255,0.9); font-size: 0.95rem; line-height: 1.6; margin-bottom: 1rem;">Your voice — directed at the right people — is what changes outcomes. Two specific actions can make a real difference today.</p>
             <div class="hero-alert-btns">
                 <a href="/action/"
-                   style="background: #dc2626; color: white; padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 700; font-size: 0.95rem; display: block; text-align: center;">→ Take Action Now</a>
+                   style="background: #f39c12; color: #1a1a00; padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 700; font-size: 0.95rem; display: block; text-align: center;">→ Take Action</a>
                 <a href="/breaking/legal/action/2026/03/11/siblings-isolated-adoption-threatened.html"
                    style="background: rgba(255,255,255,0.15); color: white; border: 1.5px solid rgba(255,255,255,0.5); padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 600; font-size: 0.95rem; display: block; text-align: center;">Read Full Update</a>
             </div>
