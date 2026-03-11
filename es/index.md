@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "BREAKING 8 Marzo — Niños trasladados, Catherine excluida | La Famiglia Nel Bosco"
-description: "ÚLTIMA HORA 8 marzo 2026: Tras 60 Minutes, las autoridades italianas trasladaron a los niños a un nuevo centro donde Catherine no puede quedarse. Tres razones oficiales — todas refutadas. #TruthProtectsTheInnocent #LaFamigliaNelBosco"
+title: "URGENTE: Hermanos aislados, adopción amenazada | Catherine Birmingham y Nathan Trevallion"
+description: "URGENTE 11 de marzo de 2026: Los hermanos están siendo aislados entre sí dentro de la institución. Se inician procedimientos de adopción bajo la ley italiana — contra padres cuyos hijos fueron retirados con justificaciones todas oficialmente refutadas. Actúa ahora. #TruthProtectsTheInnocent"
 lang: es
 image: /assets/images/og-image.jpg
-updated: 2026-03-08-breaking
+updated: 2026-03-11-breaking
 ---
 
 <!-- Hero: Breaking News -->
@@ -18,19 +18,19 @@ updated: 2026-03-08-breaking
     <div class="hero-content">
         <div class="sixty-mins-badge-wrap">
             <span class="sixty-mins-badge sixty-mins-badge-aired">
-                🚨 ÚLTIMA HORA — 8 DE MARZO 2026
+                Actualización — 11 de marzo de 2026
             </span>
         </div>
 
-        <h1 class="sixty-mins-headline">Niños trasladados. Catherine excluida.</h1>
-        <p class="lead">Tras 60 Minutes, las autoridades italianas han trasladado a los niños a un <strong>nuevo centro</strong> — <strong>donde Catherine no puede quedarse</strong>. La despedida quedó grabada en vídeo.</p>
+        <h1 class="sixty-mins-headline">Los hermanos están siendo separados entre sí</h1>
+        <p class="lead">Dentro de la institución, los tres niños están siendo separados incluso <strong>entre ellos mismos</strong>. Los argumentos para su reunificación <strong>ya han sido presentados</strong> — cada justificación oficial para la retirada ha sido oficialmente refutada. Lo que se necesita ahora es presión constante de un mundo que sigue mirando.</p>
 
         <div class="hero-alert-box">
-            <p style="color: #fef08a; font-weight: 700; font-size: 1rem; margin-bottom: 0.5rem;">📹 Ver: El momento de la despedida</p>
-            <p style="color: rgba(255,255,255,0.9); font-size: 0.95rem; line-height: 1.6; margin-bottom: 1rem;">Catherine tuvo que despedirse de sus hijos antes de su traslado. Atención — contenido desgarrador.</p>
+            <p style="color: #fef08a; font-weight: 700; font-size: 1rem; margin-bottom: 0.5rem;">¿Hasta dónde puede llegar esto?</p>
+            <p style="color: rgba(255,255,255,0.9); font-size: 0.95rem; line-height: 1.6; margin-bottom: 1rem;">Tu voz — dirigida a las personas correctas — es lo que cambia los resultados. Dos acciones específicas pueden hacer la diferencia hoy.</p>
             <div class="hero-alert-btns">
-                <a href="https://www.facebook.com/share/v/1HpVpWjzMC/" target="_blank" rel="noopener noreferrer" style="background: #1877f2; color: white; padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 700; font-size: 0.95rem; display: block; text-align: center;">▶ Ver en Facebook</a>
-                <a href="https://www.youtube.com/watch?v=FZPMGep5CKU" target="_blank" rel="noopener noreferrer" style="background: rgba(255,255,255,0.15); color: white; border: 1.5px solid rgba(255,255,255,0.5); padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 600; font-size: 0.95rem; display: block; text-align: center;">▶ 60 Minutes en YouTube</a>
+                <a href="/action/" style="background: #f39c12; color: #1a1a00; padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 700; font-size: 0.95rem; display: block; text-align: center;">→ Actúa Ahora</a>
+                <a href="/breaking/legal/action/2026/03/11/siblings-isolated-adoption-threatened.html" style="background: rgba(255,255,255,0.15); color: white; border: 1.5px solid rgba(255,255,255,0.5); padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 600; font-size: 0.95rem; display: block; text-align: center;">Leer Actualización Completa</a>
             </div>
         </div>
 
@@ -65,7 +65,7 @@ updated: 2026-03-08-breaking
             <a href="/evidence/" class="btn btn-secondary btn-lg">Ver Las Pruebas</a>
         </div>
 
-        <p class="sixty-mins-subtext">Tres niños. Tres acusaciones falsas. Cero razones válidas.<br>Catherine no puede quedarse donde están sus hijos.</p>
+        <p class="sixty-mins-subtext">Tres niños. Tres acusaciones falsas. Cero razones válidas.<br>Ahora los hermanos están siendo separados entre sí — y han comenzado los procedimientos de adopción.</p>
     </div>
 </section>
 
@@ -265,6 +265,9 @@ updated: 2026-03-08-breaking
             <div class="stats-counter-footer">
                 <span>Actualizado: 10 de marzo de 2026</span>
                 <a href="/public-voice/" class="stats-link">Leer todas las voces →</a>
+            </div>
+            <div style="margin-top: 12px; padding-top: 12px; border-top: 1px solid rgba(255,255,255,0.05); font-size: 0.75rem; color: rgba(255,255,255,0.35); text-align: center;">
+                Datos de inteligencia de audiencia de <a href="https://ai.quantummerlin.com" target="_blank" rel="noopener" style="color: rgba(243,156,18,0.6);">ai.quantummerlin.com</a> · Nombres anonimizados según RGPD · <a href="/privacy/" style="color: rgba(243,156,18,0.6);">Política de Privacidad</a>
             </div>
         </div>
         <div id="public-voices-strip" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1rem;margin-top:2rem;"></div>

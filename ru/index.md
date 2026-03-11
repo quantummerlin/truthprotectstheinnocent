@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "СРОЧНО 8 Марта — Детей перевели, Катрин изгнана | La Famiglia Nel Bosco"
-description: "СРОЧНО 8 марта 2026: После 60 Minutes итальянские власти перевели детей в новое учреждение — где Катрин не может оставаться. Три официальные причины — все опровергнуты. #TruthProtectsTheInnocent #LaFamigliaNelBosco"
+title: "СРОЧНО: Братья и сёстры изолированы, усыновление под угрозой | Катрин Бирмингем и Натан Тревальон"
+description: "СРОЧНО 11 марта 2026: Братья и сёстры теперь изолированы друг от друга внутри учреждения. Начинаются процедуры усыновления по итальянскому законодательству — против родителей, чьих детей забрали с обоснованиями, все из которых официально опровергнуты. Действуйте. #TruthProtectsTheInnocent"
 lang: ru
 image: /assets/images/og-image.jpg
-updated: 2026-03-08-breaking
+updated: 2026-03-11-breaking
 ---
 
 <!-- Hero: Breaking News -->
@@ -18,19 +18,19 @@ updated: 2026-03-08-breaking
     <div class="hero-content">
         <div class="sixty-mins-badge-wrap">
             <span class="sixty-mins-badge sixty-mins-badge-aired">
-                🚨 СРОЧНО — 8 МАРТА 2026
+                Обновление — 11 марта 2026
             </span>
         </div>
 
-        <h1 class="sixty-mins-headline">Детей перевели. Катрин изгнана.</h1>
-        <p class="lead">После 60 Minutes итальянские власти решили перевести детей в <strong>новое учреждение</strong> — <strong>где Катрин не может оставаться</strong>. Прощание было записано на видео.</p>
+        <h1 class="sixty-mins-headline">Братья и сёстры разлучены друг с другом</h1>
+        <p class="lead">Внутри учреждения трое детей теперь разделены <strong>даже друг от друга</strong>. Аргументы в пользу их воссоединения <strong>уже представлены</strong> — каждое официальное обоснование для изъятия официально опровергнуто. Сейчас нужно постоянное давление со стороны мира, который продолжает наблюдать.</p>
 
         <div class="hero-alert-box">
-            <p style="color: #fef08a; font-weight: 700; font-size: 1rem; margin-bottom: 0.5rem;">📹 Смотреть: Момент прощания</p>
-            <p style="color: rgba(255,255,255,0.9); font-size: 0.95rem; line-height: 1.6; margin-bottom: 1rem;">Катрин была вынуждена попрощаться с детьми перед их переводом. Внимание — тяжёлое видео.</p>
+            <p style="color: #fef08a; font-weight: 700; font-size: 1rem; margin-bottom: 0.5rem;">Как далеко это может зайти?</p>
+            <p style="color: rgba(255,255,255,0.9); font-size: 0.95rem; line-height: 1.6; margin-bottom: 1rem;">Ваш голос — направленный нужным людям — меняет результаты. Два конкретных действия могут изменить ситуацию сегодня.</p>
             <div class="hero-alert-btns">
-                <a href="https://www.facebook.com/share/v/1HpVpWjzMC/" target="_blank" rel="noopener noreferrer" style="background: #1877f2; color: white; padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 700; font-size: 0.95rem; display: block; text-align: center;">▶ Смотреть на Facebook</a>
-                <a href="https://www.youtube.com/watch?v=FZPMGep5CKU" target="_blank" rel="noopener noreferrer" style="background: rgba(255,255,255,0.15); color: white; border: 1.5px solid rgba(255,255,255,0.5); padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 600; font-size: 0.95rem; display: block; text-align: center;">▶ 60 Minutes на YouTube</a>
+                <a href="/action/" style="background: #f39c12; color: #1a1a00; padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 700; font-size: 0.95rem; display: block; text-align: center;">→ Действовать Сейчас</a>
+                <a href="/breaking/legal/action/2026/03/11/siblings-isolated-adoption-threatened.html" style="background: rgba(255,255,255,0.15); color: white; border: 1.5px solid rgba(255,255,255,0.5); padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 600; font-size: 0.95rem; display: block; text-align: center;">Читать полное обновление</a>
             </div>
         </div>
 
@@ -65,7 +65,7 @@ updated: 2026-03-08-breaking
             <a href="/evidence/" class="btn btn-secondary btn-lg">Смотреть доказательства</a>
         </div>
 
-        <p class="sixty-mins-subtext">Трое детей. Три ложных обвинения. Ноль обоснованных причин.<br>Катрин не может оставаться там, где содержатся её дети.</p>
+        <p class="sixty-mins-subtext">Трое детей. Три ложных обвинения. Ноль обоснованных причин.<br>Теперь братья и сёстры разделены друг от друга — и начались процедуры усыновления.</p>
     </div>
 </section>
 
@@ -302,6 +302,9 @@ updated: 2026-03-08-breaking
             <div class="stats-counter-footer">
                 <span>Обновлено: 10 марта 2026</span>
                 <a href="/public-voice/" class="stats-link">Читать все голоса →</a>
+            </div>
+            <div style="margin-top: 12px; padding-top: 12px; border-top: 1px solid rgba(255,255,255,0.05); font-size: 0.75rem; color: rgba(255,255,255,0.35); text-align: center;">
+                Данные аудиторной аналитики от <a href="https://ai.quantummerlin.com" target="_blank" rel="noopener" style="color: rgba(243,156,18,0.6);">ai.quantummerlin.com</a> · Имена анонимизированы в соответствии с GDPR · <a href="/privacy/" style="color: rgba(243,156,18,0.6);">Политика конфиденциальности</a>
             </div>
         </div>
         <div id="public-voices-strip" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1rem;margin-top:2rem;"></div>

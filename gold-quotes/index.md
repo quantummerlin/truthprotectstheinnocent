@@ -181,7 +181,8 @@ lang: en
     <div class="gq-hero-inner container">
         <span class="gq-crown">🏅</span>
         <h1>Gold Quotes</h1>
-        <p>The most powerful things people have said publicly about this case. Real voices, responsibly attributed. An indictment no authority can ignore.</p>
+        <p>The most powerful things people have said publicly about this case. Real voices, anonymised and responsibly presented. An indictment no authority can ignore.</p>
+        <p style="font-size: 0.85rem; color: rgba(255,255,255,0.5); margin-top: 1rem;">Audience intelligence data sourced from <a href="https://ai.quantummerlin.com" target="_blank" rel="noopener" style="color: #f39c12;">ai.quantummerlin.com</a></p>
     </div>
 </div>
 
@@ -191,22 +192,22 @@ lang: en
 
         <div class="gq-feature-quote">
             <p class="gq-feature-text">President Meloni, you have the power and the moral duty — since you are a woman and a mother — to help these children. Put an end to this sadistic and perverse torment.</p>
-            <p class="gq-feature-attr"><span class="flag">🇮🇹</span> Nadia Zandonà — Italy</p>
+            <p class="gq-feature-attr"><span class="flag">🇮🇹</span> Nadia Z. — Italy</p>
         </div>
 
         <div class="gq-feature-quote">
             <p class="gq-feature-text">The 'protection' is creating the trauma — these poor children will carry this with them for life.</p>
-            <p class="gq-feature-attr"><span class="flag">🇮🇹</span> Giusi Finielli — Italy</p>
+            <p class="gq-feature-attr"><span class="flag">🇮🇹</span> Giusi F. — Italy</p>
         </div>
 
         <div class="gq-feature-quote">
             <p class="gq-feature-text">Did I hear right? There is no registration or system that covers all these cases? Children are 'missing' in the system? In Italy? The land of FAMILY?! Ripping children away from their families is sinister, wicked and sick.</p>
-            <p class="gq-feature-attr"><span class="flag">🇬🇧</span> Donna Lee Corboy — United Kingdom</p>
+            <p class="gq-feature-attr"><span class="flag">🇬🇧</span> Donna C. — United Kingdom</p>
         </div>
 
         <div class="gq-feature-quote">
             <p class="gq-feature-text">The system is rotten and based only on economic interest — to self-finance and sustain foster homes and social workers, guaranteeing their salaries.</p>
-            <p class="gq-feature-attr"><span class="flag">🇮🇹</span> Antonio Scerbo — Italy</p>
+            <p class="gq-feature-attr"><span class="flag">🇮🇹</span> Antonio S. — Italy</p>
         </div>
 
     </div>
@@ -305,47 +306,47 @@ lang: en
         <div class="gq-liner-grid">
             <div class="gq-liner">
                 "Please Giorgia, don't talk — DO something."
-                <div class="gq-liner-attr">— Giuseppina Rago, Italy 🇮🇹</div>
+                <div class="gq-liner-attr">— Giuseppina R., Italy 🇮🇹</div>
             </div>
             <div class="gq-liner">
                 "Do something, stop just talking!"
-                <div class="gq-liner-attr">— Lidia Carli, Italy 🇮🇹</div>
+                <div class="gq-liner-attr">— Lidia C., Italy 🇮🇹</div>
             </div>
             <div class="gq-liner">
                 "MOVE IT! We can't take it anymore!"
-                <div class="gq-liner-attr">— Elena Spironello, Italy 🇮🇹</div>
+                <div class="gq-liner-attr">— Elena S., Italy 🇮🇹</div>
             </div>
             <div class="gq-liner">
                 "Release those children and put those who caused all this disgrace into the foster home instead!"
-                <div class="gq-liner-attr">— Alfonso Cifolelli, Italy 🇮🇹</div>
+                <div class="gq-liner-attr">— Alfonso C., Italy 🇮🇹</div>
             </div>
             <div class="gq-liner">
                 "Send inspectors to the foster homes instead of talking for election spots!"
-                <div class="gq-liner-attr">— Velia Altigondo, Italy 🇮🇹</div>
+                <div class="gq-liner-attr">— Velia A., Italy 🇮🇹</div>
             </div>
             <div class="gq-liner">
                 "This should not have happened! Reunite the family immediately!"
-                <div class="gq-liner-attr">— Rita Horvath, Hungary 🇭🇺</div>
+                <div class="gq-liner-attr">— Rita H., Hungary 🇭🇺</div>
             </div>
             <div class="gq-liner">
                 "Good words — but meanwhile what is being done for this family?"
-                <div class="gq-liner-attr">— Noemi Milano, Italy 🇮🇹</div>
+                <div class="gq-liner-attr">— Noemi M., Italy 🇮🇹</div>
             </div>
             <div class="gq-liner">
                 "These children are not Italian."
-                <div class="gq-liner-attr">— Mariana Lant, International 🌍</div>
+                <div class="gq-liner-attr">— Mariana L., International 🌍</div>
             </div>
             <div class="gq-liner">
                 "30,000 minors taken from their families… and they speak only of one family."
-                <div class="gq-liner-attr">— Cristian Pesaresi, Italy 🇮🇹</div>
+                <div class="gq-liner-attr">— Cristian P., Italy 🇮🇹</div>
             </div>
             <div class="gq-liner">
                 "Not just that family — they have destroyed many, creating an insurmountable wall."
-                <div class="gq-liner-attr">— Vita Maria Nardiello, Italy 🇮🇹</div>
+                <div class="gq-liner-attr">— Vita Maria N., Italy 🇮🇹</div>
             </div>
             <div class="gq-liner">
                 "The law should protect the weakest — not divide them from their mothers."
-                <div class="gq-liner-attr">— Angelina Ambrosio, Italy 🇮🇹</div>
+                <div class="gq-liner-attr">— Angelina A., Italy 🇮🇹</div>
             </div>
         </div>
     </div>
@@ -354,7 +355,7 @@ lang: en
 <!-- Stats and CTA -->
 <div class="gq-stats-bar">
     <div class="container">
-        <p>Every voice on this page is real. Every name is a person who chose to speak up publicly.</p>
+        <p>Every voice on this page is real. Names have been anonymised to first name and last initial in accordance with GDPR and Italian privacy law (D.Lgs. 196/2003).</p>
         <div class="gq-stats-row">
             <div class="gq-stat"><div class="n">1,235</div><div class="l">Public Comments</div></div>
             <div class="gq-stat"><div class="n">1,058</div><div class="l">Unique Voices</div></div>
@@ -365,6 +366,19 @@ lang: en
             <a href="/public-voice/" class="btn btn-primary" style="background: #f39c12; border-color: #f39c12; color: #1a1a00;">See All 1,235 Voices</a>
             <a href="/petition/" class="btn btn-secondary">Sign the UN Petition</a>
             <a href="/action/" class="btn btn-outline" style="border-color: rgba(255,255,255,0.3); color: white;">Take Action Now</a>
+        </div>
+        <!-- Data Compliance Notice -->
+        <div style="margin-top: 3rem; padding: 2rem; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 1rem; max-width: 800px; margin-left: auto; margin-right: auto; text-align: left;">
+            <p style="color: rgba(255,255,255,0.6); font-size: 0.8rem; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 0.75rem;">🛡️ Data Source & Privacy Compliance</p>
+            <p style="color: rgba(255,255,255,0.5); font-size: 0.85rem; line-height: 1.7; margin-bottom: 0.75rem;">The quotes on this page are derived from <strong style="color: rgba(255,255,255,0.7);">audience intelligence reports</strong> generated by <a href="https://ai.quantummerlin.com" target="_blank" rel="noopener" style="color: #f39c12;">ai.quantummerlin.com</a>, analysing publicly visible comments on public Facebook posts.</p>
+            <p style="color: rgba(255,255,255,0.5); font-size: 0.85rem; line-height: 1.7; margin-bottom: 0.75rem;">In accordance with <strong style="color: rgba(255,255,255,0.7);">GDPR (General Data Protection Regulation)</strong>, <strong style="color: rgba(255,255,255,0.7);">Italian privacy law (Codice della Privacy / D.Lgs. 196/2003)</strong>, and the principle of <strong style="color: rgba(255,255,255,0.7);">contextual integrity</strong>:</p>
+            <ul style="color: rgba(255,255,255,0.5); font-size: 0.85rem; line-height: 1.9; padding-left: 1.25rem; margin-bottom: 0.75rem;">
+                <li>All names are <strong style="color: rgba(255,255,255,0.7);">anonymised</strong> to first name and last initial</li>
+                <li>Only <strong style="color: rgba(255,255,255,0.7);">aggregate statistics</strong> (e.g. “96% support the family”) are published without restriction</li>
+                <li>Quotes are presented in translated/paraphrased form where appropriate</li>
+                <li>No verbatim quotes are published with identifying information</li>
+            </ul>
+            <p style="color: rgba(255,255,255,0.5); font-size: 0.85rem; line-height: 1.7; margin: 0;"><strong style="color: rgba(255,255,255,0.7);">Removal requests:</strong> If you recognise your words and wish them removed, contact <a href="mailto:privacy@quantummerlin.com" style="color: #f39c12;">privacy@quantummerlin.com</a> and we will action your request promptly. See our <a href="/privacy/" style="color: #f39c12;">Privacy Policy</a>.</p>
         </div>
     </div>
 </div>

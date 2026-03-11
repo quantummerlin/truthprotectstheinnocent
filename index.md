@@ -71,7 +71,7 @@ updated: 2026-03-11-breaking
             <a href="/evidence/" class="btn btn-secondary btn-lg">See The Evidence</a>
         </div>
 
-        <p class="sixty-mins-subtext">Three children. Three false claims. Zero valid reasons.<br>Catherine is now banned from the facility where her children are held.</p>
+        <p class="sixty-mins-subtext">Three children. Three false claims. Zero valid reasons.<br>Now the siblings are being separated from each other — and adoption proceedings have begun.</p>
     </div>
 </section>
 
@@ -246,6 +246,9 @@ updated: 2026-03-11-breaking
             <div class="stats-counter-footer">
                 <span>Last updated: <span id="stats-date">March 10, 2026</span></span>
                 <a href="/public-voice/" class="stats-link">Read all voices →</a>
+            </div>
+            <div style="margin-top: 12px; padding-top: 12px; border-top: 1px solid rgba(255,255,255,0.05); font-size: 0.75rem; color: rgba(255,255,255,0.35); text-align: center;">
+                Audience intelligence data from <a href="https://ai.quantummerlin.com" target="_blank" rel="noopener" style="color: rgba(243,156,18,0.6);">ai.quantummerlin.com</a> · Names anonymised per GDPR · <a href="/privacy/" style="color: rgba(243,156,18,0.6);">Privacy Policy</a>
             </div>
         </div>
 

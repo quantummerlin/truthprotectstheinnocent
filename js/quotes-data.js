@@ -2,6 +2,11 @@
 // QUOTES DATA FOR WEBSITE TICKER
 // Public Comments Analysis — Trevallion-Birmingham Family Case
 // Updated: March 10, 2026 — Batches 1 + 2 + 3
+//
+// DATA SOURCE: Audience intelligence reports from ai.quantummerlin.com
+// All names anonymised to first name + last initial per GDPR / D.Lgs. 196/2003
+// Quotes translated and/or paraphrased — not verbatim reproductions
+// Removal requests: privacy@quantummerlin.com
 // =============================================================================
 
 const QUOTES_DATA = [
