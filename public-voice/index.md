@@ -177,7 +177,7 @@ lang: en
         <div style="display:flex;gap:2rem;justify-content:center;flex-wrap:wrap;margin-top:1rem;">
             <div style="background:rgba(255,255,255,0.08);border-radius:0.75rem;padding:0.75rem 1.25rem;font-size:0.85rem;color:rgba(255,255,255,0.7);">📣 Batch 1: Meloni Facebook · 243 comments</div>
             <div style="background:rgba(255,255,255,0.08);border-radius:0.75rem;padding:0.75rem 1.25rem;font-size:0.85rem;color:rgba(255,255,255,0.7);">📣 Batch 2: Pozzolo Facebook · 520 comments · March 8, 2026 (Women's Day)</div>
-            <div style="background:rgba(243,156,18,0.15);border:1px solid rgba(243,156,18,0.3);border-radius:0.75rem;padding:0.75rem 1.25rem;font-size:0.85rem;color:rgba(255,255,255,0.85);">🆕 Batch 3: Pozzolo Facebook Reel · 472 comments · March 10, 2026</div>
+            <div style="background:rgba(243,156,18,0.15);border:1px solid rgba(243,156,18,0.3);border-radius:0.75rem;padding:0.75rem 1.25rem;font-size:0.85rem;color:rgba(255,255,255,0.85);">🆕 Batch 4: RAI Ore 14 YouTube · 109 comments · March 9, 2026</div>
         </div>
     </div>
 </div>

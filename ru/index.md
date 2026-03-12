@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "СРОЧНО: Братья и сёстры изолированы, усыновление под угрозой | Катрин Бирмингем и Натан Тревальон"
-description: "СРОЧНО 11 марта 2026: Братья и сёстры теперь изолированы друг от друга внутри учреждения. Начинаются процедуры усыновления по итальянскому законодательству — против родителей, чьих детей забрали с обоснованиями, все из которых официально опровергнуты. Действуйте. #TruthProtectsTheInnocent"
+title: "СРОЧНО 8 Марта — Детей перевели, Катрин изгнана | La Famiglia Nel Bosco"
+description: "СРОЧНО 8 марта 2026: После 60 Minutes итальянские власти перевели детей в новое учреждение — где Катрин не может оставаться. Три официальные причины — все опровергнуты. #TruthProtectsTheInnocent #LaFamigliaNelBosco"
 lang: ru
 image: /assets/images/og-image.jpg
-updated: 2026-03-11-breaking
+updated: 2026-03-08-breaking
 ---
 
 <!-- Hero: Breaking News -->
@@ -18,19 +18,19 @@ updated: 2026-03-11-breaking
     <div class="hero-content">
         <div class="sixty-mins-badge-wrap">
             <span class="sixty-mins-badge sixty-mins-badge-aired">
-                Обновление — 11 марта 2026
+                🚨 СРОЧНО — 8 МАРТА 2026
             </span>
         </div>
 
-        <h1 class="sixty-mins-headline">Братья и сёстры разлучены друг с другом</h1>
-        <p class="lead">Внутри учреждения трое детей теперь разделены <strong>даже друг от друга</strong>. Аргументы в пользу их воссоединения <strong>уже представлены</strong> — каждое официальное обоснование для изъятия официально опровергнуто. Сейчас нужно постоянное давление со стороны мира, который продолжает наблюдать.</p>
+        <h1 class="sixty-mins-headline">Детей перевели. Катрин изгнана.</h1>
+        <p class="lead">После 60 Minutes итальянские власти решили перевести детей в <strong>новое учреждение</strong> — <strong>где Катрин не может оставаться</strong>. Прощание было записано на видео.</p>
 
         <div class="hero-alert-box">
-            <p style="color: #fef08a; font-weight: 700; font-size: 1rem; margin-bottom: 0.5rem;">Как далеко это может зайти?</p>
-            <p style="color: rgba(255,255,255,0.9); font-size: 0.95rem; line-height: 1.6; margin-bottom: 1rem;">Ваш голос — направленный нужным людям — меняет результаты. Два конкретных действия могут изменить ситуацию сегодня.</p>
+            <p style="color: #fef08a; font-weight: 700; font-size: 1rem; margin-bottom: 0.5rem;">📹 Смотреть: Момент прощания</p>
+            <p style="color: rgba(255,255,255,0.9); font-size: 0.95rem; line-height: 1.6; margin-bottom: 1rem;">Катрин была вынуждена попрощаться с детьми перед их переводом. Внимание — тяжёлое видео.</p>
             <div class="hero-alert-btns">
-                <a href="/action/" style="background: #f39c12; color: #1a1a00; padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 700; font-size: 0.95rem; display: block; text-align: center;">→ Действовать Сейчас</a>
-                <a href="/breaking/legal/action/2026/03/11/siblings-isolated-adoption-threatened.html" style="background: rgba(255,255,255,0.15); color: white; border: 1.5px solid rgba(255,255,255,0.5); padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 600; font-size: 0.95rem; display: block; text-align: center;">Читать полное обновление</a>
+                <a href="https://www.facebook.com/share/v/1HpVpWjzMC/" target="_blank" rel="noopener noreferrer" style="background: #1877f2; color: white; padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 700; font-size: 0.95rem; display: block; text-align: center;">▶ Смотреть на Facebook</a>
+                <a href="https://www.youtube.com/watch?v=FZPMGep5CKU" target="_blank" rel="noopener noreferrer" style="background: rgba(255,255,255,0.15); color: white; border: 1.5px solid rgba(255,255,255,0.5); padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 600; font-size: 0.95rem; display: block; text-align: center;">▶ 60 Minutes на YouTube</a>
             </div>
         </div>
 
@@ -65,7 +65,7 @@ updated: 2026-03-11-breaking
             <a href="/evidence/" class="btn btn-secondary btn-lg">Смотреть доказательства</a>
         </div>
 
-        <p class="sixty-mins-subtext">Трое детей. Три ложных обвинения. Ноль обоснованных причин.<br>Теперь братья и сёстры разделены друг от друга — и начались процедуры усыновления.</p>
+        <p class="sixty-mins-subtext">Трое детей. Три ложных обвинения. Ноль обоснованных причин.<br>Катрин не может оставаться там, где содержатся её дети.</p>
     </div>
 </section>
 
@@ -286,7 +286,7 @@ updated: 2026-03-11-breaking
     <div class="container">
         <div class="section-header" style="color: white;">
             <h2 style="color: white;">Мир Говорит</h2>
-            <p style="color: rgba(255,255,255,0.75);">1.235 человека со всего мира публично высказались, требуя немедленного возвращения Утопии, Галориана и Блю Белл домой.</p>
+            <p style="color: rgba(255,255,255,0.75);">1.344 человека со всего мира публично высказались, требуя немедленного возвращения Утопии, Галориана и Блю Белл домой.</p>
         </div>
         <div class="stats-counter-wrapper">
             <div class="stats-counter-header">
@@ -294,23 +294,23 @@ updated: 2026-03-11-breaking
                 <span class="stats-counter-title">Публичные Голоса</span>
             </div>
             <div class="stats-counter-grid">
-                <div class="stat-item"><div class="stat-number">1.235</div><div class="stat-label">Публичных Комментариев</div><div class="stat-change up">↑ 3 источника</div></div>
-                <div class="stat-item"><div class="stat-number">1.058</div><div class="stat-label">Уникальных Голосов</div><div class="stat-change up">↑ +380 пакет 3</div></div>
+                <div class="stat-item"><div class="stat-number">1.344</div><div class="stat-label">Публичных Комментариев</div><div class="stat-change up">↑ 4 источника</div></div>
+                <div class="stat-item"><div class="stat-number">1.130</div><div class="stat-label">Уникальных Голосов</div><div class="stat-change up">↑ +72 пакет 4</div></div>
                 <div class="stat-item highlight"><div class="stat-number">96%</div><div class="stat-label">Поддерживают Семью</div><div class="stat-change">Единогласно</div></div>
                 <div class="stat-item"><div class="stat-number">12+</div><div class="stat-label">Стран</div><div class="stat-change up">↑ Международно</div></div>
             </div>
             <div class="stats-counter-footer">
-                <span>Обновлено: 10 марта 2026</span>
+                <span>Обновлено: 12 марта 2026</span>
                 <a href="/public-voice/" class="stats-link">Читать все голоса →</a>
             </div>
             <div style="margin-top: 12px; padding-top: 12px; border-top: 1px solid rgba(255,255,255,0.05); font-size: 0.75rem; color: rgba(255,255,255,0.35); text-align: center;">
-                Данные аудиторной аналитики от <a href="https://ai.quantummerlin.com" target="_blank" rel="noopener" style="color: rgba(243,156,18,0.6);">ai.quantummerlin.com</a> · Имена анонимизированы в соответствии с GDPR · <a href="/privacy/" style="color: rgba(243,156,18,0.6);">Политика конфиденциальности</a>
+                Имена анонимизированы в соответствии с GDPR · <a href="/privacy/" style="color: rgba(243,156,18,0.6);">Политика конфиденциальности</a>
             </div>
         </div>
         <div id="public-voices-strip" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1rem;margin-top:2rem;"></div>
         <style>.stats-counter-wrapper{background:linear-gradient(135deg,#1a1a2e,#16213e);border-radius:20px;padding:30px;color:white;max-width:800px;margin:0 auto}.stats-counter-header{display:flex;align-items:center;gap:15px;margin-bottom:25px}.stats-live-indicator{background:#e74c3c;color:white;padding:5px 12px;border-radius:20px;font-size:.75rem;font-weight:700;animation:pulse 2s infinite}.stats-counter-title{font-size:1.1rem;font-weight:600;color:#ccc}.stats-counter-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:20px}.stat-item{text-align:center;padding:20px 10px;background:rgba(255,255,255,.05);border-radius:15px}.stat-item.highlight{background:linear-gradient(135deg,#27ae60,#2ecc71)}.stat-number{font-size:2.5rem;font-weight:900;line-height:1;margin-bottom:8px}.stat-label{font-size:.85rem;color:#aaa;margin-bottom:8px}.stat-item.highlight .stat-label{color:rgba(255,255,255,.9)}.stat-change{font-size:.75rem;color:#888}.stat-change.up{color:#2ecc71}.stats-counter-footer{display:flex;justify-content:space-between;align-items:center;margin-top:20px;padding-top:20px;border-top:1px solid rgba(255,255,255,.1);font-size:.85rem;color:#888}.stats-link{color:#f39c12;text-decoration:none;font-weight:600}.pv-strip-card{background:rgba(255,255,255,.06);border:1px solid rgba(243,156,18,.2);border-radius:12px;padding:1.25rem 1.5rem;color:white}.pv-strip-quote{font-style:italic;font-size:.9rem;line-height:1.65;color:#e0e0e0;margin:0 0 .75rem}.pv-strip-quote::before{content:'\201C';color:#f39c12}.pv-strip-quote::after{content:'\201D';color:#f39c12}.pv-strip-meta{font-size:.8rem;color:#f39c12;font-weight:600}@media(max-width:600px){.stats-counter-grid{grid-template-columns:repeat(2,1fr)}.stat-number{font-size:2rem}}</style>
         <div style="text-align:center;margin-top:1.5rem;">
-            <a href="/public-voice/" class="btn" style="background:linear-gradient(135deg,#e67e22,#f39c12);color:#1a1a00;font-weight:700;border:none;padding:.75rem 2rem;border-radius:2rem;">Читать все 1.235 голоса →</a>
+            <a href="/public-voice/" class="btn" style="background:linear-gradient(135deg,#e67e22,#f39c12);color:#1a1a00;font-weight:700;border:none;padding:.75rem 2rem;border-radius:2rem;">Читать все 1.344 голоса →</a>
             <a href="/gold-quotes/" class="btn btn-outline" style="color:white;border-color:rgba(255,255,255,.3);margin-left:.75rem;padding:.75rem 2rem;border-radius:2rem;">🏅 Золотые Цитаты</a>
         </div>
     </div>

@@ -71,7 +71,7 @@ updated: 2026-03-11-breaking
             <a href="/evidence/" class="btn btn-secondary btn-lg">See The Evidence</a>
         </div>
 
-        <p class="sixty-mins-subtext">Three children. Three false claims. Zero valid reasons.<br>Now the siblings are being separated from each other — and adoption proceedings have begun.</p>
+        <p class="sixty-mins-subtext">Three children. Three false claims. Zero valid reasons.<br>Catherine is now banned from the facility where her children are held.</p>
     </div>
 </section>
 
@@ -223,19 +223,19 @@ updated: 2026-03-11-breaking
             </div>
             <div class="stats-counter-grid">
                 <div class="stat-item">
-                    <div class="stat-number" id="stat-comments">1,235</div>
+                    <div class="stat-number" id="stat-comments">1,344</div>
                     <div class="stat-label">Public Comments</div>
-                    <div class="stat-change up">↑ 3 sources analysed</div>
+                    <div class="stat-change up">↑ 4 sources analysed</div>
                 </div>
                 <div class="stat-item">
-                    <div class="stat-number" id="stat-voices">1,058</div>
+                    <div class="stat-number" id="stat-voices">1,130</div>
                     <div class="stat-label">Unique Voices</div>
-                    <div class="stat-change up">↑ +380 batch 3</div>
+                    <div class="stat-change up">↑ +72 batch 4</div>
                 </div>
                 <div class="stat-item highlight">
                     <div class="stat-number" id="stat-support">96%</div>
                     <div class="stat-label">Support Family</div>
-                    <div class="stat-change">1,235 comments</div>
+                    <div class="stat-change">1,344 comments</div>
                 </div>
                 <div class="stat-item">
                     <div class="stat-number" id="stat-countries">12</div>
@@ -244,11 +244,11 @@ updated: 2026-03-11-breaking
                 </div>
             </div>
             <div class="stats-counter-footer">
-                <span>Last updated: <span id="stats-date">March 10, 2026</span></span>
+                <span>Last updated: <span id="stats-date">March 12, 2026</span></span>
                 <a href="/public-voice/" class="stats-link">Read all voices →</a>
             </div>
             <div style="margin-top: 12px; padding-top: 12px; border-top: 1px solid rgba(255,255,255,0.05); font-size: 0.75rem; color: rgba(255,255,255,0.35); text-align: center;">
-                Audience intelligence data from <a href="https://ai.quantummerlin.com" target="_blank" rel="noopener" style="color: rgba(243,156,18,0.6);">ai.quantummerlin.com</a> · Names anonymised per GDPR · <a href="/privacy/" style="color: rgba(243,156,18,0.6);">Privacy Policy</a>
+                Names anonymised per GDPR · <a href="/privacy/" style="color: rgba(243,156,18,0.6);">Privacy Policy</a>
             </div>
         </div>
 
@@ -262,7 +262,7 @@ updated: 2026-03-11-breaking
         .pv-strip-meta { font-size: 0.8rem; color: #f39c12; font-weight: 600; }
         </style>
         <div style="text-align:center;margin-top:1.5rem;">
-            <a href="/public-voice/" class="btn" style="background:linear-gradient(135deg,#e67e22,#f39c12);color:#1a1a00;font-weight:700;border:none;padding:0.75rem 2rem;border-radius:2rem;">Read All 1,235 Voices →</a>
+            <a href="/public-voice/" class="btn" style="background:linear-gradient(135deg,#e67e22,#f39c12);color:#1a1a00;font-weight:700;border:none;padding:0.75rem 2rem;border-radius:2rem;">Read All 1,344 Voices →</a>
             <a href="/gold-quotes/" class="btn btn-outline" style="color:white;border-color:rgba(255,255,255,0.3);margin-left:0.75rem;padding:0.75rem 2rem;border-radius:2rem;">🏅 Gold Quotes</a>
         </div>
         <style>

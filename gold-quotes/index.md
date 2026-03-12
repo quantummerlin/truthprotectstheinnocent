@@ -357,13 +357,13 @@ lang: en
     <div class="container">
         <p>Every voice on this page is real. Names have been anonymised to first name and last initial in accordance with GDPR and Italian privacy law (D.Lgs. 196/2003).</p>
         <div class="gq-stats-row">
-            <div class="gq-stat"><div class="n">1,235</div><div class="l">Public Comments</div></div>
+            <div class="gq-stat"><div class="n">1,344</div><div class="l">Public Comments</div></div>
             <div class="gq-stat"><div class="n">1,058</div><div class="l">Unique Voices</div></div>
             <div class="gq-stat"><div class="n">12+</div><div class="l">Countries</div></div>
             <div class="gq-stat"><div class="n">96%</div><div class="l">Support Reunion</div></div>
         </div>
         <div style="margin-top: 3rem; display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
-            <a href="/public-voice/" class="btn btn-primary" style="background: #f39c12; border-color: #f39c12; color: #1a1a00;">See All 1,235 Voices</a>
+            <a href="/public-voice/" class="btn btn-primary" style="background: #f39c12; border-color: #f39c12; color: #1a1a00;">See All 1,344 Voices</a>
             <a href="/petition/" class="btn btn-secondary">Sign the UN Petition</a>
             <a href="/action/" class="btn btn-outline" style="border-color: rgba(255,255,255,0.3); color: white;">Take Action Now</a>
         </div>

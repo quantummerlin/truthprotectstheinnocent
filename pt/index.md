@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "URGENTE: Irmãos isolados, adoção ameaçada | Catherine Birmingham e Nathan Trevallion"
-description: "URGENTE 11 março 2026: Os irmãos estão a ser isolados uns dos outros dentro da instituição. Procedimentos de adoção estão a ser iniciados pela lei italiana — contra pais cujos filhos foram retirados com justificações todas oficialmente refutadas. Aja agora. #TruthProtectsTheInnocent"
+title: "BREAKING 8 Março — Crianças transferidas, Catherine proibida | La Famiglia Nel Bosco"
+description: "URGENTE 8 março 2026: Após o 60 Minutes, as autoridades italianas transferiram as crianças para uma nova instituição onde Catherine não pode ficar. Três razões oficiais — todas refutadas. #TruthProtectsTheInnocent #LaFamigliaNelBosco"
 lang: pt
 image: /assets/images/og-image.jpg
-updated: 2026-03-11-breaking
+updated: 2026-03-08-breaking
 ---
 
 <!-- Hero: Breaking News -->
@@ -18,19 +18,19 @@ updated: 2026-03-11-breaking
     <div class="hero-content">
         <div class="sixty-mins-badge-wrap">
             <span class="sixty-mins-badge sixty-mins-badge-aired">
-                Atualização — 11 de março de 2026
+                🚨 URGENTE — 8 DE MARÇO 2026
             </span>
         </div>
 
-        <h1 class="sixty-mins-headline">Os irmãos estão sendo mantidos separados</h1>
-        <p class="lead">Dentro da instituição, as três crianças estão agora separadas até <strong>umas das outras</strong>. Os argumentos para a sua reunificação <strong>já foram apresentados</strong> — cada justificação oficial para a remoção foi oficialmente refutada. O que é necessário agora é pressão constante de um mundo que continua a observar.</p>
+        <h1 class="sixty-mins-headline">Crianças transferidas. Catherine proibida.</h1>
+        <p class="lead">Após o 60 Minutes, as autoridades italianas decidiram transferir as crianças para uma <strong>nova instituição</strong> — <strong>onde Catherine não pode ficar</strong>. A despedida foi gravada em vídeo.</p>
 
         <div class="hero-alert-box">
-            <p style="color: #fef08a; font-weight: 700; font-size: 1rem; margin-bottom: 0.5rem;">Até onde isto pode ir?</p>
-            <p style="color: rgba(255,255,255,0.9); font-size: 0.95rem; line-height: 1.6; margin-bottom: 1rem;">A sua voz — dirigida às pessoas certas — é o que muda os resultados. Duas ações específicas podem fazer a diferença hoje.</p>
+            <p style="color: #fef08a; font-weight: 700; font-size: 1rem; margin-bottom: 0.5rem;">📹 Ver: O momento da despedida</p>
+            <p style="color: rgba(255,255,255,0.9); font-size: 0.95rem; line-height: 1.6; margin-bottom: 1rem;">Catherine foi forçada a se despedir dos filhos antes de serem transferidos. Atenção — conteúdo perturbador.</p>
             <div class="hero-alert-btns">
-                <a href="/action/" style="background: #f39c12; color: #1a1a00; padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 700; font-size: 0.95rem; display: block; text-align: center;">→ Agir Agora</a>
-                <a href="/breaking/legal/action/2026/03/11/siblings-isolated-adoption-threatened.html" style="background: rgba(255,255,255,0.15); color: white; border: 1.5px solid rgba(255,255,255,0.5); padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 600; font-size: 0.95rem; display: block; text-align: center;">Ler Atualização Completa</a>
+                <a href="https://www.facebook.com/share/v/1HpVpWjzMC/" target="_blank" rel="noopener noreferrer" style="background: #1877f2; color: white; padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 700; font-size: 0.95rem; display: block; text-align: center;">▶ Ver no Facebook</a>
+                <a href="https://www.youtube.com/watch?v=FZPMGep5CKU" target="_blank" rel="noopener noreferrer" style="background: rgba(255,255,255,0.15); color: white; border: 1.5px solid rgba(255,255,255,0.5); padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 600; font-size: 0.95rem; display: block; text-align: center;">▶ 60 Minutes no YouTube</a>
             </div>
         </div>
 
@@ -65,7 +65,7 @@ updated: 2026-03-11-breaking
             <a href="/evidence/" class="btn btn-secondary btn-lg">Ver As Provas</a>
         </div>
 
-        <p class="sixty-mins-subtext">Três crianças. Três acusações falsas. Zero razões válidas.<br>Agora os irmãos estão a ser separados uns dos outros — e os procedimentos de adoção foram iniciados.</p>
+        <p class="sixty-mins-subtext">Três crianças. Três acusações falsas. Zero razões válidas.<br>Catherine não pode ficar onde seus filhos estão detidos.</p>
     </div>
 </section>
 
@@ -286,7 +286,7 @@ updated: 2026-03-11-breaking
     <div class="container">
         <div class="section-header" style="color: white;">
             <h2 style="color: white;">O Mundo Fala</h2>
-            <p style="color: rgba(255,255,255,0.75);">1.235 pessoas de todo o mundo comentaram publicamente, exigindo o retorno imediato de Utopia, Galorian e Blue Bell.</p>
+            <p style="color: rgba(255,255,255,0.75);">1.344 pessoas de todo o mundo comentaram publicamente, exigindo o retorno imediato de Utopia, Galorian e Blue Bell.</p>
         </div>
         <div class="stats-counter-wrapper">
             <div class="stats-counter-header">
@@ -294,23 +294,23 @@ updated: 2026-03-11-breaking
                 <span class="stats-counter-title">Vozes Públicas</span>
             </div>
             <div class="stats-counter-grid">
-                <div class="stat-item"><div class="stat-number">1.235</div><div class="stat-label">Comentários Públicos</div><div class="stat-change up">↑ 3 fontes</div></div>
-                <div class="stat-item"><div class="stat-number">1.058</div><div class="stat-label">Vozes Únicas</div><div class="stat-change up">↑ +380 lote 3</div></div>
+                <div class="stat-item"><div class="stat-number">1.344</div><div class="stat-label">Comentários Públicos</div><div class="stat-change up">↑ 4 fontes</div></div>
+                <div class="stat-item"><div class="stat-number">1.130</div><div class="stat-label">Vozes Únicas</div><div class="stat-change up">↑ +72 lote 4</div></div>
                 <div class="stat-item highlight"><div class="stat-number">96%</div><div class="stat-label">Apoiam a Família</div><div class="stat-change">Unânime</div></div>
                 <div class="stat-item"><div class="stat-number">12+</div><div class="stat-label">Países</div><div class="stat-change up">↑ Internacional</div></div>
             </div>
             <div class="stats-counter-footer">
-                <span>Atualizado: 10 de março de 2026</span>
+                <span>Atualizado: 12 de março de 2026</span>
                 <a href="/public-voice/" class="stats-link">Ler todas as vozes →</a>
             </div>
             <div style="margin-top: 12px; padding-top: 12px; border-top: 1px solid rgba(255,255,255,0.05); font-size: 0.75rem; color: rgba(255,255,255,0.35); text-align: center;">
-                Dados de inteligência de audiência de <a href="https://ai.quantummerlin.com" target="_blank" rel="noopener" style="color: rgba(243,156,18,0.6);">ai.quantummerlin.com</a> · Nomes anonimizados conforme RGPD · <a href="/privacy/" style="color: rgba(243,156,18,0.6);">Política de Privacidade</a>
+                Nomes anonimizados conforme RGPD · <a href="/privacy/" style="color: rgba(243,156,18,0.6);">Política de Privacidade</a>
             </div>
         </div>
         <div id="public-voices-strip" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1rem;margin-top:2rem;"></div>
         <style>.stats-counter-wrapper{background:linear-gradient(135deg,#1a1a2e,#16213e);border-radius:20px;padding:30px;color:white;max-width:800px;margin:0 auto}.stats-counter-header{display:flex;align-items:center;gap:15px;margin-bottom:25px}.stats-live-indicator{background:#e74c3c;color:white;padding:5px 12px;border-radius:20px;font-size:.75rem;font-weight:700;animation:pulse 2s infinite}.stats-counter-title{font-size:1.1rem;font-weight:600;color:#ccc}.stats-counter-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:20px}.stat-item{text-align:center;padding:20px 10px;background:rgba(255,255,255,.05);border-radius:15px}.stat-item.highlight{background:linear-gradient(135deg,#27ae60,#2ecc71)}.stat-number{font-size:2.5rem;font-weight:900;line-height:1;margin-bottom:8px}.stat-label{font-size:.85rem;color:#aaa;margin-bottom:8px}.stat-item.highlight .stat-label{color:rgba(255,255,255,.9)}.stat-change{font-size:.75rem;color:#888}.stat-change.up{color:#2ecc71}.stats-counter-footer{display:flex;justify-content:space-between;align-items:center;margin-top:20px;padding-top:20px;border-top:1px solid rgba(255,255,255,.1);font-size:.85rem;color:#888}.stats-link{color:#f39c12;text-decoration:none;font-weight:600}.pv-strip-card{background:rgba(255,255,255,.06);border:1px solid rgba(243,156,18,.2);border-radius:12px;padding:1.25rem 1.5rem;color:white}.pv-strip-quote{font-style:italic;font-size:.9rem;line-height:1.65;color:#e0e0e0;margin:0 0 .75rem}.pv-strip-quote::before{content:'\201C';color:#f39c12}.pv-strip-quote::after{content:'\201D';color:#f39c12}.pv-strip-meta{font-size:.8rem;color:#f39c12;font-weight:600}@media(max-width:600px){.stats-counter-grid{grid-template-columns:repeat(2,1fr)}.stat-number{font-size:2rem}}</style>
         <div style="text-align:center;margin-top:1.5rem;">
-            <a href="/public-voice/" class="btn" style="background:linear-gradient(135deg,#e67e22,#f39c12);color:#1a1a00;font-weight:700;border:none;padding:.75rem 2rem;border-radius:2rem;">Ler Todas as 1.235 Vozes →</a>
+            <a href="/public-voice/" class="btn" style="background:linear-gradient(135deg,#e67e22,#f39c12);color:#1a1a00;font-weight:700;border:none;padding:.75rem 2rem;border-radius:2rem;">Ler Todas as 1.344 Vozes →</a>
             <a href="/gold-quotes/" class="btn btn-outline" style="color:white;border-color:rgba(255,255,255,.3);margin-left:.75rem;padding:.75rem 2rem;border-radius:2rem;">🏅 Citações de Ouro</a>
         </div>
     </div>
