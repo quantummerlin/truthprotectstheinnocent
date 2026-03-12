@@ -1,7 +1,7 @@
 // =============================================================================
 // QUOTES DATA FOR WEBSITE TICKER
 // Public Comments Analysis — Trevallion-Birmingham Family Case
-// Updated: March 10, 2026 — Batches 1 + 2 + 3
+// Updated: March 12, 2026 — Batches 1 + 2 + 3 + 4
 //
 // DATA SOURCE: Audience intelligence reports from ai.quantummerlin.com
 // All names anonymised to first name + last initial per GDPR / D.Lgs. 196/2003
@@ -315,6 +315,72 @@ const QUOTES_DATA = [
         category: "legal",
         batch: 3,
         rating: "silver"
+    },
+
+    // =========================================================================
+    // BATCH 4 — RAI Ore 14 YouTube — March 9, 2026 — 109 comments
+    // Source: RAI Ore 14 (Italian national public broadcaster, 6.5M subscribers)
+    // Views: 5,700+ | Meaningful comments: ~78
+    // =========================================================================
+    {
+        text: "I sometimes had doubts about Catherine — but it is clear she loves her children and has done nothing wrong. They were happy. Look at them now.",
+        author: "Giuseppina A.",
+        country: "Italy",
+        category: "personal",
+        batch: 4,
+        rating: "diamond"
+    },
+    {
+        text: "They drove her to the edge over two months. They destroyed a family. For me this is a state crime.",
+        author: "Stefania V.",
+        country: "Italy",
+        category: "action",
+        batch: 4,
+        rating: "diamond",
+        likes: 38
+    },
+    {
+        text: "This is violence. This is how you ruin a family.",
+        author: "Arianna B.",
+        country: "Italy",
+        category: "action",
+        batch: 4,
+        rating: "gold",
+        likes: 33
+    },
+    {
+        text: "Their negative judgements turned husband against wife. Without words — this situation will mark for ever the conscience of those who failed to do better.",
+        author: "Raffaela S.",
+        country: "Italy",
+        category: "family",
+        batch: 4,
+        rating: "gold",
+        likes: 21
+    },
+    {
+        text: "If the children want their mother, that means they should be with her.",
+        author: "Elisa G.",
+        country: "Italy",
+        category: "family",
+        batch: 4,
+        rating: "gold"
+    },
+    {
+        text: "They were happy — look what has been done to them. This abomination cries out to heaven.",
+        author: "Elena P.",
+        country: "Italy",
+        category: "family",
+        batch: 4,
+        rating: "gold"
+    },
+    {
+        text: "Exonerated on every official charge, yet still separated. On what criteria are these evaluations based?",
+        author: "Marta C.",
+        country: "Italy",
+        category: "legal",
+        batch: 4,
+        rating: "gold",
+        likes: 32
     }
 ];
 
@@ -323,12 +389,12 @@ const QUOTES_DATA = [
 // =============================================================================
 
 const QUOTES_STATS = {
-    totalComments: 1235,
-    uniqueVoices: 1058,
+    totalComments: 1344,
+    uniqueVoices: 1130,
     supportFamily: 96,
     supportSeparation: 4,
     countries: 12,
-    lastUpdated: "March 10, 2026",
+    lastUpdated: "March 12, 2026",
     batches: [
         { 
             number: 1, 
@@ -355,6 +421,15 @@ const QUOTES_STATS = {
             uniqueVoices: 380,
             countries: 4,
             notes: "Viral reel — 115-like top comment asking what lies behind the persecution"
+        },
+        {
+            number: 4,
+            source: "RAI Ore 14 YouTube",
+            date: "March 9, 2026",
+            count: 109,
+            uniqueVoices: 72,
+            countries: 3,
+            notes: "Italian national public broadcaster, 6.5M subscribers, 5700+ views, 82% support — most credible mainstream figure"
         }
     ]
 };

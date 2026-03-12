@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "URGENTE: Fratelli Isolati, Adozione Minacciata | Catherine Birmingham e Nathan Trevallion"
-description: "URGENTE 11 marzo 2026: I fratelli vengono ora isolati l'uno dall'altro all'interno dell'istituto. Procedimenti di adozione vengono avviati secondo la legge italiana — contro genitori i cui figli sono stati sottratti con giustificazioni tutte ufficialmente smentite. Agisci ora. #TruthProtectsTheInnocent"
+title: "BREAKING 8 Marzo — Bambini Spostati, Catherine Esclusa | La Famiglia Nel Bosco"
+description: "ULTIME NOTIZIE 8 marzo 2026: Dopo la trasmissione di 60 Minutes, le autorità italiane hanno spostato i bambini in una nuova struttura e vietato a Catherine di rimanervi. Tre motivazioni ufficiali — tutte smentite. #TruthProtectsTheInnocent #LaFamigliaNelBosco"
 lang: it
 image: /assets/images/og-image.jpg
-updated: 2026-03-11-breaking
+updated: 2026-03-08-breaking
 ---
 
 <!-- Hero: Breaking News -->
@@ -18,22 +18,22 @@ updated: 2026-03-11-breaking
     <div class="hero-content">
         <div class="sixty-mins-badge-wrap">
             <span class="sixty-mins-badge sixty-mins-badge-aired">
-                Aggiornamento — 11 Marzo 2026
+                🚨 ULTIME NOTIZIE — 8 MARZO 2026
             </span>
         </div>
 
-        <h1 class="sixty-mins-headline">I Fratelli Vengono Separati Tra Loro</h1>
-        <p class="lead">All'interno dell'istituto, i tre bambini vengono ora separati anche <strong>l'uno dall'altro</strong>. Le ragioni per la loro riunificazione sono <strong>già state presentate</strong> — ogni motivazione ufficiale per la rimozione è stata ufficialmente smentita. Ciò che serve ora è una pressione costante da un mondo che continua a guardare.</p>
+        <h1 class="sixty-mins-headline">Bambini Spostati. Catherine Esclusa.</h1>
+        <p class="lead">Dopo la trasmissione di 60 Minutes, le autorità italiane hanno deciso di trasferire i bambini in una <strong>nuova struttura</strong> — <strong>dove Catherine non può stare</strong>. L'addio è stato ripreso in video.</p>
 
         <!-- Riquadro Breaking -->
         <div class="hero-alert-box">
-            <p style="color: #fef08a; font-weight: 700; font-size: 1rem; margin-bottom: 0.5rem;">Fino a dove può arrivare tutto questo?</p>
-            <p style="color: rgba(255,255,255,0.9); font-size: 0.95rem; line-height: 1.6; margin-bottom: 1rem;">La tua voce — diretta alle persone giuste — è ciò che cambia i risultati. Due azioni specifiche possono fare la differenza oggi.</p>
+            <p style="color: #fef08a; font-weight: 700; font-size: 1rem; margin-bottom: 0.5rem;">📹 Guarda: Il Momento dell'Addio</p>
+            <p style="color: rgba(255,255,255,0.9); font-size: 0.95rem; line-height: 1.6; margin-bottom: 1rem;">Catherine è stata costretta a salutare i suoi bambini prima che fossero trasferiti. Attenzione — contenuto straziante.</p>
             <div class="hero-alert-btns">
-                <a href="/action/"
-                   style="background: #f39c12; color: #1a1a00; padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 700; font-size: 0.95rem; display: block; text-align: center;">→ Agisci Ora</a>
-                <a href="/breaking/legal/action/2026/03/11/siblings-isolated-adoption-threatened.html"
-                   style="background: rgba(255,255,255,0.15); color: white; border: 1.5px solid rgba(255,255,255,0.5); padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 600; font-size: 0.95rem; display: block; text-align: center;">Leggi l'Aggiornamento Completo</a>
+                <a href="https://www.facebook.com/share/v/1HpVpWjzMC/" target="_blank" rel="noopener noreferrer"
+                   style="background: #1877f2; color: white; padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 700; font-size: 0.95rem; display: block; text-align: center;">▶ Guarda su Facebook</a>
+                <a href="https://www.youtube.com/watch?v=FZPMGep5CKU" target="_blank" rel="noopener noreferrer"
+                   style="background: rgba(255,255,255,0.15); color: white; border: 1.5px solid rgba(255,255,255,0.5); padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 600; font-size: 0.95rem; display: block; text-align: center;">▶ Guarda 60 Minutes su YouTube</a>
             </div>
         </div>
 
@@ -70,7 +70,7 @@ updated: 2026-03-11-breaking
             <a href="/evidence/" class="btn btn-secondary btn-lg">Vedi Le Prove</a>
         </div>
 
-        <p class="sixty-mins-subtext">Tre bambini. Tre false accuse. Zero motivi validi.<br>Ora i fratelli vengono separati anche tra loro — e sono iniziati i procedimenti di adozione.</p>
+        <p class="sixty-mins-subtext">Tre bambini. Tre false accuse. Zero motivi validi.<br>Catherine è ora esclusa dalla struttura dove sono tenuti i suoi figli.</p>
     </div>
 </section>
 

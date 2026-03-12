@@ -15,6 +15,48 @@ Every email, every share, every conversation creates pressure. When officials kn
 
 **Silence enables injustice. Speaking up creates accountability.**
 
+<div style="background: linear-gradient(135deg, #1e3a5f, #2d5a8e); border-radius: 1.25rem; padding: 2rem; margin: 2rem 0; color: white;">
+    <h2 style="color: white; margin: 0 0 0.5rem 0; font-size: 1.4rem;">⚡ 5 Steps You Can Take Right Now</h2>
+    <p style="color: rgba(255,255,255,0.75); margin: 0 0 1.5rem 0; font-size: 0.9rem;">In order of impact:</p>
+    <div style="display: flex; flex-direction: column; gap: 0.75rem;">
+        <div style="display: flex; align-items: flex-start; gap: 1rem; background: rgba(255,255,255,0.08); border-radius: 0.75rem; padding: 1rem;">
+            <span style="font-size: 1.5rem; min-width: 2rem; text-align: center;">📧</span>
+            <div>
+                <strong style="font-size: 1rem;">1. Email an Italian official</strong>
+                <p style="margin: 0.25rem 0 0 0; color: rgba(255,255,255,0.75); font-size: 0.9rem;">One personalised email creates real diplomatic pressure. <a href="#email" style="color: #f59e0b;">Templates below ↓</a></p>
+            </div>
+        </div>
+        <div style="display: flex; align-items: flex-start; gap: 1rem; background: rgba(255,255,255,0.08); border-radius: 0.75rem; padding: 1rem;">
+            <span style="font-size: 1.5rem; min-width: 2rem; text-align: center;">📋</span>
+            <div>
+                <strong style="font-size: 1rem;">2. Submit the UN petition</strong>
+                <p style="margin: 0.25rem 0 0 0; color: rgba(255,255,255,0.75); font-size: 0.9rem;">Place the case formally before international human rights bodies. <a href="#petition" style="color: #f59e0b;">See petition ↓</a></p>
+            </div>
+        </div>
+        <div style="display: flex; align-items: flex-start; gap: 1rem; background: rgba(255,255,255,0.08); border-radius: 0.75rem; padding: 1rem;">
+            <span style="font-size: 1.5rem; min-width: 2rem; text-align: center;">📢</span>
+            <div>
+                <strong style="font-size: 1rem;">3. Share on social media</strong>
+                <p style="margin: 0.25rem 0 0 0; color: rgba(255,255,255,0.75); font-size: 0.9rem;">Use <strong>#TruthProtectsTheInnocent</strong> or <strong>#VeritàPerLaFamiglia</strong> — visibility creates accountability. <a href="#share" style="color: #f59e0b;">Posts below ↓</a></p>
+            </div>
+        </div>
+        <div style="display: flex; align-items: flex-start; gap: 1rem; background: rgba(255,255,255,0.08); border-radius: 0.75rem; padding: 1rem;">
+            <span style="font-size: 1.5rem; min-width: 2rem; text-align: center;">🏛️</span>
+            <div>
+                <strong style="font-size: 1rem;">4. Contact the Australian Embassy in Rome</strong>
+                <p style="margin: 0.25rem 0 0 0; color: rgba(255,255,255,0.75); font-size: 0.9rem;">The family are Australian citizens. Consular attention from Australia matters. <a href="#media" style="color: #f59e0b;">See contacts ↓</a></p>
+            </div>
+        </div>
+        <div style="display: flex; align-items: flex-start; gap: 1rem; background: rgba(255,255,255,0.08); border-radius: 0.75rem; padding: 1rem;">
+            <span style="font-size: 1.5rem; min-width: 2rem; text-align: center;">💬</span>
+            <div>
+                <strong style="font-size: 1rem;">5. Share your voice or personal story</strong>
+                <p style="margin: 0.25rem 0 0 0; color: rgba(255,255,255,0.75); font-size: 0.9rem;">If you have a personal story about the system, or want to add your voice to the public record, contact us: <a href="mailto:support@quantummerlin.com" style="color: #f59e0b;">support@quantummerlin.com</a></p>
+            </div>
+        </div>
+    </div>
+</div>
+
 ---
 
 <h2 id="email">📧 Email Italian Officials</h2>

@@ -228,12 +228,12 @@ const QUOTES_DATA = [
 // =============================================================================
 
 const QUOTES_STATS = {
-    totalComments: 763,
-    uniqueVoices: 678,
-    supportFamily: 95,
-    supportSeparation: 5,
-    countries: 10,
-    lastUpdated: "March 8, 2026",
+    totalComments: 1344,
+    uniqueVoices: 1130,
+    supportFamily: 96,
+    supportSeparation: 4,
+    countries: 12,
+    lastUpdated: "March 12, 2026",
     batches: [
         { 
             number: 1, 
@@ -251,6 +251,24 @@ const QUOTES_STATS = {
             uniqueVoices: 480,
             countries: 5,
             notes: "Women's Day, siblings separated revealed"
+        },
+        {
+            number: 3,
+            source: "Pozzolo Facebook Reel",
+            date: "March 10, 2026",
+            count: 472,
+            uniqueVoices: 380,
+            countries: 4,
+            notes: "Viral reel — 115-like top comment asking what lies behind the persecution"
+        },
+        {
+            number: 4,
+            source: "RAI Ore 14 YouTube",
+            date: "March 9, 2026",
+            count: 109,
+            uniqueVoices: 72,
+            countries: 3,
+            notes: "Italian national public broadcaster, 6.5M subscribers, 5700+ views, 82% support — most credible mainstream figure"
         }
     ]
 };

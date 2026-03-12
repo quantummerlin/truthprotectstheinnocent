@@ -160,6 +160,48 @@ permalink: /media/
     </div>
 </section>
 
+<!-- Public Response Section -->
+<section class="section" style="background: var(--color-gray-50);">
+    <div class="container">
+        <div class="section-header">
+            <h2>📊 How the Public Is Responding</h2>
+            <p>Independent campaign analysis of public comments across Italian television and social media</p>
+        </div>
+
+        <div style="background: linear-gradient(135deg, #1e3a5f 0%, #0f2449 100%); border-radius: 1.5rem; padding: 2.5rem; color: white; margin-bottom: 2rem;">
+            <h3 style="color: #f59e0b; font-size: 1rem; text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 1.5rem;">Key Finding — For Media &amp; Legal Professionals</h3>
+            <div style="background: rgba(245, 158, 11, 0.15); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 1rem; padding: 1.5rem; margin-bottom: 1.5rem;">
+                <p style="font-size: 1.25rem; font-weight: 700; margin: 0 0 0.5rem 0;">82% of viewers of <strong>RAI Ore 14</strong> supported the family</p>
+                <p style="color: rgba(255,255,255,0.7); font-size: 0.875rem; margin: 0;">Based on campaign analysis of public comments on RAI's YouTube broadcast — Italy's national public broadcaster, 6.5 million subscribers. RAI Ore 14, March 9, 2026. Views: 5,700+</p>
+            </div>
+            <p style="color: rgba(255,255,255,0.85); font-size: 0.95rem; line-height: 1.7; margin-bottom: 1.5rem;">Unlike comments under politicians' posts — where audiences self-select — RAI's audience is the general Italian public. When 82% of that audience supports a family, that is not an echo chamber. It is <strong>mainstream Italian opinion.</strong></p>
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 1rem;">
+                <div style="text-align: center; background: rgba(255,255,255,0.07); border-radius: 0.75rem; padding: 1.25rem;">
+                    <div style="font-size: 2rem; font-weight: 900; color: #f59e0b; line-height: 1;">1,344</div>
+                    <div style="font-size: 0.8rem; color: rgba(255,255,255,0.6); margin-top: 4px;">Total comments analysed</div>
+                </div>
+                <div style="text-align: center; background: rgba(255,255,255,0.07); border-radius: 0.75rem; padding: 1.25rem;">
+                    <div style="font-size: 2rem; font-weight: 900; color: #f59e0b; line-height: 1;">4</div>
+                    <div style="font-size: 0.8rem; color: rgba(255,255,255,0.6); margin-top: 4px;">Platforms (Facebook + RAI)</div>
+                </div>
+                <div style="text-align: center; background: rgba(255,255,255,0.07); border-radius: 0.75rem; padding: 1.25rem;">
+                    <div style="font-size: 2rem; font-weight: 900; color: #f59e0b; line-height: 1;">12+</div>
+                    <div style="font-size: 0.8rem; color: rgba(255,255,255,0.6); margin-top: 4px;">Countries represented</div>
+                </div>
+                <div style="text-align: center; background: rgba(255,255,255,0.07); border-radius: 0.75rem; padding: 1.25rem;">
+                    <div style="font-size: 2rem; font-weight: 900; color: #22d3ee; line-height: 1;">82%</div>
+                    <div style="font-size: 0.8rem; color: rgba(255,255,255,0.6); margin-top: 4px;">Mainstream TV support (RAI)</div>
+                </div>
+            </div>
+        </div>
+
+        <div style="background: white; border-radius: 1rem; padding: 1.5rem 2rem; box-shadow: var(--shadow-sm); border-left: 4px solid #3b82f6;">
+            <h4 style="margin: 0 0 0.75rem 0; color: var(--color-primary);">Methodology note</h4>
+            <p style="color: var(--color-gray-600); font-size: 0.875rem; line-height: 1.7; margin: 0;">All comment data was collected from publicly visible posts on Facebook (three posts by Italian political figures, March 4–10, 2026) and YouTube (RAI Ore 14, March 9, 2026). Analysis was conducted by the campaign's audience intelligence system. Individual names in public quotes are anonymised to first name and last initial in accordance with GDPR and D.Lgs. 196/2003. These figures represent campaign analysis of public comment data, not an independent poll.</p>
+        </div>
+    </div>
+</section>
+
 <!-- Video Gallery Section -->
 <section class="section" style="padding-top: 0;">
     <div class="container">

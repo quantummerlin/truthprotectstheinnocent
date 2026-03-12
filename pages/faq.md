@@ -30,6 +30,7 @@ lang: en
                     <a href="#family-lifestyle" class="btn btn-outline" style="font-size: 0.9rem;">👨‍👩‍👧‍👦 Family & Lifestyle</a>
                     <a href="#legal-case" class="btn btn-outline" style="font-size: 0.9rem;">⚖️ Legal Case</a>
                     <a href="#misrepresentations" class="btn btn-outline" style="font-size: 0.9rem;">📊 Misrepresentations</a>
+                    <a href="#public-questions" class="btn btn-outline" style="font-size: 0.9rem;">🗣️ Public Questions</a>
                 </div>
             </div>
         </div>
@@ -468,7 +469,78 @@ lang: en
             </div>
             
             <div style="background: linear-gradient(135deg, #dc2626, #991b1b); color: white; padding: 2rem; border-radius: 1rem; text-align: center; margin: 2rem 0;">
-                <p style="font-size: 1.2rem; margin: 0;"><strong>The intervention meant to "protect" the children is now documented as causing them psychological harm.</strong></p>
+                <p style="font-size: 1.2rem; margin: 0;"><strong>The intervention meant to &ldquo;protect&rdquo; the children is now documented as causing them psychological harm.</strong></p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Questions the Public Is Asking -->
+<section class="section" id="public-questions">
+    <div class="container">
+        <div class="container-narrow">
+            <div class="faq-category">
+                <h2 style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+                    <span style="font-size: 2rem;">🗣️</span> Questions the Public Is Asking
+                </h2>
+                <p style="color: var(--color-gray-600); margin-bottom: 2rem;">Based on analysis of over 1,300 public comments across Italian social media and national television, these are the questions Italians and people worldwide are asking most. Here are honest, factual answers.</p>
+
+                <div class="faq-item" style="background: white; border-radius: 1rem; padding: 2rem; margin-bottom: 1.5rem; box-shadow: var(--shadow-sm);">
+                    <h3 style="color: var(--color-primary); margin-bottom: 1rem;">Q: Can the President of the Republic intervene?</h3>
+                    <p>This is one of the most frequently asked questions. The legal reality is nuanced:</p>
+                    <ul style="margin: 1rem 0; padding-left: 1.5rem;">
+                        <li>The President of the Republic is the guarantor of the Italian Constitution, including the principle of family unity (Article 29).</li>
+                        <li>Under Italian law, the President cannot directly override individual court decisions — but holds significant moral and political authority to direct attention to structural failures.</li>
+                        <li>Presidential action typically takes the form of a public statement, a referral to the Constitutional Court, or a call for parliamentary review.</li>
+                        <li>Multiple Members of Parliament have already raised the case and it has been discussed at ministerial level.</li>
+                    </ul>
+                    <div style="background: rgba(59, 130, 246, 0.08); border-left: 4px solid #3b82f6; padding: 1rem; border-radius: 0.5rem; margin-top: 1rem;">
+                        <p style="margin: 0;"><strong>What you can do:</strong> Email Italian Members of Parliament. When enough citizens write, political action follows. See the <a href="/action/">Action page</a> for ready-to-send templates.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item" style="background: white; border-radius: 1rem; padding: 2rem; margin-bottom: 1.5rem; box-shadow: var(--shadow-sm);">
+                    <h3 style="color: var(--color-primary); margin-bottom: 1rem;">Q: &ldquo;Why didn&rsquo;t they simply follow the rules?&rdquo;</h3>
+                    <p>This question misunderstands the documented facts. The family <strong>did</strong> follow Italian law on every point cited:</p>
+                    <div style="display: flex; flex-direction: column; gap: 0.75rem; margin: 1rem 0;">
+                        <div style="background: rgba(34, 197, 94, 0.08); border-left: 4px solid #22c55e; padding: 1rem; border-radius: 0.5rem;">
+                            <strong>Vaccinations:</strong> The children were vaccinated. Confirmed in writing by the Azienda Sanitaria Locale of Chieti and Teramo.
+                        </div>
+                        <div style="background: rgba(34, 197, 94, 0.08); border-left: 4px solid #22c55e; padding: 1rem; border-radius: 0.5rem;">
+                            <strong>Education:</strong> The children followed Italy&rsquo;s legal parental instruction framework (istruzione parentale), used by over 15,000 Italian families. Confirmed by the Ministry of Education.
+                        </div>
+                        <div style="background: rgba(34, 197, 94, 0.08); border-left: 4px solid #22c55e; padding: 1rem; border-radius: 0.5rem;">
+                            <strong>Housing:</strong> A certified geometra confirmed the property was not structurally at risk. Different does not mean dangerous.
+                        </div>
+                    </div>
+                    <p>All three official justifications for the removal have been contradicted by the very Italian institutions responsible for verifying them. This is the central, documented fact of the case.</p>
+                </div>
+
+                <div class="faq-item" style="background: white; border-radius: 1rem; padding: 2rem; margin-bottom: 1.5rem; box-shadow: var(--shadow-sm);">
+                    <h3 style="color: var(--color-primary); margin-bottom: 1rem;">Q: &ldquo;What is really behind this case?&rdquo;</h3>
+                    <p>This is the question on nearly everyone&rsquo;s mind — and the honest answer is: <strong>we don&rsquo;t know with certainty, and that is precisely the problem.</strong></p>
+                    <p>What is documented:</p>
+                    <ul style="margin: 1rem 0; padding-left: 1.5rem;">
+                        <li>Three official justifications were given for the removal.</li>
+                        <li>All three have been officially contradicted by Italian state institutions.</li>
+                        <li>Despite this, the separation has continued.</li>
+                        <li>A psychologist has documented the children are now showing signs of self-harm — behaviours that did not exist before the separation.</li>
+                    </ul>
+                    <p>When official reasons are disproven but a family remains separated, the question of transparency becomes a matter of public interest. This campaign exists to ensure that question receives a complete, documented answer.</p>
+                </div>
+
+                <div class="faq-item" style="background: white; border-radius: 1rem; padding: 2rem; margin-bottom: 1.5rem; box-shadow: var(--shadow-sm);">
+                    <h3 style="color: var(--color-primary); margin-bottom: 1rem;">Q: &ldquo;On what criteria are these evaluations based?&rdquo;</h3>
+                    <p>This question — asked by many commenters with legal or professional backgrounds — addresses the process used to justify both the initial removal and its continuation.</p>
+                    <p>What the public record shows:</p>
+                    <ul style="margin: 1rem 0; padding-left: 1.5rem;">
+                        <li>Evaluations of the children&rsquo;s wellbeing were conducted after — not before — the separation, meaning baseline behaviour from family life was not captured.</li>
+                        <li>The same assessment that documented emerging self-harm behaviours was conducted under institutional conditions that the family&rsquo;s lawyers have formally challenged.</li>
+                        <li>A formal complaint about the conduct of the assigned social worker was submitted to the Professional Order of Social Workers by the family&rsquo;s lawyers.</li>
+                    </ul>
+                    <p>The criteria and methodology behind evaluations used in family court proceedings should be a matter of public record in any transparent legal process. This campaign continues to document all available information.</p>
+                </div>
+
             </div>
         </div>
     </div>
