@@ -1,10 +1,10 @@
----
+﻿---
 layout: default
 title: "BREAKING 8 Marzo — Bambini Spostati, Catherine Esclusa | La Famiglia Nel Bosco"
 description: "ULTIME NOTIZIE 8 marzo 2026: Dopo la trasmissione di 60 Minutes, le autorità italiane hanno spostato i bambini in una nuova struttura e vietato a Catherine di rimanervi. Tre motivazioni ufficiali — tutte smentite. #TruthProtectsTheInnocent #LaFamigliaNelBosco"
 lang: it
 image: /assets/images/og-image.jpg
-updated: 2026-03-08-breaking
+updated: 2026-03-15-latest
 ---
 
 <!-- Hero: Breaking News -->
@@ -71,6 +71,32 @@ updated: 2026-03-08-breaking
         </div>
 
         <p class="sixty-mins-subtext">Tre bambini. Tre false accuse. Zero motivi validi.<br>Catherine è ora esclusa dalla struttura dove sono tenuti i suoi figli.</p>
+    </div>
+</section>
+
+<!-- AGGIORNAMENTO — 15 MARZO 2026 -->
+<section style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); padding: 2rem 0;">
+    <div class="container">
+        <div style="max-width: 900px; margin: 0 auto;">
+            <div style="text-align: center; margin-bottom: 1.5rem;">
+                <span style="background: rgba(255,255,255,0.1); color: rgba(255,255,255,0.8); padding: 0.4rem 1.25rem; border-radius: 2rem; font-size: 0.8rem; font-weight: 700; letter-spacing: 2px; text-transform: uppercase;">🗞️ AGGIORNAMENTO — 15 MARZO 2026</span>
+            </div>
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem;">
+                <div style="background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 1rem; padding: 1.5rem;">
+                    <div style="font-size: 0.75rem; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: rgba(255,255,255,0.5); margin-bottom: 0.5rem;">LA STAMPA · 14 MAR 2026</div>
+                    <h3 style="color: white; font-size: 1.05rem; margin: 0 0 0.75rem 0; line-height: 1.4;">Assistenti sociali ammettono: "Dopo l'allontanamento della madre, le relazioni con i bambini sono migliorate"</h3>
+                    <p style="color: rgba(255,255,255,0.7); font-size: 0.875rem; line-height: 1.6; margin: 0 0 1rem 0;">La Stampa riporta la dichiarazione pubblica degli assistenti sociali dopo la visita della Garante Nazionale — e confronta la famiglia con un'altra famiglia alternativa italiana i cui figli non sono mai stati allontanati.</p>
+                    <a href="/2026/03/14/la-stampa-social-workers-statement.html" style="display: block; text-align: center; background: rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.25); color: white; padding: 0.6rem 1rem; border-radius: 0.5rem; text-decoration: none; font-weight: 600; font-size: 0.85rem;">📰 Leggi l'articolo completo →</a>
+                </div>
+                <div style="background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 1rem; padding: 1.5rem;">
+                    <div style="font-size: 0.75rem; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: rgba(255,255,255,0.5); margin-bottom: 0.5rem;">SOLIDARIETÀ · MARZO 2026</div>
+                    <h3 style="color: white; font-size: 1.05rem; margin: 0 0 0.75rem 0; line-height: 1.4;">Dallo stadio: "Dear Catherine and Nathan — You'll Never Walk Alone"</h3>
+                    <p style="color: rgba(255,255,255,0.7); font-size: 0.875rem; line-height: 1.6; margin: 0 0 0.75rem 0;">Un tifoso ha mostrato uno striscione dipinto a mano a decine di migliaia di persone durante una partita di calcio italiana.</p>
+                    <img src="/assets/images/stadium-banner-march-2026.jpg" alt="Striscione allo stadio — You'll Never Walk Alone" style="width: 100%; border-radius: 0.5rem; margin-bottom: 0.75rem;">
+                    <a href="/2026/03/15/football-fan-stadium-support.html" style="display: block; text-align: center; background: rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.25); color: white; padding: 0.6rem 1rem; border-radius: 0.5rem; text-decoration: none; font-weight: 600; font-size: 0.85rem;">⚽ Leggi di più →</a>
+                </div>
+            </div>
+        </div>
     </div>
 </section>
 

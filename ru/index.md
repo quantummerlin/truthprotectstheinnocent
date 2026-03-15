@@ -1,10 +1,10 @@
----
+﻿---
 layout: default
 title: "СРОЧНО 8 Марта — Детей перевели, Катрин изгнана | La Famiglia Nel Bosco"
 description: "СРОЧНО 8 марта 2026: После 60 Minutes итальянские власти перевели детей в новое учреждение — где Катрин не может оставаться. Три официальные причины — все опровергнуты. #TruthProtectsTheInnocent #LaFamigliaNelBosco"
 lang: ru
 image: /assets/images/og-image.jpg
-updated: 2026-03-08-breaking
+updated: 2026-03-15-latest
 ---
 
 <!-- Hero: Breaking News -->
@@ -66,6 +66,32 @@ updated: 2026-03-08-breaking
         </div>
 
         <p class="sixty-mins-subtext">Трое детей. Три ложных обвинения. Ноль обоснованных причин.<br>Катрин не может оставаться там, где содержатся её дети.</p>
+    </div>
+</section>
+
+<!-- ПОСЛЕДНЕЕ ОБНОВЛЕНИЕ — 15 МАРТА 2026 -->
+<section style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); padding: 2rem 0;">
+    <div class="container">
+        <div style="max-width: 900px; margin: 0 auto;">
+            <div style="text-align: center; margin-bottom: 1.5rem;">
+                <span style="background: rgba(255,255,255,0.1); color: rgba(255,255,255,0.8); padding: 0.4rem 1.25rem; border-radius: 2rem; font-size: 0.8rem; font-weight: 700; letter-spacing: 2px; text-transform: uppercase;">🗞️ ПОСЛЕДНЕЕ ОБНОВЛЕНИЕ — 15 МАРТА 2026</span>
+            </div>
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem;">
+                <div style="background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 1rem; padding: 1.5rem;">
+                    <div style="font-size: 0.75rem; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: rgba(255,255,255,0.5); margin-bottom: 0.5rem;">LA STAMPA · 14 МАР 2026</div>
+                    <h3 style="color: white; font-size: 1.05rem; margin: 0 0 0.75rem 0; line-height: 1.4;">Социальные работники признают: «После удаления матери отношения с детьми наладились»</h3>
+                    <p style="color: rgba(255,255,255,0.7); font-size: 0.875rem; line-height: 1.6; margin: 0 0 1rem 0;">La Stampa сообщает о публичном заявлении социальных работников после визита Национального уполномоченного по правам детей.</p>
+                    <a href="/2026/03/14/la-stampa-social-workers-statement.html" style="display: block; text-align: center; background: rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.25); color: white; padding: 0.6rem 1rem; border-radius: 0.5rem; text-decoration: none; font-weight: 600; font-size: 0.85rem;">📰 Читать статью →</a>
+                </div>
+                <div style="background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 1rem; padding: 1.5rem;">
+                    <div style="font-size: 0.75rem; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: rgba(255,255,255,0.5); margin-bottom: 0.5rem;">СОЛИДАРНОСТЬ · МАРТ 2026</div>
+                    <h3 style="color: white; font-size: 1.05rem; margin: 0 0 0.75rem 0; line-height: 1.4;">С трибун стадиона: «Dear Catherine and Nathan — You'll Never Walk Alone»</h3>
+                    <p style="color: rgba(255,255,255,0.7); font-size: 0.875rem; line-height: 1.6; margin: 0 0 0.75rem 0;">Болельщик поднял самодельный баннер на итальянском матче.</p>
+                    <img src="/assets/images/stadium-banner-march-2026.jpg" alt="Баннер на стадионе — You'll Never Walk Alone" style="width: 100%; border-radius: 0.5rem; margin-bottom: 0.75rem;">
+                    <a href="/2026/03/15/football-fan-stadium-support.html" style="display: block; text-align: center; background: rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.25); color: white; padding: 0.6rem 1rem; border-radius: 0.5rem; text-decoration: none; font-weight: 600; font-size: 0.85rem;">⚽ Подробнее →</a>
+                </div>
+            </div>
+        </div>
     </div>
 </section>
 

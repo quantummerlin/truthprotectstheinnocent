@@ -14,6 +14,28 @@ permalink: /media/
         </div>
         
         <div class="press-gallery" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem;">
+
+            <!-- La Stampa — 14 March 2026 -->
+            <div class="press-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-lg); border-top: 4px solid #dc2626;">
+                <div style="background: linear-gradient(135deg, #1a1a2e 0%, #2d1b4e 100%); padding: 1.5rem; text-align: center;">
+                    <div style="font-size: 1.6rem; font-weight: 900; color: white; letter-spacing: 0.05em;">LA STAMPA</div>
+                    <div style="font-size: 0.75rem; color: rgba(255,255,255,0.7); margin-top: 0.25rem; font-style: italic;">Est. 1867 — Italy's nationally distributed newspaper</div>
+                </div>
+                <div style="padding: 1.5rem;">
+                    <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.75rem;">
+                        <span style="background: #dc2626; color: white; padding: 0.25rem 0.75rem; border-radius: 1rem; font-size: 0.75rem; font-weight: 600;">NATIONAL NEWS</span>
+                        <span style="color: var(--color-gray-500); font-size: 0.875rem;">14 Mar 2026</span>
+                    </div>
+                    <h3 style="margin: 0 0 0.5rem 0; font-size: 1.1rem;">La Stampa</h3>
+                    <h4 style="margin: 0 0 1rem 0; font-size: 1rem; font-weight: 600; color: var(--color-gray-700);">"Barefoot and Unschooled — We Sleep Near the Animals, But Here on the Mountain We Are Happy"</h4>
+                    <p style="color: var(--color-gray-600); font-size: 0.9rem; margin: 0 0 0.75rem 0; line-height: 1.6;"><strong>By Flavia Amabile</strong> — La Stampa profiles the Pica family of Accumoli (Rieti), an Italian family who chose the same alternative lifestyle as the Trevallions — mountain farm, homeschooling, no shoes, no antibiotics. Investigated by the same authorities. Their children were <em>never removed</em>.</p>
+                    <p style="color: var(--color-gray-600); font-size: 0.9rem; margin: 0 0 1rem 0; line-height: 1.6;">The article also reports the social workers' public statement following the National Children's Guarantor's visit: <em>"After the mother was removed, good relations with the children were restored."</em> Their own words confirm Catherine was removed for advocating for her children.</p>
+                    <a href="/2026/03/14/la-stampa-social-workers-statement.html" style="display: block; text-align: center; background: #1a1a2e; color: white; padding: 0.75rem; border-radius: 0.5rem; text-decoration: none; font-weight: 600; font-size: 0.9rem;">
+                        📰 Read Full Article + Translation
+                    </a>
+                </div>
+            </div>
+
             <div class="press-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-lg);">
                 <img src="/assets/images/photo_2026-01-30_21-50-16.jpg" alt="Corriere della Sera - January 30, 2026" style="width: 100%; height: auto;">
                 <div style="padding: 1.5rem;">
@@ -43,8 +65,27 @@ permalink: /media/
             </div>
         </div>
         
+        <!-- Stadium Support -->
+        <div style="background: linear-gradient(135deg, #0d1b2a 0%, #1b2a3b 100%); border-radius: 1rem; padding: 2rem; margin-top: 2rem; display: flex; flex-direction: column; gap: 1.25rem;">
+            <div style="display: flex; align-items: flex-start; gap: 1.5rem; flex-wrap: wrap;">
+                <div style="flex: 1; min-width: 220px;">
+                    <div style="font-size: 0.75rem; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: rgba(255,255,255,0.55); margin-bottom: 0.5rem;">Public Support — March 2026</div>
+                    <h3 style="color: white; font-size: 1.2rem; margin: 0 0 0.75rem 0;">"Dear Catherine and Nathan — You'll Never Walk Alone"</h3>
+                    <p style="color: rgba(255,255,255,0.8); font-size: 0.9rem; line-height: 1.6; margin: 0 0 1rem 0;">An Italian football fan displayed this hand-painted banner at a packed stadium — visible to tens of thousands. One person, one message, one stadium. This is what solidarity looks like.</p>
+                    <a href="/2026/03/15/football-fan-stadium-support.html" style="display: inline-block; background: white; color: #0d1b2a; padding: 0.6rem 1.25rem; border-radius: 0.5rem; text-decoration: none; font-weight: 700; font-size: 0.875rem;">
+                        ⚽ See the Banner
+                    </a>
+                </div>
+                <div style="flex-shrink: 0;">
+                    <img src="/assets/images/stadium-banner-march-2026.jpg"
+                         alt="Football fan holds banner: Dear Catherine and Nathan You'll Never Walk Alone"
+                         style="width: 220px; max-width: 100%; border-radius: 0.75rem; box-shadow: 0 8px 24px rgba(0,0,0,0.4);">
+                </div>
+            </div>
+        </div>
+
         <div class="quote-block" style="margin-top: 2rem;">
-            "The story is now making headlines. Italy's largest newspaper has taken notice."
+            "From La Stampa to the football stadium — this story has moved from the courtroom to the national conscience."
         </div>
     </div>
 </section>
