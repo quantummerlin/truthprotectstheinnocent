@@ -120,6 +120,35 @@ A qualified psychologist conducted an assessment of the children following their
 **Implication:** The intervention that was intended to "protect" these children is causing measurable psychological harm.
 </div>
 
+---
+
+### Expert Psychiatric Assessment: "Reunion Is the Only Solution"
+
+<div style="background: linear-gradient(135deg, #0a0a1a, #1a0a2e); border: 1px solid rgba(220,38,38,0.4); border-left: 5px solid #dc2626; border-radius: 1rem; padding: 2rem; margin: 1.5rem 0;">
+<div style="display: inline-block; background: rgba(220,38,38,0.2); border: 1px solid rgba(220,38,38,0.5); padding: 0.3rem 1rem; border-radius: 2rem; margin-bottom: 1rem;">
+<span style="color: #fca5a5; font-weight: 700; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 2px;">🔬 Psychiatric Expert Statement</span>
+</div>
+
+<p style="color: #fef2f2; font-size: 1.05rem; line-height: 1.85; font-style: italic; margin-bottom: 1rem;">"They are becoming emotionally disorganized. What I observe is not a generic distress, but a clinical picture consistent with <strong style="color: white;">separation-related trauma</strong>. We're talking about children who exhibit inconsolable crying, agitation, regressions, and even minor acts of self-harm: early but unmistakable signs of psychological distress that cannot be underestimated.</p>
+
+<p style="color: #fef2f2; font-size: 1.05rem; line-height: 1.85; font-style: italic; margin-bottom: 1rem;">I've observed anger, pain, frustration, but above all, <strong style="color: white;">profound emotional disorganization</strong>. This happens when the main point of reference is missing: the parental figure. Separation, especially if sudden, produces what in clinical terms we can define as <strong style="color: white;">uprooting trauma</strong>, with effects that tend to worsen over time.</p>
+
+<p style="color: #fef2f2; font-size: 1.05rem; line-height: 1.85; font-style: italic; margin-bottom: 1rem;">And in fact, every passing day is not neutral: it's an <strong style="color: white;">accumulation of suffering</strong>. The risk is that these signs evolve into more structured patterns, with consequences on emotional and relational development.</p>
+
+<p style="color: #fef2f2; font-size: 1.05rem; line-height: 1.85; font-style: italic; margin-bottom: 1rem;">This is why I believe that the dismemberment of the family unit, in the absence of current and concrete danger, represents a further destabilizing factor. Trauma is not treated by increasing emotional distance, but working to rebuild a secure relational environment.</p>
+
+<p style="color: white; font-size: 1.1rem; line-height: 1.85; font-style: italic; font-weight: 700; margin-bottom: 1rem; border-top: 1px solid rgba(220,38,38,0.4); padding-top: 1rem;">These children need three fundamental elements: reunion with attachment figures, an appropriate environment, and ongoing clinical support.</p>
+
+<p style="color: #fca5a5; font-size: 1.05rem; line-height: 1.75; font-style: italic; margin-bottom: 1.5rem;">Because a child isn't healed simply by protecting him. <strong style="color: white;">Healing is restoring bonds, continuity, and a sense of belonging."</strong></p>
+
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem; border-top: 1px solid rgba(255,255,255,0.1); padding-top: 1rem;">
+<p style="color: rgba(255,255,255,0.7); font-size: 0.95rem; margin: 0;">— <strong style="color: white;">Prof. Tonino Cantelmi</strong>, Psychiatrist &amp; Clinical Psychologist<br><span style="font-size: 0.85rem;">Professor of Psychology of Digital Technologies, LUMSA University, Rome</span></p>
+<a href="https://www.facebook.com/share/p/17pfeuVKZG/?mibextid=wwXIfr" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; gap: 0.5rem; background: #1877f2; color: white; padding: 0.6rem 1.25rem; border-radius: 0.5rem; text-decoration: none; font-weight: 700; font-size: 0.9rem;">📄 Read Full Statement</a>
+</div>
+</div>
+
+---
+
 ### Before vs. After
 
 | Before Removal | After Removal |

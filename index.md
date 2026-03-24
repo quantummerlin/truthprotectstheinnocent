@@ -16,6 +16,22 @@ updated: 2026-03-11-breaking
     </div>
     <div class="hero-overlay hero-overlay-60mins"></div>
     <div class="hero-content">
+
+        <!-- Psychiatrist Expert Quote - TOP OF HERO -->
+        <div style="background: rgba(0,0,0,0.7); border: 1px solid rgba(220,38,38,0.7); border-left: 5px solid #dc2626; border-radius: 1rem; padding: 1.5rem 2rem; margin-bottom: 1.75rem; text-align: left; max-width: 720px; margin-left: auto; margin-right: auto;">
+            <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.75rem; margin-bottom: 1rem;">
+                <span style="background: rgba(220,38,38,0.3); border: 1px solid rgba(220,38,38,0.6); color: #fca5a5; font-weight: 700; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 2px; padding: 0.3rem 0.9rem; border-radius: 2rem;">🔬 Expert Psychiatric Assessment</span>
+                <a href="https://www.facebook.com/share/p/17pfeuVKZG/?mibextid=wwXIfr" target="_blank" rel="noopener noreferrer" style="color: #93c5fd; font-size: 0.8rem; text-decoration: none; font-weight: 600;">📄 Source →</a>
+            </div>
+            <p style="color: white; font-size: 1rem; line-height: 1.8; font-style: italic; margin: 0 0 0.75rem 0;">&ldquo;They are becoming <strong>emotionally disorganized</strong>. What I observe is a clinical picture consistent with <strong>separation-related trauma</strong> — inconsolable crying, agitation, regressions, and minor acts of self-harm.</p>
+            <p style="color: rgba(255,255,255,0.9); font-size: 1rem; line-height: 1.8; font-style: italic; margin: 0 0 0.75rem 0;">Every passing day is not neutral: it&rsquo;s an <strong style="color: white;">accumulation of suffering</strong>. In the absence of current and concrete danger, dismemberment of the family unit is a further destabilizing factor.</p>
+            <p style="color: #fca5a5; font-size: 1.05rem; line-height: 1.8; font-style: italic; font-weight: 700; margin: 0 0 1rem 0;">These children need <strong style="color: white;">reunion with their parents</strong>, an appropriate environment, and clinical support. Because healing is restoring bonds, continuity, and a sense of belonging.&rdquo;</p>
+            <p style="color: rgba(255,255,255,0.6); font-size: 0.85rem; margin: 0;">— <strong style="color: rgba(255,255,255,0.9);">Prof. Tonino Cantelmi</strong>, Psychiatrist &bull; LUMSA University, Rome</p>
+        </div>
+        <div style="background: rgba(220,38,38,0.2); border: 2px solid rgba(220,38,38,0.6); border-radius: 0.75rem; padding: 0.9rem 1.5rem; margin-bottom: 1.75rem; text-align: center; max-width: 720px; margin-left: auto; margin-right: auto;">
+            <p style="color: white; font-size: 1.05rem; font-weight: 700; margin: 0;">There is no alternative. There is no other solution.<br><span style="color: #fca5a5;">These children must be reunited with their parents — now.</span></p>
+        </div>
+
         <!-- Breaking Badge -->
         <div class="sixty-mins-badge-wrap">
             <span class="sixty-mins-badge sixty-mins-badge-aired" id="sixtyMinsBadge">
@@ -72,6 +88,48 @@ updated: 2026-03-11-breaking
         </div>
 
         <p class="sixty-mins-subtext">Three children. Three false claims. Zero valid reasons.<br>Catherine is now banned from the facility where her children are held.</p>
+    </div>
+</section>
+
+<!-- URGENT LEAKED INFORMATION ALERT - (psychiatrist quote moved into hero above) -->
+<section style="background: linear-gradient(135deg, #0a0a1a 0%, #1a0a2e 50%, #0a0a1a 100%); padding: 3rem 0; border-top: 4px solid #dc2626; border-bottom: 4px solid #dc2626; display:none;">
+    <div class="container">
+        <div style="max-width: 860px; margin: 0 auto; text-align: center;">
+            <div style="display: inline-block; background: rgba(220,38,38,0.25); border: 1px solid rgba(220,38,38,0.6); padding: 0.5rem 1.5rem; border-radius: 2rem; margin-bottom: 1.5rem;">
+                <span style="color: #fca5a5; font-weight: 700; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 2px;">🔬 Expert Psychiatric Assessment — Official Statement</span>
+            </div>
+            <h2 style="color: white; font-size: 1.8rem; font-weight: 900; margin-bottom: 0.5rem; line-height: 1.3;">There Is No Alternative.<br><span style="color: #fca5a5;">Reunion Is the Only Solution.</span></h2>
+            <p style="color: rgba(255,255,255,0.6); font-size: 0.95rem; margin-bottom: 2rem;">A leading Italian psychiatrist has publicly stated what the clinical evidence demands.</p>
+
+            <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(220,38,38,0.4); border-left: 5px solid #dc2626; border-radius: 1rem; padding: 2rem 2.5rem; text-align: left; margin-bottom: 1.5rem;">
+                <p style="color: #fef2f2; font-size: 1.1rem; line-height: 1.85; font-style: italic; margin: 0 0 1rem 0;">
+                    &ldquo;They are becoming emotionally disorganized. What I observe is not a generic distress, but a clinical picture consistent with <strong style="color: white;">separation-related trauma</strong>. We&rsquo;re talking about children who exhibit inconsolable crying, agitation, regressions, and even minor acts of self-harm: early but unmistakable signs of psychological distress that cannot be underestimated.
+                </p>
+                <p style="color: #fef2f2; font-size: 1.1rem; line-height: 1.85; font-style: italic; margin: 0 0 1rem 0;">
+                    I&rsquo;ve observed anger, pain, frustration, but above all, <strong style="color: white;">profound emotional disorganization</strong>. This happens when the main point of reference is missing: the parental figure. Separation, especially if sudden, produces what in clinical terms we can define as <strong style="color: white;">uprooting trauma</strong>, with effects that tend to worsen over time.
+                </p>
+                <p style="color: #fef2f2; font-size: 1.1rem; line-height: 1.85; font-style: italic; margin: 0 0 1rem 0;">
+                    And in fact, every passing day is not neutral: it&rsquo;s an <strong style="color: white;">accumulation of suffering</strong>. The risk is that these signs evolve into more structured patterns, with consequences on emotional and relational development.
+                </p>
+                <p style="color: #fef2f2; font-size: 1.1rem; line-height: 1.85; font-style: italic; margin: 0 0 1rem 0;">
+                    This is why I believe that the dismemberment of the family unit, in the absence of current and concrete danger, represents a further destabilizing factor. Trauma is not treated by increasing emotional distance, but working to rebuild a secure relational environment.
+                </p>
+                <p style="color: white; font-size: 1.15rem; line-height: 1.85; font-style: italic; font-weight: 600; margin: 0 0 1rem 0; border-top: 1px solid rgba(220,38,38,0.4); padding-top: 1rem;">
+                    These children need three fundamental elements: <strong>reunion with attachment figures, an appropriate environment, and ongoing clinical support.</strong>
+                </p>
+                <p style="color: #fca5a5; font-size: 1.05rem; line-height: 1.75; font-style: italic; margin: 0;">
+                    Because a child isn&rsquo;t healed simply by protecting him. <strong style="color: white;">Healing is restoring bonds, continuity, and a sense of belonging.&rdquo;</strong>
+                </p>
+                <div style="margin-top: 1.5rem; padding-top: 1rem; border-top: 1px solid rgba(255,255,255,0.1); display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem;">
+                    <p style="color: rgba(255,255,255,0.7); font-size: 0.95rem; margin: 0;">— <strong style="color: white;">Prof. Tonino Cantelmi</strong>, Psychiatrist &amp; Clinical Psychologist<br><span style="font-size: 0.85rem;">Professor of Psychology of Digital Technologies, LUMSA University, Rome</span></p>
+                    <a href="https://www.facebook.com/share/p/17pfeuVKZG/?mibextid=wwXIfr" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; gap: 0.5rem; background: #1877f2; color: white; padding: 0.6rem 1.25rem; border-radius: 0.5rem; text-decoration: none; font-weight: 700; font-size: 0.9rem; white-space: nowrap;">📄 Read Full Statement</a>
+                </div>
+            </div>
+
+            <div style="background: rgba(220,38,38,0.15); border: 2px solid rgba(220,38,38,0.5); border-radius: 1rem; padding: 1.25rem 1.75rem;">
+                <p style="color: #fef2f2; font-size: 1.1rem; font-weight: 700; margin: 0;">There is no alternative. There is no other solution.<br><span style="color: #fca5a5;">These children must be reunited with their parents — now.</span></p>
+            </div>
+        </div>
     </div>
 </section>
 

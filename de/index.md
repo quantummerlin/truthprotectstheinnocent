@@ -16,6 +16,22 @@ updated: 2026-03-15-latest
     </div>
     <div class="hero-overlay hero-overlay-60mins"></div>
     <div class="hero-content">
+
+        <!-- Psychiater Zitat - GANZ OBEN IM HERO -->
+        <div style="background: rgba(0,0,0,0.7); border: 1px solid rgba(220,38,38,0.7); border-left: 5px solid #dc2626; border-radius: 1rem; padding: 1.5rem 2rem; margin-bottom: 1.75rem; text-align: left; max-width: 720px; margin-left: auto; margin-right: auto;">
+            <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.75rem; margin-bottom: 1rem;">
+                <span style="background: rgba(220,38,38,0.3); border: 1px solid rgba(220,38,38,0.6); color: #fca5a5; font-weight: 700; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 2px; padding: 0.3rem 0.9rem; border-radius: 2rem;">🔬 Psychiatrisches Gutachten</span>
+                <a href="https://www.facebook.com/share/p/17pfeuVKZG/?mibextid=wwXIfr" target="_blank" rel="noopener noreferrer" style="color: #93c5fd; font-size: 0.8rem; text-decoration: none; font-weight: 600;">📄 Quelle →</a>
+            </div>
+            <p style="color: white; font-size: 1rem; line-height: 1.8; font-style: italic; margin: 0 0 0.75rem 0;">&bdquo;Sie werden <strong>emotional desorganisiert</strong>. Was ich beobachte, ist ein klinisches Bild, das einem <strong>Trennungstrauma</strong> entspricht — untröstliches Weinen, Unruhe, Rückschritte und kleinere Selbstverletzungen.</p>
+            <p style="color: rgba(255,255,255,0.9); font-size: 1rem; line-height: 1.8; font-style: italic; margin: 0 0 0.75rem 0;">Jeder vergehende Tag ist nicht neutral: Es ist eine <strong style="color: white;">Ansammlung von Leiden</strong>. In Abwesenheit einer konkreten Gefahr ist die Zerstörung der Familieneinheit ein weiterer destabilisierender Faktor.</p>
+            <p style="color: #fca5a5; font-size: 1.05rem; line-height: 1.8; font-style: italic; font-weight: 700; margin: 0 0 1rem 0;">Diese Kinder brauchen <strong style="color: white;">Wiedervereinigung mit ihren Eltern</strong>, ein geeignetes Umfeld und klinische Unterstützung. Denn Heilung bedeutet, Bindungen, Kontinuität und Zugehörigkeit wiederherzustellen.&ldquo;</p>
+            <p style="color: rgba(255,255,255,0.6); font-size: 0.85rem; margin: 0;">— <strong style="color: rgba(255,255,255,0.9);">Prof. Tonino Cantelmi</strong>, Psychiater &bull; LUMSA Universität, Rom</p>
+        </div>
+        <div style="background: rgba(220,38,38,0.2); border: 2px solid rgba(220,38,38,0.6); border-radius: 0.75rem; padding: 0.9rem 1.5rem; margin-bottom: 1.75rem; text-align: center; max-width: 720px; margin-left: auto; margin-right: auto;">
+            <p style="color: white; font-size: 1.05rem; font-weight: 700; margin: 0;">Es gibt keine Alternative. Es gibt keine andere Lösung.<br><span style="color: #fca5a5;">Diese Kinder müssen jetzt mit ihren Eltern wiedervereinigt werden.</span></p>
+        </div>
+
         <div class="sixty-mins-badge-wrap">
             <span class="sixty-mins-badge sixty-mins-badge-aired">
                 🚨 EILMELDUNG — 8. MÄRZ 2026
@@ -66,6 +82,48 @@ updated: 2026-03-15-latest
         </div>
 
         <p class="sixty-mins-subtext">Drei Kinder. Drei falsche Behauptungen. Null gültige Gründe.<br>Catherine darf nicht in der Einrichtung bleiben, wo ihre Kinder sind.</p>
+    </div>
+</section>
+
+<!-- PSYCHIATER GUTACHTEN - in Hero verschoben (siehe oben) -->
+<section style="background: linear-gradient(135deg, #0a0a1a 0%, #1a0a2e 50%, #0a0a1a 100%); padding: 3rem 0; border-top: 4px solid #dc2626; border-bottom: 4px solid #dc2626; display:none;">
+    <div class="container">
+        <div style="max-width: 860px; margin: 0 auto; text-align: center;">
+            <div style="display: inline-block; background: rgba(220,38,38,0.25); border: 1px solid rgba(220,38,38,0.6); padding: 0.5rem 1.5rem; border-radius: 2rem; margin-bottom: 1.5rem;">
+                <span style="color: #fca5a5; font-weight: 700; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 2px;">🔬 Psychiatrisches Gutachten — Offizielle Stellungnahme</span>
+            </div>
+            <h2 style="color: white; font-size: 1.8rem; font-weight: 900; margin-bottom: 0.5rem; line-height: 1.3;">Es gibt keine Alternative.<br><span style="color: #fca5a5;">Wiedervereinigung ist die einzige Lösung.</span></h2>
+            <p style="color: rgba(255,255,255,0.6); font-size: 0.95rem; margin-bottom: 2rem;">Ein führender italienischer Psychiater hat öffentlich erklärt, was die klinischen Beweise fordern.</p>
+
+            <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(220,38,38,0.4); border-left: 5px solid #dc2626; border-radius: 1rem; padding: 2rem 2.5rem; text-align: left; margin-bottom: 1.5rem;">
+                <p style="color: #fef2f2; font-size: 1.05rem; line-height: 1.85; font-style: italic; margin: 0 0 1rem 0;">
+                    &bdquo;Sie werden emotional desorganisiert. Was ich beobachte, ist kein allgemeines Leiden, sondern ein klinisches Bild, das mit einem <strong style="color: white;">Trennungstrauma</strong> übereinstimmt. Wir sprechen von Kindern, die untröstliches Weinen, Unruhe, Rückschritte und sogar kleinere selbstverletzende Handlungen zeigen: frühe, aber unverkennbare Zeichen einer psychischen Not, die nicht unterschätzt werden dürfen.
+                </p>
+                <p style="color: #fef2f2; font-size: 1.05rem; line-height: 1.85; font-style: italic; margin: 0 0 1rem 0;">
+                    Ich habe Wut, Schmerz, Frustration beobachtet, aber vor allem eine <strong style="color: white;">tiefe emotionale Desorganisation</strong>. Dies geschieht, wenn der wichtigste Bezugspunkt fehlt: die Elternfigur. Die Trennung, besonders wenn sie plötzlich ist, erzeugt das, was wir klinisch als <strong style="color: white;">Entwurzelungstrauma</strong> bezeichnen können, mit Auswirkungen, die sich mit der Zeit zu verschlechtern neigen.
+                </p>
+                <p style="color: #fef2f2; font-size: 1.05rem; line-height: 1.85; font-style: italic; margin: 0 0 1rem 0;">
+                    Und tatsächlich ist jeder vergehende Tag nicht neutral: Es ist eine <strong style="color: white;">Ansammlung von Leiden</strong>. Das Risiko besteht, dass sich diese Zeichen zu strukturierteren Mustern entwickeln, mit Konsequenzen für die emotionale und relationale Entwicklung.
+                </p>
+                <p style="color: #fef2f2; font-size: 1.05rem; line-height: 1.85; font-style: italic; margin: 0 0 1rem 0;">
+                    Deshalb glaube ich, dass die Zerstörung der familiären Einheit, in Abwesenheit einer aktuellen und konkreten Gefahr, einen weiteren destabilisierenden Faktor darstellt. Trauma wird nicht durch Vergrößerung der emotionalen Distanz behandelt, sondern durch die Arbeit am Wiederaufbau einer sicheren relationalen Umgebung.
+                </p>
+                <p style="color: white; font-size: 1.1rem; line-height: 1.85; font-style: italic; font-weight: 600; margin: 0 0 1rem 0; border-top: 1px solid rgba(220,38,38,0.4); padding-top: 1rem;">
+                    Diese Kinder brauchen drei grundlegende Elemente: <strong>Wiedervereinigung mit Bindungsfiguren, eine geeignete Umgebung und laufende klinische Unterstützung.</strong>
+                </p>
+                <p style="color: #fca5a5; font-size: 1.05rem; line-height: 1.75; font-style: italic; margin: 0;">
+                    Denn ein Kind wird nicht einfach dadurch geheilt, indem man es schützt. <strong style="color: white;">Heilung bedeutet, Bindungen, Kontinuität und ein Gefühl der Zugehörigkeit wiederherzustellen.&ldquo;</strong>
+                </p>
+                <div style="margin-top: 1.5rem; padding-top: 1rem; border-top: 1px solid rgba(255,255,255,0.1); display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem;">
+                    <p style="color: rgba(255,255,255,0.7); font-size: 0.95rem; margin: 0;">— <strong style="color: white;">Prof. Tonino Cantelmi</strong>, Psychiater &amp; Klinischer Psychologe<br><span style="font-size: 0.85rem;">Professor für Psychologie digitaler Technologien, LUMSA Universität, Rom</span></p>
+                    <a href="https://www.facebook.com/share/p/17pfeuVKZG/?mibextid=wwXIfr" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; gap: 0.5rem; background: #1877f2; color: white; padding: 0.6rem 1.25rem; border-radius: 0.5rem; text-decoration: none; font-weight: 700; font-size: 0.9rem; white-space: nowrap;">📄 Vollständige Erklärung lesen</a>
+                </div>
+            </div>
+
+            <div style="background: rgba(220,38,38,0.15); border: 2px solid rgba(220,38,38,0.5); border-radius: 1rem; padding: 1.25rem 1.75rem;">
+                <p style="color: #fef2f2; font-size: 1.1rem; font-weight: 700; margin: 0;">Es gibt keine Alternative. Es gibt keine andere Lösung.<br><span style="color: #fca5a5;">Diese Kinder müssen jetzt mit ihren Eltern wiedervereinigt werden.</span></p>
+            </div>
+        </div>
     </div>
 </section>
 

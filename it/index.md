@@ -16,6 +16,22 @@ updated: 2026-03-15-latest
     </div>
     <div class="hero-overlay hero-overlay-60mins"></div>
     <div class="hero-content">
+
+        <!-- Valutazione Psichiatrica - IN CIMA ALL'HERO -->
+        <div style="background: rgba(0,0,0,0.7); border: 1px solid rgba(220,38,38,0.7); border-left: 5px solid #dc2626; border-radius: 1rem; padding: 1.5rem 2rem; margin-bottom: 1.75rem; text-align: left; max-width: 720px; margin-left: auto; margin-right: auto;">
+            <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.75rem; margin-bottom: 1rem;">
+                <span style="background: rgba(220,38,38,0.3); border: 1px solid rgba(220,38,38,0.6); color: #fca5a5; font-weight: 700; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 2px; padding: 0.3rem 0.9rem; border-radius: 2rem;">🔬 Valutazione Psichiatrica</span>
+                <a href="https://www.facebook.com/share/p/17pfeuVKZG/?mibextid=wwXIfr" target="_blank" rel="noopener noreferrer" style="color: #93c5fd; font-size: 0.8rem; text-decoration: none; font-weight: 600;">📄 Fonte →</a>
+            </div>
+            <p style="color: white; font-size: 1rem; line-height: 1.8; font-style: italic; margin: 0 0 0.75rem 0;">&ldquo;Stanno diventando <strong>emotivamente disorganizzati</strong>. Quello che osservo è un quadro clinico coerente con un <strong>trauma da separazione</strong> — pianto inconsolabile, agitazione, regressioni e piccoli atti di autolesionismo.</p>
+            <p style="color: rgba(255,255,255,0.9); font-size: 1rem; line-height: 1.8; font-style: italic; margin: 0 0 0.75rem 0;">Ogni giorno che passa non è neutro: è un'<strong style="color: white;">accumulazione di sofferenza</strong>. In assenza di un pericolo concreto, lo smembramento dell'unità familiare è un ulteriore fattore destabilizzante.</p>
+            <p style="color: #fca5a5; font-size: 1.05rem; line-height: 1.8; font-style: italic; font-weight: 700; margin: 0 0 1rem 0;">Questi bambini hanno bisogno del <strong style="color: white;">ricongiungimento con i loro genitori</strong>, di un ambiente adeguato e di supporto clinico. Perché guarire significa ripristinare legami, continuità e senso di appartenenza.&rdquo;</p>
+            <p style="color: rgba(255,255,255,0.6); font-size: 0.85rem; margin: 0;">— <strong style="color: rgba(255,255,255,0.9);">Prof. Tonino Cantelmi</strong>, Psichiatra &bull; Università LUMSA, Roma</p>
+        </div>
+        <div style="background: rgba(220,38,38,0.2); border: 2px solid rgba(220,38,38,0.6); border-radius: 0.75rem; padding: 0.9rem 1.5rem; margin-bottom: 1.75rem; text-align: center; max-width: 720px; margin-left: auto; margin-right: auto;">
+            <p style="color: white; font-size: 1.05rem; font-weight: 700; margin: 0;">Non c'è alternativa. Non c'è altra soluzione.<br><span style="color: #fca5a5;">Questi bambini devono essere ricongiunti ai loro genitori — adesso.</span></p>
+        </div>
+
         <div class="sixty-mins-badge-wrap">
             <span class="sixty-mins-badge sixty-mins-badge-aired">
                 🚨 ULTIME NOTIZIE — 8 MARZO 2026
