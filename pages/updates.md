@@ -12,6 +12,15 @@ permalink: /updates/
 <div style="border-left: 3px solid #dc2626; margin: 2rem 0; padding-left: 0;">
 
 <div style="display: flex; gap: 1.25rem; margin-bottom: 1.75rem; padding-left: 1.5rem;">
+    <div style="flex-shrink: 0; width: 11px; height: 11px; background: #7c3aed; border-radius: 50%; margin-top: 0.35rem; margin-left: -1.75rem; box-shadow: 0 0 0 3px rgba(124,58,237,0.3);"></div>
+    <div>
+        <p style="color: #6b7280; font-size: 0.8rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; margin: 0 0 0.2rem 0;">March 26, 2026</p>
+        <p style="font-weight: 700; margin: 0 0 0.25rem 0;"><a href="/senate/breaking/2026/03/26/senate-visit-catherine-addresses-public.html">Catherine and Nathan at the Italian Senate — Catherine addresses the public for the first time</a></p>
+        <p style="color: #6b7280; font-size: 0.9rem; margin: 0;">Received by the President of the Italian Senate with "great humanity." Afterwards, Catherine stepped outside and read a public letter — her first direct address after months of silence. She spoke of gratitude, truth, and an unbearable pain borne with dignity.</p>
+    </div>
+</div>
+
+<div style="display: flex; gap: 1.25rem; margin-bottom: 1.75rem; padding-left: 1.5rem;">
     <div style="flex-shrink: 0; width: 11px; height: 11px; background: #7f1d1d; border-radius: 50%; margin-top: 0.35rem; margin-left: -1.75rem; box-shadow: 0 0 0 3px rgba(220,38,38,0.3);"></div>
     <div>
         <p style="color: #6b7280; font-size: 0.8rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; margin: 0 0 0.2rem 0;">March 11, 2026</p>

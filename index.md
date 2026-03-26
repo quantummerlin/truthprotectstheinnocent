@@ -1,17 +1,17 @@
 ---
 layout: default
-title: "URGENT: Siblings Isolated, Adoption Threatened | Catherine Birmingham & Nathan Trevallion"
-description: "BREAKING March 11 2026: The siblings are now being isolated from each other inside the institution. Adoption proceedings are being raised under Italian law — against parents whose children were taken with justifications all officially disproven. Act now. #TruthProtectsTheInnocent"
+title: "BREAKING: Catherine & Nathan Received by the Italian Senate | Catherine Birmingham & Nathan Trevallion"
+description: "BREAKING March 26 2026: Catherine and Nathan were received by the President of the Italian Senate with great humanity. Afterwards, Catherine addressed the public for the first time. The highest levels of Italian government have heard the truth. #TruthProtectsTheInnocent"
 lang: en
 image: /assets/images/og-image.jpg
-updated: 2026-03-11-breaking
+updated: 2026-03-26-senate
 ---
 
-<!-- Hero Section: Breaking Update + 60 Minutes -->
+<!-- Hero Section: Senate Visit — March 26, 2026 -->
 <section class="hero hero-60mins">
     <div class="hero-video-bg">
         <video autoplay muted loop playsinline>
-            <source src="/assets/videos/60-minutes-trailer.mp4" type="video/mp4">
+            <source src="/assets/videos/senate invite.mp4" type="video/mp4">
         </video>
     </div>
     <div class="hero-overlay hero-overlay-60mins"></div>
@@ -35,38 +35,47 @@ updated: 2026-03-11-breaking
         <!-- Breaking Badge -->
         <div class="sixty-mins-badge-wrap">
             <span class="sixty-mins-badge sixty-mins-badge-aired" id="sixtyMinsBadge">
-                Update — March 11, 2026
+                Breaking — March 26, 2026
             </span>
         </div>
 
-        <h1 class="sixty-mins-headline">The Siblings Are Being Kept Apart</h1>
-        <p class="lead">Inside the institution, the three children are now also being separated from each other. The case for their reunification has <strong>already been made</strong> — every official reason for removing them has been officially disproven. What’s needed now is sustained pressure from a world that’s still watching.</p>
+        <h1 class="sixty-mins-headline">The Italian Senate Has Heard Their Truth</h1>
+        <p class="lead">Today, Catherine and Nathan were received by the <strong>President of the Italian Senate</strong> — with what Catherine called <em>&ldquo;great humanity.&rdquo;</em> Afterwards, Catherine stepped outside and spoke publicly for the first time since this ordeal began. A moment no one who has followed this family will forget.</p>
 
-        <!-- Breaking Alert Box -->
-        <div class="hero-alert-box">
-            <p style="color: #fef08a; font-weight: 700; font-size: 1rem; margin-bottom: 0.5rem;">How much further can this go?</p>
-            <p style="color: rgba(255,255,255,0.9); font-size: 0.95rem; line-height: 1.6; margin-bottom: 1rem;">Your voice — directed at the right people — is what changes outcomes. Two specific actions can make a real difference today.</p>
-            <div class="hero-alert-btns">
-                <a href="/action/"
-                   style="background: #f39c12; color: #1a1a00; padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 700; font-size: 0.95rem; display: block; text-align: center;">→ Take Action</a>
-                <a href="/breaking/legal/action/2026/03/11/siblings-isolated-adoption-threatened.html"
-                   style="background: rgba(255,255,255,0.15); color: white; border: 1.5px solid rgba(255,255,255,0.5); padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 600; font-size: 0.95rem; display: block; text-align: center;">Read Full Update</a>
+        <!-- Senate Quote Box -->
+        <div style="background: rgba(0,0,0,0.75); border: 1px solid rgba(124,58,237,0.7); border-left: 5px solid #7c3aed; border-radius: 1rem; padding: 1.5rem 2rem; margin-bottom: 1.75rem; text-align: left; max-width: 720px; margin-left: auto; margin-right: auto;">
+            <div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap;">
+                <span style="background: rgba(124,58,237,0.3); border: 1px solid rgba(124,58,237,0.6); color: #c4b5fd; font-weight: 700; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 2px; padding: 0.3rem 0.9rem; border-radius: 2rem;">🏛️ Catherine's First Public Address — Outside the Italian Senate</span>
             </div>
+            <p style="color: white; font-size: 1rem; line-height: 1.8; font-style: italic; margin: 0 0 0.75rem 0;">&ldquo;After months of complete silence, Nathan and I would like to express our heartfelt gratitude to everyone who has supported us through these long and profoundly difficult days filled with pain and sorrow, for our children.</p>
+            <p style="color: rgba(255,255,255,0.9); font-size: 1rem; line-height: 1.8; font-style: italic; margin: 0 0 0.75rem 0;">What Nathan and I came here to offer today, was our truth and our continued commitment to the responsible, respectful and loving parents we are. And with this truth, in the most unbearable pain, we came reaching out, asking to be heard and to allow us to be a family again.</p>
+            <p style="color: #c4b5fd; font-size: 1.05rem; line-height: 1.8; font-style: italic; font-weight: 700; margin: 0 0 1rem 0;">Our sincere and heartfelt thanks to the President of the Italian Senate for receiving and supporting us with great humanity.&rdquo;</p>
+            <p style="color: rgba(255,255,255,0.6); font-size: 0.85rem; margin: 0;">— <strong style="color: rgba(255,255,255,0.9);">Catherine Birmingham</strong>, outside the Italian Senate &bull; March 26, 2026</p>
         </div>
 
-        <!-- Italian TV Coverage -->
-        <div class="hero-tv-box">
-            <p style="color: white; font-weight: 700; font-size: 0.95rem; margin-bottom: 0.75rem; text-align: center;">📺 Italian TV (Canale 5) has been covering this:</p>
-            <ul style="color: rgba(255,255,255,0.85); font-size: 0.9rem; line-height: 1.9; margin: 0; padding-left: 1.25rem; text-align: left;">
-                <li><a href="https://mediasetinfinity.mediaset.it/video/dentrolanotizia20252026/la-festa-di-compleanno-per-papa-nathan-senza-moglie-e-figli_F314098101128C09" target="_blank" rel="noopener" style="color: #fef08a;">Nathan's birthday alone</a> — <em>"the worst birthday of my life"</em></li>
-                <li><a href="https://mediasetinfinity.mediaset.it/video/dentrolanotizia20252026/famiglia-nel-bosco-compleanno-separato-per-i-gemellini_F314098101130C09" target="_blank" rel="noopener" style="color: #fef08a;">The twins' 7th birthday — separated from parents</a></li>
-                <li><a href="https://mediasetinfinity.mediaset.it/video/dentrolanotizia20252026/famiglia-nel-bosco-la-zia-respinge-laccusa-di-condizionare-i-bimbi_F314098101126C11" target="_blank" rel="noopener" style="color: #fef08a;">The aunt rejects accusations on national TV</a></li>
-                <li>Family's lawyer demands: <strong style="color: white;">"Explain to the children why the mother was kicked out"</strong></li>
-            </ul>
+        <!-- Significance Statement -->
+        <div style="background: rgba(124,58,237,0.2); border: 2px solid rgba(124,58,237,0.6); border-radius: 0.75rem; padding: 0.9rem 1.5rem; margin-bottom: 1.75rem; text-align: center; max-width: 720px; margin-left: auto; margin-right: auto;">
+            <p style="color: white; font-size: 1.05rem; font-weight: 700; margin: 0;">The President of the Italian Senate has heard this family's truth.<br><span style="color: #c4b5fd;">This is recognition at the highest level of Italian government.</span></p>
+        </div>
+
+        <!-- CTA Box -->
+        <div class="hero-alert-box">
+            <p style="color: #fef08a; font-weight: 700; font-size: 1rem; margin-bottom: 0.5rem;">The Senate has heard them. Now the world must act.</p>
+            <p style="color: rgba(255,255,255,0.9); font-size: 0.95rem; line-height: 1.6; margin-bottom: 1rem;">Every petition signature and every message to authorities adds weight to what was said today inside the Italian Senate.</p>
+            <div class="hero-alert-btns">
+                <a href="/senate/breaking/2026/03/26/senate-visit-catherine-addresses-public.html"
+                   style="background: #7c3aed; color: white; padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 700; font-size: 0.95rem; display: block; text-align: center;">🏛️ Watch the Video &amp; Read Catherine's Letter</a>
+                <a href="/action/"
+                   style="background: rgba(255,255,255,0.15); color: white; border: 1.5px solid rgba(255,255,255,0.5); padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 600; font-size: 0.95rem; display: block; text-align: center;">→ Take Action Now</a>
+            </div>
         </div>
 
         <!-- Coverage Stats -->
         <div class="hero-stats sixty-mins-stats">
+            <div class="hero-stat">
+                <span class="hero-stat-number">🏛️</span>
+                <span class="hero-stat-label">Italian Senate<br>Received Them</span>
+            </div>
             <div class="hero-stat">
                 <span class="hero-stat-number">🇦🇺</span>
                 <span class="hero-stat-label">60 Minutes<br>Australia</span>
@@ -82,12 +91,12 @@ updated: 2026-03-11-breaking
         </div>
 
         <div class="hero-cta">
-            <a href="https://www.youtube.com/watch?v=FZPMGep5CKU" target="_blank" rel="noopener" class="btn btn-primary btn-lg btn-glow">▶ Watch 60 Minutes on YouTube</a>
-            <a href="/action/" class="btn btn-secondary btn-lg">Take Action Now</a>
+            <a href="/senate/breaking/2026/03/26/senate-visit-catherine-addresses-public.html" class="btn btn-primary btn-lg btn-glow">🏛️ See the Senate Visit</a>
+            <a href="/petition/" class="btn btn-secondary btn-lg">✍️ Sign the Petition</a>
             <a href="/evidence/" class="btn btn-secondary btn-lg">See The Evidence</a>
         </div>
 
-        <p class="sixty-mins-subtext">Three children. Three false claims. Zero valid reasons.<br>Catherine is now banned from the facility where her children are held.</p>
+        <p class="sixty-mins-subtext">Three children. Three false claims. Zero valid reasons.<br>The Italian Senate has now heard what the world already knows.</p>
     </div>
 </section>
 

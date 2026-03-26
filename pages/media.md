@@ -243,6 +243,58 @@ permalink: /media/
     </div>
 </section>
 
+<!-- Senate Visit Section -->
+<section class="section" style="padding-top: 0;">
+    <div class="container">
+        <div class="section-header">
+            <h2>🏛️ Catherine &amp; Nathan at the Italian Senate</h2>
+            <p>March 26, 2026 — Received by the President of the Italian Senate. Afterwards, Catherine addressed the public for the first time.</p>
+        </div>
+
+        <div style="background: linear-gradient(135deg, #1a1a2e 0%, #2d1b4e 100%); border-radius: 1rem; padding: 2rem; margin-bottom: 2rem; color: white;">
+            <div style="font-size: 0.8rem; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: rgba(255,255,255,0.6); margin-bottom: 0.5rem;">Breaking — March 26, 2026</div>
+            <p style="color: rgba(255,255,255,0.9); font-size: 1.05rem; line-height: 1.7; margin: 0 0 1.25rem 0;">
+                For the first time, Catherine and Nathan were received at the highest level of Italian government — by the President of the Italian Senate — with what Catherine described as <strong style="color: #f59e0b;">"great humanity."</strong> Afterwards, Catherine stepped outside and read a public letter: her first direct address to supporters after months of chosen silence.
+            </p>
+            <a href="/senate/breaking/2026/03/26/senate-visit-catherine-addresses-public.html"
+               style="display: inline-block; background: white; color: #1a1a2e; padding: 0.7rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 700; font-size: 0.9rem;">
+                📖 Read Catherine's Letter & Full Story →
+            </a>
+        </div>
+
+        <div style="background: #f8fafc; border-radius: 1rem; overflow: hidden; box-shadow: 0 8px 30px rgba(0,0,0,0.12); margin-bottom: 2rem;">
+            <video controls style="width: 100%; display: block;" preload="metadata">
+                <source src="/assets/videos/senate invite.mp4" type="video/mp4">
+                Your browser does not support HTML5 video.
+            </video>
+            <div style="padding: 1rem 1.5rem; background: #f8fafc; border-top: 1px solid #e5e7eb;">
+                <p style="color: #374151; font-size: 0.9rem; margin: 0; font-style: italic; text-align: center;">Catherine and Nathan at the Italian Senate, March 26, 2026</p>
+            </div>
+        </div>
+
+        <div style="background: white; border: 2px solid #e5e7eb; border-left: 5px solid #7c3aed; border-radius: 1rem; padding: 2rem 2.5rem; box-shadow: 0 4px 20px rgba(0,0,0,0.06);">
+            <div style="font-size: 0.8rem; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: #7c3aed; margin-bottom: 1rem;">Catherine's Public Letter — Read Outside the Senate</div>
+            <p style="font-size: 1rem; line-height: 1.9; color: #1f2937; margin-top: 0;">
+                "After months of complete silence, Nathan and I would like to express our heartfelt gratitude to everyone who has supported us through these long and profoundly difficult days filled with pain and sorrow, for our children."
+            </p>
+            <p style="font-size: 1rem; line-height: 1.9; color: #1f2937;">
+                "We chose Italy because it had the very same values we wanted to raise our children with. Namely family, love, togetherness, organic living and eating and more than anything, a heartful and peaceful existence where people cared about each other."
+            </p>
+            <p style="font-size: 1rem; line-height: 1.9; color: #1f2937;">
+                "As a Mother and Father who adore our children, whom have always put their needs first... to be targeted and attacked the way we have, is beyond our ability to accept and understand. What Nathan and I came here to offer today, was our truth and our continued commitment to the responsible, respectful and loving parents we are."
+            </p>
+            <p style="font-size: 1.1rem; font-weight: 700; color: #7c3aed; font-style: italic; margin-bottom: 0.5rem;">
+                — Grazie di cuore.
+            </p>
+            <p style="color: #6b7280; font-size: 0.85rem; margin-bottom: 1.5rem; font-style: italic;">— Catherine Birmingham, outside the Italian Senate, March 26, 2026</p>
+            <a href="/senate/breaking/2026/03/26/senate-visit-catherine-addresses-public.html"
+               style="display: inline-block; background: #7c3aed; color: white; padding: 0.7rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 700; font-size: 0.9rem;">
+                Read the Full Letter →
+            </a>
+        </div>
+    </div>
+</section>
+
 <!-- Video Gallery Section -->
 <section class="section" style="padding-top: 0;">
     <div class="container">
