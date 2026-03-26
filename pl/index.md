@@ -1,23 +1,62 @@
 ﻿---
 layout: default
-title: "BREAKING 8 Marca — Dzieci przeniesione, Catherine wykluczona | La Famiglia Nel Bosco"
-description: "PILNE 8 marca 2026: Po emisji 60 Minutes włoskie władze przeniosły dzieci do nowej placówki — gdzie Catherine nie może przebywać. Trzy oficjalne powody — wszystkie obalone. #TruthProtectsTheInnocent #LaFamigliaNelBosco"
+title: "BREAKING 26 Marca — Włoski Senat Przyjął Catherine i Nathana | La Famiglia Nel Bosco"
+description: "PILNE 26 marca 2026: Catherine i Nathan zostali przyjęci przez Przewodniczącego Włoskiego Senatu z "wielką ludzkością". Po raz pierwszy Catherine zabrała głos publicznie. Najwyższy szczebel włoskiego rządu usłyszał prawdę. #TruthProtectsTheInnocent"
 lang: pl
 image: /assets/images/og-image.jpg
-updated: 2026-03-15-latest
+updated: 2026-03-26-senate
 ---
 
 <!-- Hero: Breaking News -->
 <section class="hero hero-60mins">
     <div class="hero-video-bg">
         <video autoplay muted loop playsinline>
-            <source src="/assets/videos/60-minutes-trailer.mp4" type="video/mp4">
+            <source src="/assets/videos/senate invite.mp4" type="video/mp4">
         </video>
     </div>
     <div class="hero-overlay hero-overlay-60mins"></div>
     <div class="hero-content">
 
-        <!-- Ocena Psychiatryczna - NA GÓRZE HERO -->
+        
+        <!-- Breaking Badge -->
+        <div class="sixty-mins-badge-wrap">
+            <span class="sixty-mins-badge sixty-mins-badge-aired" id="sixtyMinsBadge">
+                BREAKING — 26 MARCA 2026
+            </span>
+        </div>
+
+        <h1 class="sixty-mins-headline">Włoski Senat Wysłuchał Ich Prawdy</h1>
+        <p class="lead">Dziś Catherine i Nathan zostali przyjęci przez <strong>Przewodniczącego Włoskiego Senatu</strong> — z tym, co Catherine nazwała <em>&ldquo;wielką ludzkością.&rdquo;</em> Następnie Catherine wyszła i po raz pierwszy publicznie zabrała głos od początku tej próby.</p>
+
+        <!-- Senate Quote Box -->
+        <div style="background: rgba(0,0,0,0.75); border: 1px solid rgba(124,58,237,0.7); border-left: 5px solid #7c3aed; border-radius: 1rem; padding: 1.5rem 2rem; margin-bottom: 1.75rem; text-align: left; max-width: 720px; margin-left: auto; margin-right: auto;">
+            <div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap;">
+                <span style="background: rgba(124,58,237,0.3); border: 1px solid rgba(124,58,237,0.6); color: #c4b5fd; font-weight: 700; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 2px; padding: 0.3rem 0.9rem; border-radius: 2rem;">🏛️ Pierwsze Publiczne Przemówienie Catherine — Przed Włoskim Senatem</span>
+            </div>
+            <p style="color: white; font-size: 1rem; line-height: 1.8; font-style: italic; margin: 0 0 0.75rem 0;">&ldquo;Po miesiącach całkowitego milczenia, Nathan i ja chcielibyśmy wyrazić naszą serdeczną wdzięczność wszystkim, którzy wspierali nas przez te długie i głęboko trudne dni pełne bólu i smutku o nasze dzieci.</p>
+            <p style="color: rgba(255,255,255,0.9); font-size: 1rem; line-height: 1.8; font-style: italic; margin: 0 0 0.75rem 0;">To, co Nathan i ja przyszliśmy dziś zaoferować, to nasza prawda i nasze nieustanne zaangażowanie jako odpowiedzialnych, szanujących i kochających rodziców. I z tą prawdą, w najbardziej nieznośnym bólu, przyszliśmy prosząc o wysłuchanie i pozwolenie nam być znowu rodziną.</p>
+            <p style="color: #c4b5fd; font-size: 1.05rem; line-height: 1.8; font-style: italic; font-weight: 700; margin: 0 0 1rem 0;">Nasza szczera i serdeczna wdzięczność Przewodniczącemu Włoskiego Senatu za przyjęcie i wsparcie z wielką ludzkością.&rdquo;</p>
+            <p style="color: rgba(255,255,255,0.6); font-size: 0.85rem; margin: 0;">— <strong style="color: rgba(255,255,255,0.9);">Catherine Birmingham, przed Włoskim Senatem &bull; 26 Marca 2026</strong></p>
+        </div>
+
+        <!-- Significance Statement -->
+        <div style="background: rgba(124,58,237,0.2); border: 2px solid rgba(124,58,237,0.6); border-radius: 0.75rem; padding: 0.9rem 1.5rem; margin-bottom: 1.75rem; text-align: center; max-width: 720px; margin-left: auto; margin-right: auto;">
+            <p style="color: white; font-size: 1.05rem; font-weight: 700; margin: 0;">Przewodniczący Włoskiego Senatu wysłuchał prawdy tej rodziny.<br><span style="color: #c4b5fd;">To uznanie na najwyższym szczeblu włoskiego rządu.</span></p>
+        </div>
+
+        <!-- CTA Box -->
+        <div class="hero-alert-box">
+            <p style="color: #fef08a; font-weight: 700; font-size: 1rem; margin-bottom: 0.5rem;">Senat ich wysłuchał. Teraz świat musi działać.</p>
+            <p style="color: rgba(255,255,255,0.9); font-size: 0.95rem; line-height: 1.6; margin-bottom: 1rem;">Każdy podpis pod petycją dodaje siły temu, co zostało powiedziane dziś we Włoskim Senacie.</p>
+            <div class="hero-alert-btns">
+                <a href="/senate/breaking/2026/03/26/senate-visit-catherine-addresses-public.html"
+                   style="background: #7c3aed; color: white; padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 700; font-size: 0.95rem; display: block; text-align: center;">🏛️ Obejrzyj Film i Przeczytaj List Catherine</a>
+                <a href="/action/"
+                   style="background: rgba(255,255,255,0.15); color: white; border: 1.5px solid rgba(255,255,255,0.5); padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 600; font-size: 0.95rem; display: block; text-align: center;">→ Działaj Teraz</a>
+            </div>
+        </div>
+
+<!-- Ocena Psychiatryczna - NA GÓRZE HERO -->
         <div style="background: rgba(0,0,0,0.7); border: 1px solid rgba(220,38,38,0.7); border-left: 5px solid #dc2626; border-radius: 1rem; padding: 1.5rem 2rem; margin-bottom: 1.75rem; text-align: left; max-width: 720px; margin-left: auto; margin-right: auto;">
             <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.75rem; margin-bottom: 1rem;">
                 <span style="background: rgba(220,38,38,0.3); border: 1px solid rgba(220,38,38,0.6); color: #fca5a5; font-weight: 700; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 2px; padding: 0.3rem 0.9rem; border-radius: 2rem;">🔬 Ocena Psychiatryczna</span>
@@ -32,35 +71,13 @@ updated: 2026-03-15-latest
             <p style="color: white; font-size: 1.05rem; font-weight: 700; margin: 0;">Nie ma alternatywy. Nie ma innego rozwiązania.<br><span style="color: #fca5a5;">Te dzieci muszą zostać zjednoczone z rodzicami — teraz.</span></p>
         </div>
 
-        <div class="sixty-mins-badge-wrap">
-            <span class="sixty-mins-badge sixty-mins-badge-aired">
-                🚨 PILNE — 8 MARCA 2026
-            </span>
-        </div>
-
-        <h1 class="sixty-mins-headline">Dzieci przeniesione. Catherine wykluczona.</h1>
-        <p class="lead">Po emisji 60 Minutes włoskie władze zdecydowały o przeniesieniu dzieci do <strong>nowej placówki</strong> — <strong>gdzie Catherine nie może przebywać</strong>. Pożegnanie zostało nagrane.</p>
-
-        <div class="hero-alert-box">
-            <p style="color: #fef08a; font-weight: 700; font-size: 1rem; margin-bottom: 0.5rem;">📹 Obejrzyj: Moment pożegnania</p>
-            <p style="color: rgba(255,255,255,0.9); font-size: 0.95rem; line-height: 1.6; margin-bottom: 1rem;">Catherine została zmuszona pożegnać się z dziećmi przed ich przeniesieniem. Uwaga — wstrząsające nagranie.</p>
-            <div class="hero-alert-btns">
-                <a href="https://www.facebook.com/share/v/1HpVpWjzMC/" target="_blank" rel="noopener noreferrer" style="background: #1877f2; color: white; padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 700; font-size: 0.95rem; display: block; text-align: center;">▶ Obejrzyj na Facebooku</a>
-                <a href="https://www.youtube.com/watch?v=FZPMGep5CKU" target="_blank" rel="noopener noreferrer" style="background: rgba(255,255,255,0.15); color: white; border: 1.5px solid rgba(255,255,255,0.5); padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 600; font-size: 0.95rem; display: block; text-align: center;">▶ 60 Minutes na YouTube</a>
-            </div>
-        </div>
-
-        <div class="hero-tv-box">
-            <p style="color: white; font-weight: 700; font-size: 0.95rem; margin-bottom: 0.75rem; text-align: center;">📺 Canale 5 relacjonowało sprawę:</p>
-            <ul style="color: rgba(255,255,255,0.85); font-size: 0.9rem; line-height: 1.9; margin: 0; padding-left: 1.25rem; text-align: left;">
-                <li><a href="https://mediasetinfinity.mediaset.it/video/dentrolanotizia20252026/la-festa-di-compleanno-per-papa-nathan-senza-moglie-e-figli_F314098101128C09" target="_blank" rel="noopener" style="color: #fef08a;">Urodziny Nathana — sam, bez żony i dzieci</a> — <em>„najgorsze urodziny mojego życia"</em></li>
-                <li><a href="https://mediasetinfinity.mediaset.it/video/dentrolanotizia20252026/famiglia-nel-bosco-compleanno-separato-per-i-gemellini_F314098101130C09" target="_blank" rel="noopener" style="color: #fef08a;">7. urodziny bliźniaków — z dala od rodziców</a></li>
-                <li><a href="https://mediasetinfinity.mediaset.it/video/dentrolanotizia20252026/famiglia-nel-bosco-la-zia-respinge-laccusa-di-condizionare-i-bimbi_F314098101126C11" target="_blank" rel="noopener" style="color: #fef08a;">Ciotka odpiera zarzuty w telewizji krajowej</a></li>
-                <li>Adwokat żąda: <strong style="color: white;">„Wyjaśnijcie dzieciom, dlaczego matka została wyrzucona"</strong></li>
-            </ul>
-        </div>
-
+        
+        <!-- Coverage Stats -->
         <div class="hero-stats sixty-mins-stats">
+            <div class="hero-stat">
+                <span class="hero-stat-number">🏛️</span>
+                <span class="hero-stat-label">Włoski Senat<br>Przyjął Ich</span>
+            </div>
             <div class="hero-stat">
                 <span class="hero-stat-number">🇦🇺</span>
                 <span class="hero-stat-label">60 Minutes<br>Australia</span>
@@ -71,17 +88,17 @@ updated: 2026-03-15-latest
             </div>
             <div class="hero-stat">
                 <span class="hero-stat-number">🌍</span>
-                <span class="hero-stat-label">Uwaga<br>Światowa</span>
+                <span class="hero-stat-label">Globalna<br>Uwaga</span>
             </div>
         </div>
 
         <div class="hero-cta">
-            <a href="/pl/petition/" class="btn btn-primary btn-lg btn-glow">🇺🇳 Podpisz Petycję ONZ</a>
-            <a href="/action/" class="btn btn-secondary btn-lg">Działaj Teraz</a>
-            <a href="/evidence/" class="btn btn-secondary btn-lg">Zobacz dowody</a>
+            <a href="/senate/breaking/2026/03/26/senate-visit-catherine-addresses-public.html" class="btn btn-primary btn-lg btn-glow">🏛️ Wizyta w Senacie</a>
+            <a href="/pl/petition/" class="btn btn-secondary btn-lg">✍️ Podpisz Petycję</a>
+            <a href="/evidence/" class="btn btn-secondary btn-lg">Evidence</a>
         </div>
 
-        <p class="sixty-mins-subtext">Troje dzieci. Trzy fałszywe zarzuty. Zero uzasadnionych powodów.<br>Catherine nie może przebywać w placówce, gdzie trzymane są jej dzieci.</p>
+        <p class="sixty-mins-subtext">Troje dzieci. Trzy fałszywe twierdzenia. Zero ważnych powodów.<br>Włoski Senat teraz wysłuchał tego, co świat już wie.</p>
     </div>
 </section>
 

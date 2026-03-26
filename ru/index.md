@@ -1,23 +1,62 @@
 ﻿---
 layout: default
-title: "СРОЧНО 8 Марта — Детей перевели, Катрин изгнана | La Famiglia Nel Bosco"
-description: "СРОЧНО 8 марта 2026: После 60 Minutes итальянские власти перевели детей в новое учреждение — где Катрин не может оставаться. Три официальные причины — все опровергнуты. #TruthProtectsTheInnocent #LaFamigliaNelBosco"
+title: "СРОЧНО 26 Марта — Итальянский Сенат Принял Катрин и Натана | La Famiglia Nel Bosco"
+description: "СРОЧНО 26 марта 2026: Катрин и Натан были приняты Председателем Итальянского Сената с "большой человечностью". Впервые Катрин выступила публично. Высший уровень итальянского правительства услышал правду. #TruthProtectsTheInnocent"
 lang: ru
 image: /assets/images/og-image.jpg
-updated: 2026-03-15-latest
+updated: 2026-03-26-senate
 ---
 
 <!-- Hero: Breaking News -->
 <section class="hero hero-60mins">
     <div class="hero-video-bg">
         <video autoplay muted loop playsinline>
-            <source src="/assets/videos/60-minutes-trailer.mp4" type="video/mp4">
+            <source src="/assets/videos/senate invite.mp4" type="video/mp4">
         </video>
     </div>
     <div class="hero-overlay hero-overlay-60mins"></div>
     <div class="hero-content">
 
-        <!-- Психиатрическая оценка - ВВЕРХУ HERO -->
+        
+        <!-- Breaking Badge -->
+        <div class="sixty-mins-badge-wrap">
+            <span class="sixty-mins-badge sixty-mins-badge-aired" id="sixtyMinsBadge">
+                СРОЧНО — 26 МАРТА 2026
+            </span>
+        </div>
+
+        <h1 class="sixty-mins-headline">Итальянский Сенат Услышал Их Правду</h1>
+        <p class="lead">Сегодня Катрин и Натан были приняты <strong>Председателем Итальянского Сената</strong> — с тем, что Катрин назвала <em>&ldquo;большой человечностью.&rdquo;</em> После этого Катрин вышла и впервые публично обратилась к людям с момента начала этого испытания.</p>
+
+        <!-- Senate Quote Box -->
+        <div style="background: rgba(0,0,0,0.75); border: 1px solid rgba(124,58,237,0.7); border-left: 5px solid #7c3aed; border-radius: 1rem; padding: 1.5rem 2rem; margin-bottom: 1.75rem; text-align: left; max-width: 720px; margin-left: auto; margin-right: auto;">
+            <div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap;">
+                <span style="background: rgba(124,58,237,0.3); border: 1px solid rgba(124,58,237,0.6); color: #c4b5fd; font-weight: 700; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 2px; padding: 0.3rem 0.9rem; border-radius: 2rem;">🏛️ Первое Публичное Обращение Катрин — Перед Итальянским Сенатом</span>
+            </div>
+            <p style="color: white; font-size: 1rem; line-height: 1.8; font-style: italic; margin: 0 0 0.75rem 0;">&ldquo;После месяцев полного молчания мы с Натаном хотим выразить нашу искреннюю благодарность всем, кто поддерживал нас в эти долгие и невыносимо трудные дни, полные боли и скорби о наших детях.</p>
+            <p style="color: rgba(255,255,255,0.9); font-size: 1rem; line-height: 1.8; font-style: italic; margin: 0 0 0.75rem 0;">То, что мы с Натаном пришли сегодня предложить — это наша правда и наша неизменная преданность как ответственных, уважительных и любящих родителей. И с этой правдой, в невыносимой боли, мы пришли с просьбой быть услышанными и позволить нам снова быть семьёй.</p>
+            <p style="color: #c4b5fd; font-size: 1.05rem; line-height: 1.8; font-style: italic; font-weight: 700; margin: 0 0 1rem 0;">Наша искренняя и сердечная благодарность Председателю Итальянского Сената за то, что принял нас и поддержал с большой человечностью.&rdquo;</p>
+            <p style="color: rgba(255,255,255,0.6); font-size: 0.85rem; margin: 0;">— <strong style="color: rgba(255,255,255,0.9);">Катрин Бирмингем, перед Итальянским Сенатом &bull; 26 Марта 2026</strong></p>
+        </div>
+
+        <!-- Significance Statement -->
+        <div style="background: rgba(124,58,237,0.2); border: 2px solid rgba(124,58,237,0.6); border-radius: 0.75rem; padding: 0.9rem 1.5rem; margin-bottom: 1.75rem; text-align: center; max-width: 720px; margin-left: auto; margin-right: auto;">
+            <p style="color: white; font-size: 1.05rem; font-weight: 700; margin: 0;">Председатель Итальянского Сената услышал правду этой семьи.<br><span style="color: #c4b5fd;">Это признание на высшем уровне итальянского правительства.</span></p>
+        </div>
+
+        <!-- CTA Box -->
+        <div class="hero-alert-box">
+            <p style="color: #fef08a; font-weight: 700; font-size: 1rem; margin-bottom: 0.5rem;">Сенат их услышал. Теперь мир должен действовать.</p>
+            <p style="color: rgba(255,255,255,0.9); font-size: 0.95rem; line-height: 1.6; margin-bottom: 1rem;">Каждая подпись под петицией добавляет вес тому, что было сказано сегодня в Итальянском Сенате.</p>
+            <div class="hero-alert-btns">
+                <a href="/senate/breaking/2026/03/26/senate-visit-catherine-addresses-public.html"
+                   style="background: #7c3aed; color: white; padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 700; font-size: 0.95rem; display: block; text-align: center;">🏛️ Смотреть Видео и Читать Письмо Катрин</a>
+                <a href="/action/"
+                   style="background: rgba(255,255,255,0.15); color: white; border: 1.5px solid rgba(255,255,255,0.5); padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 600; font-size: 0.95rem; display: block; text-align: center;">→ Действовать Сейчас</a>
+            </div>
+        </div>
+
+<!-- Психиатрическая оценка - ВВЕРХУ HERO -->
         <div style="background: rgba(0,0,0,0.7); border: 1px solid rgba(220,38,38,0.7); border-left: 5px solid #dc2626; border-radius: 1rem; padding: 1.5rem 2rem; margin-bottom: 1.75rem; text-align: left; max-width: 720px; margin-left: auto; margin-right: auto;">
             <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.75rem; margin-bottom: 1rem;">
                 <span style="background: rgba(220,38,38,0.3); border: 1px solid rgba(220,38,38,0.6); color: #fca5a5; font-weight: 700; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 2px; padding: 0.3rem 0.9rem; border-radius: 2rem;">🔬 Психиатрическая оценка</span>
@@ -32,35 +71,13 @@ updated: 2026-03-15-latest
             <p style="color: white; font-size: 1.05rem; font-weight: 700; margin: 0;">Нет альтернативы. Нет другого решения.<br><span style="color: #fca5a5;">Эти дети должны быть воссоединены с родителями — сейчас.</span></p>
         </div>
 
-        <div class="sixty-mins-badge-wrap">
-            <span class="sixty-mins-badge sixty-mins-badge-aired">
-                🚨 СРОЧНО — 8 МАРТА 2026
-            </span>
-        </div>
-
-        <h1 class="sixty-mins-headline">Детей перевели. Катрин изгнана.</h1>
-        <p class="lead">После 60 Minutes итальянские власти решили перевести детей в <strong>новое учреждение</strong> — <strong>где Катрин не может оставаться</strong>. Прощание было записано на видео.</p>
-
-        <div class="hero-alert-box">
-            <p style="color: #fef08a; font-weight: 700; font-size: 1rem; margin-bottom: 0.5rem;">📹 Смотреть: Момент прощания</p>
-            <p style="color: rgba(255,255,255,0.9); font-size: 0.95rem; line-height: 1.6; margin-bottom: 1rem;">Катрин была вынуждена попрощаться с детьми перед их переводом. Внимание — тяжёлое видео.</p>
-            <div class="hero-alert-btns">
-                <a href="https://www.facebook.com/share/v/1HpVpWjzMC/" target="_blank" rel="noopener noreferrer" style="background: #1877f2; color: white; padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 700; font-size: 0.95rem; display: block; text-align: center;">▶ Смотреть на Facebook</a>
-                <a href="https://www.youtube.com/watch?v=FZPMGep5CKU" target="_blank" rel="noopener noreferrer" style="background: rgba(255,255,255,0.15); color: white; border: 1.5px solid rgba(255,255,255,0.5); padding: 0.75rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 600; font-size: 0.95rem; display: block; text-align: center;">▶ 60 Minutes на YouTube</a>
-            </div>
-        </div>
-
-        <div class="hero-tv-box">
-            <p style="color: white; font-weight: 700; font-size: 0.95rem; margin-bottom: 0.75rem; text-align: center;">📺 Canale 5 освещал это дело:</p>
-            <ul style="color: rgba(255,255,255,0.85); font-size: 0.9rem; line-height: 1.9; margin: 0; padding-left: 1.25rem; text-align: left;">
-                <li><a href="https://mediasetinfinity.mediaset.it/video/dentrolanotizia20252026/la-festa-di-compleanno-per-papa-nathan-senza-moglie-e-figli_F314098101128C09" target="_blank" rel="noopener" style="color: #fef08a;">День рождения Натана — один, без жены и детей</a> — <em>«худший день рождения в моей жизни»</em></li>
-                <li><a href="https://mediasetinfinity.mediaset.it/video/dentrolanotizia20252026/famiglia-nel-bosco-compleanno-separato-per-i-gemellini_F314098101130C09" target="_blank" rel="noopener" style="color: #fef08a;">7-й день рождения близнецов — вдали от родителей</a></li>
-                <li><a href="https://mediasetinfinity.mediaset.it/video/dentrolanotizia20252026/famiglia-nel-bosco-la-zia-respinge-laccusa-di-condizionare-i-bimbi_F314098101126C11" target="_blank" rel="noopener" style="color: #fef08a;">Тётя опровергает обвинения на национальном ТВ</a></li>
-                <li>Адвокат требует: <strong style="color: white;">«Объясните детям, почему мать выгнали»</strong></li>
-            </ul>
-        </div>
-
+        
+        <!-- Coverage Stats -->
         <div class="hero-stats sixty-mins-stats">
+            <div class="hero-stat">
+                <span class="hero-stat-number">🏛️</span>
+                <span class="hero-stat-label">Итальянский Сенат<br>Принял Их</span>
+            </div>
             <div class="hero-stat">
                 <span class="hero-stat-number">🇦🇺</span>
                 <span class="hero-stat-label">60 Minutes<br>Australia</span>
@@ -76,12 +93,12 @@ updated: 2026-03-15-latest
         </div>
 
         <div class="hero-cta">
-            <a href="/ru/petition/" class="btn btn-primary btn-lg btn-glow">🇺🇳 Подписать Петицию ООН</a>
-            <a href="/action/" class="btn btn-secondary btn-lg">Действовать сейчас</a>
-            <a href="/evidence/" class="btn btn-secondary btn-lg">Смотреть доказательства</a>
+            <a href="/senate/breaking/2026/03/26/senate-visit-catherine-addresses-public.html" class="btn btn-primary btn-lg btn-glow">🏛️ Посетить Сенат</a>
+            <a href="/ru/petition/" class="btn btn-secondary btn-lg">✍️ Подписать Петицию</a>
+            <a href="/evidence/" class="btn btn-secondary btn-lg">Evidence</a>
         </div>
 
-        <p class="sixty-mins-subtext">Трое детей. Три ложных обвинения. Ноль обоснованных причин.<br>Катрин не может оставаться там, где содержатся её дети.</p>
+        <p class="sixty-mins-subtext">Трое детей. Три ложных обвинения. Ноль законных оснований.<br>Итальянский Сенат теперь услышал то, что мир уже знает.</p>
     </div>
 </section>
 
