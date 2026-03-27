@@ -1,22 +1,26 @@
 ---
 layout: post
-title: "After 60 Minutes Airs: Authorities Move Children to New Facility — Catherine Banned From Staying"
+title: "After 60 Minutes Airs: Court Orders Children Moved to New Facility — Family Successfully Appeals"
 date: 2026-03-08
 categories: [Breaking, Update]
-summary: "Following the broadcast of the 60 Minutes segment, Italian authorities have ruled to move the children to a new facility where Catherine is not permitted to stay. A video captures the heartbreaking goodbye."
+summary: "Following the 60 Minutes broadcast, the court ordered the children to be transferred to a new facility where Catherine would not be permitted to stay. Catherine and the children said goodbye — but the family successfully appealed the order. The transfer did not proceed."
 ---
 
-## Children Moved After 60 Minutes Broadcast
+## Court Orders Children Transferred — Family Successfully Appeals
 
-In the wake of the international attention brought by the 60 Minutes television segment, Italian authorities have ruled to transfer the three Birmingham-Trevallion children to a **new facility** — with one devastating condition: **Catherine is not allowed to stay there.**
+In the wake of the international attention brought by the 60 Minutes television segment, the court issued an order to transfer the three Birmingham-Trevallion children to a **new facility** — with one devastating condition attached: **Catherine would not be permitted to stay there.**
 
-This move follows directly after the case received global media coverage, raising serious questions about whether the transfer is a punitive response to the family speaking out publicly.
+This order followed directly after the case received global media coverage, raising serious questions about whether the transfer was a punitive response to the family speaking out publicly.
+
+**The family appealed the order — and succeeded.** The transfer was blocked. The children were not moved.
 
 ---
 
 ## The Goodbye
 
-The moment Catherine had to say goodbye to her children before they were taken to the new facility was captured on video.
+Facing the prospect of her children being taken away to a facility where she could not follow, Catherine said goodbye to them. The moment was captured on video.
+
+*Update: The family successfully appealed the court order. The transfer did not take place.*
 
 <div style="background: #fef2f2; border-left: 4px solid #dc2626; padding: 1.5rem; border-radius: 0.5rem; margin: 1.5rem 0;">
     <h4 style="color: #991b1b; margin-bottom: 0.75rem;">⚠️ Warning — Distressing Content</h4>
@@ -38,7 +42,7 @@ The moment Catherine had to say goodbye to her children before they were taken t
 
 <div style="background: var(--color-gray-50); border-radius: 1rem; padding: 1.5rem; margin: 1.5rem 0;">
     <ul style="line-height: 2;">
-        <li><strong>Catherine is banned from the new facility</strong> — she will no longer be able to stay near her children</li>
+        <li><strong>The court ordered Catherine banned from the new facility</strong> — but the family appealed and the transfer order was successfully challenged</li>
         <li><strong>The transfer follows global media exposure</strong> — the 60 Minutes broadcast brought international scrutiny to the case</li>
         <li><strong>The children have already suffered over a year of trauma</strong> — now they face further disruption and distance from their mother</li>
         <li><strong>Psychologists previously confirmed</strong> that separation is causing the children <strong>irreparable daily harm</strong></li>
@@ -90,6 +94,6 @@ This is not a story being hidden. Italy's own mainstream media — **Canale 5**,
 
 The family's lawyer has publicly demanded on Italian national television: **"Explain to the children why the mother was kicked out."**
 
-No explanation has been given. The children are now being moved to a new facility where Catherine cannot stay — and still no one in authority has provided a legitimate justification.
+No explanation was given for why the court would separate the children further from their mother. The family challenged the order and successfully appealed — the transfer did not proceed. Still, no one in authority has provided a legitimate justification for why this order was made in the first place.
 
 See all Italian TV coverage on our [Media page](/media/).

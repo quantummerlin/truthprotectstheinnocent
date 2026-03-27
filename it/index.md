@@ -135,9 +135,9 @@ updated: 2026-03-26-senate
             <div style="display: inline-block; background: rgba(255,255,255,0.2); padding: 0.5rem 1.5rem; border-radius: 2rem; margin-bottom: 1rem;">
                 <span style="color: white; font-weight: 600; font-size: 0.9rem; text-transform: uppercase; letter-spacing: 0.05em;">⚠️ Breaking: 8 Marzo 2026</span>
             </div>
-            <h2 style="color: white; font-size: 2rem; margin-bottom: 1rem; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">Bambini Spostati — Catherine Esclusa dalla Nuova Struttura</h2>
+            <h2 style="color: white; font-size: 2rem; margin-bottom: 1rem; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">Ordine di Trasferimento Impugnato — La Famiglia Fa Ricorso con Successo</h2>
             <p style="color: rgba(255,255,255,0.95); font-size: 1.2rem; line-height: 1.6; margin-bottom: 1.5rem;">
-                Il tribunale aveva pianificato di tenere i bambini istituzionalizzati <strong style="color: #fef08a;">fino a giugno 2026</strong> — ora li hanno trasferiti in una nuova struttura dove <strong style="color: #fef08a;">Catherine non può rimanere</strong>. Ogni singolo giorno causa danni psicologici documentati e irreparabili. <strong style="color: #fef08a;">Serve la massima pressione internazionale ORA.</strong>
+                Il tribunale aveva pianificato di tenere i bambini istituzionalizzati <strong style="color: #fef08a;">fino a giugno 2026</strong> — il tribunale ha ordinato il loro trasferimento in una nuova struttura dove <strong style="color: #fef08a;">Catherine non avrebbe potuto rimanere</strong> — la famiglia ha presentato ricorso con successo e il trasferimento è stato bloccato. Ogni singolo giorno causa danni psicologici documentati e irreparabili. <strong style="color: #fef08a;">Serve la massima pressione internazionale ORA.</strong>
             </p>
             
             <!-- Avviso Trauma Psicologico -->
@@ -158,8 +158,8 @@ updated: 2026-03-26-senate
                     <p style="color: rgba(255,255,255,0.85); font-size: 0.95rem; margin: 0;">Avvocati hanno presentato ricorso alla Corte di Cassazione — nessuna azione intrapresa</p>
                 </div>
                 <div style="background: rgba(0,0,0,0.2); border-radius: 0.75rem; padding: 1rem;">
-                    <p style="color: #fef08a; font-weight: 600; margin-bottom: 0.25rem;">Spostati in Nuova Struttura</p>
-                    <p style="color: rgba(255,255,255,0.85); font-size: 0.95rem; margin: 0;">Dopo 60 Minutes, Catherine è stata esclusa dalla nuova struttura dove sono stati trasferiti i bambini</p>
+                    <p style="color: #fef08a; font-weight: 600; margin-bottom: 0.25rem;">Ordine di Trasferimento Impugnato</p>
+                    <p style="color: rgba(255,255,255,0.85); font-size: 0.95rem; margin: 0;">Dopo 60 Minutes, il tribunale ha ordinato lo spostamento dei bambini escludendo Catherine — la famiglia ha fatto ricorso e bloccato il trasferimento</p>
                 </div>
             </div>
             <div style="background: rgba(0,0,0,0.25); border-radius: 1rem; padding: 1.5rem; margin-bottom: 1.5rem;">

@@ -42,7 +42,7 @@ In response to the National Children's Guarantor's visit to the facility in Vast
 
 Read that carefully.
 
-The social workers are stating — officially, in writing, for publication — that the reason the children were moved to a new facility was **because of Catherine's presence**. And that since she was banned from being with her children, things have become "good" again.
+The social workers are stating — officially, in writing, for publication — that the reason the court ordered the children to a new facility was **because of Catherine's presence** (though the family successfully appealed and the transfer was blocked). And that since she was banned from being with her children, things have become "good" again.
 
 This is not child protection. This is a punishment of a mother for advocating for her children.
 
@@ -53,7 +53,7 @@ This is not child protection. This is a punishment of a mother for advocating fo
 <div style="background: rgba(255,255,255,0.02); border: 1px solid #e5e7eb; border-radius: 1rem; padding: 1.5rem; margin: 1.5rem 0;">
     <ul style="line-height: 2.4; margin: 0; color: #374151;">
         <li>✅ The original three reasons for removal (vaccination, education, housing) have been <strong>disproven by Italian official sources</strong></li>
-        <li>✅ The children were moved to a new facility — now officially admitted to be <strong>because Catherine was present and advocating for them</strong></li>
+        <li>✅ The court ordered the children to a new facility — now officially admitted to be <strong>because Catherine was present and advocating for them</strong> (the family successfully appealed this order)</li>
         <li>✅ The social workers' definition of "good relations" is explicitly <strong>relations without the mother</strong></li>
         <li>✅ The National Children's Guarantor — <strong>Italy's own independent child welfare watchdog</strong> — visited and raised concerns</li>
         <li>✅ The family's case has now reached one of Italy's most-read national newspapers — <strong>La Stampa</strong></li>

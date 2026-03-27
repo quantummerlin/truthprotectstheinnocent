@@ -41,7 +41,7 @@ The world is watching. And it is saying: **you are not alone in this.**
 
 ## Why This Matters
 
-People following this case from inside Italy — ordinary people, football fans, neighbours, strangers — know what is happening. They have watched the news coverage. They have seen Nathan's birthday celebrated without his family. They have seen the children moved to a new facility. They have read the contradictions in every official position.
+People following this case from inside Italy — ordinary people, football fans, neighbours, strangers — know what is happening. They have watched the news coverage. They have seen Nathan's birthday celebrated without his family. They have seen the court order to move the children to a new facility — and the family's successful appeal that blocked it. They have read the contradictions in every official position.
 
 And some of them have found a way to say it where the whole world can see:
 
@@ -57,7 +57,7 @@ This is not a political statement. It is a human one. And it resonates precisely
 - A qualified psychologist confirmed the children are suffering **irreparable daily harm** from the separation
 - The children have been held in institutional care **for over a year**, separated from both parents
 - The twins spent their **7th birthday inside the institution**
-- Catherine has been **banned from staying at the new facility**
+- The court ordered Catherine **banned from staying at a new facility** — an order the family successfully appealed
 - Italy's National Children's Guarantor visited the facility and raised concerns — to which the social workers responded publicly
 
 The fan who made that banner knows this story. And now so does everyone who was watching in that stadium.

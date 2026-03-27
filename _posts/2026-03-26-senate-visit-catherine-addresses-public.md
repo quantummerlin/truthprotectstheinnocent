@@ -105,7 +105,7 @@ The President of the Italian Senate received them with *"great humanity."* That 
 - A qualified psychologist confirmed the children suffer **irreparable daily harm** from the separation
 - The children have been held in institutional care **for over a year**, separated from both parents
 - The twins spent their **7th birthday** inside the institution
-- Catherine was **banned from staying** at the new facility after the transfer
+- The court ordered Catherine **banned from a new facility** — an order the family successfully appealed, blocking the transfer
 - The National Children's Guarantor visited and made clear the situation requires resolution
 
 ---

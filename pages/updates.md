@@ -33,8 +33,8 @@ permalink: /updates/
     <div style="flex-shrink: 0; width: 11px; height: 11px; background: #dc2626; border-radius: 50%; margin-top: 0.35rem; margin-left: -1.75rem;"></div>
     <div>
         <p style="color: #6b7280; font-size: 0.8rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; margin: 0 0 0.2rem 0;">March 8, 2026</p>
-        <p style="font-weight: 700; margin: 0 0 0.25rem 0;"><a href="/breaking/update/2026/03/08/children-moved-new-facility-catherine-banned.html">Children moved to new facility — Catherine banned from staying</a></p>
-        <p style="color: #6b7280; font-size: 0.9rem; margin: 0;">Following 60 Minutes, Italian authorities transferred the children to a new facility where Catherine is not permitted to stay. The goodbye was filmed.</p>
+        <p style="font-weight: 700; margin: 0 0 0.25rem 0;"><a href="/breaking/update/2026/03/08/children-moved-new-facility-catherine-banned.html">Court orders children moved to new facility — family successfully appeals</a></p>
+        <p style="color: #6b7280; font-size: 0.9rem; margin: 0;">After 60 Minutes aired, the court ordered the children transferred to a new facility where Catherine could not stay. Catherine recorded a goodbye — but the family successfully appealed the court order, and the transfer did not proceed.</p>
     </div>
 </div>
 

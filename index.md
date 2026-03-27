@@ -149,7 +149,7 @@ updated: 2026-03-26-senate
             </div>
             <h2 style="color: white; font-size: 2rem; margin-bottom: 1rem; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">Children Planned To Be Held Until June 2026</h2>
             <p style="color: rgba(255,255,255,0.95); font-size: 1.2rem; line-height: 1.6; margin-bottom: 1.5rem;">
-                The court planned to keep these children institutionalized <strong style="color: #fef08a;">until June 2026</strong> — <strong style="color: #fef08a;">now they have been moved to a new facility where Catherine cannot stay</strong>. Every single day causes documented, irreparable psychological harm. <strong style="color: #fef08a;">Maximum international pressure is needed NOW.</strong>
+                The court planned to keep these children institutionalized <strong style="color: #fef08a;">until June 2026</strong> — <strong style="color: #fef08a;">the court ordered the children transferred to a new facility where Catherine could not stay — the family successfully appealed, and the transfer was blocked</strong>. Every single day causes documented, irreparable psychological harm. <strong style="color: #fef08a;">Maximum international pressure is needed NOW.</strong>
             </p>
             
             <!-- Psychological Trauma Alert -->
@@ -170,8 +170,8 @@ updated: 2026-03-26-senate
                     <p style="color: rgba(255,255,255,0.85); font-size: 0.95rem; margin: 0;">Lawyers filed with Italy's Court of Cassation — yet no action taken</p>
                 </div>
                 <div style="background: rgba(0,0,0,0.2); border-radius: 0.75rem; padding: 1rem;">
-                    <p style="color: #fef08a; font-weight: 600; margin-bottom: 0.25rem;">Moved to New Facility</p>
-                    <p style="color: rgba(255,255,255,0.85); font-size: 0.95rem; margin: 0;">After 60 Minutes aired, Catherine was banned from the new facility where her children are now held</p>
+                    <p style="color: #fef08a; font-weight: 600; margin-bottom: 0.25rem;">Transfer Order Appealed</p>
+                    <p style="color: rgba(255,255,255,0.85); font-size: 0.95rem; margin: 0;">After 60 Minutes aired, the court ordered the children moved to a new facility banning Catherine — the family appealed and blocked the transfer</p>
                 </div>
             </div>
             <div style="background: rgba(0,0,0,0.25); border-radius: 1rem; padding: 1.5rem; margin-bottom: 1.5rem;">
@@ -635,8 +635,8 @@ updated: 2026-03-26-senate
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
-  "headline": "Children Moved to New Facility — Catherine Banned After 60 Minutes Broadcast",
-  "description": "After the 60 Minutes Australia broadcast, Italian authorities moved the children to a new facility and banned Catherine Birmingham from staying there.",
+  "headline": "Court Orders Children Moved to New Facility — Family Successfully Appeals and Blocks Transfer",
+  "description": "After the 60 Minutes Australia broadcast, the court ordered the children moved to a new facility and banned Catherine Birmingham from staying there. The family successfully appealed and blocked the transfer.",
   "datePublished": "2026-03-08T00:00:00+00:00",
   "dateModified": "2026-03-08T00:00:00+00:00",
   "author": { "@type": "Organization", "name": "Truth Protects The Innocent" },
