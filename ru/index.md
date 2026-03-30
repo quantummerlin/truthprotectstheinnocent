@@ -102,26 +102,25 @@ updated: 2026-03-26-senate
     </div>
 </section>
 
-<!-- ПОСЛЕДНЕЕ ОБНОВЛЕНИЕ — 15 МАРТА 2026 -->
+<!-- ПОСЛЕДНЕЕ ОБНОВЛЕНИЕ — 29 МАРТА 2026 -->
 <section style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); padding: 2rem 0;">
     <div class="container">
         <div style="max-width: 900px; margin: 0 auto;">
             <div style="text-align: center; margin-bottom: 1.5rem;">
-                <span style="background: rgba(255,255,255,0.1); color: rgba(255,255,255,0.8); padding: 0.4rem 1.25rem; border-radius: 2rem; font-size: 0.8rem; font-weight: 700; letter-spacing: 2px; text-transform: uppercase;">🗞️ ПОСЛЕДНЕЕ ОБНОВЛЕНИЕ — 15 МАРТА 2026</span>
+                <span style="background: rgba(255,255,255,0.1); color: rgba(255,255,255,0.8); padding: 0.4rem 1.25rem; border-radius: 2rem; font-size: 0.8rem; font-weight: 700; letter-spacing: 2px; text-transform: uppercase;">🗞️ ОБНОВЛЕНИЕ — 29 МАРТА 2026</span>
             </div>
             <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem;">
-                <div style="background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 1rem; padding: 1.5rem;">
-                    <div style="font-size: 0.75rem; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: rgba(255,255,255,0.5); margin-bottom: 0.5rem;">LA STAMPA · 14 МАР 2026</div>
-                    <h3 style="color: white; font-size: 1.05rem; margin: 0 0 0.75rem 0; line-height: 1.4;">Социальные работники признают: «После удаления матери отношения с детьми наладились»</h3>
-                    <p style="color: rgba(255,255,255,0.7); font-size: 0.875rem; line-height: 1.6; margin: 0 0 1rem 0;">La Stampa сообщает о публичном заявлении социальных работников после визита Национального уполномоченного по правам детей.</p>
-                    <a href="/2026/03/14/la-stampa-social-workers-statement.html" style="display: block; text-align: center; background: rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.25); color: white; padding: 0.6rem 1rem; border-radius: 0.5rem; text-decoration: none; font-weight: 600; font-size: 0.85rem;">📰 Читать статью →</a>
+                <div style="background: rgba(124,58,237,0.12); border: 1px solid rgba(124,58,237,0.35); border-radius: 1rem; padding: 1.5rem;">
+                    <div style="font-size: 0.75rem; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: #c4b5fd; margin-bottom: 0.5rem;">ИТАЛЬЯНСКИЙ СЕНАТ · 26 МАР 2026</div>
+                    <h3 style="color: white; font-size: 1.05rem; margin: 0 0 0.75rem 0; line-height: 1.4;">Катрин и Натан приняты Председателем Итальянского Сената</h3>
+                    <p style="color: rgba(255,255,255,0.7); font-size: 0.875rem; line-height: 1.6; margin: 0 0 1rem 0;">Впервые Катрин и Натан были приняты с &ldquo;большой человечностью&rdquo;. Катрин впервые публично выступила с момента начала этого испытания.</p>
+                    <a href="/senate/breaking/2026/03/26/senate-visit-catherine-addresses-public.html" style="display: block; text-align: center; background: rgba(124,58,237,0.4); border: 1px solid rgba(124,58,237,0.6); color: white; padding: 0.6rem 1rem; border-radius: 0.5rem; text-decoration: none; font-weight: 600; font-size: 0.85rem;">🏛️ Смотреть видео и читать письмо →</a>
                 </div>
-                <div style="background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 1rem; padding: 1.5rem;">
-                    <div style="font-size: 0.75rem; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: rgba(255,255,255,0.5); margin-bottom: 0.5rem;">СОЛИДАРНОСТЬ · МАРТ 2026</div>
-                    <h3 style="color: white; font-size: 1.05rem; margin: 0 0 0.75rem 0; line-height: 1.4;">С трибун стадиона: «Dear Catherine and Nathan — You'll Never Walk Alone»</h3>
-                    <p style="color: rgba(255,255,255,0.7); font-size: 0.875rem; line-height: 1.6; margin: 0 0 0.75rem 0;">Болельщик поднял самодельный баннер на итальянском матче.</p>
-                    <img src="/assets/images/stadium-banner-march-2026.jpg" alt="Баннер на стадионе — You'll Never Walk Alone" style="width: 100%; border-radius: 0.5rem; margin-bottom: 0.75rem;">
-                    <a href="/2026/03/15/football-fan-stadium-support.html" style="display: block; text-align: center; background: rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.25); color: white; padding: 0.6rem 1rem; border-radius: 0.5rem; text-decoration: none; font-weight: 600; font-size: 0.85rem;">⚽ Подробнее →</a>
+                <div style="background: rgba(220,38,38,0.1); border: 1px solid rgba(220,38,38,0.35); border-radius: 1rem; padding: 1.5rem;">
+                    <div style="font-size: 0.75rem; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: #fca5a5; margin-bottom: 0.5rem;">ДЕТИ БОЛЬНЫ · 29 МАР 2026</div>
+                    <h3 style="color: white; font-size: 1.05rem; margin: 0 0 0.75rem 0; line-height: 1.4;">Все три ребёнка больны. Мать не может добраться до них. Приближается Пасха.</h3>
+                    <p style="color: rgba(255,255,255,0.7); font-size: 0.875rem; line-height: 1.6; margin: 0 0 1rem 0;">Проф. Кантельми публикует рассказ о мучительной ночи Катрин. GreenStyle публично спрашивает: смогут ли они провести Пасху (5 апреля) с мамой и папой?</p>
+                    <a href="/update/breaking/2026/03/29/children-sick-easter-separated.html" style="display: block; text-align: center; background: rgba(220,38,38,0.35); border: 1px solid rgba(220,38,38,0.5); color: white; padding: 0.6rem 1rem; border-radius: 0.5rem; text-decoration: none; font-weight: 600; font-size: 0.85rem;">🆕 Полное обновление →</a>
                 </div>
             </div>
         </div>
