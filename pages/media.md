@@ -295,6 +295,88 @@ permalink: /media/
     </div>
 </section>
 
+<!-- Italian Social Media Coverage -->
+<section class="section" style="padding-top: 0;">
+    <div class="container">
+        <div class="section-header">
+            <h2>🇮🇹 Italian Social Media Coverage</h2>
+            <p>Italian journalists, academics, and platforms publicly speaking about this family</p>
+        </div>
+
+        <!-- Marina Terragni / Prof. Cantelmi -->
+        <div style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-lg); margin-bottom: 1.5rem; border-top: 4px solid #dc2626;">
+            <div style="background: linear-gradient(135deg, #7f1d1d 0%, #991b1b 100%); padding: 1.25rem 1.5rem;">
+                <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 0.5rem;">
+                    <div>
+                        <div style="font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; color: rgba(255,255,255,0.6); margin-bottom: 0.25rem;">Marina Terragni &bull; Facebook &bull; March 2026</div>
+                        <p style="color: white; font-weight: 700; font-size: 1.05rem; margin: 0; line-height: 1.4;">Prof. Cantelmi Publishes Catherine's Night of Anguish — Children Sick, Mother Forbidden to Reach Them</p>
+                    </div>
+                    <div style="background: rgba(255,255,255,0.15); padding: 0.4rem 0.9rem; border-radius: 2rem; font-size: 0.8rem; color: white; font-weight: 600; white-space: nowrap;">1,500+ reactions &bull; 726 shares</div>
+                </div>
+            </div>
+            <div style="padding: 1.5rem;">
+                <p style="color: var(--color-gray-700); font-size: 0.95rem; line-height: 1.7; margin: 0 0 1rem 0;">
+                    Marina Terragni — Italian journalist and writer — published an account from Prof. Tonino Cantelmi of a night in which Catherine learned all three children were sick with fevers and was unable to reach them or care for them. The post includes Catherine's own words:
+                </p>
+                <blockquote style="border-left: 4px solid #dc2626; margin: 0 0 1rem 0; padding: 0.75rem 1.25rem; background: #fef2f2; border-radius: 0 0.5rem 0.5rem 0; color: #7f1d1d; font-style: italic; font-size: 0.95rem; line-height: 1.7;">
+                    &ldquo;I am really struggling knowing my children are sick and I have not even been allowed to visit them and check on them and comfort them. This is so wrong in so many ways.&rdquo;
+                </blockquote>
+                <a href="https://www.facebook.com/share/p/1BPAsGPAXp/" target="_blank" rel="noopener noreferrer"
+                   style="display: inline-block; background: #991b1b; color: white; padding: 0.6rem 1.25rem; border-radius: 0.5rem; text-decoration: none; font-weight: 600; font-size: 0.875rem;">
+                    📖 Read Post on Facebook
+                </a>
+                <a href="/update/breaking/2026/03/29/children-sick-easter-separated.html"
+                   style="display: inline-block; background: #f3f4f6; color: #374151; padding: 0.6rem 1.25rem; border-radius: 0.5rem; text-decoration: none; font-weight: 600; font-size: 0.875rem; margin-left: 0.5rem;">
+                    Full Story →
+                </a>
+            </div>
+        </div>
+
+        <!-- GreenStyle Easter -->
+        <div style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-lg); margin-bottom: 1.5rem; border-top: 4px solid #16a34a;">
+            <div style="background: linear-gradient(135deg, #14532d 0%, #166534 100%); padding: 1.25rem 1.5rem;">
+                <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 0.5rem;">
+                    <div>
+                        <div style="font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; color: rgba(255,255,255,0.6); margin-bottom: 0.25rem;">GreenStyle.it &bull; Facebook &bull; March 29, 2026</div>
+                        <p style="color: white; font-weight: 700; font-size: 1.05rem; margin: 0; line-height: 1.4;">&ldquo;Can They Spend Easter With Their Parents?&rdquo; — Italy's Major Eco Platform Asks the Question</p>
+                    </div>
+                    <div style="background: rgba(255,255,255,0.15); padding: 0.4rem 0.9rem; border-radius: 2rem; font-size: 0.8rem; color: white; font-weight: 600; white-space: nowrap;">655 reactions &bull; 38 shares</div>
+                </div>
+            </div>
+            <div style="padding: 1.5rem;">
+                <p style="color: var(--color-gray-700); font-size: 0.95rem; line-height: 1.7; margin: 0 0 1rem 0;">
+                    GreenStyle — one of Italy's most widely-read lifestyle and environment platforms — publicly asked whether the #famiglianelbosco children could spend Easter (April 5) with their parents, noting the children have only been able to see their mother via video call.
+                </p>
+                <blockquote style="border-left: 4px solid #16a34a; margin: 0 0 1rem 0; padding: 0.75rem 1.25rem; background: #f0fdf4; border-radius: 0 0.5rem 0.5rem 0; color: #14532d; font-style: italic; font-size: 0.95rem; line-height: 1.7;">
+                    &ldquo;Easter is approaching — a celebration usually spent with the family. Could Easter be a moment of reunion? Would it be appropriate for you to grant this possibility?&rdquo;
+                </blockquote>
+                <a href="https://www.facebook.com/share/p/1BBPx5tRJs/" target="_blank" rel="noopener noreferrer"
+                   style="display: inline-block; background: #16a34a; color: white; padding: 0.6rem 1.25rem; border-radius: 0.5rem; text-decoration: none; font-weight: 600; font-size: 0.875rem;">
+                    📖 Read Post on Facebook
+                </a>
+            </div>
+        </div>
+
+        <!-- Friend reel -->
+        <div style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-lg); margin-bottom: 2rem; border-top: 4px solid #1877f2;">
+            <div style="background: linear-gradient(135deg, #1877f2 0%, #0d5dbf 100%); padding: 1.25rem 1.5rem;">
+                <div style="font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; color: rgba(255,255,255,0.6); margin-bottom: 0.25rem;">TruthProtectsTheInnocent &bull; Facebook Reel &bull; March 2026</div>
+                <p style="color: white; font-weight: 700; font-size: 1.05rem; margin: 0; line-height: 1.4;">&ldquo;From a Friend Who Knows Them Well — At the Most Horrific Time&rdquo;</p>
+            </div>
+            <div style="padding: 1.5rem;">
+                <p style="color: var(--color-gray-700); font-size: 0.95rem; line-height: 1.7; margin: 0 0 1rem 0;">
+                    A personal video testimony from a close friend of Catherine and Nathan, speaking out at the most painful moment of their ordeal.
+                </p>
+                <a href="https://www.facebook.com/share/r/1LjK1GLj5L/" target="_blank" rel="noopener noreferrer"
+                   style="display: inline-block; background: #1877f2; color: white; padding: 0.6rem 1.25rem; border-radius: 0.5rem; text-decoration: none; font-weight: 600; font-size: 0.875rem;">
+                    ▶ Watch on Facebook
+                </a>
+            </div>
+        </div>
+
+    </div>
+</section>
+
 <!-- Video Gallery Section -->
 <section class="section" style="padding-top: 0;">
     <div class="container">
