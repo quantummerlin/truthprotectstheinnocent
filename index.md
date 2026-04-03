@@ -68,6 +68,18 @@ updated: 2026-03-26-senate
             <p style="color: white; font-size: 1.05rem; font-weight: 700; margin: 0;">There is no alternative. There is no other solution.<br><span style="color: #fca5a5;">These children must be reunited with their parents — now.</span></p>
         </div>
 
+        <!-- Paolo Lunghi Public Commentary -->
+        <div style="background: rgba(0,0,0,0.75); border: 1px solid rgba(217,119,6,0.7); border-left: 5px solid #d97706; border-radius: 1rem; padding: 1.5rem 2rem; margin-bottom: 1.75rem; text-align: left; max-width: 720px; margin-left: auto; margin-right: auto;">
+            <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.75rem; margin-bottom: 1rem;">
+                <span style="background: rgba(217,119,6,0.3); border: 1px solid rgba(217,119,6,0.6); color: #fcd34d; font-weight: 700; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 2px; padding: 0.3rem 0.9rem; border-radius: 2rem;">🗣️ Public Commentary — April 2026</span>
+                <a href="https://www.facebook.com/share/p/1AmHh6T99j/?mibextid=wwXIfr" target="_blank" rel="noopener noreferrer" style="color: #93c5fd; font-size: 0.8rem; text-decoration: none; font-weight: 600;">📄 Source →</a>
+            </div>
+            <p style="color: white; font-size: 1rem; line-height: 1.8; font-style: italic; margin: 0 0 0.75rem 0;">&ldquo;We are facing a system that, even if operating legally, operates outside any humanly acceptable logic. We are talking about a <strong style="color: white;">healthy family</strong> and three children who are being treated like shoe boxes.&rdquo;</p>
+            <p style="color: rgba(255,255,255,0.9); font-size: 1rem; line-height: 1.8; font-style: italic; margin: 0 0 0.75rem 0;">&ldquo;No institution, no professional, no authority can ever replace the bond of blood and affection between a child and his mother. Only human madness can think that a stamp or a piece of paper is enough to destroy these bonds.&rdquo;</p>
+            <p style="color: #fcd34d; font-size: 1.05rem; line-height: 1.8; font-style: italic; font-weight: 700; margin: 0 0 1rem 0;">&ldquo;If the children, after four months of &lsquo;imprisonment&rsquo;, are calming down &mdash; they are in reality <strong style="color: white;">surrendering</strong>. This means they are close to their final psycho-emotional devastation. Not their well-being &mdash; their <strong style="color: white;">psychological annihilation</strong>.&rdquo;</p>
+            <p style="color: rgba(255,255,255,0.6); font-size: 0.85rem; margin: 0;">— <strong style="color: rgba(255,255,255,0.9);">Paolo Lunghi</strong>, Public Commentator &bull; Facebook, April 2026</p>
+        </div>
+
         <!-- Coverage Stats -->
         <div class="hero-stats sixty-mins-stats">
             <div class="hero-stat">
