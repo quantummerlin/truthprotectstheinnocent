@@ -71,6 +71,18 @@ updated: 2026-03-26-senate
             <p style="color: white; font-size: 1.05rem; font-weight: 700; margin: 0;">Es gibt keine Alternative. Es gibt keine andere Lösung.<br><span style="color: #fca5a5;">Diese Kinder müssen jetzt mit ihren Eltern wiedervereinigt werden.</span></p>
         </div>
 
+        <!-- Öffentlicher Kommentar Paolo Lunghi -->
+        <div style="background: rgba(0,0,0,0.75); border: 1px solid rgba(217,119,6,0.7); border-left: 5px solid #d97706; border-radius: 1rem; padding: 1.5rem 2rem; margin-bottom: 1.75rem; text-align: left; max-width: 720px; margin-left: auto; margin-right: auto;">
+            <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.75rem; margin-bottom: 1rem;">
+                <span style="background: rgba(217,119,6,0.3); border: 1px solid rgba(217,119,6,0.6); color: #fcd34d; font-weight: 700; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 2px; padding: 0.3rem 0.9rem; border-radius: 2rem;">🗣️ Öffentlicher Kommentar — April 2026</span>
+                <a href="https://www.facebook.com/share/p/1AmHh6T99j/?mibextid=wwXIfr" target="_blank" rel="noopener noreferrer" style="color: #93c5fd; font-size: 0.8rem; text-decoration: none; font-weight: 600;">📄 Quelle →</a>
+            </div>
+            <p style="color: white; font-size: 1rem; line-height: 1.8; font-style: italic; margin: 0 0 0.75rem 0;">&bdquo;Wir stehen vor einem System, das, auch wenn es legal operiert, außerhalb jeglicher menschlich akzeptabler Logik handelt. Wir sprechen von einer <strong style="color: white;">gesunden Familie</strong> und drei Kindern, die wie Schuhkartons behandelt werden.&ldquo;</p>
+            <p style="color: rgba(255,255,255,0.9); font-size: 1rem; line-height: 1.8; font-style: italic; margin: 0 0 0.75rem 0;">&bdquo;Keine Institution, kein Fachmann, keine Behörde kann jemals die Blut- und Gefühlsbindung zwischen einem Kind und seiner Mutter ersetzen. Nur menschlicher Wahnsinn kann denken, dass ein Stempel oder ein Stück Papier ausreicht, um diese Bindungen zu zerstören.&ldquo;</p>
+            <p style="color: #fcd34d; font-size: 1.05rem; line-height: 1.8; font-style: italic; font-weight: 700; margin: 0 0 1rem 0;">&bdquo;Wenn sich die Kinder nach vier Monaten &lsquo;Einsperrung&rsquo; beruhigen &mdash; kapitulieren sie in Wirklichkeit. Das ist nicht ihr Wohlbefinden &mdash; es ist ihre <strong style="color: white;">psychologische Vernichtung</strong>.&ldquo;</p>
+            <p style="color: rgba(255,255,255,0.6); font-size: 0.85rem; margin: 0;">— <strong style="color: rgba(255,255,255,0.9);">Paolo Lunghi</strong>, Öffentlicher Kommentator &bull; Facebook, April 2026</p>
+        </div>
+
         
         <!-- Coverage Stats -->
         <div class="hero-stats sixty-mins-stats">
