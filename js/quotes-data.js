@@ -381,6 +381,68 @@ const QUOTES_DATA = [
         batch: 4,
         rating: "gold",
         likes: 32
+    },
+
+    // =========================================================================
+    // BATCH 5 — Paolo Lunghi Facebook Post — April 3, 2026
+    // Public commentary by Italian journalist/commentator Paolo Lunghi
+    // Source: https://www.facebook.com/share/p/1AmHh6T99j/?mibextid=wwXIfr
+    // =========================================================================
+    {
+        text: "We are facing a system that, even if operating legally, operates outside any humanly acceptable logic. We are talking about a healthy family and three children being treated like shoe boxes.",
+        author: "Paolo Lunghi",
+        country: "Italy",
+        category: "family",
+        batch: 5,
+        rating: "diamond"
+    },
+    {
+        text: "No institution, no professional, no authority can ever replace the bond of blood and affection between a child and his mother. Only human madness can think that a stamp or a piece of paper is enough to destroy these bonds.",
+        author: "Paolo Lunghi",
+        country: "Italy",
+        category: "family",
+        batch: 5,
+        rating: "diamond"
+    },
+    {
+        text: "If the children after four months of imprisonment are calming down — they are in reality surrendering. This is not their well-being. It is their psychological annihilation.",
+        author: "Paolo Lunghi",
+        country: "Italy",
+        category: "family",
+        batch: 5,
+        rating: "diamond"
+    },
+    {
+        text: "Separation, especially if sudden, produces what in clinical terms we can define as uprooting trauma — with effects that tend to worsen over time. Every passing day is not neutral: it is an accumulation of suffering.",
+        author: "Paolo Lunghi",
+        country: "Italy",
+        category: "family",
+        batch: 5,
+        rating: "diamond"
+    },
+    {
+        text: "There seems to be a design that inevitably leads to the systematic destruction of the family. The trauma of separation becomes the very weapon used against the family itself — to divide it permanently.",
+        author: "Paolo Lunghi",
+        country: "Italy",
+        category: "corruption",
+        batch: 5,
+        rating: "diamond"
+    },
+    {
+        text: "These laws must change. Three or four mothers call me every day who are in the same situation as the Famiglia del Bosco. This is inadmissible.",
+        author: "Paolo Lunghi",
+        country: "Italy",
+        category: "legal",
+        batch: 5,
+        rating: "diamond"
+    },
+    {
+        text: "The future of this country passes through the mental stability of those children. Let us never forget that.",
+        author: "Paolo Lunghi",
+        country: "Italy",
+        category: "action",
+        batch: 5,
+        rating: "gold"
     }
 ];
 
@@ -389,12 +451,12 @@ const QUOTES_DATA = [
 // =============================================================================
 
 const QUOTES_STATS = {
-    totalComments: 1344,
-    uniqueVoices: 1130,
+    totalComments: 1351,
+    uniqueVoices: 1137,
     supportFamily: 96,
     supportSeparation: 4,
     countries: 12,
-    lastUpdated: "March 12, 2026",
+    lastUpdated: "April 3, 2026",
     batches: [
         { 
             number: 1, 
@@ -430,6 +492,15 @@ const QUOTES_STATS = {
             uniqueVoices: 72,
             countries: 3,
             notes: "Italian national public broadcaster, 6.5M subscribers, 5700+ views, 82% support — most credible mainstream figure"
+        },
+        {
+            number: 5,
+            source: "Paolo Lunghi Facebook Post",
+            date: "April 3, 2026",
+            count: 7,
+            uniqueVoices: 7,
+            countries: 1,
+            notes: "Italian public commentator — named public figure, strong editorial supporting family reunification"
         }
     ]
 };
