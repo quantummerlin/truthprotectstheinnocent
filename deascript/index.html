@@ -1,0 +1,508 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interview Script — Private Reference</title>
+    <meta name="robots" content="noindex, nofollow">
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+
+        body {
+            font-family: Georgia, 'Times New Roman', serif;
+            background: #f5f0ea;
+            color: #1a1a1a;
+            line-height: 1.7;
+            padding: 2rem 1rem;
+        }
+
+        .page {
+            max-width: 780px;
+            margin: 0 auto;
+        }
+
+        /* Header */
+        .header {
+            background: #1a1a2e;
+            color: white;
+            border-radius: 0.75rem;
+            padding: 2rem 2.5rem;
+            margin-bottom: 1.5rem;
+            text-align: center;
+        }
+        .header h1 {
+            font-size: 1.6rem;
+            font-weight: 700;
+            letter-spacing: 0.02em;
+            margin-bottom: 0.4rem;
+        }
+        .header p {
+            color: #a0aec0;
+            font-size: 0.95rem;
+            font-style: italic;
+        }
+        .private-badge {
+            display: inline-block;
+            background: #742a2a;
+            color: #fed7d7;
+            font-size: 0.75rem;
+            font-weight: 700;
+            letter-spacing: 0.1em;
+            text-transform: uppercase;
+            padding: 0.25rem 0.9rem;
+            border-radius: 2rem;
+            margin-bottom: 1rem;
+        }
+
+        /* Purpose box */
+        .purpose-box {
+            background: #fff8e1;
+            border-left: 5px solid #f59e0b;
+            border-radius: 0 0.5rem 0.5rem 0;
+            padding: 1.2rem 1.5rem;
+            margin-bottom: 1.5rem;
+            font-size: 0.95rem;
+        }
+        .purpose-box strong { color: #92400e; }
+
+        /* Three rules */
+        .rules-box {
+            background: #1a1a2e;
+            color: white;
+            border-radius: 0.75rem;
+            padding: 1.5rem 2rem;
+            margin-bottom: 2rem;
+        }
+        .rules-box h3 {
+            font-size: 1rem;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            color: #90cdf4;
+            margin-bottom: 1rem;
+            font-family: Arial, sans-serif;
+        }
+        .rules-box ol {
+            padding-left: 1.5rem;
+        }
+        .rules-box li {
+            margin-bottom: 0.5rem;
+            font-size: 1rem;
+            font-family: Arial, sans-serif;
+        }
+
+        /* Section headers */
+        .section-title {
+            font-family: Arial, sans-serif;
+            font-size: 0.8rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.12em;
+            color: #6b48ff;
+            background: #ede9fe;
+            display: inline-block;
+            padding: 0.3rem 1rem;
+            border-radius: 2rem;
+            margin-bottom: 1rem;
+            margin-top: 2rem;
+        }
+
+        /* Q&A blocks */
+        .qa-block {
+            background: white;
+            border-radius: 0.75rem;
+            padding: 1.5rem 1.75rem;
+            margin-bottom: 1rem;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.07);
+        }
+        .qa-block .question {
+            font-family: Arial, sans-serif;
+            font-size: 0.9rem;
+            font-weight: 700;
+            color: #4a5568;
+            text-transform: uppercase;
+            letter-spacing: 0.04em;
+            margin-bottom: 0.75rem;
+        }
+        .qa-block .question::before {
+            content: "Q: ";
+            color: #9b59b6;
+        }
+        .qa-block .answer {
+            font-size: 1rem;
+            color: #1a1a1a;
+            line-height: 1.75;
+            border-left: 3px solid #6b48ff;
+            padding-left: 1rem;
+            font-style: italic;
+        }
+
+        /* Fact box (section 4) */
+        .fact-box {
+            background: #f0fff4;
+            border: 1.5px solid #68d391;
+            border-radius: 0.6rem;
+            padding: 1rem 1.25rem;
+            margin-top: 0.75rem;
+            font-style: normal;
+            font-size: 0.95rem;
+        }
+        .fact-box .fact-title {
+            font-weight: 700;
+            color: #276749;
+            font-family: Arial, sans-serif;
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            letter-spacing: 0.06em;
+            margin-bottom: 0.5rem;
+        }
+
+        /* Redirect table */
+        .redirect-table {
+            width: 100%;
+            border-collapse: collapse;
+            background: white;
+            border-radius: 0.75rem;
+            overflow: hidden;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.07);
+            margin-bottom: 1.5rem;
+            font-size: 0.95rem;
+        }
+        .redirect-table th {
+            background: #1a1a2e;
+            color: #90cdf4;
+            font-family: Arial, sans-serif;
+            font-size: 0.8rem;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            padding: 0.85rem 1.25rem;
+            text-align: left;
+        }
+        .redirect-table td {
+            padding: 0.9rem 1.25rem;
+            vertical-align: top;
+            border-bottom: 1px solid #edf2f7;
+        }
+        .redirect-table tr:last-child td { border-bottom: none; }
+        .redirect-table tr:nth-child(even) td { background: #f7f8fc; }
+        .redirect-table td:first-child {
+            font-weight: 700;
+            color: #4a5568;
+            font-family: Arial, sans-serif;
+            font-size: 0.88rem;
+            width: 38%;
+        }
+        .redirect-table td:last-child {
+            font-style: italic;
+            color: #2d3748;
+        }
+
+        /* Avoid list */
+        .avoid-box {
+            background: white;
+            border-radius: 0.75rem;
+            padding: 1.5rem 1.75rem;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.07);
+            margin-bottom: 1.5rem;
+        }
+        .avoid-item {
+            display: flex;
+            gap: 0.75rem;
+            margin-bottom: 0.75rem;
+            font-size: 0.97rem;
+            align-items: flex-start;
+        }
+        .avoid-item:last-child { margin-bottom: 0; }
+        .avoid-x {
+            color: #e53e3e;
+            font-weight: 700;
+            font-size: 1.1rem;
+            flex-shrink: 0;
+            margin-top: 0.05rem;
+        }
+
+        /* Golden rule */
+        .golden-rule {
+            background: #1a1a2e;
+            color: white;
+            border-radius: 0.75rem;
+            padding: 2rem 2.5rem;
+            margin-bottom: 1.5rem;
+            text-align: center;
+        }
+        .golden-rule h3 {
+            font-family: Arial, sans-serif;
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: #f59e0b;
+            margin-bottom: 1rem;
+        }
+        .golden-rule .rule-phrase {
+            font-size: 1.2rem;
+            font-style: italic;
+            color: #e2e8f0;
+            line-height: 1.8;
+            margin-bottom: 1rem;
+        }
+        .golden-rule .rule-note {
+            font-family: Arial, sans-serif;
+            font-size: 0.9rem;
+            color: #90cdf4;
+        }
+
+        /* Closing statement */
+        .closing-box {
+            background: white;
+            border: 2px solid #6b48ff;
+            border-radius: 0.75rem;
+            padding: 2rem 2.5rem;
+            margin-bottom: 2rem;
+            text-align: center;
+        }
+        .closing-box h3 {
+            font-family: Arial, sans-serif;
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: #6b48ff;
+            margin-bottom: 1.25rem;
+        }
+        .closing-box p {
+            font-size: 1.05rem;
+            font-style: italic;
+            line-height: 1.85;
+            color: #2d3748;
+        }
+
+        /* Footer */
+        .footer {
+            text-align: center;
+            font-family: Arial, sans-serif;
+            font-size: 0.85rem;
+            color: #718096;
+            padding-bottom: 2rem;
+        }
+
+        /* Divider */
+        hr {
+            border: none;
+            border-top: 1px solid #e2e8f0;
+            margin: 0.25rem 0 0.75rem 0;
+        }
+
+        /* Print */
+        @media print {
+            body { background: white; padding: 0; }
+            .header { background: #1a1a2e !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+            .rules-box { background: #1a1a2e !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+            .golden-rule { background: #1a1a2e !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+            .redirect-table th { background: #1a1a2e !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+        }
+    </style>
+</head>
+<body>
+<div class="page">
+
+    <!-- Header -->
+    <div class="header">
+        <div class="private-badge">Private &amp; Confidential</div>
+        <h1>Interview Reference Script</h1>
+        <p>Friend &amp; Character Witness — Birmingham-Trevallion Family</p>
+    </div>
+
+    <!-- Purpose -->
+    <div class="purpose-box">
+        <strong>Purpose:</strong> This is your personal reference. You do not need to memorise it word for word.
+        Speak from the heart — this script keeps you safe and on-message.
+        If a question isn't here, use <strong>The Golden Rule</strong> at the bottom.
+    </div>
+
+    <!-- Three rules -->
+    <div class="rules-box">
+        <h3>Three Things to Remember in Every Answer</h3>
+        <ol>
+            <li><strong>Speak only to what you personally witnessed or know</strong></li>
+            <li><strong>You are a character witness — not a lawyer, not a spokesperson</strong></li>
+            <li><strong>If in doubt, redirect:</strong> "What I can tell you is what I personally saw..."</li>
+        </ol>
+    </div>
+
+    <!-- Opening -->
+    <div class="section-title">Opening — Who You Are</div>
+    <div class="qa-block">
+        <div class="question">Who are you and how do you know Catherine?</div>
+        <div class="answer">"I am a close personal friend of Catherine's. I have known her for [X years / since we met in...]. I am speaking today as someone who knows this family personally — not as a representative or spokesperson for them."</div>
+    </div>
+
+    <!-- Section 1 -->
+    <div class="section-title">Section 1 — Catherine as a Person and Mother</div>
+
+    <div class="qa-block">
+        <div class="question">What kind of person is Catherine?</div>
+        <div class="answer">"Catherine is one of the most devoted, thoughtful mothers I have ever met. She makes every decision in her children's lives with extraordinary care. When I think of Catherine, I think of warmth, patience, and a deep commitment to her family."</div>
+    </div>
+
+    <div class="qa-block">
+        <div class="question">What kind of mother is she?</div>
+        <div class="answer">"She is present, nurturing, and completely child-focused. Her children were her world. Every choice she and Nathan made — from where they lived, to how they educated the children — came from a place of love and deep intention. I never once had any concern about those children's wellbeing when they were with their parents."</div>
+    </div>
+
+    <div class="qa-block">
+        <div class="question">Did you ever see anything that concerned you — any reason to worry about the children?</div>
+        <div class="answer">"Honestly, no. The children I knew were happy, healthy, loved and bonded with both their parents. I had no concerns whatsoever."</div>
+    </div>
+
+    <div class="qa-block">
+        <div class="question">How would you describe her relationship with her children?</div>
+        <div class="answer">"It was beautiful. You could see she cherished every moment with them. The bond between Catherine and those children was evident to anyone who spent time with the family."</div>
+    </div>
+
+    <!-- Section 2 -->
+    <div class="section-title">Section 2 — The Family's Lifestyle</div>
+
+    <div class="qa-block">
+        <div class="question">The family lived off-grid / in an unconventional way. What did you make of that?</div>
+        <div class="answer">"Their lifestyle was intentional and thoughtful. Living simply, close to nature — these are choices many families make. It doesn't make someone a bad parent. The children were safe, loved, and thriving."</div>
+    </div>
+
+    <div class="qa-block">
+        <div class="question">Were you ever worried the children weren't being looked after properly?</div>
+        <div class="answer">"Never. Catherine and Nathan were attentive, responsible parents. The children were well-fed, healthy, and clearly happy. There was nothing alarming about how they lived."</div>
+    </div>
+
+    <div class="qa-block">
+        <div class="question">The children were homeschooled. Did that concern you?</div>
+        <div class="answer">"Not at all. Homeschooling is legal in Italy — it's called 'istruzione parentale' — and the Italian Ministry of Education confirmed the children were legally homeschooled. Thousands of families across Italy do the same. Catherine educated her children with care and intention."</div>
+    </div>
+
+    <!-- Section 3 -->
+    <div class="section-title">Section 3 — The Separation and Its Impact</div>
+
+    <div class="qa-block">
+        <div class="question">How has Catherine been since the children were taken?</div>
+        <div class="answer">"She is devastated. Any mother separated from her children would be. But what strikes me is her dignity in that pain. She has not given up. She has continued to fight for her children every single day."</div>
+    </div>
+
+    <div class="qa-block">
+        <div class="question">How has this affected the family?</div>
+        <div class="answer">"This has been an unimaginable ordeal. No parent should have to go through this. I think about those children and what they must be experiencing, and it is heartbreaking. These children know their parents love them."</div>
+    </div>
+
+    <div class="qa-block">
+        <div class="question">Do you believe the children were being harmed by their parents?</div>
+        <div class="answer">"Absolutely not. There was never any evidence of abuse or neglect — because there was none. The official reasons given for removing the children have since been disproven by Italian authorities themselves. I find the whole situation deeply distressing."</div>
+    </div>
+
+    <!-- Section 4 -->
+    <div class="section-title">Section 4 — The Official Claims</div>
+
+    <div class="qa-block">
+        <div class="question">Weren't there concerns raised about vaccination, education and the home?</div>
+        <div class="answer">"Yes, those were the three reasons given by authorities. But here's what's important: all three have since been disproven by official Italian sources."
+            <div class="fact-box">
+                <div class="fact-title">The Three Disproven Claims</div>
+                <p><strong>Vaccinations</strong> — The regional health authority confirmed the children were vaccinated. They described the vaccinations as "exaggerated" — meaning more than the minimum required.</p>
+                <br>
+                <p><strong>Education</strong> — The Ministry of Education confirmed the children were legally homeschooled under Italian law.</p>
+                <br>
+                <p><strong>The home</strong> — A certified professional assessor confirmed the structure was not at risk.</p>
+            </div>
+            <div style="margin-top:0.85rem; font-style:italic;">"I'm not a lawyer, but when the official reasons for removing children are disproven by official sources, questions have to be asked."</div>
+        </div>
+    </div>
+
+    <div class="qa-block">
+        <div class="question">But there must have been a reason — authorities don't just take children for no reason.</div>
+        <div class="answer">"You'd like to think so. But in this case, the three specific reasons given have been officially disproven. I think that's worth sitting with. These aren't allegations I'm making — Italian authorities themselves produced records that contradict the original claims."</div>
+    </div>
+
+    <!-- Section 5 -->
+    <div class="section-title">Section 5 — What You Want to See Happen</div>
+
+    <div class="qa-block">
+        <div class="question">What do you want to come from speaking today?</div>
+        <div class="answer">"I want people to understand that behind this case is a real family — a mother, a father, and three children who are suffering every single day they are apart. I want this family reunited. That is all anyone who loves them wants."</div>
+    </div>
+
+    <div class="qa-block">
+        <div class="question">What would you say to the authorities?</div>
+        <div class="answer">"I would ask them to look at this family honestly. Catherine and Nathan are good, loving parents. The evidence supports that. I would ask them to put the children's wellbeing first — and every expert who has assessed this case says those children need to be back with their parents."</div>
+    </div>
+
+    <div class="qa-block">
+        <div class="question">What would you say to people watching at home?</div>
+        <div class="answer">"I would ask them not to judge a family based on incomplete information. Catherine chose a different way of life — a legal, thoughtful, loving way of life. Different doesn't mean wrong. And her children need their mother."</div>
+    </div>
+
+    <!-- Redirects -->
+    <div class="section-title">Redirect Phrases — Use When Unsure</div>
+    <table class="redirect-table">
+        <thead>
+            <tr>
+                <th>Situation</th>
+                <th>What to Say</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Legal question you can't answer</td>
+                <td>"I'm not in a position to comment on legal proceedings. What I can tell you is what I personally witnessed."</td>
+            </tr>
+            <tr>
+                <td>Asked to speculate</td>
+                <td>"I don't want to speculate. What I know for certain is..."</td>
+            </tr>
+            <tr>
+                <td>Asked about something you don't know</td>
+                <td>"I don't have direct knowledge of that. What I do know is..."</td>
+            </tr>
+            <tr>
+                <td>Pushed on a difficult point</td>
+                <td>"I can only speak to my personal experience of this family."</td>
+            </tr>
+            <tr>
+                <td>Trick or loaded question</td>
+                <td>"I wouldn't put it that way. What I would say is..."</td>
+            </tr>
+            <tr>
+                <td>Feeling pressured or rushed</td>
+                <td>"I want to make sure I answer this carefully, because accuracy matters."</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <!-- Avoid -->
+    <div class="section-title">Things to Avoid Saying</div>
+    <div class="avoid-box">
+        <div class="avoid-item"><span class="avoid-x">✗</span><span>Do not name judges, social workers, or specific officials — keep focus on the situation, not individuals</span></div>
+        <div class="avoid-item"><span class="avoid-x">✗</span><span>Do not speculate about motives: <em>"They did it because..."</em></span></div>
+        <div class="avoid-item"><span class="avoid-x">✗</span><span>Do not make legal statements: <em>"This is illegal..."</em> or <em>"They broke the law..."</em></span></div>
+        <div class="avoid-item"><span class="avoid-x">✗</span><span>Do not speak on behalf of the family officially: <em>"The family believes..."</em> — say <em>"in my personal view..."</em></span></div>
+        <div class="avoid-item"><span class="avoid-x">✗</span><span>Do not share any private details about the case that are not already public</span></div>
+        <div class="avoid-item"><span class="avoid-x">✗</span><span>Do not get drawn into hypothetical questions: <em>"But what if..."</em></span></div>
+        <div class="avoid-item"><span class="avoid-x">✗</span><span>Do not express anger — calm, factual, and caring is far more powerful</span></div>
+    </div>
+
+    <!-- Golden Rule -->
+    <div class="golden-rule">
+        <h3>The Golden Rule</h3>
+        <div class="rule-phrase">
+            If a question isn't here and you're unsure — take a breath and say:<br>
+            <strong style="color:white;">"What I can tell you from my own personal experience is..."</strong>
+        </div>
+        <div class="rule-note">Then speak to what you know to be true from your heart.<br>You cannot be "twisted" for speaking calmly and from personal knowledge.</div>
+    </div>
+
+    <!-- Closing -->
+    <div class="closing-box">
+        <h3>Closing Statement — If Given the Chance</h3>
+        <p>"I am here today because I believe in truth, and I believe in this family. Catherine Birmingham is a good mother. Nathan Trevallion is a good father. Their children love them and need them. I am asking anyone with the power to act to please do so — and I am asking the public to see these people for who they truly are: a loving family that deserves to be together."</p>
+    </div>
+
+    <div class="footer">
+        Private reference — not for distribution &nbsp;·&nbsp; Speak naturally. Speak from the heart. The truth is on Catherine's side.
+    </div>
+
+</div>
+</body>
+</html>
