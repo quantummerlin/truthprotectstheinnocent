@@ -1,11 +1,56 @@
 ---
 layout: default
-title: "BREAKING 26 Mars, Le Sénat Italien Reçoit Catherine et Nathan | La Famiglia Nel Bosco"
-description: "DERNIÈRE HEURE 26 mars 2026 : Catherine et Nathan ont été reçus par le Président du Sénat Italien avec "grande humanité". Pour la première fois, Catherine a pris la parole publiquement. Le plus haut niveau du gouvernement italien a entendu la vérité. #TruthProtectsTheInnocent"
+title: "Joyeux Anniversaire Catherine, 13 Avril 2026 | Toujours Séparée De Ses Enfants | La Famiglia Nel Bosco"
+description: "Aujourd&#8217;hui c&#8217;est l&#8217;anniversaire de Catherine Birmingham, 13 avril 2026, et ses enfants ne sont toujours pas rentrés. Presque 5 mois de séparation. Son amie de longue date Deanna a écrit une lettre ouverte. #TruthProtectsTheInnocent"
 lang: fr
 image: /assets/images/og-image.jpg
 updated: 2026-03-26-senate
 ---
+
+<!-- Birthday Hero: April 13, 2026 -->
+<section style="background:linear-gradient(160deg,#06040f 0%,#130528 35%,#1e0840 60%,#06040f 100%);padding:5rem 1rem 4.5rem;border-bottom:3px solid rgba(167,139,250,0.5);position:relative;overflow:hidden;min-height:60vh;display:flex;align-items:center;">
+  <div style="position:absolute;top:-60px;left:50%;transform:translateX(-50%);width:900px;height:900px;background:radial-gradient(ellipse at center,rgba(167,139,250,0.16) 0%,rgba(124,58,237,0.06) 40%,transparent 70%);pointer-events:none;"></div>
+  <div style="position:absolute;bottom:0;left:0;right:0;height:80px;background:linear-gradient(to bottom,transparent,rgba(6,4,15,0.7));pointer-events:none;"></div>
+  <div class="container" style="position:relative;z-index:1;max-width:860px;margin:0 auto;text-align:center;width:100%;">
+    <div style="display:inline-flex;align-items:center;gap:0.6rem;background:rgba(167,139,250,0.18);border:1.5px solid rgba(167,139,250,0.55);border-radius:2rem;padding:0.5rem 1.4rem;margin-bottom:1.75rem;">
+      <span style="font-size:1.1rem;">&#x1F56F;</span>
+      <span style="color:#c4b5fd;font-weight:700;font-size:0.8rem;text-transform:uppercase;letter-spacing:2.5px;">Aujourd&#8217;hui, 13 avril 2026</span>
+      <span style="font-size:1.1rem;">&#x1F56F;</span>
+    </div>
+    <h1 style="color:#f5f0ff;font-size:clamp(2.4rem,6vw,3.8rem);font-weight:900;line-height:1.15;margin:0 0 0.75rem 0;letter-spacing:-1px;text-shadow:0 2px 40px rgba(167,139,250,0.25);">Joyeux anniversaire, Catherine.</h1>
+    <p style="color:#c4b5fd;font-size:clamp(1.05rem,2.5vw,1.3rem);font-weight:600;margin:0 0 0.6rem 0;line-height:1.55;">Ses enfants ne sont toujours pas rentrés à la maison. Une amie de toujours parle pour nous tous.</p>
+    <p style="color:rgba(255,255,255,0.55);font-size:0.9rem;margin:0 0 2rem 0;line-height:1.6;">Les enfants ont été emmenés le <strong style="color:rgba(255,255,255,0.8);">20 novembre 2025</strong>. Ils sont séparés de leurs parents depuis <strong style="color:rgba(255,255,255,0.8);">presque 5 mois</strong>. Les jumeaux ont passé leur 7e anniversaire en détention. Aujourd&#8217;hui Catherine fête son anniversaire avec un bref appel vidéo.</p>
+    <div style="width:80px;height:2px;background:linear-gradient(90deg,transparent,rgba(167,139,250,0.7),transparent);margin:0 auto 2rem;"></div>
+    <div style="background:rgba(10,8,25,0.85);border:1px solid rgba(167,139,250,0.35);border-left:5px solid #a78bfa;border-radius:1.2rem;padding:2rem 2.25rem;text-align:left;margin-bottom:1.5rem;">
+      <div style="margin-bottom:1.5rem;">
+        <span style="display:block;background:rgba(167,139,250,0.2);border:1px solid rgba(167,139,250,0.5);color:#c4b5fd;font-weight:700;font-size:0.72rem;text-transform:uppercase;letter-spacing:2px;padding:0.3rem 0.9rem;border-radius:2rem;margin-bottom:0.6rem;width:fit-content;">Lettre Ouverte &#8212; Deanna</span>
+        <p style="color:rgba(255,255,255,0.5);font-size:0.8rem;margin:0;">Écrite par <strong style="color:rgba(255,255,255,0.8);">Deanna</strong>, amie de Catherine depuis les années 1980 (original en anglais)</p>
+      </div>
+      <p style="color:rgba(196,181,253,0.7);font-size:0.82rem;font-style:normal;margin:0 0 1.25rem 0;border-bottom:1px solid rgba(167,139,250,0.2);padding-bottom:1rem;">La lettre suivante a été écrite en anglais par Deanna, une amie proche de Catherine depuis les années 1980. Elle parle pour nous tous.</p>
+      <p style="color:#e9e3ff;font-size:1.05rem;line-height:1.85;font-style:italic;margin:0 0 1rem 0;">&ldquo;You are, and have always been, brilliant. A woman of depth, intuition, intelligence and undeniable strength. I have watched you grow through seasons that would have broken most anyone, and yet here you are&hellip; still loving. <strong style="color:white;">That is not weakness, Catherine. That is extraordinary courage.</strong></p>
+      <p style="color:rgba(233,227,255,0.9);font-size:1rem;line-height:1.85;font-style:italic;margin:0 0 1rem 0;">I see how exhausted you are. Exhausted from being misunderstood. Exhausted from carrying narratives that don&#8217;t belong to you. And I want you to know, clearly and without hesitation, from all of us who see the truth beneath the lies: <strong style="color:#e9d8fd;font-size:1.05rem;">We see you.</strong></p>
+      <p style="color:#e9d8fd;font-size:1.05rem;line-height:1.85;font-style:italic;font-weight:600;margin:0 0 1rem 0;">&ldquo;You are not the story others try to write about you. <strong>You are the truth that has stood the test of time.</strong>&rdquo;</p>
+      <div style="background:rgba(220,38,38,0.1);border:1px solid rgba(220,38,38,0.35);border-radius:0.75rem;padding:1.25rem 1.5rem;margin-bottom:1.25rem;">
+        <p style="color:rgba(255,220,220,0.95);font-size:1rem;line-height:1.85;font-style:italic;margin:0 0 0.75rem 0;">Since March 6, just two days after your twins spent their 7th birthday in detention, you have been able to hold and comfort your children <strong style="color:white;">just once</strong> (for only an hour and a half) before having to face the trauma of separation again, while they clung to you, panicked, not wanting to let go.</p>
+        <p style="color:rgba(255,220,220,0.9);font-size:1rem;line-height:1.85;font-style:italic;margin:0;">And today you face the heartbreak of a brief video call.</p>
+      </div>
+      <p style="color:#c4b5fd;font-size:1.1rem;line-height:1.85;font-style:italic;font-weight:600;margin:0 0 1rem 0;">I love you so much, with all of my heart, forever.&rdquo;</p>
+      <p style="color:rgba(255,255,255,0.45);font-size:0.82rem;margin:0;">&#8212; <strong style="color:rgba(255,255,255,0.75);">Deanna</strong>, Catherine&#8217;s friend since the 1980s</p>
+    </div>
+    <div style="background:rgba(167,139,250,0.12);border:1.5px solid rgba(167,139,250,0.4);border-radius:0.85rem;padding:1rem 1.5rem;margin-bottom:1.75rem;">
+      <p style="color:rgba(233,227,255,0.95);font-size:1rem;font-weight:600;margin:0;line-height:1.65;">Enfants emmenés le <strong>20 novembre 2025</strong>. <strong>Presque 5 mois</strong> de séparation. Le Sénat a entendu. Le monde regarde. Cela doit cesser.</p>
+    </div>
+    <div style="margin-bottom:1.75rem;">
+      <p style="color:rgba(255,255,255,0.4);font-size:0.75rem;font-weight:700;text-transform:uppercase;letter-spacing:2px;margin-bottom:0.85rem;">Partager ce tribut</p>
+      <div style="display:flex;gap:0.65rem;justify-content:center;flex-wrap:wrap;">
+        <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftruthprotectstheinnocent.quantummerlin.com%2Fbirthday%2F" target="_blank" rel="noopener noreferrer" style="display:inline-flex;align-items:center;gap:0.45rem;background:#1877f2;color:white;padding:0.6rem 1.15rem;border-radius:0.5rem;text-decoration:none;font-weight:700;font-size:0.82rem;">Facebook</a>
+        <a href="https://api.whatsapp.com/send?text=Aujourd%E2%80%99hui%20c%E2%80%99est%20l%E2%80%99anniversaire%20de%20Catherine%20et%20ses%20enfants%20ne%20sont%20toujours%20pas%20rentr%C3%A9s.%20Presque%205%20mois.%20%23TruthProtectsTheInnocent%20https%3A%2F%2Ftruthprotectstheinnocent.quantummerlin.com%2Fbirthday%2F" target="_blank" rel="noopener noreferrer" style="display:inline-flex;align-items:center;gap:0.45rem;background:#25d366;color:white;padding:0.6rem 1.15rem;border-radius:0.5rem;text-decoration:none;font-weight:700;font-size:0.82rem;">WhatsApp</a>
+        <a href="/birthday/" style="display:inline-flex;align-items:center;gap:0.45rem;background:rgba(167,139,250,0.2);color:#c4b5fd;border:1px solid rgba(167,139,250,0.45);padding:0.6rem 1.15rem;border-radius:0.5rem;text-decoration:none;font-weight:700;font-size:0.82rem;">&#x2728; Voir la carte</a>
+      </div>
+    </div>
+    <a href="/fr/petition/" style="display:inline-block;background:linear-gradient(135deg,#7c3aed,#a78bfa);color:white;padding:0.85rem 2.25rem;border-radius:0.6rem;text-decoration:none;font-weight:700;font-size:1rem;letter-spacing:0.5px;box-shadow:0 4px 24px rgba(124,58,237,0.4);">&#x270D; Signer la pétition</a>
+  </div>
+</section>
 
 <!-- Hero: Breaking News -->
 <section class="hero hero-60mins">
