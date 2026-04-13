@@ -1,11 +1,117 @@
 ---
 layout: default
-title: "BREAKING: Catherine & Nathan Received by the Italian Senate | Catherine Birmingham & Nathan Trevallion"
-description: "BREAKING March 26 2026: Catherine and Nathan were received by the President of the Italian Senate with great humanity. Afterwards, Catherine addressed the public for the first time. The highest levels of Italian government have heard the truth. #TruthProtectsTheInnocent"
+title: "Happy Birthday Catherine — April 13, 2026 | Still Separated From Her Children | Catherine Birmingham & Nathan Trevallion"
+description: "Today is Catherine Birmingham's birthday — April 13, 2026 — and she is still separated from her children. Her lifelong friend Deanna has written an open letter. The Italian Senate has heard their truth. This must end. #TruthProtectsTheInnocent"
 lang: en
 image: /assets/images/og-image.jpg
 updated: 2026-03-26-senate
 ---
+
+<!-- ══════════════════════════════════════════════════════════════
+     CATHERINE'S BIRTHDAY — APRIL 13, 2026
+     ══════════════════════════════════════════════════════════════ -->
+<section style="background: linear-gradient(135deg, #0d0d1f 0%, #1a0530 40%, #0d0d1f 100%); padding: 3.5rem 1rem 3rem; border-bottom: 3px solid rgba(167,139,250,0.4); position: relative; overflow: hidden;">
+
+    <!-- Soft candle-glow background pulse -->
+    <div style="position: absolute; top: -120px; left: 50%; transform: translateX(-50%); width: 700px; height: 700px; background: radial-gradient(ellipse at center, rgba(167,139,250,0.12) 0%, transparent 70%); pointer-events: none;"></div>
+
+    <div class="container" style="position: relative; z-index: 1; max-width: 820px; margin: 0 auto; text-align: center;">
+
+        <!-- Birthday badge -->
+        <div style="display: inline-flex; align-items: center; gap: 0.6rem; background: rgba(167,139,250,0.18); border: 1.5px solid rgba(167,139,250,0.55); border-radius: 2rem; padding: 0.45rem 1.25rem; margin-bottom: 1.5rem;">
+            <span style="font-size: 1.1rem;">🕯️</span>
+            <span style="color: #c4b5fd; font-weight: 700; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 2.5px;">Today — April 13, 2026</span>
+            <span style="font-size: 1.1rem;">🕯️</span>
+        </div>
+
+        <!-- Main heading -->
+        <h2 style="color: #f3f0ff; font-size: clamp(1.7rem, 4vw, 2.4rem); font-weight: 900; line-height: 1.25; margin: 0 0 0.6rem 0; letter-spacing: -0.5px;">
+            Happy Birthday, Catherine.
+        </h2>
+        <p style="color: rgba(196,181,253,0.9); font-size: 1.05rem; font-weight: 400; margin: 0 0 0.4rem 0; line-height: 1.7;">
+            Today is Catherine's birthday — and she is still separated from her children.
+        </p>
+        <p style="color: rgba(255,255,255,0.55); font-size: 0.9rem; margin: 0 0 2rem 0; line-height: 1.6;">
+            The children were taken from their home on <strong style="color: rgba(255,255,255,0.8);">December 31, 2025</strong> — they have now been held in institutional care for <strong style="color: rgba(255,255,255,0.8);">over 3.5 months</strong>, following more than a year of systematic persecution of this family. The twins spent their 7th birthday detained. Catherine was subsequently banned from the facility. She faces her own birthday today with a short video call as the closest she can get to holding them.
+        </p>
+
+        <!-- Divider -->
+        <div style="width: 80px; height: 2px; background: linear-gradient(90deg, transparent, rgba(167,139,250,0.7), transparent); margin: 0 auto 2rem;"></div>
+
+        <!-- Friend's letter card -->
+        <div style="background: rgba(10,8,25,0.85); border: 1px solid rgba(167,139,250,0.35); border-left: 5px solid #a78bfa; border-radius: 1.2rem; padding: 2rem 2.25rem; text-align: left; margin-bottom: 1.5rem;">
+
+            <!-- Letter header -->
+            <div style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap; gap: 0.75rem; margin-bottom: 1.5rem;">
+                <div>
+                    <span style="display: block; background: rgba(167,139,250,0.2); border: 1px solid rgba(167,139,250,0.5); color: #c4b5fd; font-weight: 700; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 2px; padding: 0.3rem 0.9rem; border-radius: 2rem; margin-bottom: 0.6rem; width: fit-content;">💌 Open Letter from a Lifelong Friend</span>
+                    <p style="color: rgba(255,255,255,0.5); font-size: 0.8rem; margin: 0;">Written by <strong style="color: rgba(255,255,255,0.8);">Deanna</strong> — friend since the 1980s &bull; Published today on Catherine's birthday</p>
+                </div>
+                <a href="https://www.facebook.com/share/v/1Fqg5e1Nk9/?mibextid=wwXIfr" target="_blank" rel="noopener noreferrer" style="flex-shrink: 0; display: inline-flex; align-items: center; gap: 0.45rem; background: #1877f2; color: white; padding: 0.5rem 1rem; border-radius: 0.5rem; text-decoration: none; font-weight: 700; font-size: 0.8rem; white-space: nowrap;">📄 Source</a>
+            </div>
+
+            <!-- Letter body -->
+            <p style="color: #e9e3ff; font-size: 1.05rem; line-height: 1.85; font-style: italic; margin: 0 0 1rem 0;">
+                &ldquo;Dearest Catherine,
+            </p>
+            <p style="color: rgba(233,227,255,0.9); font-size: 1rem; line-height: 1.85; font-style: italic; margin: 0 0 1rem 0;">
+                Today, on your birthday, I found myself searching for the &ldquo;right&rdquo; words to send you&hellip; I kept it simple, but your reply broke another piece of my heart and I knew I needed to say more: <strong style="color: white;">This is my open birthday card to you.</strong> A small testimony to the woman I have had the privilege of knowing since the 80&rsquo;s — one of my longest friendships.
+            </p>
+            <p style="color: rgba(233,227,255,0.9); font-size: 1rem; line-height: 1.85; font-style: italic; margin: 0 0 1rem 0;">
+                You are, and have always been, brilliant. A woman of depth, intuition, intelligence and undeniable strength. I have watched you grow through seasons that would have broken others, yet there you stand&hellip; still loving. <strong style="color: white;">That is not weakness, Catherine. That is extraordinary courage.</strong>
+            </p>
+            <p style="color: rgba(233,227,255,0.9); font-size: 1rem; line-height: 1.85; font-style: italic; margin: 0 0 1rem 0;">
+                I see how tired you are. Tired of being misunderstood. Tired of carrying narratives that were never yours to hold. Tired of the weight of labels that don&rsquo;t reflect the truth of who you are. And I want you to know this, clearly and without hesitation, from all of us who see the truth beneath the lies: <strong style="color: #e9d8fd; font-size: 1.05rem;">We see you.</strong>
+            </p>
+            <p style="color: rgba(233,227,255,0.9); font-size: 1rem; line-height: 1.85; font-style: italic; margin: 0 0 1rem 0;">
+                And I don&rsquo;t just see you now; I have seen you, consistently, for over three decades. I have known you since our school years and across every chapter of life, you have remained the same at your core: organised, thoughtful, deeply considerate and guided by a strong sense of responsibility. Even as young girls, you carried a quiet strength and awareness that set you apart.
+            </p>
+            <p style="color: rgba(233,227,255,0.9); font-size: 1rem; line-height: 1.85; font-style: italic; margin: 0 0 1rem 0;">
+                We witnessed each other step into motherhood. You chose a path rooted in intention; away from noise, away from performance and toward a life grounded in values, simplicity and truth. The world sees your attentiveness, the presence, the thoughtfulness you provide your children every single day. You don&rsquo;t take your role lightly and you live it with humility, devotion and a fierce sense of responsibility for their wellbeing. It is something I will always respect and admire.
+            </p>
+            <p style="color: rgba(233,227,255,0.9); font-size: 1rem; line-height: 1.85; font-style: italic; margin: 0 0 1rem 0;">
+                In all my years of knowing you, I have never seen anything that contradicts the truth of who you are: <strong style="color: white;">a caring, capable, conscientious woman who shows up for those she loves, fully and consistently.</strong>
+            </p>
+            <p style="color: rgba(233,227,255,0.9); font-size: 1rem; line-height: 1.85; font-style: italic; margin: 0 0 1.25rem 0;">
+                You are not the story others try to write about you. <strong style="color: #e9d8fd;">You are the truth that has stood the test of time.</strong> And I will always stand beside you in that truth.
+            </p>
+
+            <!-- Heartbreak paragraph — highlighted -->
+            <div style="background: rgba(220,38,38,0.1); border: 1px solid rgba(220,38,38,0.35); border-radius: 0.75rem; padding: 1.25rem 1.5rem; margin-bottom: 1.25rem;">
+                <p style="color: rgba(255,220,220,0.95); font-size: 1rem; line-height: 1.85; font-style: italic; margin: 0 0 0.75rem 0;">
+                    On your saddest birthday, I want to acknowledge the unimaginable weight you are carrying. Since the 6th of March — just two days after your twin son and daughter spent their 7th birthday detained — you have only been able to hold and comfort your children <strong style="color: white;">once</strong> (for a brief hour and a half) before enduring the heartbreak of separation all over again, as they clung to you, panicking, not wanting to let go.
+                </p>
+                <p style="color: rgba(255,220,220,0.9); font-size: 1rem; line-height: 1.85; font-style: italic; margin: 0;">
+                    And again today, you face the pain of a short video call — another moment that both connects you and breaks your heart — while enduring the reality of what your children are going through.
+                </p>
+            </div>
+
+            <!-- Closing -->
+            <p style="color: rgba(233,227,255,0.9); font-size: 1rem; line-height: 1.85; font-style: italic; margin: 0 0 1rem 0;">
+                Please know this: even in the darkest moments, <strong style="color: white;">your love for them is unwavering, visible and powerful.</strong> And so is the truth of who you are.
+            </p>
+            <p style="color: #c4b5fd; font-size: 1.1rem; line-height: 1.85; font-style: italic; font-weight: 600; margin: 0 0 1rem 0;">
+                I love you with all of my heart, and I always will. I will stand beside you, speak truth with you and hold space for you, both on the easy days and the hard ones.
+            </p>
+            <p style="color: #e9d8fd; font-size: 1.05rem; line-height: 1.75; font-style: italic; font-weight: 700; margin: 0 0 1.25rem 0;">
+                Infinite love,<br>Deanna&rdquo;
+            </p>
+            <p style="color: rgba(255,255,255,0.45); font-size: 0.82rem; margin: 0;">— <strong style="color: rgba(255,255,255,0.75);">Deanna</strong>, friend of Catherine since the 1980s &bull; Published April 13, 2026</p>
+        </div>
+
+        <!-- Context statement -->
+        <div style="background: rgba(167,139,250,0.12); border: 1.5px solid rgba(167,139,250,0.4); border-radius: 0.85rem; padding: 1rem 1.5rem; margin-bottom: 1.75rem;">
+            <p style="color: rgba(233,227,255,0.95); font-size: 1rem; font-weight: 600; margin: 0; line-height: 1.65;">
+                Today, April 13, 2026, Catherine celebrates her birthday without her children.<br>
+                <span style="color: rgba(196,181,253,0.8); font-weight: 400; font-size: 0.92rem;">The children were taken on December 31, 2025. It has been <strong style="color: #c4b5fd;">over 3.5 months</strong> — following more than a year of persecution. The Italian Senate has heard their truth. The world is watching. This must end.</span>
+            </p>
+        </div>
+
+        <!-- CTA -->
+        <a href="/petition/" style="display: inline-block; background: linear-gradient(135deg, #7c3aed, #a78bfa); color: white; padding: 0.85rem 2.25rem; border-radius: 0.6rem; text-decoration: none; font-weight: 700; font-size: 1rem; letter-spacing: 0.5px; box-shadow: 0 4px 24px rgba(124,58,237,0.4);">✍️ Sign the Petition — Give Catherine's Children Back</a>
+        <p style="color: rgba(255,255,255,0.35); font-size: 0.8rem; margin-top: 0.9rem;">Every signature matters. Every voice counts.</p>
+    </div>
+</section>
 
 <!-- Hero Section: Senate Visit — March 26, 2026 -->
 <section class="hero hero-60mins">
