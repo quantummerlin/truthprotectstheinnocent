@@ -37,7 +37,7 @@ updated: 2026-03-26-senate
             Today is Catherine's birthday — and she is still separated from her children.
         </p>
         <p style="color: rgba(255,255,255,0.55); font-size: 0.9rem; margin: 0 0 2rem 0; line-height: 1.6;">
-            The children were taken from their home on <strong style="color: rgba(255,255,255,0.8);">December 31, 2025</strong> — they have now been held in institutional care for <strong style="color: rgba(255,255,255,0.8);">over 3.5 months</strong>, following more than a year of systematic persecution of this family. The twins spent their 7th birthday detained. Catherine was subsequently banned from the facility. She faces her own birthday today with a short video call as the closest she can get to holding them.
+            The children were taken from their home on <strong style="color: rgba(255,255,255,0.8);">November 20, 2025</strong> — they have now been separated from their parents for <strong style="color: rgba(255,255,255,0.8);">almost 5 months</strong>. The twins spent their 7th birthday detained. Catherine was subsequently banned from the facility where they are held. She faces her own birthday today with a short video call as the closest she can get to holding them.
         </p>
 
         <!-- Divider -->
@@ -108,7 +108,7 @@ updated: 2026-03-26-senate
         <div style="background: rgba(167,139,250,0.12); border: 1.5px solid rgba(167,139,250,0.4); border-radius: 0.85rem; padding: 1rem 1.5rem; margin-bottom: 1.75rem;">
             <p style="color: rgba(233,227,255,0.95); font-size: 1rem; font-weight: 600; margin: 0; line-height: 1.65;">
                 Today, April 13, 2026, Catherine celebrates her birthday without her children.<br>
-                <span style="color: rgba(196,181,253,0.8); font-weight: 400; font-size: 0.92rem;">The children were taken on December 31, 2025. It has been <strong style="color: #c4b5fd;">over 3.5 months</strong> — following more than a year of persecution. The Italian Senate has heard their truth. The world is watching. This must end.</span>
+                <span style="color: rgba(196,181,253,0.8); font-weight: 400; font-size: 0.92rem;">The children were taken on <strong style="color: #c4b5fd;">November 20, 2025</strong>. It has been <strong style="color: #c4b5fd;">almost 5 months</strong>. The Italian Senate has heard their truth. The world is watching. This must end.</span>
             </p>
         </div>
 
