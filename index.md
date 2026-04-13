@@ -8,26 +8,31 @@ updated: 2026-03-26-senate
 ---
 
 <!-- ══════════════════════════════════════════════════════════════
-     CATHERINE'S BIRTHDAY — APRIL 13, 2026
+     CATHERINE'S BIRTHDAY — APRIL 13, 2026  ★ MAIN HERO
      ══════════════════════════════════════════════════════════════ -->
-<section style="background: linear-gradient(135deg, #0d0d1f 0%, #1a0530 40%, #0d0d1f 100%); padding: 3.5rem 1rem 3rem; border-bottom: 3px solid rgba(167,139,250,0.4); position: relative; overflow: hidden;">
+<section style="background: linear-gradient(160deg, #06040f 0%, #130528 35%, #1e0840 60%, #06040f 100%); padding: 5rem 1rem 4.5rem; border-bottom: 3px solid rgba(167,139,250,0.5); position: relative; overflow: hidden; min-height: 60vh; display: flex; align-items: center;">
 
-    <!-- Soft candle-glow background pulse -->
-    <div style="position: absolute; top: -120px; left: 50%; transform: translateX(-50%); width: 700px; height: 700px; background: radial-gradient(ellipse at center, rgba(167,139,250,0.12) 0%, transparent 70%); pointer-events: none;"></div>
+    <!-- Large radial glow -->
+    <div style="position: absolute; top: -60px; left: 50%; transform: translateX(-50%); width: 900px; height: 900px; background: radial-gradient(ellipse at center, rgba(167,139,250,0.16) 0%, rgba(124,58,237,0.06) 40%, transparent 70%); pointer-events: none;"></div>
+    <!-- Subtle bottom fade into next section -->
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; height: 80px; background: linear-gradient(to bottom, transparent, rgba(6,4,15,0.7)); pointer-events: none;"></div>
 
-    <div class="container" style="position: relative; z-index: 1; max-width: 820px; margin: 0 auto; text-align: center;">
+    <div class="container" style="position: relative; z-index: 1; max-width: 860px; margin: 0 auto; text-align: center; width: 100%;">
 
         <!-- Birthday badge -->
-        <div style="display: inline-flex; align-items: center; gap: 0.6rem; background: rgba(167,139,250,0.18); border: 1.5px solid rgba(167,139,250,0.55); border-radius: 2rem; padding: 0.45rem 1.25rem; margin-bottom: 1.5rem;">
+        <div style="display: inline-flex; align-items: center; gap: 0.6rem; background: rgba(167,139,250,0.18); border: 1.5px solid rgba(167,139,250,0.55); border-radius: 2rem; padding: 0.5rem 1.4rem; margin-bottom: 1.75rem;">
             <span style="font-size: 1.1rem;">🕯️</span>
             <span style="color: #c4b5fd; font-weight: 700; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 2.5px;">Today — April 13, 2026</span>
             <span style="font-size: 1.1rem;">🕯️</span>
         </div>
 
-        <!-- Main heading -->
-        <h2 style="color: #f3f0ff; font-size: clamp(1.7rem, 4vw, 2.4rem); font-weight: 900; line-height: 1.25; margin: 0 0 0.6rem 0; letter-spacing: -0.5px;">
+        <!-- MAIN HEADLINE -->
+        <h1 style="color: #f5f0ff; font-size: clamp(2.4rem, 6vw, 3.8rem); font-weight: 900; line-height: 1.15; margin: 0 0 0.75rem 0; letter-spacing: -1px; text-shadow: 0 2px 40px rgba(167,139,250,0.25);">
             Happy Birthday, Catherine.
-        </h2>
+        </h1>
+        <p style="color: #c4b5fd; font-size: clamp(1.05rem, 2.5vw, 1.3rem); font-weight: 600; margin: 0 0 0.6rem 0; line-height: 1.55;">
+            Her children are still not home. Today, a lifelong friend speaks for all of us.
+        </p>
         <p style="color: rgba(196,181,253,0.9); font-size: 1.05rem; font-weight: 400; margin: 0 0 0.4rem 0; line-height: 1.7;">
             Today is Catherine's birthday — and she is still separated from her children.
         </p>
