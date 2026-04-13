@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: Updates
 subtitle: Latest developments and news
@@ -15,8 +15,8 @@ permalink: /updates/
     <div style="flex-shrink: 0; width: 11px; height: 11px; background: #dc2626; border-radius: 50%; margin-top: 0.35rem; margin-left: -1.75rem; box-shadow: 0 0 0 3px rgba(220,38,38,0.3);"></div>
     <div>
         <p style="color: #6b7280; font-size: 0.8rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; margin: 0 0 0.2rem 0;">March 29, 2026</p>
-        <p style="font-weight: 700; margin: 0 0 0.25rem 0;"><a href="/update/breaking/2026/03/29/children-sick-easter-separated.html">All three children sick with fevers — Catherine unable to reach them. Easter days away.</a></p>
-        <p style="color: #6b7280; font-size: 0.9rem; margin: 0;">Prof. Tonino Cantelmi publishes account of Catherine's anguished night knowing her children are ill — and she is not permitted to be with them. GreenStyle asks publicly: can they spend Easter together? (April 5)</p>
+        <p style="font-weight: 700; margin: 0 0 0.25rem 0;"><a href="/update/breaking/2026/03/29/children-sick-easter-separated.html">All three children sick with fevers, Catherine unable to reach them. Easter days away.</a></p>
+        <p style="color: #6b7280; font-size: 0.9rem; margin: 0;">Prof. Tonino Cantelmi publishes account of Catherine's anguished night knowing her children are ill, and she is not permitted to be with them. GreenStyle asks publicly: can they spend Easter together? (April 5)</p>
     </div>
 </div>
 
@@ -24,8 +24,8 @@ permalink: /updates/
     <div style="flex-shrink: 0; width: 11px; height: 11px; background: #7c3aed; border-radius: 50%; margin-top: 0.35rem; margin-left: -1.75rem; box-shadow: 0 0 0 3px rgba(124,58,237,0.3);"></div>
     <div>
         <p style="color: #6b7280; font-size: 0.8rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; margin: 0 0 0.2rem 0;">March 26, 2026</p>
-        <p style="font-weight: 700; margin: 0 0 0.25rem 0;"><a href="/senate/breaking/2026/03/26/senate-visit-catherine-addresses-public.html">Catherine and Nathan at the Italian Senate — Catherine addresses the public for the first time</a></p>
-        <p style="color: #6b7280; font-size: 0.9rem; margin: 0;">Received by the President of the Italian Senate with "great humanity." Afterwards, Catherine stepped outside and read a public letter — her first direct address after months of silence. She spoke of gratitude, truth, and an unbearable pain borne with dignity.</p>
+        <p style="font-weight: 700; margin: 0 0 0.25rem 0;"><a href="/senate/breaking/2026/03/26/senate-visit-catherine-addresses-public.html">Catherine and Nathan at the Italian Senate, Catherine addresses the public for the first time</a></p>
+        <p style="color: #6b7280; font-size: 0.9rem; margin: 0;">Received by the President of the Italian Senate with "great humanity." Afterwards, Catherine stepped outside and read a public letter, her first direct address after months of silence. She spoke of gratitude, truth, and an unbearable pain borne with dignity.</p>
     </div>
 </div>
 
@@ -33,8 +33,8 @@ permalink: /updates/
     <div style="flex-shrink: 0; width: 11px; height: 11px; background: #7f1d1d; border-radius: 50%; margin-top: 0.35rem; margin-left: -1.75rem; box-shadow: 0 0 0 3px rgba(220,38,38,0.3);"></div>
     <div>
         <p style="color: #6b7280; font-size: 0.8rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; margin: 0 0 0.2rem 0;">March 11, 2026</p>
-        <p style="font-weight: 700; margin: 0 0 0.25rem 0;"><a href="/breaking/legal/action/2026/03/11/siblings-isolated-adoption-threatened.html">The children are being kept apart from each other — how much further can this go?</a></p>
-        <p style="color: #6b7280; font-size: 0.9rem; margin: 0;">Inside the institution, the three siblings are now also being separated from each other. The case for reunification has already been made — all official justifications for removal have been officially disproven. Sustained public pressure is what changes outcomes.</p>
+        <p style="font-weight: 700; margin: 0 0 0.25rem 0;"><a href="/breaking/legal/action/2026/03/11/siblings-isolated-adoption-threatened.html">The children are being kept apart from each other, how much further can this go?</a></p>
+        <p style="color: #6b7280; font-size: 0.9rem; margin: 0;">Inside the institution, the three siblings are now also being separated from each other. The case for reunification has already been made, all official justifications for removal have been officially disproven. Sustained public pressure is what changes outcomes.</p>
     </div>
 </div>
 
@@ -42,8 +42,8 @@ permalink: /updates/
     <div style="flex-shrink: 0; width: 11px; height: 11px; background: #dc2626; border-radius: 50%; margin-top: 0.35rem; margin-left: -1.75rem;"></div>
     <div>
         <p style="color: #6b7280; font-size: 0.8rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; margin: 0 0 0.2rem 0;">March 8, 2026</p>
-        <p style="font-weight: 700; margin: 0 0 0.25rem 0;"><a href="/breaking/update/2026/03/08/children-moved-new-facility-catherine-banned.html">Court orders children moved to new facility — family successfully appeals</a></p>
-        <p style="color: #6b7280; font-size: 0.9rem; margin: 0;">After 60 Minutes aired, the court ordered the children transferred to a new facility where Catherine could not stay. Catherine recorded a goodbye — but the family successfully appealed the court order, and the transfer did not proceed.</p>
+        <p style="font-weight: 700; margin: 0 0 0.25rem 0;"><a href="/breaking/update/2026/03/08/children-moved-new-facility-catherine-banned.html">Court orders children moved to new facility, family successfully appeals</a></p>
+        <p style="color: #6b7280; font-size: 0.9rem; margin: 0;">After 60 Minutes aired, the court ordered the children transferred to a new facility where Catherine could not stay. Catherine recorded a goodbye, but the family successfully appealed the court order, and the transfer did not proceed.</p>
     </div>
 </div>
 
@@ -51,7 +51,7 @@ permalink: /updates/
     <div style="flex-shrink: 0; width: 11px; height: 11px; background: #dc2626; border-radius: 50%; margin-top: 0.35rem; margin-left: -1.75rem;"></div>
     <div>
         <p style="color: #6b7280; font-size: 0.8rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; margin: 0 0 0.2rem 0;">March 4, 2026</p>
-        <p style="font-weight: 700; margin: 0 0 0.25rem 0;"><a href="/update/media/2026/03/04/twins-seventh-birthday-separated.html">The twins turn 7 — separated from their parents</a></p>
+        <p style="font-weight: 700; margin: 0 0 0.25rem 0;"><a href="/update/media/2026/03/04/twins-seventh-birthday-separated.html">The twins turn 7, separated from their parents</a></p>
         <p style="color: #6b7280; font-size: 0.9rem; margin: 0;">The twins' 7th birthday spent inside an institution. Canale 5 covered it: "Another half-celebration day." The aunt spoke to national TV. Their lawyer demanded: "Explain to the children why the mother was kicked out."</p>
     </div>
 </div>
@@ -60,7 +60,7 @@ permalink: /updates/
     <div style="flex-shrink: 0; width: 11px; height: 11px; background: #7c3aed; border-radius: 50%; margin-top: 0.35rem; margin-left: -1.75rem;"></div>
     <div>
         <p style="color: #6b7280; font-size: 0.8rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; margin: 0 0 0.2rem 0;">March 1, 2026</p>
-        <p style="font-weight: 700; margin: 0 0 0.25rem 0;"><a href="/breaking/media/2026/03/01/60-minutes-australia-airs.html">60 Minutes Australia airs — millions watch worldwide</a></p>
+        <p style="font-weight: 700; margin: 0 0 0.25rem 0;"><a href="/breaking/media/2026/03/01/60-minutes-australia-airs.html">60 Minutes Australia airs, millions watch worldwide</a></p>
         <p style="color: #6b7280; font-size: 0.9rem; margin: 0;">Australia's most-watched current affairs program broadcasts the full investigation. <a href="https://www.youtube.com/watch?v=FZPMGep5CKU" target="_blank" rel="noopener">Watch on YouTube →</a></p>
     </div>
 </div>
@@ -69,7 +69,7 @@ permalink: /updates/
     <div style="flex-shrink: 0; width: 11px; height: 11px; background: #dc2626; border-radius: 50%; margin-top: 0.35rem; margin-left: -1.75rem;"></div>
     <div>
         <p style="color: #6b7280; font-size: 0.8rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; margin: 0 0 0.2rem 0;">February 24, 2026</p>
-        <p style="font-weight: 700; margin: 0 0 0.25rem 0;"><a href="/update/media/2026/02/24/nathans-birthday-alone.html">Nathan's birthday — without wife and children</a></p>
+        <p style="font-weight: 700; margin: 0 0 0.25rem 0;"><a href="/update/media/2026/02/24/nathans-birthday-alone.html">Nathan's birthday, without wife and children</a></p>
         <p style="color: #6b7280; font-size: 0.9rem; margin: 0;">Canale 5 covered Nathan's birthday. In his own words: <em>"The worst birthday of my life."</em></p>
     </div>
 </div>
@@ -157,11 +157,11 @@ All posts are listed below in chronological order, newest first.
 
 Browse updates by category:
 
-- **Legal** — Court proceedings, legal strategy updates
-- **Evidence** — New evidence and documentation
-- **Media** — Press coverage and interviews
-- **Action** — Campaigns and calls to action
-- **International** — Diplomatic developments
+- **Legal**, Court proceedings, legal strategy updates
+- **Evidence**, New evidence and documentation
+- **Media**, Press coverage and interviews
+- **Action**, Campaigns and calls to action
+- **International**, Diplomatic developments
 
 ---
 

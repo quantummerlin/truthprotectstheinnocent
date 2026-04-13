@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: The Family
 subtitle: The Birmingham-Trevallion family
@@ -21,12 +21,12 @@ permalink: /family/
 
 ## An Australian Family in Italy
 
-The Birmingham-Trevallion family — Nathan, Catherine, and their three children — are Australian citizens who chose to make their home in rural Italy. They made deliberate choices about how to raise their family:
+The Birmingham-Trevallion family, Nathan, Catherine, and their three children, are Australian citizens who chose to make their home in rural Italy. They made deliberate choices about how to raise their family:
 
-- **Education** — Following Italy's legal "istruzione parentale" (parental instruction) framework using Steiner pedagogy, the same model used by over 15,000 families across Italy
-- **Rural living** — Choosing to live in the countryside, close to nature
-- **Limited screen time** — Prioritizing outdoor activities and hands-on learning over television and devices
-- **Simple lifestyle** — Living modestly and sustainably
+- **Education**, Following Italy's legal "istruzione parentale" (parental instruction) framework using Steiner pedagogy, the same model used by over 15,000 families across Italy
+- **Rural living**, Choosing to live in the countryside, close to nature
+- **Limited screen time**, Prioritizing outdoor activities and hands-on learning over television and devices
+- **Simple lifestyle**, Living modestly and sustainably
 
 These choices are legal. They are not unusual. Thousands of families across Italy and Europe make similar choices every day.
 
@@ -37,7 +37,7 @@ These choices are legal. They are not unusual. Thousands of families across Ital
     <div class="container">
         <div class="section-header">
             <h2>See For Yourself</h2>
-            <p>These videos show the children before they were taken — healthy, happy, and loved</p>
+            <p>These videos show the children before they were taken, healthy, happy, and loved</p>
         </div>
         
         <div class="video-gallery">
@@ -76,7 +76,7 @@ The mother is permitted supervised visits but cannot stay with her children. The
 
 ---
 
-## The Official Reasons — And Why They Don't Hold Up
+## The Official Reasons, And Why They Don't Hold Up
 
 Authorities gave three reasons for the removal:
 
@@ -85,7 +85,7 @@ Authorities gave three reasons for the removal:
 <h4>❌ "The children weren't vaccinated"</h4>
 <span class="evidence-badge badge-disputed">FALSE</span>
 </div>
-<p>The Assembly of Chieti and Teramo — the regional health authority — confirmed the children <strong>were vaccinated</strong>. Records indicate they received more vaccinations than the minimum required.</p>
+<p>The Assembly of Chieti and Teramo, the regional health authority, confirmed the children <strong>were vaccinated</strong>. Records indicate they received more vaccinations than the minimum required.</p>
 </div>
 
 <div class="evidence-card verified">
@@ -93,7 +93,7 @@ Authorities gave three reasons for the removal:
 <h4>❌ "The children weren't being educated"</h4>
 <span class="evidence-badge badge-disputed">FALSE</span>
 </div>
-<p>The Ministry of Education confirmed the children were correctly enrolled in <strong>parental instruction</strong> (istruzione parentale) — a legal educational option in Italy protected under Article 30 of the Constitution.</p>
+<p>The Ministry of Education confirmed the children were correctly enrolled in <strong>parental instruction</strong> (istruzione parentale), a legal educational option in Italy protected under Article 30 of the Constitution.</p>
 </div>
 
 <div class="evidence-card verified">
@@ -113,7 +113,7 @@ Authorities gave three reasons for the removal:
 Since the separation, a qualified psychologist has assessed the children. The findings were serious enough that the psychologist held a formal press conference to present them publicly.
 
 <div class="alert alert-danger">
-<strong>Key finding:</strong> The children are now exhibiting <strong>self-harm behaviors</strong> — behaviors that did not exist before they were removed from their parents.
+<strong>Key finding:</strong> The children are now exhibiting <strong>self-harm behaviors</strong>, behaviors that did not exist before they were removed from their parents.
 </div>
 
 Before the removal, those who knew the family described the children as healthy, happy, and thriving. They spent their days outdoors, learning from nature, connected to their parents.
@@ -136,7 +136,7 @@ These are not rhetorical questions. They deserve answers.
 
 ---
 
-## The Family Cannot Speak — But We Can
+## The Family Cannot Speak, But We Can
 
 Due to the ongoing legal situation, the family cannot speak publicly. They are focused on their legal case and on staying healthy for their children.
 
@@ -149,7 +149,7 @@ We have the freedom to:
 - Contact media
 - Demand transparency
 
-The family's supporters report that they have asked for public support — for people to speak the truth and not be silenced by fear.
+The family's supporters report that they have asked for public support, for people to speak the truth and not be silenced by fear.
 
 </div>
 

@@ -1,6 +1,6 @@
-﻿---
+---
 layout: default
-title: "BREAKING 26. März — Italienischer Senat empfängt Catherine und Nathan | La Famiglia Nel Bosco"
+title: "BREAKING 26. März, Italienischer Senat empfängt Catherine und Nathan | La Famiglia Nel Bosco"
 description: "EILMELDUNG 26. März 2026: Catherine und Nathan wurden vom Präsidenten des Italienischen Senats mit "großer Menschlichkeit" empfangen. Zum ersten Mal sprach Catherine öffentlich. Die höchste Ebene der italienischen Regierung hat die Wahrheit gehört. #TruthProtectsTheInnocent"
 lang: de
 image: /assets/images/og-image.jpg
@@ -21,22 +21,22 @@ updated: 2026-03-26-senate
         <!-- Breaking Badge -->
         <div class="sixty-mins-badge-wrap">
             <span class="sixty-mins-badge sixty-mins-badge-aired" id="sixtyMinsBadge">
-                BREAKING — 26. MÄRZ 2026
+                BREAKING, 26. MÄRZ 2026
             </span>
         </div>
 
         <h1 class="sixty-mins-headline">Der Italienische Senat Hat Ihre Wahrheit Gehört</h1>
-        <p class="lead">Heute wurden Catherine und Nathan vom <strong>Präsidenten des Italienischen Senats</strong> empfangen — mit dem, was Catherine <em>&ldquo;große Menschlichkeit&rdquo;</em> nannte. Danach trat Catherine heraus und sprach zum ersten Mal seit Beginn dieser Tragödie öffentlich.</p>
+        <p class="lead">Heute wurden Catherine und Nathan vom <strong>Präsidenten des Italienischen Senats</strong> empfangen, mit dem, was Catherine <em>&ldquo;große Menschlichkeit&rdquo;</em> nannte. Danach trat Catherine heraus und sprach zum ersten Mal seit Beginn dieser Tragödie öffentlich.</p>
 
         <!-- Senate Quote Box -->
         <div style="background: rgba(0,0,0,0.75); border: 1px solid rgba(124,58,237,0.7); border-left: 5px solid #7c3aed; border-radius: 1rem; padding: 1.5rem 2rem; margin-bottom: 1.75rem; text-align: left; max-width: 720px; margin-left: auto; margin-right: auto;">
             <div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap;">
-                <span style="background: rgba(124,58,237,0.3); border: 1px solid rgba(124,58,237,0.6); color: #c4b5fd; font-weight: 700; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 2px; padding: 0.3rem 0.9rem; border-radius: 2rem;">🏛️ Catherines Erste Öffentliche Ansprache — Vor dem Italienischen Senat</span>
+                <span style="background: rgba(124,58,237,0.3); border: 1px solid rgba(124,58,237,0.6); color: #c4b5fd; font-weight: 700; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 2px; padding: 0.3rem 0.9rem; border-radius: 2rem;">🏛️ Catherines Erste Öffentliche Ansprache, Vor dem Italienischen Senat</span>
             </div>
             <p style="color: white; font-size: 1rem; line-height: 1.8; font-style: italic; margin: 0 0 0.75rem 0;">&ldquo;Nach monatelangem völligem Schweigen möchten Nathan und ich unsere aufrichtige Dankbarkeit an alle ausdrücken, die uns in diesen langen und zutiefst schwierigen Tagen voller Schmerz und Trauer um unsere Kinder unterstützt haben.</p>
             <p style="color: rgba(255,255,255,0.9); font-size: 1rem; line-height: 1.8; font-style: italic; margin: 0 0 0.75rem 0;">Was Nathan und ich heute anbieten kamen, war unsere Wahrheit und unser anhaltendes Bekenntnis als verantwortungsvolle, respektvolle und liebende Eltern zu sein. Und mit dieser Wahrheit, im unerträglichsten Schmerz, kamen wir und baten darum, gehört zu werden und uns erlauben, wieder eine Familie zu sein.</p>
             <p style="color: #c4b5fd; font-size: 1.05rem; line-height: 1.8; font-style: italic; font-weight: 700; margin: 0 0 1rem 0;">Unser aufrichtiger und herzlicher Dank an den Präsidenten des Italienischen Senats für seinen Empfang und seine Unterstützung mit großer Menschlichkeit.&rdquo;</p>
-            <p style="color: rgba(255,255,255,0.6); font-size: 0.85rem; margin: 0;">— <strong style="color: rgba(255,255,255,0.9);">Catherine Birmingham, vor dem Italienischen Senat &bull; 26. März 2026</strong></p>
+            <p style="color: rgba(255,255,255,0.6); font-size: 0.85rem; margin: 0;">, <strong style="color: rgba(255,255,255,0.9);">Catherine Birmingham, vor dem Italienischen Senat &bull; 26. März 2026</strong></p>
         </div>
 
         <!-- Significance Statement -->
@@ -62,10 +62,10 @@ updated: 2026-03-26-senate
                 <span style="background: rgba(220,38,38,0.3); border: 1px solid rgba(220,38,38,0.6); color: #fca5a5; font-weight: 700; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 2px; padding: 0.3rem 0.9rem; border-radius: 2rem;">🔬 Psychiatrisches Gutachten</span>
                 <a href="https://www.facebook.com/share/p/17pfeuVKZG/?mibextid=wwXIfr" target="_blank" rel="noopener noreferrer" style="color: #93c5fd; font-size: 0.8rem; text-decoration: none; font-weight: 600;">📄 Quelle →</a>
             </div>
-            <p style="color: white; font-size: 1rem; line-height: 1.8; font-style: italic; margin: 0 0 0.75rem 0;">&bdquo;Sie werden <strong>emotional desorganisiert</strong>. Was ich beobachte, ist ein klinisches Bild, das einem <strong>Trennungstrauma</strong> entspricht — untröstliches Weinen, Unruhe, Rückschritte und kleinere Selbstverletzungen.</p>
+            <p style="color: white; font-size: 1rem; line-height: 1.8; font-style: italic; margin: 0 0 0.75rem 0;">&bdquo;Sie werden <strong>emotional desorganisiert</strong>. Was ich beobachte, ist ein klinisches Bild, das einem <strong>Trennungstrauma</strong> entspricht, untröstliches Weinen, Unruhe, Rückschritte und kleinere Selbstverletzungen.</p>
             <p style="color: rgba(255,255,255,0.9); font-size: 1rem; line-height: 1.8; font-style: italic; margin: 0 0 0.75rem 0;">Jeder vergehende Tag ist nicht neutral: Es ist eine <strong style="color: white;">Ansammlung von Leiden</strong>. In Abwesenheit einer konkreten Gefahr ist die Zerstörung der Familieneinheit ein weiterer destabilisierender Faktor.</p>
             <p style="color: #fca5a5; font-size: 1.05rem; line-height: 1.8; font-style: italic; font-weight: 700; margin: 0 0 1rem 0;">Diese Kinder brauchen <strong style="color: white;">Wiedervereinigung mit ihren Eltern</strong>, ein geeignetes Umfeld und klinische Unterstützung. Denn Heilung bedeutet, Bindungen, Kontinuität und Zugehörigkeit wiederherzustellen.&ldquo;</p>
-            <p style="color: rgba(255,255,255,0.6); font-size: 0.85rem; margin: 0;">— <strong style="color: rgba(255,255,255,0.9);">Prof. Tonino Cantelmi</strong>, Psychiater &bull; LUMSA Universität, Rom</p>
+            <p style="color: rgba(255,255,255,0.6); font-size: 0.85rem; margin: 0;">, <strong style="color: rgba(255,255,255,0.9);">Prof. Tonino Cantelmi</strong>, Psychiater &bull; LUMSA Universität, Rom</p>
         </div>
         <div style="background: rgba(220,38,38,0.2); border: 2px solid rgba(220,38,38,0.6); border-radius: 0.75rem; padding: 0.9rem 1.5rem; margin-bottom: 1.75rem; text-align: center; max-width: 720px; margin-left: auto; margin-right: auto;">
             <p style="color: white; font-size: 1.05rem; font-weight: 700; margin: 0;">Es gibt keine Alternative. Es gibt keine andere Lösung.<br><span style="color: #fca5a5;">Diese Kinder müssen jetzt mit ihren Eltern wiedervereinigt werden.</span></p>
@@ -74,13 +74,13 @@ updated: 2026-03-26-senate
         <!-- Öffentlicher Kommentar Paolo Lunghi -->
         <div style="background: rgba(0,0,0,0.75); border: 1px solid rgba(217,119,6,0.7); border-left: 5px solid #d97706; border-radius: 1rem; padding: 1.5rem 2rem; margin-bottom: 1.75rem; text-align: left; max-width: 720px; margin-left: auto; margin-right: auto;">
             <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.75rem; margin-bottom: 1rem;">
-                <span style="background: rgba(217,119,6,0.3); border: 1px solid rgba(217,119,6,0.6); color: #fcd34d; font-weight: 700; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 2px; padding: 0.3rem 0.9rem; border-radius: 2rem;">🗣️ Öffentlicher Kommentar — April 2026</span>
+                <span style="background: rgba(217,119,6,0.3); border: 1px solid rgba(217,119,6,0.6); color: #fcd34d; font-weight: 700; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 2px; padding: 0.3rem 0.9rem; border-radius: 2rem;">🗣️ Öffentlicher Kommentar, April 2026</span>
                 <a href="https://www.facebook.com/share/p/1AmHh6T99j/?mibextid=wwXIfr" target="_blank" rel="noopener noreferrer" style="color: #93c5fd; font-size: 0.8rem; text-decoration: none; font-weight: 600;">📄 Quelle →</a>
             </div>
             <p style="color: white; font-size: 1rem; line-height: 1.8; font-style: italic; margin: 0 0 0.75rem 0;">&bdquo;Wir stehen vor einem System, das, auch wenn es legal operiert, außerhalb jeglicher menschlich akzeptabler Logik handelt. Wir sprechen von einer <strong style="color: white;">gesunden Familie</strong> und drei Kindern, die wie Schuhkartons behandelt werden.&ldquo;</p>
             <p style="color: rgba(255,255,255,0.9); font-size: 1rem; line-height: 1.8; font-style: italic; margin: 0 0 0.75rem 0;">&bdquo;Keine Institution, kein Fachmann, keine Behörde kann jemals die Blut- und Gefühlsbindung zwischen einem Kind und seiner Mutter ersetzen. Nur menschlicher Wahnsinn kann denken, dass ein Stempel oder ein Stück Papier ausreicht, um diese Bindungen zu zerstören.&ldquo;</p>
-            <p style="color: #fcd34d; font-size: 1.05rem; line-height: 1.8; font-style: italic; font-weight: 700; margin: 0 0 1rem 0;">&bdquo;Wenn sich die Kinder nach vier Monaten &lsquo;Einsperrung&rsquo; beruhigen &mdash; kapitulieren sie in Wirklichkeit. Das ist nicht ihr Wohlbefinden &mdash; es ist ihre <strong style="color: white;">psychologische Vernichtung</strong>.&ldquo;</p>
-            <p style="color: rgba(255,255,255,0.6); font-size: 0.85rem; margin: 0;">— <strong style="color: rgba(255,255,255,0.9);">Paolo Lunghi</strong>, Öffentlicher Kommentator &bull; Facebook, April 2026</p>
+            <p style="color: #fcd34d; font-size: 1.05rem; line-height: 1.8; font-style: italic; font-weight: 700; margin: 0 0 1rem 0;">&bdquo;Wenn sich die Kinder nach vier Monaten &lsquo;Einsperrung&rsquo; beruhigen, kapitulieren sie in Wirklichkeit. Das ist nicht ihr Wohlbefinden, es ist ihre <strong style="color: white;">psychologische Vernichtung</strong>.&ldquo;</p>
+            <p style="color: rgba(255,255,255,0.6); font-size: 0.85rem; margin: 0;">, <strong style="color: rgba(255,255,255,0.9);">Paolo Lunghi</strong>, Öffentlicher Kommentator &bull; Facebook, April 2026</p>
         </div>
 
         
@@ -119,7 +119,7 @@ updated: 2026-03-26-senate
     <div class="container">
         <div style="max-width: 860px; margin: 0 auto; text-align: center;">
             <div style="display: inline-block; background: rgba(220,38,38,0.25); border: 1px solid rgba(220,38,38,0.6); padding: 0.5rem 1.5rem; border-radius: 2rem; margin-bottom: 1.5rem;">
-                <span style="color: #fca5a5; font-weight: 700; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 2px;">🔬 Psychiatrisches Gutachten — Offizielle Stellungnahme</span>
+                <span style="color: #fca5a5; font-weight: 700; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 2px;">🔬 Psychiatrisches Gutachten, Offizielle Stellungnahme</span>
             </div>
             <h2 style="color: white; font-size: 1.8rem; font-weight: 900; margin-bottom: 0.5rem; line-height: 1.3;">Es gibt keine Alternative.<br><span style="color: #fca5a5;">Wiedervereinigung ist die einzige Lösung.</span></h2>
             <p style="color: rgba(255,255,255,0.6); font-size: 0.95rem; margin-bottom: 2rem;">Ein führender italienischer Psychiater hat öffentlich erklärt, was die klinischen Beweise fordern.</p>
@@ -144,7 +144,7 @@ updated: 2026-03-26-senate
                     Denn ein Kind wird nicht einfach dadurch geheilt, indem man es schützt. <strong style="color: white;">Heilung bedeutet, Bindungen, Kontinuität und ein Gefühl der Zugehörigkeit wiederherzustellen.&ldquo;</strong>
                 </p>
                 <div style="margin-top: 1.5rem; padding-top: 1rem; border-top: 1px solid rgba(255,255,255,0.1); display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem;">
-                    <p style="color: rgba(255,255,255,0.7); font-size: 0.95rem; margin: 0;">— <strong style="color: white;">Prof. Tonino Cantelmi</strong>, Psychiater &amp; Klinischer Psychologe<br><span style="font-size: 0.85rem;">Professor für Psychologie digitaler Technologien, LUMSA Universität, Rom</span></p>
+                    <p style="color: rgba(255,255,255,0.7); font-size: 0.95rem; margin: 0;">, <strong style="color: white;">Prof. Tonino Cantelmi</strong>, Psychiater &amp; Klinischer Psychologe<br><span style="font-size: 0.85rem;">Professor für Psychologie digitaler Technologien, LUMSA Universität, Rom</span></p>
                     <a href="https://www.facebook.com/share/p/17pfeuVKZG/?mibextid=wwXIfr" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; gap: 0.5rem; background: #1877f2; color: white; padding: 0.6rem 1.25rem; border-radius: 0.5rem; text-decoration: none; font-weight: 700; font-size: 0.9rem; white-space: nowrap;">📄 Vollständige Erklärung lesen</a>
                 </div>
             </div>
@@ -156,12 +156,12 @@ updated: 2026-03-26-senate
     </div>
 </section>
 
-<!-- NEUESTE ENTWICKLUNG — 29. MÄRZ 2026 -->
+<!-- NEUESTE ENTWICKLUNG, 29. MÄRZ 2026 -->
 <section style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); padding: 2rem 0;">
     <div class="container">
         <div style="max-width: 900px; margin: 0 auto;">
             <div style="text-align: center; margin-bottom: 1.5rem;">
-                <span style="background: rgba(255,255,255,0.1); color: rgba(255,255,255,0.8); padding: 0.4rem 1.25rem; border-radius: 2rem; font-size: 0.8rem; font-weight: 700; letter-spacing: 2px; text-transform: uppercase;">🗞️ AKTUALISIERUNG — 29. MÄRZ 2026</span>
+                <span style="background: rgba(255,255,255,0.1); color: rgba(255,255,255,0.8); padding: 0.4rem 1.25rem; border-radius: 2rem; font-size: 0.8rem; font-weight: 700; letter-spacing: 2px; text-transform: uppercase;">🗞️ AKTUALISIERUNG, 29. MÄRZ 2026</span>
             </div>
             <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem;">
                 <div style="background: rgba(124,58,237,0.12); border: 1px solid rgba(124,58,237,0.35); border-radius: 1rem; padding: 1.5rem;">
@@ -186,17 +186,17 @@ updated: 2026-03-26-senate
     <div class="container" style="position: relative; z-index: 1;">
         <div style="max-width: 900px; margin: 0 auto; text-align: center;">
             <div style="display: inline-block; background: rgba(255,255,255,0.2); padding: 0.5rem 1.5rem; border-radius: 2rem; margin-bottom: 1rem;">
-                <span style="color: white; font-weight: 600; font-size: 0.9rem; text-transform: uppercase; letter-spacing: 0.05em;">⚠️ Eilmeldung: Durchgesickerte Informationen — Februar 2026</span>
+                <span style="color: white; font-weight: 600; font-size: 0.9rem; text-transform: uppercase; letter-spacing: 0.05em;">⚠️ Eilmeldung: Durchgesickerte Informationen, Februar 2026</span>
             </div>
             <h2 style="color: white; font-size: 2rem; margin-bottom: 1rem; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">Kinder Sollen Bis Juni 2026 Festgehalten Werden</h2>
             <p style="color: rgba(255,255,255,0.95); font-size: 1.2rem; line-height: 1.6; margin-bottom: 1.5rem;">
-                Das Gericht plant, diese Kinder <strong style="color: #fef08a;">bis Juni 2026</strong> in der Einrichtung zu halten — <strong style="color: #fef08a;">7 Monate ständiges Trauma</strong>. Die Zwillinge werden im März 7 — immer noch von ihren Eltern getrennt. Jeder einzelne Tag in der Einrichtung verursacht dokumentierten, irreparablen psychologischen Schaden. <strong style="color: #fef08a;">Maximaler internationaler Druck ist JETZT nötig.</strong>
+                Das Gericht plant, diese Kinder <strong style="color: #fef08a;">bis Juni 2026</strong> in der Einrichtung zu halten, <strong style="color: #fef08a;">7 Monate ständiges Trauma</strong>. Die Zwillinge werden im März 7, immer noch von ihren Eltern getrennt. Jeder einzelne Tag in der Einrichtung verursacht dokumentierten, irreparablen psychologischen Schaden. <strong style="color: #fef08a;">Maximaler internationaler Druck ist JETZT nötig.</strong>
             </p>            
             <!-- Psychologisches Trauma Warnung -->
             <div style="background: rgba(0,0,0,0.3); border: 2px solid rgba(254,240,138,0.5); border-radius: 1rem; padding: 1.5rem; margin-bottom: 1.5rem;">
                 <p style="color: #fef08a; font-weight: 700; font-size: 1.1rem; margin-bottom: 0.75rem;">⚠️ PSYCHOLOGEN BESTÄTIGEN: Kinder Erleiden Tägliches Trauma</p>
                 <p style="color: rgba(255,255,255,0.95); font-size: 1.05rem; line-height: 1.7; margin: 0;">
-                    Psychologen haben <strong style="color: white;">öffentlich bekannt gegeben</strong>, dass die Kinder <strong style="color: white;">jeden Tag Trauma erleiden</strong>, während sie in der Einrichtung festgehalten werden. Sie leiden unter <strong style="color: white;">Isolation und Trennung</strong> von ihren Eltern — was ihnen <strong style="color: white;">täglich irreparablen Schaden</strong> zufügt. Dies ist nun allgemein bekannt.
+                    Psychologen haben <strong style="color: white;">öffentlich bekannt gegeben</strong>, dass die Kinder <strong style="color: white;">jeden Tag Trauma erleiden</strong>, während sie in der Einrichtung festgehalten werden. Sie leiden unter <strong style="color: white;">Isolation und Trennung</strong> von ihren Eltern, was ihnen <strong style="color: white;">täglich irreparablen Schaden</strong> zufügt. Dies ist nun allgemein bekannt.
                 </p>
             </div>
                         <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin-bottom: 1.5rem; text-align: left;">
@@ -206,11 +206,11 @@ updated: 2026-03-26-senate
                 </div>
                 <div style="background: rgba(0,0,0,0.2); border-radius: 0.75rem; padding: 1rem;">
                     <p style="color: #fef08a; font-weight: 600; margin-bottom: 0.25rem;">Höchstem Gericht gemeldet</p>
-                    <p style="color: rgba(255,255,255,0.85); font-size: 0.95rem; margin: 0;">Anwälte haben beim Kassationsgericht eingereicht — keine Maßnahmen ergriffen</p>
+                    <p style="color: rgba(255,255,255,0.85); font-size: 0.95rem; margin: 0;">Anwälte haben beim Kassationsgericht eingereicht, keine Maßnahmen ergriffen</p>
                 </div>
                 <div style="background: rgba(0,0,0,0.2); border-radius: 0.75rem; padding: 1rem;">
                     <p style="color: #fef08a; font-weight: 600; margin-bottom: 0.25rem;">Geburtstage in Trennung</p>
-                    <p style="color: rgba(255,255,255,0.85); font-size: 0.95rem; margin: 0;">Nathans Geburtstag 24. Feb, Zwillinge 4. März — werden sie zu Hause sein?</p>
+                    <p style="color: rgba(255,255,255,0.85); font-size: 0.95rem; margin: 0;">Nathans Geburtstag 24. Feb, Zwillinge 4. März, werden sie zu Hause sein?</p>
                 </div>
             </div>
             <div style="background: rgba(0,0,0,0.25); border-radius: 1rem; padding: 1.5rem; margin-bottom: 1.5rem;">
@@ -245,7 +245,7 @@ updated: 2026-03-26-senate
     <div class="container">
         <div class="section-header">
             <h2>Lernen Sie Die Familie Kennen</h2>
-            <p>Dies sind die Kinder im Mittelpunkt dieses Falls — gesund, glücklich und gedeihend, bevor sie weggenommen wurden</p>
+            <p>Dies sind die Kinder im Mittelpunkt dieses Falls, gesund, glücklich und gedeihend, bevor sie weggenommen wurden</p>
         </div>
         
         <div class="video-gallery">
@@ -444,7 +444,7 @@ updated: 2026-03-26-senate
                 • Immer in CC: gabinetto.ministro@cert.esteri.it
             </div>
             
-            <div style="background: white; padding: 1.5rem; border-radius: 0.5rem; font-family: monospace; font-size: 0.85rem; white-space: pre-wrap; margin: 1rem 0; border: 1px solid var(--color-gray-200);">Betreff: Richiesta di attenzione istituzionale – tutela dei minori e unità familiare
+            <div style="background: white; padding: 1.5rem; border-radius: 0.5rem; font-family: monospace; font-size: 0.85rem; white-space: pre-wrap; margin: 1rem 0; border: 1px solid var(--color-gray-200);">Betreff: Richiesta di attenzione istituzionale, tutela dei minori e unità familiare
 
 Egregio/a [Name des Beamten],
 
@@ -458,7 +458,7 @@ Die drei Hauptbegründungen für die Entfernung der Kinder wurden durch offiziel
 2. BILDUNG: Das Bildungsministerium bestätigte den legalen Heimunterricht.
 3. WOHNUNG: Ein zertifizierter Geometer bestätigte, dass die Struktur nicht gefährdet ist.
 
-Darüber hinaus hat eine psychologische Bewertung selbstverletzendes Verhalten bei den Kindern dokumentiert — Verhaltensweisen, die vor der Trennung nicht existierten.
+Darüber hinaus hat eine psychologische Bewertung selbstverletzendes Verhalten bei den Kindern dokumentiert, Verhaltensweisen, die vor der Trennung nicht existierten.
 
 Ich frage respektvoll: Wenn alle offiziellen Begründungen als falsch erwiesen wurden, auf welcher rechtlichen Grundlage wird diese Trennung fortgesetzt?
 
@@ -542,7 +542,7 @@ Mit freundlichen Grüßen,
     <div class="container">
         <div class="container-narrow">
             <h2>Die Wahrheit Muss Erzählt Werden</h2>
-            <p style="font-size: 1.2rem; color: var(--color-gray-300); margin-bottom: 2rem;">Drei Kinder sind von ihren Eltern getrennt, basierend auf Behauptungen, die als falsch erwiesen wurden. Sie zeigen jetzt dokumentierten psychologischen Schaden. Das ist kein Kinderschutz — das ist Ungerechtigkeit.</p>
+            <p style="font-size: 1.2rem; color: var(--color-gray-300); margin-bottom: 2rem;">Drei Kinder sind von ihren Eltern getrennt, basierend auf Behauptungen, die als falsch erwiesen wurden. Sie zeigen jetzt dokumentierten psychologischen Schaden. Das ist kein Kinderschutz, das ist Ungerechtigkeit.</p>
             
             <div class="hero-cta">
                 <a href="/evidence/" class="btn btn-primary btn-lg">Beweise Ansehen</a>

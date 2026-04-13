@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: Preguntas Frecuentes
 subtitle: Contexto Completo para Preguntas sobre la Cobertura Mediática
@@ -79,7 +79,7 @@ lang: es
                     <strong style="color: #3b82f6;">Contexto que a menudo falta en los reportajes:</strong>
                 </div>
                 
-                <p>Cuando la familia compró la propiedad, la prioridad era el terreno en sí — su sostenibilidad a largo plazo, entorno natural y árboles maduros. La casa era una consideración secundaria para desarrollo futuro.</p>
+                <p>Cuando la familia compró la propiedad, la prioridad era el terreno en sí, su sostenibilidad a largo plazo, entorno natural y árboles maduros. La casa era una consideración secundaria para desarrollo futuro.</p>
                 
                 <p><strong>Durante el período inicial, las necesidades sanitarias se satisfacían mediante:</strong></p>
                 <ul style="margin: 1rem 0; padding-left: 1.5rem;">
@@ -204,15 +204,15 @@ lang: es
                 <div style="margin: 1.5rem 0;">
                     <div style="background: rgba(239, 68, 68, 0.2); border-left: 4px solid #ef4444; padding: 1rem 1.5rem; border-radius: 0 0.5rem 0.5rem 0; margin-bottom: 0.75rem;">
                         <strong style="color: #fca5a5;">1. Estado de vacunación</strong>
-                        <span style="color: var(--color-gray-300);"> — La Asamblea de Chieti y Teramo confirmó que los niños <strong style="color: white;">ESTABAN VACUNADOS</strong></span>
+                        <span style="color: var(--color-gray-300);">, La Asamblea de Chieti y Teramo confirmó que los niños <strong style="color: white;">ESTABAN VACUNADOS</strong></span>
                     </div>
                     <div style="background: rgba(239, 68, 68, 0.2); border-left: 4px solid #ef4444; padding: 1rem 1.5rem; border-radius: 0 0.5rem 0.5rem 0; margin-bottom: 0.75rem;">
                         <strong style="color: #fca5a5;">2. Educación</strong>
-                        <span style="color: var(--color-gray-300);"> — El Ministerio de Educación confirmó la <strong style="color: white;">educación en casa legal</strong></span>
+                        <span style="color: var(--color-gray-300);">, El Ministerio de Educación confirmó la <strong style="color: white;">educación en casa legal</strong></span>
                     </div>
                     <div style="background: rgba(239, 68, 68, 0.2); border-left: 4px solid #ef4444; padding: 1rem 1.5rem; border-radius: 0 0.5rem 0.5rem 0;">
                         <strong style="color: #fca5a5;">3. Seguridad de la vivienda</strong>
-                        <span style="color: var(--color-gray-300);"> — Un topógrafo certificado confirmó que la <strong style="color: white;">estructura es segura</strong></span>
+                        <span style="color: var(--color-gray-300);">, Un topógrafo certificado confirmó que la <strong style="color: white;">estructura es segura</strong></span>
                     </div>
                 </div>
                 

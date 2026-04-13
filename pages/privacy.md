@@ -1,6 +1,6 @@
----
+﻿---
 layout: page
-title: "Privacy Policy — Data Handling & GDPR Compliance"
+title: "Privacy Policy, Data Handling & GDPR Compliance"
 description: "How the Truth Protects The Innocent campaign handles personal data, audience intelligence, and public comment analysis in compliance with GDPR and Italian privacy law."
 permalink: /privacy/
 lang: en
@@ -10,7 +10,7 @@ lang: en
 
 **Last updated:** March 11, 2026
 
-This page explains how the *Truth Protects The Innocent* campaign collects, processes, and publishes data — with particular reference to audience intelligence reports and public comment analysis.
+This page explains how the *Truth Protects The Innocent* campaign collects, processes, and publishes data, with particular reference to audience intelligence reports and public comment analysis.
 
 ---
 
@@ -30,7 +30,7 @@ Three overlapping legal frameworks govern how we handle this data:
 | **Italian Privacy Law** (Codice della Privacy / D.Lgs. 196/2003) | The Italian implementation of GDPR |
 | **Facebook Terms of Service** | Governs what can be done with data from the platform |
 
-Our data handling is conducted under **GDPR Article 6(1)(f) — Legitimate Interests**, balancing the campaign's interest in demonstrating public support with individuals' right to privacy.
+Our data handling is conducted under **GDPR Article 6(1)(f), Legitimate Interests**, balancing the campaign's interest in demonstrating public support with individuals' right to privacy.
 
 ---
 
@@ -42,7 +42,7 @@ Statistics such as "96% of commenters support the family" or "1,235 public comme
 ### ⚠️ Anonymised Quotes
 All commenter names published on this website are **anonymised to first name and last initial** (e.g. "Maria R."). Where possible, quotes are **translated and/or paraphrased** rather than reproduced verbatim, to further protect the identity of the original commenter.
 
-We apply the principle of **contextual integrity** — recognising that a comment posted on a Facebook video was shared in a specific context, and that republishing it elsewhere is a separate act requiring its own privacy considerations.
+We apply the principle of **contextual integrity**, recognising that a comment posted on a Facebook video was shared in a specific context, and that republishing it elsewhere is a separate act requiring its own privacy considerations.
 
 ### ❌ What We Do NOT Publish
 - Full names of commenters (unless explicit written consent has been obtained)
@@ -67,10 +67,10 @@ Where a quote is published with a full name on this website, we have obtained **
 
 If you are a commenter whose words appear (in any form) on this website, you have the right to:
 
-- **Request removal** — We will remove your quote promptly
-- **Request access** — You may ask what data we hold relating to you
-- **Request rectification** — You may ask us to correct any inaccuracy
-- **Object to processing** — You may object to our use of your data
+- **Request removal**, We will remove your quote promptly
+- **Request access**, You may ask what data we hold relating to you
+- **Request rectification**, You may ask us to correct any inaccuracy
+- **Object to processing**, You may object to our use of your data
 
 To exercise any of these rights, contact:
 
@@ -114,4 +114,4 @@ For general campaign enquiries:
 
 ---
 
-<p style="color: #9ca3af; font-size: 0.85rem; text-align: center; margin-top: 3rem;">This privacy policy is prepared in accordance with GDPR Article 13 and Italian privacy law (D.Lgs. 196/2003).<br>Data processing is conducted under GDPR Article 6(1)(f) — Legitimate Interests.</p>
+<p style="color: #9ca3af; font-size: 0.85rem; text-align: center; margin-top: 3rem;">This privacy policy is prepared in accordance with GDPR Article 13 and Italian privacy law (D.Lgs. 196/2003).<br>Data processing is conducted under GDPR Article 6(1)(f), Legitimate Interests.</p>

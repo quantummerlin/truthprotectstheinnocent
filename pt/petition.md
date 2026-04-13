@@ -1,6 +1,6 @@
----
+﻿---
 layout: default
-title: 📋 Petição ONU — Modelo formal para OHCHR e CIDU
+title: 📋 Petição ONU, Modelo formal para OHCHR e CIDU
 description: "Modelo de petição formal para as Nações Unidas (OHCHR) e o CIDU sobre a violação dos direitos das crianças Birmingham-Trevallion. Baixe, personalize e envie."
 lang: pt
 permalink: /pt/petition/
@@ -12,16 +12,16 @@ permalink: /pt/petition/
 
 <div class="alert alert-danger" style="background: linear-gradient(135deg, rgba(220,38,38,0.15), rgba(220,38,38,0.05)); border: 2px solid rgba(220,38,38,0.4); border-radius: 1rem; padding: 2rem; margin-bottom: 2rem;">
 <h3 style="margin-top: 0; color: #dc2626;">⚠️ URGENTE: As crianças serão mantidas até junho de 2026</h3>
-<p style="font-size: 1.1rem; margin-bottom: 0;">Informações revelam a intenção do tribunal de manter as crianças na instituição <strong>até maio/junho de 2026</strong>. Os gémeos fazem 7 anos em março — ainda separados dos pais. <strong>Cada dia causa danos psicológicos irreparáveis documentados.</strong> Pressão internacional máxima é necessária AGORA.</p>
+<p style="font-size: 1.1rem; margin-bottom: 0;">Informações revelam a intenção do tribunal de manter as crianças na instituição <strong>até maio/junho de 2026</strong>. Os gémeos fazem 7 anos em março, ainda separados dos pais. <strong>Cada dia causa danos psicológicos irreparáveis documentados.</strong> Pressão internacional máxima é necessária AGORA.</p>
 </div>
 
 ## O que é esta petição?
 
 Este é um **modelo completo** para apresentar uma petição formal às Nações Unidas sobre a violação dos direitos das crianças e da família Birmingham-Trevallion. A petição é dirigida a:
 
-- **OHCHR** — Alto Comissariado das Nações Unidas para os Direitos Humanos
-- **CIDU** — Comité Interministerial para os Direitos Humanos (Itália)
-- **Presidência do Conselho de Ministros** — Governo Italiano
+- **OHCHR**, Alto Comissariado das Nações Unidas para os Direitos Humanos
+- **CIDU**, Comité Interministerial para os Direitos Humanos (Itália)
+- **Presidência do Conselho de Ministros**, Governo Italiano
 
 ### Como usar este modelo
 
@@ -34,7 +34,7 @@ Este é um **modelo completo** para apresentar uma petição formal às Nações
 
 <h2 id="destinatarios">📬 Destinatários</h2>
 
-### Nações Unidas — OHCHR
+### Nações Unidas, OHCHR
 
 ```
 Alto Comissariado das Nações Unidas para os Direitos Humanos (OHCHR)
@@ -45,7 +45,7 @@ Email: petitions@ohchr.org
 Email: InfoDesk@ohchr.org
 ```
 
-### CIDU — Comité Interministerial para os Direitos Humanos
+### CIDU, Comité Interministerial para os Direitos Humanos
 
 ```
 CIDU - Comitato Interministeriale per i Diritti Umani
@@ -77,7 +77,7 @@ ministero.affariesteri@cert.esteri.it
 
 ---
 
-<h2 id="petition-it">📝 MODELO DE PETIÇÃO (Italiano — versão original)</h2>
+<h2 id="petition-it">📝 MODELO DE PETIÇÃO (Italiano, versão original)</h2>
 
 <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.15); border-radius: 1rem; padding: 2rem; margin: 1rem 0 2rem 0;">
 
@@ -91,11 +91,11 @@ A versão italiana é recomendada para submissões às autoridades italianas. O 
 
 ```
 PETIÇÃO AO COMITÉ DE DIREITOS HUMANOS DAS NAÇÕES UNIDAS
-OHCHR — Escritório do Alto Comissário para os Direitos Humanos
-CIDU — Comité Interministerial para os Direitos Humanos
+OHCHR, Escritório do Alto Comissário para os Direitos Humanos
+CIDU, Comité Interministerial para os Direitos Humanos
 Presidência do Conselho de Ministros
 
-ASSUNTO: Violação dos direitos das crianças e da família —
+ASSUNTO: Violação dos direitos das crianças e da família ,
 Caso Birmingham-Trevallion / "La Famiglia nel Bosco"
 (A Família no Bosque)
 
@@ -108,7 +108,7 @@ Data de nascimento: [A SUA DATA DE NASCIMENTO]
 Nacionalidade: [A SUA NACIONALIDADE]
 Morada: [A SUA MORADA]
 Email: [O SEU EMAIL]
-Telefone: [O SEU TELEFONE — opcional]
+Telefone: [O SEU TELEFONE, opcional]
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -158,7 +158,7 @@ mantê-las lá até maio/junho de 2026.
 
 Uma avaliação psicológica realizada por profissionais qualificados 
 documentou o surgimento de comportamentos de autolesão nas 
-crianças — comportamentos que não existiam antes da separação. 
+crianças, comportamentos que não existiam antes da separação. 
 Psicólogos declararam publicamente que as crianças sofrem trauma 
 diário devido ao isolamento e separação.
 
@@ -166,30 +166,30 @@ diário devido ao isolamento e separação.
 3. VIOLAÇÕES DO DIREITO INTERNACIONAL E NACIONAL
 
 CONVENÇÃO DAS NAÇÕES UNIDAS SOBRE OS DIREITOS DA CRIANÇA (CDC):
-   • Art. 9 — Direito a não ser separado dos pais contra a sua 
+   • Art. 9, Direito a não ser separado dos pais contra a sua 
      vontade.
-   • Art. 12 — Direito da criança a ser ouvida.
-   • Art. 18 — Responsabilidade comum dos pais.
+   • Art. 12, Direito da criança a ser ouvida.
+   • Art. 18, Responsabilidade comum dos pais.
 
 CONVENÇÃO EUROPEIA DOS DIREITOS HUMANOS (CEDH):
-   • Art. 8 — Direito ao respeito pela vida privada e familiar.
+   • Art. 8, Direito ao respeito pela vida privada e familiar.
 
 DECLARAÇÃO UNIVERSAL DOS DIREITOS HUMANOS:
-   • Art. 16 — A família é o elemento natural e fundamental da 
+   • Art. 16, A família é o elemento natural e fundamental da 
      sociedade e tem direito à proteção do Estado.
 
 CONSTITUIÇÃO ITALIANA:
-   • Art. 2 — Direitos invioláveis da pessoa.
-   • Art. 30 — Dever e direito dos pais.
-   • Art. 31 — Proteção da família e da juventude.
+   • Art. 2, Direitos invioláveis da pessoa.
+   • Art. 30, Dever e direito dos pais.
+   • Art. 31, Proteção da família e da juventude.
 
 LEGISLAÇÃO ITALIANA APLICÁVEL:
-   • Lei 149/2001 — Direito da criança a crescer na sua família.
-   • Art. 403 Código Civil — Intervenção urgente apenas em caso 
+   • Lei 149/2001, Direito da criança a crescer na sua família.
+   • Art. 403 Código Civil, Intervenção urgente apenas em caso 
      de perigo real e iminente.
-   • Decreto Legislativo 286/1998 — Proteção de direitos 
+   • Decreto Legislativo 286/1998, Proteção de direitos 
      fundamentais.
-   • Lei 184/1983 — Adoção e acolhimento de menores.
+   • Lei 184/1983, Adoção e acolhimento de menores.
 
 
 4. PEDIDO

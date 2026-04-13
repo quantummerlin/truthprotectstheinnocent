@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Psychologist Documents Harm: Children Showing Self-Harm Behaviors"
 date: 2026-01-15
@@ -35,17 +35,17 @@ After the removal:
 
 This finding is significant for several reasons:
 
-1. **It contradicts the premise of the intervention** — Child removal is supposed to protect children, not harm them
+1. **It contradicts the premise of the intervention**, Child removal is supposed to protect children, not harm them
 
-2. **It provides documented evidence** — This is not speculation; it's a professional psychological assessment
+2. **It provides documented evidence**, This is not speculation; it's a professional psychological assessment
 
-3. **It was made public** — The psychologist felt strongly enough about the findings to hold a press conference
+3. **It was made public**, The psychologist felt strongly enough about the findings to hold a press conference
 
-4. **It raises urgent questions** — How can continued separation be justified when it's causing documented harm?
+4. **It raises urgent questions**, How can continued separation be justified when it's causing documented harm?
 
 ## The Question Officials Must Answer
 
-If the intervention is causing the children psychological harm — harm that did not exist before — how can it be considered "protection"?
+If the intervention is causing the children psychological harm, harm that did not exist before, how can it be considered "protection"?
 
 At what point does "child protection" become child harm?
 

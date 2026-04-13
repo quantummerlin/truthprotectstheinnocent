@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: Evidence & Timeline
 subtitle: Documented facts from official sources
@@ -33,7 +33,7 @@ Italian authorities gave three reasons for removing the children from their pare
 
 **The claim:** The children were not vaccinated.
 
-**The evidence:** The Assembly of Chieti and Teramo confirmed the children **were vaccinated**. Records indicate the vaccinations were described as "exaggerated" — meaning more than the minimum required.
+**The evidence:** The Assembly of Chieti and Teramo confirmed the children **were vaccinated**. Records indicate the vaccinations were described as "exaggerated", meaning more than the minimum required.
 
 **Source:** Regional health authority records (Assembly of Chieti and Teramo)
 </div>
@@ -50,13 +50,13 @@ Italian authorities gave three reasons for removing the children from their pare
 
 **The claim:** The children were not receiving proper education.
 
-**The evidence:** The Ministry of Education confirmed the children **correctly followed parental instruction** (istruzione parentale) using Steiner pedagogy — the legal education framework used by over 15,000 children across Italy.
+**The evidence:** The Ministry of Education confirmed the children **correctly followed parental instruction** (istruzione parentale) using Steiner pedagogy, the legal education framework used by over 15,000 children across Italy.
 
 **Source:** Ministry of Education confirmation
 
 **Legal context:** Parental instruction is protected under Article 30 of the Italian Constitution and regulated by ministerial guidelines. It is not illegal. It is not unusual. Over 15,000 Italian children are educated this way.
 
-**Further context:** Italy's national Home Education Association (LAIF — L'Associazione Istruzione in Famiglia) conducted a <a href="https://www.laifitalia.it/2024/05/23/foto-unschooling-in-italia/#osservazioni-e-precisazioni-pervenute-relativamente-allo-studio-sullunschooling-in-italia-nel-2024" target="_blank" rel="noopener">formal nationwide study on unschooling in Italy in 2024</a>, documenting how families across the country practice self-directed learning — covering learning approaches, socialization, community involvement, and pedagogical frameworks. This study confirms that unschooling is a well-established, actively researched educational approach within Italy's legal parental instruction system.
+**Further context:** Italy's national Home Education Association (LAIF, L'Associazione Istruzione in Famiglia) conducted a <a href="https://www.laifitalia.it/2024/05/23/foto-unschooling-in-italia/#osservazioni-e-precisazioni-pervenute-relativamente-allo-studio-sullunschooling-in-italia-nel-2024" target="_blank" rel="noopener">formal nationwide study on unschooling in Italy in 2024</a>, documenting how families across the country practice self-directed learning, covering learning approaches, socialization, community involvement, and pedagogical frameworks. This study confirms that unschooling is a well-established, actively researched educational approach within Italy's legal parental instruction system.
 </div>
 
 ---
@@ -75,7 +75,7 @@ Italian authorities gave three reasons for removing the children from their pare
 
 **Source:** Professional structural assessment by certified geometer
 
-**Context:** The home may be unconventional — the family chose to live simply and close to nature — but unconventional is not unsafe. The professional assessment confirms the structure is sound.
+**Context:** The home may be unconventional, the family chose to live simply and close to nature, but unconventional is not unsafe. The professional assessment confirms the structure is sound.
 </div>
 
 ---
@@ -88,9 +88,9 @@ Italian authorities gave three reasons for removing the children from their pare
 Under Italian law, child removal requires evidence of "exceptional gravity." 
 
 The three reasons given were:
-1. Vaccination status — **proven false**
-2. Education status — **proven false**
-3. Housing safety — **proven false**
+1. Vaccination status, **proven false**
+2. Education status, **proven false**
+3. Housing safety, **proven false**
 
 **What remains?**
 
@@ -142,7 +142,7 @@ A qualified psychologist conducted an assessment of the children following their
 <p style="color: #fca5a5; font-size: 1.05rem; line-height: 1.75; font-style: italic; margin-bottom: 1.5rem;">Because a child isn't healed simply by protecting him. <strong style="color: white;">Healing is restoring bonds, continuity, and a sense of belonging."</strong></p>
 
 <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem; border-top: 1px solid rgba(255,255,255,0.1); padding-top: 1rem;">
-<p style="color: rgba(255,255,255,0.7); font-size: 0.95rem; margin: 0;">— <strong style="color: white;">Prof. Tonino Cantelmi</strong>, Psychiatrist &amp; Clinical Psychologist<br><span style="font-size: 0.85rem;">Professor of Psychology of Digital Technologies, LUMSA University, Rome</span></p>
+<p style="color: rgba(255,255,255,0.7); font-size: 0.95rem; margin: 0;">, <strong style="color: white;">Prof. Tonino Cantelmi</strong>, Psychiatrist &amp; Clinical Psychologist<br><span style="font-size: 0.85rem;">Professor of Psychology of Digital Technologies, LUMSA University, Rome</span></p>
 <a href="https://www.facebook.com/share/p/17pfeuVKZG/?mibextid=wwXIfr" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; gap: 0.5rem; background: #1877f2; color: white; padding: 0.6rem 1.25rem; border-radius: 0.5rem; text-decoration: none; font-weight: 700; font-size: 0.9rem;">📄 Read Full Statement</a>
 </div>
 </div>
@@ -270,7 +270,7 @@ This is the story: **Official justifications don't hold up. What's really going 
 Focus on the facts:
 - Three claims, all disproven
 - Children now harmed by the "protection"
-- No abuse, no neglect, no crime — just a family that lived differently
+- No abuse, no neglect, no crime, just a family that lived differently
 
 <div class="text-center mt-3">
 <a href="/action/" class="btn btn-primary">Take Action</a>

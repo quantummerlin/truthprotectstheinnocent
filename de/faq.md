@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: Häufig Gestellte Fragen
 subtitle: Vollständiger Kontext für Fragen zur Medienberichterstattung
@@ -79,7 +79,7 @@ lang: de
                     <strong style="color: #3b82f6;">Kontext, der in Berichten oft fehlt:</strong>
                 </div>
                 
-                <p>Als die Familie das Grundstück kaufte, war die Priorität das Land selbst — seine langfristige Nachhaltigkeit, natürliche Umgebung und ausgereifte Bäume. Das Haus war eine sekundäre Überlegung für zukünftige Entwicklung.</p>
+                <p>Als die Familie das Grundstück kaufte, war die Priorität das Land selbst, seine langfristige Nachhaltigkeit, natürliche Umgebung und ausgereifte Bäume. Das Haus war eine sekundäre Überlegung für zukünftige Entwicklung.</p>
                 
                 <p><strong>Während der Anfangszeit wurden sanitäre Bedürfnisse erfüllt durch:</strong></p>
                 <ul style="margin: 1rem 0; padding-left: 1.5rem;">
@@ -204,15 +204,15 @@ lang: de
                 <div style="margin: 1.5rem 0;">
                     <div style="background: rgba(239, 68, 68, 0.2); border-left: 4px solid #ef4444; padding: 1rem 1.5rem; border-radius: 0 0.5rem 0.5rem 0; margin-bottom: 0.75rem;">
                         <strong style="color: #fca5a5;">1. Impfstatus</strong>
-                        <span style="color: var(--color-gray-300);"> — Die Versammlung von Chieti und Teramo bestätigte, dass die Kinder <strong style="color: white;">GEIMPFT waren</strong></span>
+                        <span style="color: var(--color-gray-300);">, Die Versammlung von Chieti und Teramo bestätigte, dass die Kinder <strong style="color: white;">GEIMPFT waren</strong></span>
                     </div>
                     <div style="background: rgba(239, 68, 68, 0.2); border-left: 4px solid #ef4444; padding: 1rem 1.5rem; border-radius: 0 0.5rem 0.5rem 0; margin-bottom: 0.75rem;">
                         <strong style="color: #fca5a5;">2. Bildung</strong>
-                        <span style="color: var(--color-gray-300);"> — Das Bildungsministerium bestätigte <strong style="color: white;">legales Homeschooling</strong></span>
+                        <span style="color: var(--color-gray-300);">, Das Bildungsministerium bestätigte <strong style="color: white;">legales Homeschooling</strong></span>
                     </div>
                     <div style="background: rgba(239, 68, 68, 0.2); border-left: 4px solid #ef4444; padding: 1rem 1.5rem; border-radius: 0 0.5rem 0.5rem 0;">
                         <strong style="color: #fca5a5;">3. Wohnungssicherheit</strong>
-                        <span style="color: var(--color-gray-300);"> — Ein zertifizierter Vermesser bestätigte, dass <strong style="color: white;">die Struktur sicher ist</strong></span>
+                        <span style="color: var(--color-gray-300);">, Ein zertifizierter Vermesser bestätigte, dass <strong style="color: white;">die Struktur sicher ist</strong></span>
                     </div>
                 </div>
                 

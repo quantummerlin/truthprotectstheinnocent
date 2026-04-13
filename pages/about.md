@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: About This Site
 subtitle: Who we are and why this site exists
@@ -8,13 +8,13 @@ narrow: true
 
 ## Purpose
 
-This website exists to document and share information about the Birmingham-Trevallion family case — a situation where three children were separated from their loving parents in Italy despite no evidence of abuse or neglect.
+This website exists to document and share information about the Birmingham-Trevallion family case, a situation where three children were separated from their loving parents in Italy despite no evidence of abuse or neglect.
 
 Our goals are:
-- **Document the truth** — Collect and present verified information
-- **Raise awareness** — Help people understand what happened
-- **Enable action** — Provide tools for people to help
-- **Support justice** — Contribute to family reunification
+- **Document the truth**, Collect and present verified information
+- **Raise awareness**, Help people understand what happened
+- **Enable action**, Provide tools for people to help
+- **Support justice**, Contribute to family reunification
 
 ---
 
@@ -22,10 +22,10 @@ Our goals are:
 
 This site is maintained by supporters of the family who believe in:
 
-- **Family sovereignty** — Parents' rights to make decisions about their children's upbringing
-- **Truth and transparency** — The public's right to know when injustice occurs
-- **Due process** — Fair treatment under the law
-- **Child welfare** — The genuine best interests of children
+- **Family sovereignty**, Parents' rights to make decisions about their children's upbringing
+- **Truth and transparency**, The public's right to know when injustice occurs
+- **Due process**, Fair treatment under the law
+- **Child welfare**, The genuine best interests of children
 
 We are not lawyers, officials, or representatives of any organization. We are concerned individuals who believe this family deserves support.
 
@@ -62,7 +62,7 @@ We do not share identifying information about the children. Their safety and pri
 We are careful about what we publish. We attribute information to sources and avoid making claims we cannot support.
 
 ### 5. Constructive Action
-We focus on actions that can help — writing letters, raising awareness, supporting the legal case — not on anger or blame.
+We focus on actions that can help, writing letters, raising awareness, supporting the legal case, not on anger or blame.
 
 ---
 
@@ -90,10 +90,10 @@ We focus on actions that can help — writing letters, raising awareness, suppor
 
 Before publishing information, we:
 
-1. **Check the source** — Is it from someone with direct knowledge?
-2. **Cross-reference** — Can it be confirmed by other sources?
-3. **Attribute clearly** — Do we say where the information comes from?
-4. **Update when needed** — Do we correct errors when discovered?
+1. **Check the source**, Is it from someone with direct knowledge?
+2. **Cross-reference**, Can it be confirmed by other sources?
+3. **Attribute clearly**, Do we say where the information comes from?
+4. **Update when needed**, Do we correct errors when discovered?
 
 When information cannot be fully verified, we clearly state that it comes from supporters or is unconfirmed.
 
@@ -129,17 +129,17 @@ For now, the best way to support is to:
 ## Technical Information
 
 This site is:
-- **Static** — No database, no server-side code
-- **Open** — Hosted on GitHub Pages
-- **Protected** — Behind Cloudflare
-- **Free** — No commercial interests
-- **Transparent** — Source code available
+- **Static**, No database, no server-side code
+- **Open**, Hosted on GitHub Pages
+- **Protected**, Behind Cloudflare
+- **Free**, No commercial interests
+- **Transparent**, Source code available
 
 We chose this approach for:
-- **Security** — Static sites are harder to hack
-- **Reliability** — No server to go down
-- **Speed** — Fast loading worldwide
-- **Longevity** — Easy to maintain and mirror
+- **Security**, Static sites are harder to hack
+- **Reliability**, No server to go down
+- **Speed**, Fast loading worldwide
+- **Longevity**, Easy to maintain and mirror
 
 ---
 

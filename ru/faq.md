@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: Часто Задаваемые Вопросы
 subtitle: Полный Контекст по Вопросам о Медийном Освещении
@@ -79,7 +79,7 @@ lang: ru
                     <strong style="color: #3b82f6;">Контекст, часто отсутствующий в репортажах:</strong>
                 </div>
                 
-                <p>Когда семья купила недвижимость, приоритетом был сам участок — его долгосрочная устойчивость, природная среда и взрослые деревья. Дом был вторичным соображением для будущего развития.</p>
+                <p>Когда семья купила недвижимость, приоритетом был сам участок, его долгосрочная устойчивость, природная среда и взрослые деревья. Дом был вторичным соображением для будущего развития.</p>
                 
                 <p><strong>В течение начального периода санитарные потребности удовлетворялись:</strong></p>
                 <ul style="margin: 1rem 0; padding-left: 1.5rem;">
@@ -90,7 +90,7 @@ lang: ru
                 <div style="background: rgba(34, 197, 94, 0.1); border-left: 4px solid #22c55e; padding: 1rem 1.5rem; border-radius: 0 0.5rem 0.5rem 0; margin: 1rem 0;">
                     <strong style="color: #22c55e;">О чём репортажи часто не упоминают:</strong>
                     <ul style="margin: 0.5rem 0 0 0; padding-left: 1.5rem;">
-                        <li>Компостные туалеты — это широко признанная, законная санитарная система</li>
+                        <li>Компостные туалеты, это широко признанная, законная санитарная система</li>
                         <li>Они обычно используются в Австралии, Европе и по всему миру</li>
                         <li><strong>С тех пор были установлены полноценные ванные комнаты</strong></li>
                     </ul>
@@ -101,7 +101,7 @@ lang: ru
                 <h3 style="color: var(--color-primary); margin-bottom: 1rem;">В: Что такое компостный туалет? СМИ представили это как что-то тревожное.</h3>
                 
                 <p><strong>Полный контекст:</strong></p>
-                <p>Компостный туалет — это широко признанная, экологически ответственная санитарная система, используемая в:</p>
+                <p>Компостный туалет, это широко признанная, экологически ответственная санитарная система, используемая в:</p>
                 <ul style="margin: 1rem 0; padding-left: 1.5rem;">
                     <li>Общественных пляжах и парках по всей Европе</li>
                     <li>Австралийских домах и учреждениях (откуда родом семья)</li>
@@ -172,13 +172,13 @@ lang: ru
                     <li>Ответственное использование ресурсов</li>
                 </ul>
                 
-                <p style="font-size: 1.1rem; font-weight: 600; color: var(--color-primary); margin-top: 1.5rem;"><strong>Отличаться — не значит быть плохим или вредным.</strong></p>
+                <p style="font-size: 1.1rem; font-weight: 600; color: var(--color-primary); margin-top: 1.5rem;"><strong>Отличаться, не значит быть плохим или вредным.</strong></p>
             </div>
             
             <div class="faq-item" style="background: var(--color-gray-50); border-radius: 1rem; padding: 2rem; margin-bottom: 1.5rem;">
                 <h3 style="color: var(--color-primary); margin-bottom: 1rem;">В: Квалифицированы ли родители?</h3>
                 
-                <p>Оба родителя — способные, ответственные взрослые с профессиональным опытом. Недавние психологические оценки установили, что оба родителя демонстрируют высокий интеллект и способности.</p>
+                <p>Оба родителя, способные, ответственные взрослые с профессиональным опытом. Недавние психологические оценки установили, что оба родителя демонстрируют высокий интеллект и способности.</p>
                 
                 <div style="background: linear-gradient(135deg, var(--color-primary), var(--color-secondary)); color: white; padding: 1.5rem; border-radius: 0.75rem; margin-top: 1rem;">
                     <strong>Недавние психологические оценки установили, что оба родителя демонстрируют высокий интеллект и компетентность.</strong>
@@ -204,15 +204,15 @@ lang: ru
                 <div style="margin: 1.5rem 0;">
                     <div style="background: rgba(239, 68, 68, 0.2); border-left: 4px solid #ef4444; padding: 1rem 1.5rem; border-radius: 0 0.5rem 0.5rem 0; margin-bottom: 0.75rem;">
                         <strong style="color: #fca5a5;">1. Статус вакцинации</strong>
-                        <span style="color: var(--color-gray-300);"> — Ассамблея Кьети и Терамо подтвердила, что дети <strong style="color: white;">БЫЛИ ПРИВИТЫ</strong></span>
+                        <span style="color: var(--color-gray-300);">, Ассамблея Кьети и Терамо подтвердила, что дети <strong style="color: white;">БЫЛИ ПРИВИТЫ</strong></span>
                     </div>
                     <div style="background: rgba(239, 68, 68, 0.2); border-left: 4px solid #ef4444; padding: 1rem 1.5rem; border-radius: 0 0.5rem 0.5rem 0; margin-bottom: 0.75rem;">
                         <strong style="color: #fca5a5;">2. Образование</strong>
-                        <span style="color: var(--color-gray-300);"> — Министерство образования подтвердило <strong style="color: white;">законное домашнее обучение</strong></span>
+                        <span style="color: var(--color-gray-300);">, Министерство образования подтвердило <strong style="color: white;">законное домашнее обучение</strong></span>
                     </div>
                     <div style="background: rgba(239, 68, 68, 0.2); border-left: 4px solid #ef4444; padding: 1rem 1.5rem; border-radius: 0 0.5rem 0.5rem 0;">
                         <strong style="color: #fca5a5;">3. Безопасность жилья</strong>
-                        <span style="color: var(--color-gray-300);"> — Сертифицированный эксперт подтвердил, что <strong style="color: white;">строение безопасно</strong></span>
+                        <span style="color: var(--color-gray-300);">, Сертифицированный эксперт подтвердил, что <strong style="color: white;">строение безопасно</strong></span>
                     </div>
                 </div>
                 

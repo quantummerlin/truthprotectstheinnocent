@@ -1,6 +1,6 @@
 ﻿---
 layout: default
-title: "СРОЧНО 26 Марта — Итальянский Сенат Принял Катрин и Натана | La Famiglia Nel Bosco"
+title: "СРОЧНО 26 Марта, Итальянский Сенат Принял Катрин и Натана | La Famiglia Nel Bosco"
 description: "СРОЧНО 26 марта 2026: Катрин и Натан были приняты Председателем Итальянского Сената с "большой человечностью". Впервые Катрин выступила публично. Высший уровень итальянского правительства услышал правду. #TruthProtectsTheInnocent"
 lang: ru
 image: /assets/images/og-image.jpg
@@ -21,22 +21,22 @@ updated: 2026-03-26-senate
         <!-- Breaking Badge -->
         <div class="sixty-mins-badge-wrap">
             <span class="sixty-mins-badge sixty-mins-badge-aired" id="sixtyMinsBadge">
-                СРОЧНО — 26 МАРТА 2026
+                СРОЧНО, 26 МАРТА 2026
             </span>
         </div>
 
         <h1 class="sixty-mins-headline">Итальянский Сенат Услышал Их Правду</h1>
-        <p class="lead">Сегодня Катрин и Натан были приняты <strong>Председателем Итальянского Сената</strong> — с тем, что Катрин назвала <em>&ldquo;большой человечностью.&rdquo;</em> После этого Катрин вышла и впервые публично обратилась к людям с момента начала этого испытания.</p>
+        <p class="lead">Сегодня Катрин и Натан были приняты <strong>Председателем Итальянского Сената</strong>, с тем, что Катрин назвала <em>&ldquo;большой человечностью.&rdquo;</em> После этого Катрин вышла и впервые публично обратилась к людям с момента начала этого испытания.</p>
 
         <!-- Senate Quote Box -->
         <div style="background: rgba(0,0,0,0.75); border: 1px solid rgba(124,58,237,0.7); border-left: 5px solid #7c3aed; border-radius: 1rem; padding: 1.5rem 2rem; margin-bottom: 1.75rem; text-align: left; max-width: 720px; margin-left: auto; margin-right: auto;">
             <div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap;">
-                <span style="background: rgba(124,58,237,0.3); border: 1px solid rgba(124,58,237,0.6); color: #c4b5fd; font-weight: 700; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 2px; padding: 0.3rem 0.9rem; border-radius: 2rem;">🏛️ Первое Публичное Обращение Катрин — Перед Итальянским Сенатом</span>
+                <span style="background: rgba(124,58,237,0.3); border: 1px solid rgba(124,58,237,0.6); color: #c4b5fd; font-weight: 700; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 2px; padding: 0.3rem 0.9rem; border-radius: 2rem;">🏛️ Первое Публичное Обращение Катрин, Перед Итальянским Сенатом</span>
             </div>
             <p style="color: white; font-size: 1rem; line-height: 1.8; font-style: italic; margin: 0 0 0.75rem 0;">&ldquo;После месяцев полного молчания мы с Натаном хотим выразить нашу искреннюю благодарность всем, кто поддерживал нас в эти долгие и невыносимо трудные дни, полные боли и скорби о наших детях.</p>
-            <p style="color: rgba(255,255,255,0.9); font-size: 1rem; line-height: 1.8; font-style: italic; margin: 0 0 0.75rem 0;">То, что мы с Натаном пришли сегодня предложить — это наша правда и наша неизменная преданность как ответственных, уважительных и любящих родителей. И с этой правдой, в невыносимой боли, мы пришли с просьбой быть услышанными и позволить нам снова быть семьёй.</p>
+            <p style="color: rgba(255,255,255,0.9); font-size: 1rem; line-height: 1.8; font-style: italic; margin: 0 0 0.75rem 0;">То, что мы с Натаном пришли сегодня предложить, это наша правда и наша неизменная преданность как ответственных, уважительных и любящих родителей. И с этой правдой, в невыносимой боли, мы пришли с просьбой быть услышанными и позволить нам снова быть семьёй.</p>
             <p style="color: #c4b5fd; font-size: 1.05rem; line-height: 1.8; font-style: italic; font-weight: 700; margin: 0 0 1rem 0;">Наша искренняя и сердечная благодарность Председателю Итальянского Сената за то, что принял нас и поддержал с большой человечностью.&rdquo;</p>
-            <p style="color: rgba(255,255,255,0.6); font-size: 0.85rem; margin: 0;">— <strong style="color: rgba(255,255,255,0.9);">Катрин Бирмингем, перед Итальянским Сенатом &bull; 26 Марта 2026</strong></p>
+            <p style="color: rgba(255,255,255,0.6); font-size: 0.85rem; margin: 0;">, <strong style="color: rgba(255,255,255,0.9);">Катрин Бирмингем, перед Итальянским Сенатом &bull; 26 Марта 2026</strong></p>
         </div>
 
         <!-- Significance Statement -->
@@ -62,25 +62,25 @@ updated: 2026-03-26-senate
                 <span style="background: rgba(220,38,38,0.3); border: 1px solid rgba(220,38,38,0.6); color: #fca5a5; font-weight: 700; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 2px; padding: 0.3rem 0.9rem; border-radius: 2rem;">🔬 Психиатрическая оценка</span>
                 <a href="https://www.facebook.com/share/p/17pfeuVKZG/?mibextid=wwXIfr" target="_blank" rel="noopener noreferrer" style="color: #93c5fd; font-size: 0.8rem; text-decoration: none; font-weight: 600;">📄 Источник →</a>
             </div>
-            <p style="color: white; font-size: 1rem; line-height: 1.8; font-style: italic; margin: 0 0 0.75rem 0;">&laquo;Они становятся <strong>эмоционально дезорганизованными</strong>. То, что я наблюдаю, — клиническая картина, соответствующая <strong>травме разлучения</strong> — безутешный плач, возбуждение, регрессии и незначительные акты самоповреждения.</p>
+            <p style="color: white; font-size: 1rem; line-height: 1.8; font-style: italic; margin: 0 0 0.75rem 0;">&laquo;Они становятся <strong>эмоционально дезорганизованными</strong>. То, что я наблюдаю, клиническая картина, соответствующая <strong>травме разлучения</strong>, безутешный плач, возбуждение, регрессии и незначительные акты самоповреждения.</p>
             <p style="color: rgba(255,255,255,0.9); font-size: 1rem; line-height: 1.8; font-style: italic; margin: 0 0 0.75rem 0;">Каждый проходящий день не нейтрален: это <strong style="color: white;">накопление страдания</strong>. В отсутствие реальной опасности разрушение семейной ячейки является дополнительным дестабилизирующим фактором.</p>
-            <p style="color: #fca5a5; font-size: 1.05rem; line-height: 1.8; font-style: italic; font-weight: 700; margin: 0 0 1rem 0;">Этим детям необходимо <strong style="color: white;">воссоединение с родителями</strong>, подходящая среда и клиническая поддержка. Потому что исцеление — это восстановление связей, преемственности и чувства принадлежности.&raquo;</p>
-            <p style="color: rgba(255,255,255,0.6); font-size: 0.85rem; margin: 0;">— <strong style="color: rgba(255,255,255,0.9);">Проф. Тонино Кантельми</strong>, Психиатр &bull; Университет LUMSA, Рим</p>
+            <p style="color: #fca5a5; font-size: 1.05rem; line-height: 1.8; font-style: italic; font-weight: 700; margin: 0 0 1rem 0;">Этим детям необходимо <strong style="color: white;">воссоединение с родителями</strong>, подходящая среда и клиническая поддержка. Потому что исцеление, это восстановление связей, преемственности и чувства принадлежности.&raquo;</p>
+            <p style="color: rgba(255,255,255,0.6); font-size: 0.85rem; margin: 0;">, <strong style="color: rgba(255,255,255,0.9);">Проф. Тонино Кантельми</strong>, Психиатр &bull; Университет LUMSA, Рим</p>
         </div>
         <div style="background: rgba(220,38,38,0.2); border: 2px solid rgba(220,38,38,0.6); border-radius: 0.75rem; padding: 0.9rem 1.5rem; margin-bottom: 1.75rem; text-align: center; max-width: 720px; margin-left: auto; margin-right: auto;">
-            <p style="color: white; font-size: 1.05rem; font-weight: 700; margin: 0;">Нет альтернативы. Нет другого решения.<br><span style="color: #fca5a5;">Эти дети должны быть воссоединены с родителями — сейчас.</span></p>
+            <p style="color: white; font-size: 1.05rem; font-weight: 700; margin: 0;">Нет альтернативы. Нет другого решения.<br><span style="color: #fca5a5;">Эти дети должны быть воссоединены с родителями, сейчас.</span></p>
         </div>
 
         <!-- Публичный Комментарий Paolo Lunghi -->
         <div style="background: rgba(0,0,0,0.75); border: 1px solid rgba(217,119,6,0.7); border-left: 5px solid #d97706; border-radius: 1rem; padding: 1.5rem 2rem; margin-bottom: 1.75rem; text-align: left; max-width: 720px; margin-left: auto; margin-right: auto;">
             <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.75rem; margin-bottom: 1rem;">
-                <span style="background: rgba(217,119,6,0.3); border: 1px solid rgba(217,119,6,0.6); color: #fcd34d; font-weight: 700; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 2px; padding: 0.3rem 0.9rem; border-radius: 2rem;">🗣️ Публичный Комментарий — Апрель 2026</span>
+                <span style="background: rgba(217,119,6,0.3); border: 1px solid rgba(217,119,6,0.6); color: #fcd34d; font-weight: 700; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 2px; padding: 0.3rem 0.9rem; border-radius: 2rem;">🗣️ Публичный Комментарий, Апрель 2026</span>
                 <a href="https://www.facebook.com/share/p/1AmHh6T99j/?mibextid=wwXIfr" target="_blank" rel="noopener noreferrer" style="color: #93c5fd; font-size: 0.8rem; text-decoration: none; font-weight: 600;">📄 Источник →</a>
             </div>
             <p style="color: white; font-size: 1rem; line-height: 1.8; font-style: italic; margin: 0 0 0.75rem 0;">&laquo;Мы столкнулись с системой, которая, даже действуя законно, действует вне всякой человечески приемлемой логики. Мы говорим о <strong style="color: white;">здоровой семье</strong> и троих детях, с которыми обращаются как с коробками из-под обуви.&raquo;</p>
             <p style="color: rgba(255,255,255,0.9); font-size: 1rem; line-height: 1.8; font-style: italic; margin: 0 0 0.75rem 0;">&laquo;Ни одна организация, ни один специалист, ни один орган власти никогда не сможет заменить кровную и эмоциональную связь между ребёнком и его матерью. Только человеческое безумие может думать, что штамп или бумага способны уничтожить эти связи.&raquo;</p>
-            <p style="color: #fcd34d; font-size: 1.05rem; line-height: 1.8; font-style: italic; font-weight: 700; margin: 0 0 1rem 0;">&laquo;Если дети спустя четыре месяца &lsquo;заключения&rsquo; успокаиваются &mdash; они на самом деле <strong style="color: white;">сдаются</strong>. Это не их благополучие &mdash; это их <strong style="color: white;">психологическое уничтожение</strong>.&raquo;</p>
-            <p style="color: rgba(255,255,255,0.6); font-size: 0.85rem; margin: 0;">— <strong style="color: rgba(255,255,255,0.9);">Паоло Лунги</strong>, Публичный Комментатор &bull; Facebook, Апрель 2026</p>
+            <p style="color: #fcd34d; font-size: 1.05rem; line-height: 1.8; font-style: italic; font-weight: 700; margin: 0 0 1rem 0;">&laquo;Если дети спустя четыре месяца &lsquo;заключения&rsquo; успокаиваются, они на самом деле <strong style="color: white;">сдаются</strong>. Это не их благополучие, это их <strong style="color: white;">психологическое уничтожение</strong>.&raquo;</p>
+            <p style="color: rgba(255,255,255,0.6); font-size: 0.85rem; margin: 0;">, <strong style="color: rgba(255,255,255,0.9);">Паоло Лунги</strong>, Публичный Комментатор &bull; Facebook, Апрель 2026</p>
         </div>
 
         
@@ -114,12 +114,12 @@ updated: 2026-03-26-senate
     </div>
 </section>
 
-<!-- ПОСЛЕДНЕЕ ОБНОВЛЕНИЕ — 29 МАРТА 2026 -->
+<!-- ПОСЛЕДНЕЕ ОБНОВЛЕНИЕ, 29 МАРТА 2026 -->
 <section style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); padding: 2rem 0;">
     <div class="container">
         <div style="max-width: 900px; margin: 0 auto;">
             <div style="text-align: center; margin-bottom: 1.5rem;">
-                <span style="background: rgba(255,255,255,0.1); color: rgba(255,255,255,0.8); padding: 0.4rem 1.25rem; border-radius: 2rem; font-size: 0.8rem; font-weight: 700; letter-spacing: 2px; text-transform: uppercase;">🗞️ ОБНОВЛЕНИЕ — 29 МАРТА 2026</span>
+                <span style="background: rgba(255,255,255,0.1); color: rgba(255,255,255,0.8); padding: 0.4rem 1.25rem; border-radius: 2rem; font-size: 0.8rem; font-weight: 700; letter-spacing: 2px; text-transform: uppercase;">🗞️ ОБНОВЛЕНИЕ, 29 МАРТА 2026</span>
             </div>
             <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem;">
                 <div style="background: rgba(124,58,237,0.12); border: 1px solid rgba(124,58,237,0.35); border-radius: 1rem; padding: 1.5rem;">
@@ -144,18 +144,18 @@ updated: 2026-03-26-senate
     <div class="container" style="position: relative; z-index: 1;">
         <div style="max-width: 900px; margin: 0 auto; text-align: center;">
             <div style="display: inline-block; background: rgba(255,255,255,0.2); padding: 0.5rem 1.5rem; border-radius: 2rem; margin-bottom: 1rem;">
-                <span style="color: white; font-weight: 600; font-size: 0.9rem; text-transform: uppercase; letter-spacing: 0.05em;">⚠️ Срочно: Утечка информации — Февраль 2026</span>
+                <span style="color: white; font-weight: 600; font-size: 0.9rem; text-transform: uppercase; letter-spacing: 0.05em;">⚠️ Срочно: Утечка информации, Февраль 2026</span>
             </div>
             <h2 style="color: white; font-size: 2rem; margin-bottom: 1rem; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">Детей Планируют Удерживать До Июня 2026</h2>
             <p style="color: rgba(255,255,255,0.95); font-size: 1.2rem; line-height: 1.6; margin-bottom: 1.5rem;">
-                Суд планирует держать этих детей в учреждении <strong style="color: #fef08a;">до июня 2026</strong> — <strong style="color: #fef08a;">7 месяцев постоянной травмы</strong>. Близнецам исполнится 7 в марте — всё ещё разлученные с родителями. Каждый день в учреждении наносит документированный, непоправимый психологический вред. <strong style="color: #fef08a;">Максимальное международное давление необходимо СЕЙЧАС.</strong>
+                Суд планирует держать этих детей в учреждении <strong style="color: #fef08a;">до июня 2026</strong>, <strong style="color: #fef08a;">7 месяцев постоянной травмы</strong>. Близнецам исполнится 7 в марте, всё ещё разлученные с родителями. Каждый день в учреждении наносит документированный, непоправимый психологический вред. <strong style="color: #fef08a;">Максимальное международное давление необходимо СЕЙЧАС.</strong>
             </p>
             
             <!-- Предупреждение о психологической травме -->
             <div style="background: rgba(0,0,0,0.3); border: 2px solid rgba(254,240,138,0.5); border-radius: 1rem; padding: 1.5rem; margin-bottom: 1.5rem;">
                 <p style="color: #fef08a; font-weight: 700; font-size: 1.1rem; margin-bottom: 0.75rem;">⚠️ ПСИХОЛОГИ ПОДТВЕРЖДАЮТ: Дети страдают от ежедневной травмы</p>
                 <p style="color: rgba(255,255,255,0.95); font-size: 1.05rem; line-height: 1.7; margin: 0;">
-                    Психологи <strong style="color: white;">публично обнародовали</strong> заключения о том, что дети <strong style="color: white;">подвергаются травме каждый день</strong>, находясь в учреждении. Они страдают от <strong style="color: white;">изоляции и разлуки</strong> с родителями — что <strong style="color: white;">ежедневно наносит им непоправимый вред</strong>. Это теперь общеизвестно.
+                    Психологи <strong style="color: white;">публично обнародовали</strong> заключения о том, что дети <strong style="color: white;">подвергаются травме каждый день</strong>, находясь в учреждении. Они страдают от <strong style="color: white;">изоляции и разлуки</strong> с родителями, что <strong style="color: white;">ежедневно наносит им непоправимый вред</strong>. Это теперь общеизвестно.
                 </p>
             </div>
             
@@ -166,11 +166,11 @@ updated: 2026-03-26-senate
                 </div>
                 <div style="background: rgba(0,0,0,0.2); border-radius: 0.75rem; padding: 1rem;">
                     <p style="color: #fef08a; font-weight: 600; margin-bottom: 0.25rem;">Сообщено в Верховный суд</p>
-                    <p style="color: rgba(255,255,255,0.85); font-size: 0.95rem; margin: 0;">Адвокаты подали в Кассационный суд — никаких действий</p>
+                    <p style="color: rgba(255,255,255,0.85); font-size: 0.95rem; margin: 0;">Адвокаты подали в Кассационный суд, никаких действий</p>
                 </div>
                 <div style="background: rgba(0,0,0,0.2); border-radius: 0.75rem; padding: 1rem;">
                     <p style="color: #fef08a; font-weight: 600; margin-bottom: 0.25rem;">Дни рождения в разлуке</p>
-                    <p style="color: rgba(255,255,255,0.85); font-size: 0.95rem; margin: 0;">День рождения Нейтана 24 фев, близнецов 4 марта — будут ли они дома?</p>
+                    <p style="color: rgba(255,255,255,0.85); font-size: 0.95rem; margin: 0;">День рождения Нейтана 24 фев, близнецов 4 марта, будут ли они дома?</p>
                 </div>
             </div>
             <div style="background: rgba(0,0,0,0.25); border-radius: 1rem; padding: 1.5rem; margin-bottom: 1.5rem;">
@@ -193,7 +193,7 @@ updated: 2026-03-26-senate
     <div class="container">
         <div class="section-header">
             <h2>Познакомьтесь с семьёй</h2>
-            <p>Это дети в центре дела — здоровые, счастливые и развивавшиеся до их изъятия</p>
+            <p>Это дети в центре дела, здоровые, счастливые и развивавшиеся до их изъятия</p>
         </div>
         
         <div class="video-gallery">
@@ -233,7 +233,7 @@ updated: 2026-03-26-senate
         
         <div class="quote-block" style="margin-top: 3rem;">
             "Эти дети были здоровыми, счастливыми и развивавшимися. Сейчас у них появились признаки травмы, вызванной самой "защитной" мерой."
-            <cite>— Из выводов психологической оценки</cite>
+            <cite>, Из выводов психологической оценки</cite>
         </div>
     </div>
 </section>
@@ -534,7 +534,7 @@ updated: 2026-03-26-senate
     <div class="container">
         <div class="container-narrow">
             <h2>Правду нужно сказать</h2>
-            <p style="font-size: 1.2rem; color: var(--color-gray-300); margin-bottom: 2rem;">Трое детей разлучены с родителями на основании утверждений, которые были опровергнуты. Сейчас у них зафиксирован психологический вред. Это не защита детей — это несправедливость.</p>
+            <p style="font-size: 1.2rem; color: var(--color-gray-300); margin-bottom: 2rem;">Трое детей разлучены с родителями на основании утверждений, которые были опровергнуты. Сейчас у них зафиксирован психологический вред. Это не защита детей, это несправедливость.</p>
             
             <div class="hero-cta">
                 <a href="/evidence/" class="btn btn-primary btn-lg">Смотреть доказательства</a>

@@ -1,6 +1,6 @@
----
+﻿---
 layout: default
-title: 📋 Petición ONU — Modelo formal para OHCHR y CIDU
+title: 📋 Petición ONU, Modelo formal para OHCHR y CIDU
 description: "Modelo de petición formal para las Naciones Unidas (OHCHR) y el CIDU sobre la violación de los derechos de los niños Birmingham-Trevallion. Descarga, personaliza y envía."
 lang: es
 permalink: /es/petition/
@@ -12,16 +12,16 @@ permalink: /es/petition/
 
 <div class="alert alert-danger" style="background: linear-gradient(135deg, rgba(220,38,38,0.15), rgba(220,38,38,0.05)); border: 2px solid rgba(220,38,38,0.4); border-radius: 1rem; padding: 2rem; margin-bottom: 2rem;">
 <h3 style="margin-top: 0; color: #dc2626;">⚠️ URGENTE: Los niños serán retenidos hasta junio de 2026</h3>
-<p style="font-size: 1.1rem; margin-bottom: 0;">Información revela la intención del tribunal de mantener a los niños en la institución <strong>hasta mayo/junio de 2026</strong>. Los gemelos cumplirán 7 años en marzo — aún separados de sus padres. <strong>Cada día causa daños psicológicos irreparables documentados.</strong> Se necesita la máxima presión internacional AHORA.</p>
+<p style="font-size: 1.1rem; margin-bottom: 0;">Información revela la intención del tribunal de mantener a los niños en la institución <strong>hasta mayo/junio de 2026</strong>. Los gemelos cumplirán 7 años en marzo, aún separados de sus padres. <strong>Cada día causa daños psicológicos irreparables documentados.</strong> Se necesita la máxima presión internacional AHORA.</p>
 </div>
 
 ## ¿Qué es esta petición?
 
 Este es un **modelo completo** para presentar una petición formal a las Naciones Unidas sobre la violación de los derechos de los niños y de la familia Birmingham-Trevallion. La petición está dirigida a:
 
-- **OHCHR** — Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos
-- **CIDU** — Comité Interministerial para los Derechos Humanos (Italia)
-- **Presidencia del Consejo de Ministros** — Gobierno Italiano
+- **OHCHR**, Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos
+- **CIDU**, Comité Interministerial para los Derechos Humanos (Italia)
+- **Presidencia del Consejo de Ministros**, Gobierno Italiano
 
 ### Cómo usar este modelo
 
@@ -34,7 +34,7 @@ Este es un **modelo completo** para presentar una petición formal a las Nacione
 
 <h2 id="destinatarios">📬 Destinatarios</h2>
 
-### Naciones Unidas — OHCHR
+### Naciones Unidas, OHCHR
 
 ```
 Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos
@@ -45,7 +45,7 @@ Email: petitions@ohchr.org
 Email: InfoDesk@ohchr.org
 ```
 
-### CIDU — Comité Interministerial para los Derechos Humanos
+### CIDU, Comité Interministerial para los Derechos Humanos
 
 ```
 CIDU - Comitato Interministeriale per i Diritti Umani
@@ -77,7 +77,7 @@ ministero.affariesteri@cert.esteri.it
 
 ---
 
-<h2 id="petition-it">📝 MODELO DE PETICIÓN (Italiano — versión original)</h2>
+<h2 id="petition-it">📝 MODELO DE PETICIÓN (Italiano, versión original)</h2>
 
 <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.15); border-radius: 1rem; padding: 2rem; margin: 1rem 0 2rem 0;">
 
@@ -96,11 +96,11 @@ PETIZIONE AL COMITATO PER I DIRITTI UMANI DELLE NAZIONI UNITE
 
 ```
 PETICIÓN AL COMITÉ DE DERECHOS HUMANOS DE LAS NACIONES UNIDAS
-OHCHR — Oficina del Alto Comisionado para los Derechos Humanos
-CIDU — Comité Interministerial para los Derechos Humanos
+OHCHR, Oficina del Alto Comisionado para los Derechos Humanos
+CIDU, Comité Interministerial para los Derechos Humanos
 Presidencia del Consejo de Ministros
 
-ASUNTO: Violación de los derechos de los niños y de la familia —
+ASUNTO: Violación de los derechos de los niños y de la familia ,
 Caso Birmingham-Trevallion / "La Famiglia nel Bosco"
 (La Familia en el Bosque)
 
@@ -113,7 +113,7 @@ Fecha de nacimiento: [TU FECHA DE NACIMIENTO]
 Nacionalidad: [TU NACIONALIDAD]
 Dirección: [TU DIRECCIÓN]
 Email: [TU EMAIL]
-Teléfono: [TU TELÉFONO — opcional]
+Teléfono: [TU TELÉFONO, opcional]
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -163,7 +163,7 @@ pretende mantenerlos allí hasta mayo/junio de 2026.
 
 Una evaluación psicológica realizada por profesionales cualificados 
 ha documentado la aparición de comportamientos de autolesión en 
-los niños — comportamientos que no existían antes de la separación. 
+los niños, comportamientos que no existían antes de la separación. 
 Los psicólogos han declarado públicamente que los niños sufren 
 trauma diario debido al aislamiento y la separación.
 
@@ -171,30 +171,30 @@ trauma diario debido al aislamiento y la separación.
 3. VIOLACIONES DEL DERECHO INTERNACIONAL Y NACIONAL
 
 CONVENCIÓN DE LAS NACIONES UNIDAS SOBRE LOS DERECHOS DEL NIÑO (CDN):
-   • Art. 9 — Derecho a no ser separado de los padres contra su 
+   • Art. 9, Derecho a no ser separado de los padres contra su 
      voluntad.
-   • Art. 12 — Derecho del niño a ser escuchado.
-   • Art. 18 — Responsabilidad común de los padres.
+   • Art. 12, Derecho del niño a ser escuchado.
+   • Art. 18, Responsabilidad común de los padres.
 
 CONVENIO EUROPEO DE DERECHOS HUMANOS (CEDH):
-   • Art. 8 — Derecho al respeto de la vida privada y familiar.
+   • Art. 8, Derecho al respeto de la vida privada y familiar.
 
 DECLARACIÓN UNIVERSAL DE DERECHOS HUMANOS:
-   • Art. 16 — La familia es el elemento natural y fundamental de 
+   • Art. 16, La familia es el elemento natural y fundamental de 
      la sociedad y tiene derecho a la protección del Estado.
 
 CONSTITUCIÓN ITALIANA:
-   • Art. 2 — Derechos inviolables de la persona.
-   • Art. 30 — Deber y derecho de los padres.
-   • Art. 31 — Protección de la familia y la juventud.
+   • Art. 2, Derechos inviolables de la persona.
+   • Art. 30, Deber y derecho de los padres.
+   • Art. 31, Protección de la familia y la juventud.
 
 LEGISLACIÓN ITALIANA APLICABLE:
-   • Ley 149/2001 — Derecho del niño a crecer en su familia.
-   • Art. 403 Código Civil — Intervención urgente solo en caso de 
+   • Ley 149/2001, Derecho del niño a crecer en su familia.
+   • Art. 403 Código Civil, Intervención urgente solo en caso de 
      peligro real e inminente.
-   • Decreto Legislativo 286/1998 — Protección de derechos 
+   • Decreto Legislativo 286/1998, Protección de derechos 
      fundamentales.
-   • Ley 184/1983 — Adopción y acogimiento de menores.
+   • Ley 184/1983, Adopción y acogimiento de menores.
 
 
 4. SOLICITUD

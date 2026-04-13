@@ -1,14 +1,14 @@
 ---
 layout: default
-title: "Happy Birthday Catherine — April 13, 2026 | Still Separated From Her Children | Catherine Birmingham & Nathan Trevallion"
-description: "Today is Catherine Birmingham's birthday — April 13, 2026 — and she is still separated from her children. Her lifelong friend Deanna has written an open letter. The Italian Senate has heard their truth. This must end. #TruthProtectsTheInnocent"
+title: "Happy Birthday Catherine, April 13, 2026 | Still Separated From Her Children | Catherine Birmingham & Nathan Trevallion"
+description: "Today is Catherine Birmingham's birthday, April 13, 2026, and she is still separated from her children. Her lifelong friend Deanna has written an open letter. The Italian Senate has heard their truth. This must end. #TruthProtectsTheInnocent"
 lang: en
 image: /assets/images/og-image.jpg
 updated: 2026-03-26-senate
 ---
 
 <!-- ══════════════════════════════════════════════════════════════
-     CATHERINE'S BIRTHDAY — APRIL 13, 2026  ★ MAIN HERO
+     CATHERINE'S BIRTHDAY, APRIL 13, 2026  ★ MAIN HERO
      ══════════════════════════════════════════════════════════════ -->
 <section style="background: linear-gradient(160deg, #06040f 0%, #130528 35%, #1e0840 60%, #06040f 100%); padding: 5rem 1rem 4.5rem; border-bottom: 3px solid rgba(167,139,250,0.5); position: relative; overflow: hidden; min-height: 60vh; display: flex; align-items: center;">
 
@@ -22,7 +22,7 @@ updated: 2026-03-26-senate
         <!-- Birthday badge -->
         <div style="display: inline-flex; align-items: center; gap: 0.6rem; background: rgba(167,139,250,0.18); border: 1.5px solid rgba(167,139,250,0.55); border-radius: 2rem; padding: 0.5rem 1.4rem; margin-bottom: 1.75rem;">
             <span style="font-size: 1.1rem;">🕯️</span>
-            <span style="color: #c4b5fd; font-weight: 700; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 2.5px;">Today — April 13, 2026</span>
+            <span style="color: #c4b5fd; font-weight: 700; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 2.5px;">Today, April 13, 2026</span>
             <span style="font-size: 1.1rem;">🕯️</span>
         </div>
 
@@ -34,10 +34,10 @@ updated: 2026-03-26-senate
             Her children are still not home. Today, a lifelong friend speaks for all of us.
         </p>
         <p style="color: rgba(196,181,253,0.9); font-size: 1.05rem; font-weight: 400; margin: 0 0 0.4rem 0; line-height: 1.7;">
-            Today is Catherine's birthday — and she is still separated from her children.
+            Today is Catherine's birthday, and she is still separated from her children.
         </p>
         <p style="color: rgba(255,255,255,0.55); font-size: 0.9rem; margin: 0 0 2rem 0; line-height: 1.6;">
-            The children were taken from their home on <strong style="color: rgba(255,255,255,0.8);">November 20, 2025</strong> — they have now been separated from their parents for <strong style="color: rgba(255,255,255,0.8);">almost 5 months</strong>. The twins spent their 7th birthday detained. Catherine was subsequently banned from the facility where they are held. She faces her own birthday today with a short video call as the closest she can get to holding them.
+            The children were taken from their home on <strong style="color: rgba(255,255,255,0.8);">November 20, 2025</strong>. They have been separated from their parents for <strong style="color: rgba(255,255,255,0.8);">almost 5 months</strong>. The twins spent their 7th birthday detained. After that, Catherine was banned from the facility where they are held. Today she gets a short video call. That is as close as she can get to holding them.
         </p>
 
         <!-- Divider -->
@@ -50,7 +50,7 @@ updated: 2026-03-26-senate
             <div style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap; gap: 0.75rem; margin-bottom: 1.5rem;">
                 <div>
                     <span style="display: block; background: rgba(167,139,250,0.2); border: 1px solid rgba(167,139,250,0.5); color: #c4b5fd; font-weight: 700; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 2px; padding: 0.3rem 0.9rem; border-radius: 2rem; margin-bottom: 0.6rem; width: fit-content;">💌 Open Letter from a Lifelong Friend</span>
-                    <p style="color: rgba(255,255,255,0.5); font-size: 0.8rem; margin: 0;">Written by <strong style="color: rgba(255,255,255,0.8);">Deanna</strong> — friend since the 1980s &bull; Published today on Catherine's birthday</p>
+                    <p style="color: rgba(255,255,255,0.5); font-size: 0.8rem; margin: 0;">Written by <strong style="color: rgba(255,255,255,0.8);">Deanna</strong>, friend since the 1980s &bull; Published today on Catherine's birthday</p>
                 </div>
                 <a href="https://www.facebook.com/share/v/1Fqg5e1Nk9/?mibextid=wwXIfr" target="_blank" rel="noopener noreferrer" style="flex-shrink: 0; display: inline-flex; align-items: center; gap: 0.45rem; background: #1877f2; color: white; padding: 0.5rem 1rem; border-radius: 0.5rem; text-decoration: none; font-weight: 700; font-size: 0.8rem; white-space: nowrap;">📄 Source</a>
             </div>
@@ -60,7 +60,7 @@ updated: 2026-03-26-senate
                 &ldquo;Dearest Catherine,
             </p>
             <p style="color: rgba(233,227,255,0.9); font-size: 1rem; line-height: 1.85; font-style: italic; margin: 0 0 1rem 0;">
-                Today, on your birthday, I found myself searching for the &ldquo;right&rdquo; words to send you&hellip; I kept it simple, but your reply broke another piece of my heart and I knew I needed to say more: <strong style="color: white;">This is my open birthday card to you.</strong> A small testimony to the woman I have had the privilege of knowing since the 80&rsquo;s — one of my longest friendships.
+                Today, on your birthday, I found myself searching for the &ldquo;right&rdquo; words to send you&hellip; I kept it simple, but your reply broke another piece of my heart and I knew I needed to say more: <strong style="color: white;">This is my open birthday card to you.</strong> A small testimony to the woman I have had the privilege of knowing since the 80&rsquo;s, one of my longest friendships.
             </p>
             <p style="color: rgba(233,227,255,0.9); font-size: 1rem; line-height: 1.85; font-style: italic; margin: 0 0 1rem 0;">
                 You are, and have always been, brilliant. A woman of depth, intuition, intelligence and undeniable strength. I have watched you grow through seasons that would have broken others, yet there you stand&hellip; still loving. <strong style="color: white;">That is not weakness, Catherine. That is extraordinary courage.</strong>
@@ -81,13 +81,13 @@ updated: 2026-03-26-senate
                 You are not the story others try to write about you. <strong style="color: #e9d8fd;">You are the truth that has stood the test of time.</strong> And I will always stand beside you in that truth.
             </p>
 
-            <!-- Heartbreak paragraph — highlighted -->
+            <!-- Heartbreak paragraph, highlighted -->
             <div style="background: rgba(220,38,38,0.1); border: 1px solid rgba(220,38,38,0.35); border-radius: 0.75rem; padding: 1.25rem 1.5rem; margin-bottom: 1.25rem;">
                 <p style="color: rgba(255,220,220,0.95); font-size: 1rem; line-height: 1.85; font-style: italic; margin: 0 0 0.75rem 0;">
-                    On your saddest birthday, I want to acknowledge the unimaginable weight you are carrying. Since the 6th of March — just two days after your twin son and daughter spent their 7th birthday detained — you have only been able to hold and comfort your children <strong style="color: white;">once</strong> (for a brief hour and a half) before enduring the heartbreak of separation all over again, as they clung to you, panicking, not wanting to let go.
+                    On your saddest birthday, I want to acknowledge the unimaginable weight you are carrying. Since the 6th of March, just two days after your twin son and daughter spent their 7th birthday detained, you have only been able to hold and comfort your children <strong style="color: white;">once</strong> (for a brief hour and a half) before enduring the heartbreak of separation all over again, as they clung to you, panicking, not wanting to let go.
                 </p>
                 <p style="color: rgba(255,220,220,0.9); font-size: 1rem; line-height: 1.85; font-style: italic; margin: 0;">
-                    And again today, you face the pain of a short video call — another moment that both connects you and breaks your heart — while enduring the reality of what your children are going through.
+                    And again today, you face the pain of a short video call, another moment that both connects you and breaks your heart, while enduring the reality of what your children are going through.
                 </p>
             </div>
 
@@ -113,12 +113,12 @@ updated: 2026-03-26-senate
         </div>
 
         <!-- CTA -->
-        <a href="/petition/" style="display: inline-block; background: linear-gradient(135deg, #7c3aed, #a78bfa); color: white; padding: 0.85rem 2.25rem; border-radius: 0.6rem; text-decoration: none; font-weight: 700; font-size: 1rem; letter-spacing: 0.5px; box-shadow: 0 4px 24px rgba(124,58,237,0.4);">✍️ Sign the Petition — Give Catherine's Children Back</a>
+        <a href="/petition/" style="display: inline-block; background: linear-gradient(135deg, #7c3aed, #a78bfa); color: white; padding: 0.85rem 2.25rem; border-radius: 0.6rem; text-decoration: none; font-weight: 700; font-size: 1rem; letter-spacing: 0.5px; box-shadow: 0 4px 24px rgba(124,58,237,0.4);">✍️ Sign the Petition, Give Catherine's Children Back</a>
         <p style="color: rgba(255,255,255,0.35); font-size: 0.8rem; margin-top: 0.9rem;">Every signature matters. Every voice counts.</p>
     </div>
 </section>
 
-<!-- Hero Section: Senate Visit — March 26, 2026 -->
+<!-- Hero Section: Senate Visit, March 26, 2026 -->
 <section class="hero hero-60mins">
     <div class="hero-video-bg">
         <video autoplay muted loop playsinline>
@@ -129,17 +129,17 @@ updated: 2026-03-26-senate
     <div class="hero-content">        <!-- Breaking Badge -->
         <div class="sixty-mins-badge-wrap">
             <span class="sixty-mins-badge sixty-mins-badge-aired" id="sixtyMinsBadge">
-                Breaking — March 26, 2026
+                Breaking, March 26, 2026
             </span>
         </div>
 
         <h1 class="sixty-mins-headline">The Italian Senate Has Heard Their Truth</h1>
-        <p class="lead">Today, Catherine and Nathan were received by the <strong>President of the Italian Senate</strong> — with what Catherine called <em>&ldquo;great humanity.&rdquo;</em> Afterwards, Catherine stepped outside and spoke publicly for the first time since this ordeal began. A moment no one who has followed this family will forget.</p>
+        <p class="lead">Today, Catherine and Nathan were received by the <strong>President of the Italian Senate</strong>, with what Catherine called <em>&ldquo;great humanity.&rdquo;</em> Afterwards, Catherine stepped outside and spoke publicly for the first time since this ordeal began. A moment no one who has followed this family will forget.</p>
 
         <!-- Senate Quote Box -->
         <div style="background: rgba(0,0,0,0.75); border: 1px solid rgba(124,58,237,0.7); border-left: 5px solid #7c3aed; border-radius: 1rem; padding: 1.5rem 2rem; margin-bottom: 1.75rem; text-align: left; max-width: 720px; margin-left: auto; margin-right: auto;">
             <div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap;">
-                <span style="background: rgba(124,58,237,0.3); border: 1px solid rgba(124,58,237,0.6); color: #c4b5fd; font-weight: 700; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 2px; padding: 0.3rem 0.9rem; border-radius: 2rem;">🏛️ Catherine's First Public Address — Outside the Italian Senate</span>
+                <span style="background: rgba(124,58,237,0.3); border: 1px solid rgba(124,58,237,0.6); color: #c4b5fd; font-weight: 700; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 2px; padding: 0.3rem 0.9rem; border-radius: 2rem;">🏛️ Catherine's First Public Address, Outside the Italian Senate</span>
             </div>
             <p style="color: white; font-size: 1rem; line-height: 1.8; font-style: italic; margin: 0 0 0.75rem 0;">&ldquo;After months of complete silence, Nathan and I would like to express our heartfelt gratitude to everyone who has supported us through these long and profoundly difficult days filled with pain and sorrow, for our children.</p>
             <p style="color: rgba(255,255,255,0.9); font-size: 1rem; line-height: 1.8; font-style: italic; margin: 0 0 0.75rem 0;">What Nathan and I came here to offer today, was our truth and our continued commitment to the responsible, respectful and loving parents we are. And with this truth, in the most unbearable pain, we came reaching out, asking to be heard and to allow us to be a family again.</p>
@@ -170,19 +170,19 @@ updated: 2026-03-26-senate
                 <span style="background: rgba(220,38,38,0.3); border: 1px solid rgba(220,38,38,0.6); color: #fca5a5; font-weight: 700; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 2px; padding: 0.3rem 0.9rem; border-radius: 2rem;">🔬 Expert Psychiatric Assessment</span>
                 <a href="https://www.facebook.com/share/p/17pfeuVKZG/?mibextid=wwXIfr" target="_blank" rel="noopener noreferrer" style="color: #93c5fd; font-size: 0.8rem; text-decoration: none; font-weight: 600;">📄 Source →</a>
             </div>
-            <p style="color: white; font-size: 1rem; line-height: 1.8; font-style: italic; margin: 0 0 0.75rem 0;">&ldquo;They are becoming <strong>emotionally disorganized</strong>. What I observe is a clinical picture consistent with <strong>separation-related trauma</strong> — inconsolable crying, agitation, regressions, and minor acts of self-harm.</p>
+            <p style="color: white; font-size: 1rem; line-height: 1.8; font-style: italic; margin: 0 0 0.75rem 0;">&ldquo;They are becoming <strong>emotionally disorganized</strong>. What I observe is a clinical picture consistent with <strong>separation-related trauma</strong>, inconsolable crying, agitation, regressions, and minor acts of self-harm.</p>
             <p style="color: rgba(255,255,255,0.9); font-size: 1rem; line-height: 1.8; font-style: italic; margin: 0 0 0.75rem 0;">Every passing day is not neutral: it&rsquo;s an <strong style="color: white;">accumulation of suffering</strong>. In the absence of current and concrete danger, dismemberment of the family unit is a further destabilizing factor.</p>
             <p style="color: #fca5a5; font-size: 1.05rem; line-height: 1.8; font-style: italic; font-weight: 700; margin: 0 0 1rem 0;">These children need <strong style="color: white;">reunion with their parents</strong>, an appropriate environment, and clinical support. Because healing is restoring bonds, continuity, and a sense of belonging.&rdquo;</p>
             <p style="color: rgba(255,255,255,0.6); font-size: 0.85rem; margin: 0;">— <strong style="color: rgba(255,255,255,0.9);">Prof. Tonino Cantelmi</strong>, Psychiatrist &bull; LUMSA University, Rome</p>
         </div>
         <div style="background: rgba(220,38,38,0.2); border: 2px solid rgba(220,38,38,0.6); border-radius: 0.75rem; padding: 0.9rem 1.5rem; margin-bottom: 1.75rem; text-align: center; max-width: 720px; margin-left: auto; margin-right: auto;">
-            <p style="color: white; font-size: 1.05rem; font-weight: 700; margin: 0;">There is no alternative. There is no other solution.<br><span style="color: #fca5a5;">These children must be reunited with their parents — now.</span></p>
+            <p style="color: white; font-size: 1.05rem; font-weight: 700; margin: 0;">There is no alternative. There is no other solution.<br><span style="color: #fca5a5;">These children must be reunited with their parents, now.</span></p>
         </div>
 
         <!-- Paolo Lunghi Public Commentary -->
         <div style="background: rgba(0,0,0,0.75); border: 1px solid rgba(217,119,6,0.7); border-left: 5px solid #d97706; border-radius: 1rem; padding: 1.5rem 2rem; margin-bottom: 1.75rem; text-align: left; max-width: 720px; margin-left: auto; margin-right: auto;">
             <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.75rem; margin-bottom: 1rem;">
-                <span style="background: rgba(217,119,6,0.3); border: 1px solid rgba(217,119,6,0.6); color: #fcd34d; font-weight: 700; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 2px; padding: 0.3rem 0.9rem; border-radius: 2rem;">🗣️ Public Commentary — April 2026</span>
+                <span style="background: rgba(217,119,6,0.3); border: 1px solid rgba(217,119,6,0.6); color: #fcd34d; font-weight: 700; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 2px; padding: 0.3rem 0.9rem; border-radius: 2rem;">🗣️ Public Commentary, April 2026</span>
                 <a href="https://www.facebook.com/share/p/1AmHh6T99j/?mibextid=wwXIfr" target="_blank" rel="noopener noreferrer" style="color: #93c5fd; font-size: 0.8rem; text-decoration: none; font-weight: 600;">📄 Source →</a>
             </div>
             <p style="color: white; font-size: 1rem; line-height: 1.8; font-style: italic; margin: 0 0 0.75rem 0;">&ldquo;We are facing a system that, even if operating legally, operates outside any humanly acceptable logic. We are talking about a <strong style="color: white;">healthy family</strong> and three children who are being treated like shoe boxes.&rdquo;</p>
@@ -226,7 +226,7 @@ updated: 2026-03-26-senate
     <div class="container">
         <div style="max-width: 860px; margin: 0 auto; text-align: center;">
             <div style="display: inline-block; background: rgba(220,38,38,0.25); border: 1px solid rgba(220,38,38,0.6); padding: 0.5rem 1.5rem; border-radius: 2rem; margin-bottom: 1.5rem;">
-                <span style="color: #fca5a5; font-weight: 700; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 2px;">🔬 Expert Psychiatric Assessment — Official Statement</span>
+                <span style="color: #fca5a5; font-weight: 700; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 2px;">🔬 Expert Psychiatric Assessment, Official Statement</span>
             </div>
             <h2 style="color: white; font-size: 1.8rem; font-weight: 900; margin-bottom: 0.5rem; line-height: 1.3;">There Is No Alternative.<br><span style="color: #fca5a5;">Reunion Is the Only Solution.</span></h2>
             <p style="color: rgba(255,255,255,0.6); font-size: 0.95rem; margin-bottom: 2rem;">A leading Italian psychiatrist has publicly stated what the clinical evidence demands.</p>
@@ -257,7 +257,7 @@ updated: 2026-03-26-senate
             </div>
 
             <div style="background: rgba(220,38,38,0.15); border: 2px solid rgba(220,38,38,0.5); border-radius: 1rem; padding: 1.25rem 1.75rem;">
-                <p style="color: #fef2f2; font-size: 1.1rem; font-weight: 700; margin: 0;">There is no alternative. There is no other solution.<br><span style="color: #fca5a5;">These children must be reunited with their parents — now.</span></p>
+                <p style="color: #fef2f2; font-size: 1.1rem; font-weight: 700; margin: 0;">There is no alternative. There is no other solution.<br><span style="color: #fca5a5;">These children must be reunited with their parents, now.</span></p>
             </div>
         </div>
     </div>
@@ -268,18 +268,18 @@ updated: 2026-03-26-senate
     <div class="container" style="position: relative; z-index: 1;">
         <div style="max-width: 900px; margin: 0 auto; text-align: center;">
             <div style="display: inline-block; background: rgba(255,255,255,0.2); padding: 0.5rem 1.5rem; border-radius: 2rem; margin-bottom: 1rem;">
-                <span style="color: white; font-weight: 600; font-size: 0.9rem; text-transform: uppercase; letter-spacing: 0.05em;">⚠️ Breaking: Leaked Information — February 2026</span>
+                <span style="color: white; font-weight: 600; font-size: 0.9rem; text-transform: uppercase; letter-spacing: 0.05em;">⚠️ Breaking: Leaked Information, February 2026</span>
             </div>
             <h2 style="color: white; font-size: 2rem; margin-bottom: 1rem; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">Children Planned To Be Held Until June 2026</h2>
             <p style="color: rgba(255,255,255,0.95); font-size: 1.2rem; line-height: 1.6; margin-bottom: 1.5rem;">
-                The court planned to keep these children institutionalized <strong style="color: #fef08a;">until June 2026</strong> — <strong style="color: #fef08a;">the court ordered the children transferred to a new facility where Catherine could not stay — the family successfully appealed, and the transfer was blocked</strong>. Every single day causes documented, irreparable psychological harm. <strong style="color: #fef08a;">Maximum international pressure is needed NOW.</strong>
+                The court planned to keep these children institutionalized <strong style="color: #fef08a;">until June 2026</strong>, <strong style="color: #fef08a;">the court ordered the children transferred to a new facility where Catherine could not stay, the family successfully appealed, and the transfer was blocked</strong>. Every single day causes documented, irreparable psychological harm. <strong style="color: #fef08a;">Maximum international pressure is needed NOW.</strong>
             </p>
             
             <!-- Psychological Trauma Alert -->
             <div style="background: rgba(0,0,0,0.3); border: 2px solid rgba(254,240,138,0.5); border-radius: 1rem; padding: 1.5rem; margin-bottom: 1.5rem;">
                 <p style="color: #fef08a; font-weight: 700; font-size: 1.1rem; margin-bottom: 0.75rem;">⚠️ PSYCHOLOGISTS CONFIRM: Children Suffering Daily Trauma</p>
                 <p style="color: rgba(255,255,255,0.95); font-size: 1.05rem; line-height: 1.7; margin: 0;">
-                    Psychologists have <strong style="color: white;">publicly released</strong> findings stating the children are <strong style="color: white;">undergoing trauma every day</strong> while being held in the institution. They are suffering from <strong style="color: white;">isolation and separation</strong> from their parents — causing <strong style="color: white;">irreparable harm daily</strong>. This is now common knowledge.
+                    Psychologists have <strong style="color: white;">publicly released</strong> findings stating the children are <strong style="color: white;">undergoing trauma every day</strong> while being held in the institution. They are suffering from <strong style="color: white;">isolation and separation</strong> from their parents, causing <strong style="color: white;">irreparable harm daily</strong>. This is now common knowledge.
                 </p>
             </div>
             
@@ -290,11 +290,11 @@ updated: 2026-03-26-senate
                 </div>
                 <div style="background: rgba(0,0,0,0.2); border-radius: 0.75rem; padding: 1rem;">
                     <p style="color: #fef08a; font-weight: 600; margin-bottom: 0.25rem;">Reported to Highest Court</p>
-                    <p style="color: rgba(255,255,255,0.85); font-size: 0.95rem; margin: 0;">Lawyers filed with Italy's Court of Cassation — yet no action taken</p>
+                    <p style="color: rgba(255,255,255,0.85); font-size: 0.95rem; margin: 0;">Lawyers filed with Italy's Court of Cassation, yet no action taken</p>
                 </div>
                 <div style="background: rgba(0,0,0,0.2); border-radius: 0.75rem; padding: 1rem;">
                     <p style="color: #fef08a; font-weight: 600; margin-bottom: 0.25rem;">Transfer Order Appealed</p>
-                    <p style="color: rgba(255,255,255,0.85); font-size: 0.95rem; margin: 0;">After 60 Minutes aired, the court ordered the children moved to a new facility banning Catherine — the family appealed and blocked the transfer</p>
+                    <p style="color: rgba(255,255,255,0.85); font-size: 0.95rem; margin: 0;">After 60 Minutes aired, the court ordered the children moved to a new facility banning Catherine, the family appealed and blocked the transfer</p>
                 </div>
             </div>
             <div style="background: rgba(0,0,0,0.25); border-radius: 1rem; padding: 1.5rem; margin-bottom: 1.5rem;">
@@ -317,7 +317,7 @@ updated: 2026-03-26-senate
     <div class="container">
         <div class="section-header">
             <h2>Meet The Family</h2>
-            <p>These are the children at the center of this case — healthy, happy, and thriving before they were taken</p>
+            <p>These are the children at the center of this case, healthy, happy, and thriving before they were taken</p>
         </div>
         
         <div class="video-gallery">
@@ -402,7 +402,7 @@ updated: 2026-03-26-senate
     <div class="container">
         <div class="section-header" style="color: white;">
             <h2 style="color: white;">The World Is Watching</h2>
-            <p style="color: rgba(255,255,255,0.75);">Thousands of voices from Italy and around the world are speaking up — publicly, on record.</p>
+            <p style="color: rgba(255,255,255,0.75);">Thousands of voices from Italy and around the world are speaking up, publicly, on record.</p>
         </div>
         <div class="stats-counter-wrapper">
             <div class="stats-counter-header">
@@ -733,7 +733,7 @@ updated: 2026-03-26-senate
     <div class="container">
         <div class="container-narrow">
             <h2>The Truth Must Be Told</h2>
-            <p style="font-size: 1.2rem; color: var(--color-gray-300); margin-bottom: 2rem;">Three children are separated from their parents based on claims that have been proven false. They are now showing documented psychological harm. This is not child protection — this is injustice.</p>
+            <p style="font-size: 1.2rem; color: var(--color-gray-300); margin-bottom: 2rem;">Three children are separated from their parents based on claims that have been proven false. They are now showing documented psychological harm. This is not child protection, this is injustice.</p>
             
             <div class="hero-cta">
                 <a href="/evidence/" class="btn btn-primary btn-lg">See The Evidence</a>
@@ -758,7 +758,7 @@ updated: 2026-03-26-senate
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
-  "headline": "Court Orders Children Moved to New Facility — Family Successfully Appeals and Blocks Transfer",
+  "headline": "Court Orders Children Moved to New Facility, Family Successfully Appeals and Blocks Transfer",
   "description": "After the 60 Minutes Australia broadcast, the court ordered the children moved to a new facility and banned Catherine Birmingham from staying there. The family successfully appealed and blocked the transfer.",
   "datePublished": "2026-03-08T00:00:00+00:00",
   "dateModified": "2026-03-08T00:00:00+00:00",

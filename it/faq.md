@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: Domande Frequenti
 subtitle: Contesto completo per le domande sulla copertura mediatica
@@ -66,10 +66,10 @@ lang: it
                 <h3 style="color: var(--color-primary); margin-bottom: 1rem;">D: Cosa ha mostrato Canale 5?</h3>
                 <p>Il programma <em>Dentro la Notizia</em> di Canale 5 ha trasmesso più servizi tra febbraio e marzo 2026:</p>
                 <ul style="margin: 1rem 0; padding-left: 1.5rem; line-height: 1.9;">
-                    <li><a href="https://mediasetinfinity.mediaset.it/video/dentrolanotizia20252026/la-festa-di-compleanno-per-papa-nathan-senza-moglie-e-figli_F314098101128C09" target="_blank" rel="noopener"><strong>2 marzo</strong> — Il compleanno di Nathan senza moglie e figli</a> (<em>"il peggior compleanno della mia vita"</em>)</li>
-                    <li><a href="https://mediasetinfinity.mediaset.it/video/dentrolanotizia20252026/famiglia-nel-bosco-compleanno-separato-per-i-gemellini_F314098101130C09" target="_blank" rel="noopener"><strong>4 marzo</strong> — Il 7° compleanno dei gemelli separati</a> (<em>"un'altra mezza giornata di festa"</em>)</li>
-                    <li><a href="https://mediasetinfinity.mediaset.it/video/dentrolanotizia20252026/famiglia-nel-bosco-la-zia-respinge-laccusa-di-condizionare-i-bimbi_F314098101126C11" target="_blank" rel="noopener"><strong>26 febbraio</strong> — La zia respinge le accuse di condizionare i bambini</a></li>
-                    <li><a href="https://mediasetinfinity.mediaset.it/video/dentrolanotizia20252026/famiglia-nel-bosco-compleanno-lontano-da-casa-per-i-gemellini-parla-la-zia_F314098101130C10" target="_blank" rel="noopener"><strong>4 marzo</strong> — La zia parla del compleanno lontano da casa</a></li>
+                    <li><a href="https://mediasetinfinity.mediaset.it/video/dentrolanotizia20252026/la-festa-di-compleanno-per-papa-nathan-senza-moglie-e-figli_F314098101128C09" target="_blank" rel="noopener"><strong>2 marzo</strong>, Il compleanno di Nathan senza moglie e figli</a> (<em>"il peggior compleanno della mia vita"</em>)</li>
+                    <li><a href="https://mediasetinfinity.mediaset.it/video/dentrolanotizia20252026/famiglia-nel-bosco-compleanno-separato-per-i-gemellini_F314098101130C09" target="_blank" rel="noopener"><strong>4 marzo</strong>, Il 7° compleanno dei gemelli separati</a> (<em>"un'altra mezza giornata di festa"</em>)</li>
+                    <li><a href="https://mediasetinfinity.mediaset.it/video/dentrolanotizia20252026/famiglia-nel-bosco-la-zia-respinge-laccusa-di-condizionare-i-bimbi_F314098101126C11" target="_blank" rel="noopener"><strong>26 febbraio</strong>, La zia respinge le accuse di condizionare i bambini</a></li>
+                    <li><a href="https://mediasetinfinity.mediaset.it/video/dentrolanotizia20252026/famiglia-nel-bosco-compleanno-lontano-da-casa-per-i-gemellini-parla-la-zia_F314098101130C10" target="_blank" rel="noopener"><strong>4 marzo</strong>, La zia parla del compleanno lontano da casa</a></li>
                 </ul>
             </div>
 
@@ -100,7 +100,7 @@ lang: it
                     <strong style="color: #3b82f6;">Contesto spesso mancante dalle notizie:</strong>
                 </div>
                 
-                <p>Quando la famiglia ha acquistato la proprietà, la priorità era il terreno stesso — la sua sostenibilità a lungo termine, l'ambiente naturale e gli alberi maturi. La casa era una considerazione secondaria per lo sviluppo futuro.</p>
+                <p>Quando la famiglia ha acquistato la proprietà, la priorità era il terreno stesso, la sua sostenibilità a lungo termine, l'ambiente naturale e gli alberi maturi. La casa era una considerazione secondaria per lo sviluppo futuro.</p>
                 
                 <p><strong>Durante il periodo iniziale, le esigenze sanitarie erano soddisfatte attraverso:</strong></p>
                 <ul style="margin: 1rem 0; padding-left: 1.5rem;">
@@ -265,15 +265,15 @@ lang: it
                 <div style="margin: 1.5rem 0;">
                     <div style="background: rgba(239, 68, 68, 0.2); border-left: 4px solid #ef4444; padding: 1rem 1.5rem; border-radius: 0 0.5rem 0.5rem 0; margin-bottom: 0.75rem;">
                         <strong style="color: #fca5a5;">1. Stato vaccinale</strong>
-                        <span style="color: var(--color-gray-300);"> — L'Assemblea di Chieti e Teramo ha confermato che i bambini <strong style="color: white;">ERANO vaccinati</strong></span>
+                        <span style="color: var(--color-gray-300);">, L'Assemblea di Chieti e Teramo ha confermato che i bambini <strong style="color: white;">ERANO vaccinati</strong></span>
                     </div>
                     <div style="background: rgba(239, 68, 68, 0.2); border-left: 4px solid #ef4444; padding: 1rem 1.5rem; border-radius: 0 0.5rem 0.5rem 0; margin-bottom: 0.75rem;">
                         <strong style="color: #fca5a5;">2. Istruzione</strong>
-                        <span style="color: var(--color-gray-300);"> — Il Ministero dell'Istruzione ha confermato <strong style="color: white;">istruzione parentale legale</strong></span>
+                        <span style="color: var(--color-gray-300);">, Il Ministero dell'Istruzione ha confermato <strong style="color: white;">istruzione parentale legale</strong></span>
                     </div>
                     <div style="background: rgba(239, 68, 68, 0.2); border-left: 4px solid #ef4444; padding: 1rem 1.5rem; border-radius: 0 0.5rem 0.5rem 0;">
                         <strong style="color: #fca5a5;">3. Sicurezza dell'abitazione</strong>
-                        <span style="color: var(--color-gray-300);"> — Un geometra certificato ha confermato che <strong style="color: white;">la struttura è sicura</strong></span>
+                        <span style="color: var(--color-gray-300);">, Un geometra certificato ha confermato che <strong style="color: white;">la struttura è sicura</strong></span>
                     </div>
                 </div>
                 

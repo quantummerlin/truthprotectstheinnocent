@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: Media & Resources
 subtitle: Press materials, videos, and downloadable resources
@@ -15,11 +15,11 @@ permalink: /media/
         
         <div class="press-gallery" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem;">
 
-            <!-- La Stampa — 14 March 2026 -->
+            <!-- La Stampa, 14 March 2026 -->
             <div class="press-card" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-lg); border-top: 4px solid #dc2626;">
                 <div style="background: linear-gradient(135deg, #1a1a2e 0%, #2d1b4e 100%); padding: 1.5rem; text-align: center;">
                     <div style="font-size: 1.6rem; font-weight: 900; color: white; letter-spacing: 0.05em;">LA STAMPA</div>
-                    <div style="font-size: 0.75rem; color: rgba(255,255,255,0.7); margin-top: 0.25rem; font-style: italic;">Est. 1867 — Italy's nationally distributed newspaper</div>
+                    <div style="font-size: 0.75rem; color: rgba(255,255,255,0.7); margin-top: 0.25rem; font-style: italic;">Est. 1867, Italy's nationally distributed newspaper</div>
                 </div>
                 <div style="padding: 1.5rem;">
                     <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.75rem;">
@@ -27,8 +27,8 @@ permalink: /media/
                         <span style="color: var(--color-gray-500); font-size: 0.875rem;">14 Mar 2026</span>
                     </div>
                     <h3 style="margin: 0 0 0.5rem 0; font-size: 1.1rem;">La Stampa</h3>
-                    <h4 style="margin: 0 0 1rem 0; font-size: 1rem; font-weight: 600; color: var(--color-gray-700);">"Barefoot and Unschooled — We Sleep Near the Animals, But Here on the Mountain We Are Happy"</h4>
-                    <p style="color: var(--color-gray-600); font-size: 0.9rem; margin: 0 0 0.75rem 0; line-height: 1.6;"><strong>By Flavia Amabile</strong> — La Stampa profiles the Pica family of Accumoli (Rieti), an Italian family who chose the same alternative lifestyle as the Trevallions — mountain farm, homeschooling, no shoes, no antibiotics. Investigated by the same authorities. Their children were <em>never removed</em>.</p>
+                    <h4 style="margin: 0 0 1rem 0; font-size: 1rem; font-weight: 600; color: var(--color-gray-700);">"Barefoot and Unschooled, We Sleep Near the Animals, But Here on the Mountain We Are Happy"</h4>
+                    <p style="color: var(--color-gray-600); font-size: 0.9rem; margin: 0 0 0.75rem 0; line-height: 1.6;"><strong>By Flavia Amabile</strong>, La Stampa profiles the Pica family of Accumoli (Rieti), an Italian family who chose the same alternative lifestyle as the Trevallions, mountain farm, homeschooling, no shoes, no antibiotics. Investigated by the same authorities. Their children were <em>never removed</em>.</p>
                     <p style="color: var(--color-gray-600); font-size: 0.9rem; margin: 0 0 1rem 0; line-height: 1.6;">The article also reports the social workers' public statement following the National Children's Guarantor's visit: <em>"After the mother was removed, good relations with the children were restored."</em> Their own words confirm Catherine was removed for advocating for her children.</p>
                     <a href="/2026/03/14/la-stampa-social-workers-statement.html" style="display: block; text-align: center; background: #1a1a2e; color: white; padding: 0.75rem; border-radius: 0.5rem; text-decoration: none; font-weight: 600; font-size: 0.9rem;">
                         📰 Read Full Article + Translation
@@ -45,8 +45,8 @@ permalink: /media/
                     </div>
                     <h3 style="margin: 0 0 0.5rem 0; font-size: 1.1rem;">Corriere della Sera</h3>
                     <h4 style="margin: 0 0 1rem 0; font-size: 1rem; font-weight: 600; color: var(--color-gray-700);">"Those who don't conform get put under guardianship"</h4>
-                    <p style="color: var(--color-gray-600); font-size: 0.9rem; margin: 0 0 0.75rem 0; line-height: 1.6;"><strong>By Susanna Tamaro</strong> — Italy's renowned author draws parallels between Vittorio Sgarbi and the Birmingham-Trevallion family. She argues that people with exceptional talent and intelligence outside societal norms often face persecution rather than appreciation.</p>
-                    <p style="color: var(--color-gray-600); font-size: 0.9rem; margin: 0; line-height: 1.6;">Tamaro questions why our society treats non-conformity as a problem requiring state intervention, asking whether bureaucratic uniformity should determine if children remain with loving parents. She suggests the Decalogue principle — honoring parents — cannot be selectively applied based on whether parents fit the mold of mediocrity.</p>
+                    <p style="color: var(--color-gray-600); font-size: 0.9rem; margin: 0 0 0.75rem 0; line-height: 1.6;"><strong>By Susanna Tamaro</strong>, Italy's renowned author draws parallels between Vittorio Sgarbi and the Birmingham-Trevallion family. She argues that people with exceptional talent and intelligence outside societal norms often face persecution rather than appreciation.</p>
+                    <p style="color: var(--color-gray-600); font-size: 0.9rem; margin: 0; line-height: 1.6;">Tamaro questions why our society treats non-conformity as a problem requiring state intervention, asking whether bureaucratic uniformity should determine if children remain with loving parents. She suggests the Decalogue principle, honoring parents, cannot be selectively applied based on whether parents fit the mold of mediocrity.</p>
                 </div>
             </div>
             
@@ -69,9 +69,9 @@ permalink: /media/
         <div style="background: linear-gradient(135deg, #0d1b2a 0%, #1b2a3b 100%); border-radius: 1rem; padding: 2rem; margin-top: 2rem; display: flex; flex-direction: column; gap: 1.25rem;">
             <div style="display: flex; align-items: flex-start; gap: 1.5rem; flex-wrap: wrap;">
                 <div style="flex: 1; min-width: 220px;">
-                    <div style="font-size: 0.75rem; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: rgba(255,255,255,0.55); margin-bottom: 0.5rem;">Public Support — March 2026</div>
-                    <h3 style="color: white; font-size: 1.2rem; margin: 0 0 0.75rem 0;">"Dear Catherine and Nathan — You'll Never Walk Alone"</h3>
-                    <p style="color: rgba(255,255,255,0.8); font-size: 0.9rem; line-height: 1.6; margin: 0 0 1rem 0;">An Italian football fan displayed this hand-painted banner at a packed stadium — visible to tens of thousands. One person, one message, one stadium. This is what solidarity looks like.</p>
+                    <div style="font-size: 0.75rem; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: rgba(255,255,255,0.55); margin-bottom: 0.5rem;">Public Support, March 2026</div>
+                    <h3 style="color: white; font-size: 1.2rem; margin: 0 0 0.75rem 0;">"Dear Catherine and Nathan, You'll Never Walk Alone"</h3>
+                    <p style="color: rgba(255,255,255,0.8); font-size: 0.9rem; line-height: 1.6; margin: 0 0 1rem 0;">An Italian football fan displayed this hand-painted banner at a packed stadium, visible to tens of thousands. One person, one message, one stadium. This is what solidarity looks like.</p>
                     <a href="/2026/03/15/football-fan-stadium-support.html" style="display: inline-block; background: white; color: #0d1b2a; padding: 0.6rem 1.25rem; border-radius: 0.5rem; text-decoration: none; font-weight: 700; font-size: 0.875rem;">
                         ⚽ See the Banner
                     </a>
@@ -85,7 +85,7 @@ permalink: /media/
         </div>
 
         <div class="quote-block" style="margin-top: 2rem;">
-            "From La Stampa to the football stadium — this story has moved from the courtroom to the national conscience."
+            "From La Stampa to the football stadium, this story has moved from the courtroom to the national conscience."
         </div>
     </div>
 </section>
@@ -95,7 +95,7 @@ permalink: /media/
     <div class="container">
         <div class="section-header">
             <h2>📺 Italian Television Coverage</h2>
-            <p><strong>Canale 5 / Dentro la Notizia</strong> — Italy's major commercial TV network has aired multiple segments on the family's case in February and March 2026</p>
+            <p><strong>Canale 5 / Dentro la Notizia</strong>, Italy's major commercial TV network has aired multiple segments on the family's case in February and March 2026</p>
         </div>
 
         <div style="background: #fef9c3; border-left: 4px solid #ca8a04; border-radius: 0.5rem; padding: 1.25rem 1.5rem; margin-bottom: 2rem;">
@@ -134,11 +134,11 @@ permalink: /media/
                         <span style="color: rgba(255,255,255,0.8); font-size: 0.8rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em;">Canale 5 · Dentro la Notizia</span>
                         <span style="color: rgba(255,255,255,0.7); font-size: 0.8rem;">2 Mar 2026</span>
                     </div>
-                    <p style="color: white; font-weight: 700; font-size: 1rem; margin: 0; line-height: 1.4;">Nathan's Birthday — Without His Wife and Children</p>
+                    <p style="color: white; font-weight: 700; font-size: 1rem; margin: 0; line-height: 1.4;">Nathan's Birthday, Without His Wife and Children</p>
                 </div>
                 <div style="padding: 1.25rem; flex: 1; display: flex; flex-direction: column;">
                     <p style="color: var(--color-gray-600); font-size: 0.9rem; line-height: 1.6; flex: 1; margin: 0 0 1rem 0;">
-                        Italian TV covers Nathan's birthday on February 24th — spent entirely alone, without Catherine or his three children. Supporters gathered around him: <em>"We are here to be close to him."</em> Nathan himself called it <strong>"the worst birthday of my life."</strong>
+                        Italian TV covers Nathan's birthday on February 24th, spent entirely alone, without Catherine or his three children. Supporters gathered around him: <em>"We are here to be close to him."</em> Nathan himself called it <strong>"the worst birthday of my life."</strong>
                     </p>
                     <a href="https://mediasetinfinity.mediaset.it/video/dentrolanotizia20252026/la-festa-di-compleanno-per-papa-nathan-senza-moglie-e-figli_F314098101128C09"
                        target="_blank" rel="noopener noreferrer"
@@ -155,11 +155,11 @@ permalink: /media/
                         <span style="color: rgba(255,255,255,0.8); font-size: 0.8rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em;">Canale 5 · Dentro la Notizia</span>
                         <span style="color: rgba(255,255,255,0.7); font-size: 0.8rem;">4 Mar 2026</span>
                     </div>
-                    <p style="color: white; font-weight: 700; font-size: 1rem; margin: 0; line-height: 1.4;">The Twins' Birthday — Separated</p>
+                    <p style="color: white; font-weight: 700; font-size: 1rem; margin: 0; line-height: 1.4;">The Twins' Birthday, Separated</p>
                 </div>
                 <div style="padding: 1.25rem; flex: 1; display: flex; flex-direction: column;">
                     <p style="color: var(--color-gray-600); font-size: 0.9rem; line-height: 1.6; flex: 1; margin: 0 0 1rem 0;">
-                        The twins turned 7 on March 4th — still in the institution, still separated from Catherine and Nathan. Italian TV covered it: <em>"Another half-celebration day for the forest family."</em>
+                        The twins turned 7 on March 4th, still in the institution, still separated from Catherine and Nathan. Italian TV covered it: <em>"Another half-celebration day for the forest family."</em>
                     </p>
                     <a href="https://mediasetinfinity.mediaset.it/video/dentrolanotizia20252026/famiglia-nel-bosco-compleanno-separato-per-i-gemellini_F314098101130C09"
                        target="_blank" rel="noopener noreferrer"
@@ -195,7 +195,7 @@ permalink: /media/
         <div style="background: linear-gradient(135deg, #1a56db 0%, #1e429f 100%); border-radius: 1rem; padding: 1.5rem 2rem; margin-top: 2rem; text-align: center;">
             <p style="color: white; font-weight: 700; font-size: 1.1rem; margin-bottom: 0.5rem;">Italy's mainstream media is covering this case.</p>
             <p style="color: rgba(255,255,255,0.9); font-size: 0.95rem; margin: 0; line-height: 1.6;">
-                Canale 5 — one of Italy's largest TV channels — has run multiple national segments. The family's lawyer publicly demanded: <strong style="color: #fef08a;">"Explain to the children why the mother was kicked out."</strong> The country is watching.
+                Canale 5, one of Italy's largest TV channels, has run multiple national segments. The family's lawyer publicly demanded: <strong style="color: #fef08a;">"Explain to the children why the mother was kicked out."</strong> The country is watching.
             </p>
         </div>
     </div>
@@ -210,12 +210,12 @@ permalink: /media/
         </div>
 
         <div style="background: linear-gradient(135deg, #1e3a5f 0%, #0f2449 100%); border-radius: 1.5rem; padding: 2.5rem; color: white; margin-bottom: 2rem;">
-            <h3 style="color: #f59e0b; font-size: 1rem; text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 1.5rem;">Key Finding — For Media &amp; Legal Professionals</h3>
+            <h3 style="color: #f59e0b; font-size: 1rem; text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 1.5rem;">Key Finding, For Media &amp; Legal Professionals</h3>
             <div style="background: rgba(245, 158, 11, 0.15); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 1rem; padding: 1.5rem; margin-bottom: 1.5rem;">
                 <p style="font-size: 1.25rem; font-weight: 700; margin: 0 0 0.5rem 0;">82% of viewers of <strong>RAI Ore 14</strong> supported the family</p>
-                <p style="color: rgba(255,255,255,0.7); font-size: 0.875rem; margin: 0;">Based on campaign analysis of public comments on RAI's YouTube broadcast — Italy's national public broadcaster, 6.5 million subscribers. RAI Ore 14, March 9, 2026. Views: 5,700+</p>
+                <p style="color: rgba(255,255,255,0.7); font-size: 0.875rem; margin: 0;">Based on campaign analysis of public comments on RAI's YouTube broadcast, Italy's national public broadcaster, 6.5 million subscribers. RAI Ore 14, March 9, 2026. Views: 5,700+</p>
             </div>
-            <p style="color: rgba(255,255,255,0.85); font-size: 0.95rem; line-height: 1.7; margin-bottom: 1.5rem;">Unlike comments under politicians' posts — where audiences self-select — RAI's audience is the general Italian public. When 82% of that audience supports a family, that is not an echo chamber. It is <strong>mainstream Italian opinion.</strong></p>
+            <p style="color: rgba(255,255,255,0.85); font-size: 0.95rem; line-height: 1.7; margin-bottom: 1.5rem;">Unlike comments under politicians' posts, where audiences self-select, RAI's audience is the general Italian public. When 82% of that audience supports a family, that is not an echo chamber. It is <strong>mainstream Italian opinion.</strong></p>
             <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 1rem;">
                 <div style="text-align: center; background: rgba(255,255,255,0.07); border-radius: 0.75rem; padding: 1.25rem;">
                     <div style="font-size: 2rem; font-weight: 900; color: #f59e0b; line-height: 1;">1,344</div>
@@ -248,13 +248,13 @@ permalink: /media/
     <div class="container">
         <div class="section-header">
             <h2>🏛️ Catherine &amp; Nathan at the Italian Senate</h2>
-            <p>March 26, 2026 — Received by the President of the Italian Senate. Afterwards, Catherine addressed the public for the first time.</p>
+            <p>March 26, 2026, Received by the President of the Italian Senate. Afterwards, Catherine addressed the public for the first time.</p>
         </div>
 
         <div style="background: linear-gradient(135deg, #1a1a2e 0%, #2d1b4e 100%); border-radius: 1rem; padding: 2rem; margin-bottom: 2rem; color: white;">
-            <div style="font-size: 0.8rem; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: rgba(255,255,255,0.6); margin-bottom: 0.5rem;">Breaking — March 26, 2026</div>
+            <div style="font-size: 0.8rem; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: rgba(255,255,255,0.6); margin-bottom: 0.5rem;">Breaking, March 26, 2026</div>
             <p style="color: rgba(255,255,255,0.9); font-size: 1.05rem; line-height: 1.7; margin: 0 0 1.25rem 0;">
-                For the first time, Catherine and Nathan were received at the highest level of Italian government — by the President of the Italian Senate — with what Catherine described as <strong style="color: #f59e0b;">"great humanity."</strong> Afterwards, Catherine stepped outside and read a public letter: her first direct address to supporters after months of chosen silence.
+                For the first time, Catherine and Nathan were received at the highest level of Italian government, by the President of the Italian Senate, with what Catherine described as <strong style="color: #f59e0b;">"great humanity."</strong> Afterwards, Catherine stepped outside and read a public letter: her first direct address to supporters after months of chosen silence.
             </p>
             <a href="/senate/breaking/2026/03/26/senate-visit-catherine-addresses-public.html"
                style="display: inline-block; background: white; color: #1a1a2e; padding: 0.7rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 700; font-size: 0.9rem;">
@@ -273,7 +273,7 @@ permalink: /media/
         </div>
 
         <div style="background: white; border: 2px solid #e5e7eb; border-left: 5px solid #7c3aed; border-radius: 1rem; padding: 2rem 2.5rem; box-shadow: 0 4px 20px rgba(0,0,0,0.06);">
-            <div style="font-size: 0.8rem; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: #7c3aed; margin-bottom: 1rem;">Catherine's Public Letter — Read Outside the Senate</div>
+            <div style="font-size: 0.8rem; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: #7c3aed; margin-bottom: 1rem;">Catherine's Public Letter, Read Outside the Senate</div>
             <p style="font-size: 1rem; line-height: 1.9; color: #1f2937; margin-top: 0;">
                 "After months of complete silence, Nathan and I would like to express our heartfelt gratitude to everyone who has supported us through these long and profoundly difficult days filled with pain and sorrow, for our children."
             </p>
@@ -284,9 +284,9 @@ permalink: /media/
                 "As a Mother and Father who adore our children, whom have always put their needs first... to be targeted and attacked the way we have, is beyond our ability to accept and understand. What Nathan and I came here to offer today, was our truth and our continued commitment to the responsible, respectful and loving parents we are."
             </p>
             <p style="font-size: 1.1rem; font-weight: 700; color: #7c3aed; font-style: italic; margin-bottom: 0.5rem;">
-                — Grazie di cuore.
+               , Grazie di cuore.
             </p>
-            <p style="color: #6b7280; font-size: 0.85rem; margin-bottom: 1.5rem; font-style: italic;">— Catherine Birmingham, outside the Italian Senate, March 26, 2026</p>
+            <p style="color: #6b7280; font-size: 0.85rem; margin-bottom: 1.5rem; font-style: italic;">, Catherine Birmingham, outside the Italian Senate, March 26, 2026</p>
             <a href="/senate/breaking/2026/03/26/senate-visit-catherine-addresses-public.html"
                style="display: inline-block; background: #7c3aed; color: white; padding: 0.7rem 1.5rem; border-radius: 0.5rem; text-decoration: none; font-weight: 700; font-size: 0.9rem;">
                 Read the Full Letter →
@@ -309,14 +309,14 @@ permalink: /media/
                 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 0.5rem;">
                     <div>
                         <div style="font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; color: rgba(255,255,255,0.6); margin-bottom: 0.25rem;">Marina Terragni &bull; Facebook &bull; March 2026</div>
-                        <p style="color: white; font-weight: 700; font-size: 1.05rem; margin: 0; line-height: 1.4;">Prof. Cantelmi Publishes Catherine's Night of Anguish — Children Sick, Mother Forbidden to Reach Them</p>
+                        <p style="color: white; font-weight: 700; font-size: 1.05rem; margin: 0; line-height: 1.4;">Prof. Cantelmi Publishes Catherine's Night of Anguish, Children Sick, Mother Forbidden to Reach Them</p>
                     </div>
                     <div style="background: rgba(255,255,255,0.15); padding: 0.4rem 0.9rem; border-radius: 2rem; font-size: 0.8rem; color: white; font-weight: 600; white-space: nowrap;">1,500+ reactions &bull; 726 shares</div>
                 </div>
             </div>
             <div style="padding: 1.5rem;">
                 <p style="color: var(--color-gray-700); font-size: 0.95rem; line-height: 1.7; margin: 0 0 1rem 0;">
-                    Marina Terragni — Italian journalist and writer — published an account from Prof. Tonino Cantelmi of a night in which Catherine learned all three children were sick with fevers and was unable to reach them or care for them. The post includes Catherine's own words:
+                    Marina Terragni, Italian journalist and writer, published an account from Prof. Tonino Cantelmi of a night in which Catherine learned all three children were sick with fevers and was unable to reach them or care for them. The post includes Catherine's own words:
                 </p>
                 <blockquote style="border-left: 4px solid #dc2626; margin: 0 0 1rem 0; padding: 0.75rem 1.25rem; background: #fef2f2; border-radius: 0 0.5rem 0.5rem 0; color: #7f1d1d; font-style: italic; font-size: 0.95rem; line-height: 1.7;">
                     &ldquo;I am really struggling knowing my children are sick and I have not even been allowed to visit them and check on them and comfort them. This is so wrong in so many ways.&rdquo;
@@ -338,17 +338,17 @@ permalink: /media/
                 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 0.5rem;">
                     <div>
                         <div style="font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; color: rgba(255,255,255,0.6); margin-bottom: 0.25rem;">GreenStyle.it &bull; Facebook &bull; March 29, 2026</div>
-                        <p style="color: white; font-weight: 700; font-size: 1.05rem; margin: 0; line-height: 1.4;">&ldquo;Can They Spend Easter With Their Parents?&rdquo; — Italy's Major Eco Platform Asks the Question</p>
+                        <p style="color: white; font-weight: 700; font-size: 1.05rem; margin: 0; line-height: 1.4;">&ldquo;Can They Spend Easter With Their Parents?&rdquo;, Italy's Major Eco Platform Asks the Question</p>
                     </div>
                     <div style="background: rgba(255,255,255,0.15); padding: 0.4rem 0.9rem; border-radius: 2rem; font-size: 0.8rem; color: white; font-weight: 600; white-space: nowrap;">655 reactions &bull; 38 shares</div>
                 </div>
             </div>
             <div style="padding: 1.5rem;">
                 <p style="color: var(--color-gray-700); font-size: 0.95rem; line-height: 1.7; margin: 0 0 1rem 0;">
-                    GreenStyle — one of Italy's most widely-read lifestyle and environment platforms — publicly asked whether the #famiglianelbosco children could spend Easter (April 5) with their parents, noting the children have only been able to see their mother via video call.
+                    GreenStyle, one of Italy's most widely-read lifestyle and environment platforms, publicly asked whether the #famiglianelbosco children could spend Easter (April 5) with their parents, noting the children have only been able to see their mother via video call.
                 </p>
                 <blockquote style="border-left: 4px solid #16a34a; margin: 0 0 1rem 0; padding: 0.75rem 1.25rem; background: #f0fdf4; border-radius: 0 0.5rem 0.5rem 0; color: #14532d; font-style: italic; font-size: 0.95rem; line-height: 1.7;">
-                    &ldquo;Easter is approaching — a celebration usually spent with the family. Could Easter be a moment of reunion? Would it be appropriate for you to grant this possibility?&rdquo;
+                    &ldquo;Easter is approaching, a celebration usually spent with the family. Could Easter be a moment of reunion? Would it be appropriate for you to grant this possibility?&rdquo;
                 </blockquote>
                 <a href="https://www.facebook.com/share/p/1BBPx5tRJs/" target="_blank" rel="noopener noreferrer"
                    style="display: inline-block; background: #16a34a; color: white; padding: 0.6rem 1.25rem; border-radius: 0.5rem; text-decoration: none; font-weight: 600; font-size: 0.875rem;">
@@ -361,7 +361,7 @@ permalink: /media/
         <div style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-lg); margin-bottom: 2rem; border-top: 4px solid #1877f2;">
             <div style="background: linear-gradient(135deg, #1877f2 0%, #0d5dbf 100%); padding: 1.25rem 1.5rem;">
                 <div style="font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; color: rgba(255,255,255,0.6); margin-bottom: 0.25rem;">TruthProtectsTheInnocent &bull; Facebook Reel &bull; March 2026</div>
-                <p style="color: white; font-weight: 700; font-size: 1.05rem; margin: 0; line-height: 1.4;">&ldquo;From a Friend Who Knows Them Well — At the Most Horrific Time&rdquo;</p>
+                <p style="color: white; font-weight: 700; font-size: 1.05rem; margin: 0; line-height: 1.4;">&ldquo;From a Friend Who Knows Them Well, At the Most Horrific Time&rdquo;</p>
             </div>
             <div style="padding: 1.5rem;">
                 <p style="color: var(--color-gray-700); font-size: 0.95rem; line-height: 1.7; margin: 0 0 1rem 0;">
@@ -382,7 +382,7 @@ permalink: /media/
     <div class="container">
         <div class="section-header">
             <h2>Family Videos</h2>
-            <p>These videos show the children before they were taken — healthy, happy, and loved</p>
+            <p>These videos show the children before they were taken, healthy, happy, and loved</p>
         </div>
         
         <div class="video-gallery">
@@ -432,7 +432,7 @@ permalink: /media/
 ### For Journalists
 
 <div class="alert alert-info">
-<strong>Story Summary:</strong> Three children from an Australian family living in Italy were removed from their parents despite no evidence of abuse or neglect. All three official justifications for the removal have been proven false by official Italian sources. A psychologist has documented emerging self-harm behaviors in the children — behaviors that did not exist before the separation.
+<strong>Story Summary:</strong> Three children from an Australian family living in Italy were removed from their parents despite no evidence of abuse or neglect. All three official justifications for the removal have been proven false by official Italian sources. A psychologist has documented emerging self-harm behaviors in the children, behaviors that did not exist before the separation.
 </div>
 
 ### Key Facts
@@ -467,7 +467,7 @@ A psychologist documented that children who were healthy before removal are now 
 ### Angle 3: "International Diplomatic Situation"
 An Australian family, Italian authorities, embassies involved, Prime Ministers informed. This local child welfare case has become an international incident.
 
-### Angle 4: "One of 15,000 — Why This Family?"
+### Angle 4: "One of 15,000, Why This Family?"
 Over 15,000 families use Italy's legal parental instruction framework. Only one had their children removed. What makes this family different?
 
 ---
@@ -490,7 +490,7 @@ The videos on this page show the family before the separation. They demonstrate:
 ## Documents & Downloads
 
 ### Email Templates
-- [Italian Letter Template](/action/#email) — Ready to copy and send to officials
+- [Italian Letter Template](/action/#email), Ready to copy and send to officials
 
 ### Information Sheets
 *Downloadable PDFs summarizing the case will be added here.*
@@ -503,7 +503,7 @@ The videos on this page show the family before the separation. They demonstrate:
 
 ### Recommended Content:
 - "Truth Protects The Innocent" banner
-- "3 Claims — All False" infographic
+- "3 Claims, All False" infographic
 - Timeline of events
 - Call to action cards
 

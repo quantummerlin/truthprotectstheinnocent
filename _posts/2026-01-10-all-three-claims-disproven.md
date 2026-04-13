@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "All Three Official Justifications Proven False"
 date: 2026-01-10
@@ -15,7 +15,7 @@ Italian authorities gave three reasons for removing the Birmingham-Trevallion ch
 
 **What authorities claimed:** The children were not vaccinated.
 
-**What official records show:** The Assembly of Chieti and Teramo — the regional health authority — confirmed the children **were vaccinated**. Records indicate they received more vaccinations than the minimum required, described as "exaggerated."
+**What official records show:** The Assembly of Chieti and Teramo, the regional health authority, confirmed the children **were vaccinated**. Records indicate they received more vaccinations than the minimum required, described as "exaggerated."
 
 **Status: DISPROVEN**
 
@@ -23,7 +23,7 @@ Italian authorities gave three reasons for removing the Birmingham-Trevallion ch
 
 **What authorities claimed:** The children were not receiving proper education.
 
-**What official records show:** The Ministry of Education confirmed the children **correctly followed parental instruction** (istruzione parentale) — the legal education framework in Italy.
+**What official records show:** The Ministry of Education confirmed the children **correctly followed parental instruction** (istruzione parentale), the legal education framework in Italy.
 
 **Context:** Over 15,000 children in Italy are educated through parental instruction. It is legal under Article 30 of the Italian Constitution.
 

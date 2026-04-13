@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: Frequently Asked Questions
 subtitle: Complete context for media coverage questions
@@ -88,7 +88,7 @@ lang: en
                         <strong style="color: #3b82f6;">Context often missing from reports:</strong>
                     </div>
                     
-                    <p>When the family purchased the property, the priority was the land itself — its long-term sustainability, natural environment, and mature trees. The house was a secondary consideration for future development.</p>
+                    <p>When the family purchased the property, the priority was the land itself, its long-term sustainability, natural environment, and mature trees. The house was a secondary consideration for future development.</p>
                     
                     <p><strong>During the initial period, sanitation needs were met through:</strong></p>
                     <ul style="margin: 1rem 0; padding-left: 1.5rem;">
@@ -184,7 +184,7 @@ lang: en
                         <strong style="color: #3b82f6;">Complete context:</strong>
                     </div>
                     
-                    <p>Under the Steiner/Waldorf educational philosophy, formal reading and writing are introduced later than in mainstream schooling — typically around age 9.</p>
+                    <p>Under the Steiner/Waldorf educational philosophy, formal reading and writing are introduced later than in mainstream schooling, typically around age 9.</p>
                     
                     <div style="background: rgba(34, 197, 94, 0.1); border-left: 4px solid #22c55e; padding: 1rem 1.5rem; border-radius: 0 0.5rem 0.5rem 0; margin: 1rem 0;">
                         <strong style="color: #22c55e;">What media often doesn't explain:</strong>
@@ -197,7 +197,7 @@ lang: en
                         </ul>
                     </div>
                     
-                    <p><strong>This is not a lack of education — it's a different educational philosophy.</strong></p>
+                    <p><strong>This is not a lack of education, it's a different educational philosophy.</strong></p>
                 </div>
                 
                 <div class="faq-item" style="background: white; border-radius: 1rem; padding: 2rem; margin-bottom: 1.5rem; box-shadow: var(--shadow-sm);">
@@ -332,15 +332,15 @@ lang: en
                     <div style="margin: 1.5rem 0;">
                         <div style="background: rgba(239, 68, 68, 0.2); border-left: 4px solid #ef4444; padding: 1rem 1.5rem; border-radius: 0 0.5rem 0.5rem 0; margin-bottom: 0.75rem;">
                             <strong style="color: #fca5a5;">1. Vaccination status</strong>
-                            <span style="color: var(--color-gray-300);"> — The Assembly of Chieti and Teramo confirmed children <strong style="color: white;">WERE vaccinated</strong></span>
+                            <span style="color: var(--color-gray-300);">, The Assembly of Chieti and Teramo confirmed children <strong style="color: white;">WERE vaccinated</strong></span>
                         </div>
                         <div style="background: rgba(239, 68, 68, 0.2); border-left: 4px solid #ef4444; padding: 1rem 1.5rem; border-radius: 0 0.5rem 0.5rem 0; margin-bottom: 0.75rem;">
                             <strong style="color: #fca5a5;">2. Education</strong>
-                            <span style="color: var(--color-gray-300);"> — The Ministry of Education confirmed <strong style="color: white;">legal homeschooling</strong></span>
+                            <span style="color: var(--color-gray-300);">, The Ministry of Education confirmed <strong style="color: white;">legal homeschooling</strong></span>
                         </div>
                         <div style="background: rgba(239, 68, 68, 0.2); border-left: 4px solid #ef4444; padding: 1rem 1.5rem; border-radius: 0 0.5rem 0.5rem 0;">
                             <strong style="color: #fca5a5;">3. Housing safety</strong>
-                            <span style="color: var(--color-gray-300);"> — A certified geometer confirmed <strong style="color: white;">structure is safe</strong></span>
+                            <span style="color: var(--color-gray-300);">, A certified geometer confirmed <strong style="color: white;">structure is safe</strong></span>
                         </div>
                     </div>
                     
@@ -487,10 +487,10 @@ lang: en
 
                 <div class="faq-item" style="background: white; border-radius: 1rem; padding: 2rem; margin-bottom: 1.5rem; box-shadow: var(--shadow-sm);">
                     <h3 style="color: var(--color-primary); margin-bottom: 1rem;">Q: Can the President of the Republic intervene?</h3>
-                    <p>This is one of the most frequently asked questions. The legal reality is nuanced:</p>
+                    <p>This is one of the most frequently asked questions. The legal picture is complicated:</p>
                     <ul style="margin: 1rem 0; padding-left: 1.5rem;">
                         <li>The President of the Republic is the guarantor of the Italian Constitution, including the principle of family unity (Article 29).</li>
-                        <li>Under Italian law, the President cannot directly override individual court decisions — but holds significant moral and political authority to direct attention to structural failures.</li>
+                        <li>Under Italian law, the President cannot directly override individual court decisions, but holds significant moral and political authority to direct attention to structural failures.</li>
                         <li>Presidential action typically takes the form of a public statement, a referral to the Constitutional Court, or a call for parliamentary review.</li>
                         <li>Multiple Members of Parliament have already raised the case and it has been discussed at ministerial level.</li>
                     </ul>
@@ -518,23 +518,23 @@ lang: en
 
                 <div class="faq-item" style="background: white; border-radius: 1rem; padding: 2rem; margin-bottom: 1.5rem; box-shadow: var(--shadow-sm);">
                     <h3 style="color: var(--color-primary); margin-bottom: 1rem;">Q: &ldquo;What is really behind this case?&rdquo;</h3>
-                    <p>This is the question on nearly everyone&rsquo;s mind — and the honest answer is: <strong>we don&rsquo;t know with certainty, and that is precisely the problem.</strong></p>
+                    <p>This is the question on nearly everyone&rsquo;s mind, and the honest answer is: <strong>we don&rsquo;t know with certainty, and that is precisely the problem.</strong></p>
                     <p>What is documented:</p>
                     <ul style="margin: 1rem 0; padding-left: 1.5rem;">
                         <li>Three official justifications were given for the removal.</li>
                         <li>All three have been officially contradicted by Italian state institutions.</li>
                         <li>Despite this, the separation has continued.</li>
-                        <li>A psychologist has documented the children are now showing signs of self-harm — behaviours that did not exist before the separation.</li>
+                        <li>A psychologist has documented the children are now showing signs of self-harm, behaviours that did not exist before the separation.</li>
                     </ul>
                     <p>When official reasons are disproven but a family remains separated, the question of transparency becomes a matter of public interest. This campaign exists to ensure that question receives a complete, documented answer.</p>
                 </div>
 
                 <div class="faq-item" style="background: white; border-radius: 1rem; padding: 2rem; margin-bottom: 1.5rem; box-shadow: var(--shadow-sm);">
                     <h3 style="color: var(--color-primary); margin-bottom: 1rem;">Q: &ldquo;On what criteria are these evaluations based?&rdquo;</h3>
-                    <p>This question — asked by many commenters with legal or professional backgrounds — addresses the process used to justify both the initial removal and its continuation.</p>
+                    <p>This question, asked by many commenters with legal or professional backgrounds, addresses the process used to justify both the initial removal and its continuation.</p>
                     <p>What the public record shows:</p>
                     <ul style="margin: 1rem 0; padding-left: 1.5rem;">
-                        <li>Evaluations of the children&rsquo;s wellbeing were conducted after — not before — the separation, meaning baseline behaviour from family life was not captured.</li>
+                        <li>Evaluations of the children&rsquo;s wellbeing were conducted after, not before, the separation, meaning baseline behaviour from family life was not captured.</li>
                         <li>The same assessment that documented emerging self-harm behaviours was conducted under institutional conditions that the family&rsquo;s lawyers have formally challenged.</li>
                         <li>A formal complaint about the conduct of the assigned social worker was submitted to the Professional Order of Social Workers by the family&rsquo;s lawyers.</li>
                     </ul>

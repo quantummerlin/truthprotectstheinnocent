@@ -1,6 +1,6 @@
----
+﻿---
 layout: default
-title: "Gold Quotes — The Words That Cannot Be Ignored"
+title: "Gold Quotes, The Words That Cannot Be Ignored"
 description: "The most powerful public voices demanding justice for Utopia, Galorian and Blue Bell. Real people, real words, real outrage."
 permalink: /gold-quotes/
 lang: en
@@ -191,23 +191,23 @@ lang: en
     <div class="container">
 
         <div class="gq-feature-quote">
-            <p class="gq-feature-text">President Meloni, you have the power and the moral duty — since you are a woman and a mother — to help these children. Put an end to this sadistic and perverse torment.</p>
-            <p class="gq-feature-attr"><span class="flag">🇮🇹</span> Nadia Z. — Italy</p>
+            <p class="gq-feature-text">President Meloni, you have the power and the moral duty, since you are a woman and a mother, to help these children. Put an end to this sadistic and perverse torment.</p>
+            <p class="gq-feature-attr"><span class="flag">🇮🇹</span> Nadia Z., Italy</p>
         </div>
 
         <div class="gq-feature-quote">
-            <p class="gq-feature-text">The 'protection' is creating the trauma — these poor children will carry this with them for life.</p>
-            <p class="gq-feature-attr"><span class="flag">🇮🇹</span> Giusi F. — Italy</p>
+            <p class="gq-feature-text">The 'protection' is creating the trauma, these poor children will carry this with them for life.</p>
+            <p class="gq-feature-attr"><span class="flag">🇮🇹</span> Giusi F., Italy</p>
         </div>
 
         <div class="gq-feature-quote">
             <p class="gq-feature-text">Did I hear right? There is no registration or system that covers all these cases? Children are 'missing' in the system? In Italy? The land of FAMILY?! Ripping children away from their families is sinister, wicked and sick.</p>
-            <p class="gq-feature-attr"><span class="flag">🇬🇧</span> Donna C. — United Kingdom</p>
+            <p class="gq-feature-attr"><span class="flag">🇬🇧</span> Donna C., United Kingdom</p>
         </div>
 
         <div class="gq-feature-quote">
-            <p class="gq-feature-text">The system is rotten and based only on economic interest — to self-finance and sustain foster homes and social workers, guaranteeing their salaries.</p>
-            <p class="gq-feature-attr"><span class="flag">🇮🇹</span> Antonio S. — Italy</p>
+            <p class="gq-feature-text">The system is rotten and based only on economic interest, to self-finance and sustain foster homes and social workers, guaranteeing their salaries.</p>
+            <p class="gq-feature-attr"><span class="flag">🇮🇹</span> Antonio S., Italy</p>
         </div>
 
     </div>
@@ -232,15 +232,15 @@ lang: en
             <div class="gq-card-meta"><span>🇮🇹</span><span class="gq-card-author">Lucia R.</span><span class="gq-card-country">Italy</span></div>
         </div>
         <div class="gq-card">
-            <p class="gq-card-text">They were perfectly fine — not drugged, not beaten.</p>
+            <p class="gq-card-text">They were perfectly fine, not drugged, not beaten.</p>
             <div class="gq-card-meta"><span>🇮🇹</span><span class="gq-card-author">Arabella V.</span><span class="gq-card-country">Italy</span></div>
         </div>
         <div class="gq-card">
-            <p class="gq-card-text">Every day is traumatic for the children. Make the children of Catherine and Nathan come home — there is NO valid reason to divide this family.</p>
+            <p class="gq-card-text">Every day is traumatic for the children. Make the children of Catherine and Nathan come home, there is NO valid reason to divide this family.</p>
             <div class="gq-card-meta"><span>🇮🇹</span><span class="gq-card-author">Daniela L.</span><span class="gq-card-country">Italy</span></div>
         </div>
         <div class="gq-card">
-            <p class="gq-card-text">Finally release these children from foster homes. We can't wait for bureaucratic timescales — children grow up fast — with severe trauma.</p>
+            <p class="gq-card-text">Finally release these children from foster homes. We can't wait for bureaucratic timescales, children grow up fast, with severe trauma.</p>
             <div class="gq-card-meta"><span>🇮🇹</span><span class="gq-card-author">Jane T.</span><span class="gq-card-country">Italy</span></div>
         </div>
     </div>
@@ -258,7 +258,7 @@ lang: en
             <div class="gq-card-meta"><span>🇮🇹</span><span class="gq-card-author">Nicoletta M.</span><span class="gq-card-country">Italy</span></div>
         </div>
         <div class="gq-card">
-            <p class="gq-card-text">The quasi-mafia apparatus that manages this issue — the Bibbiano model, forever and across all of Italy.</p>
+            <p class="gq-card-text">The quasi-mafia apparatus that manages this issue, the Bibbiano model, forever and across all of Italy.</p>
             <div class="gq-card-meta"><span>🇮🇹</span><span class="gq-card-author">Lorella P.</span><span class="gq-card-country">Italy</span></div>
         </div>
         <div class="gq-card">
@@ -276,15 +276,15 @@ lang: en
     <p class="gq-section-subtitle">Voices calling for systemic change</p>
     <div class="gq-grid">
         <div class="gq-card">
-            <p class="gq-card-text">We must separate judges — not families.</p>
+            <p class="gq-card-text">We must separate judges, not families.</p>
             <div class="gq-card-meta"><span>🇮🇹</span><span class="gq-card-author">Filippo P.</span><span class="gq-card-country">Italy</span></div>
         </div>
         <div class="gq-card">
-            <p class="gq-card-text">A decree law can be done immediately — just as you did with the false pandemic.</p>
+            <p class="gq-card-text">A decree law can be done immediately, just as you did with the false pandemic.</p>
             <div class="gq-card-meta"><span>🇮🇹</span><span class="gq-card-author">Teresa F.</span><span class="gq-card-country">Italy</span></div>
         </div>
         <div class="gq-card">
-            <p class="gq-card-text">The parents should appeal to the European Court of Human Rights — this is the only solution I see for their salvation.</p>
+            <p class="gq-card-text">The parents should appeal to the European Court of Human Rights, this is the only solution I see for their salvation.</p>
             <div class="gq-card-meta"><span>🇮🇹</span><span class="gq-card-author">Stefano Z.</span><span class="gq-card-country">Italy</span></div>
         </div>
         <div class="gq-card">
@@ -305,7 +305,7 @@ lang: en
         <h2>⚡ Voices That Cut Through</h2>
         <div class="gq-liner-grid">
             <div class="gq-liner">
-                "Please Giorgia, don't talk — DO something."
+                "Please Giorgia, don't talk, DO something."
                 <div class="gq-liner-attr">— Giuseppina R., Italy 🇮🇹</div>
             </div>
             <div class="gq-liner">
@@ -329,7 +329,7 @@ lang: en
                 <div class="gq-liner-attr">— Rita H., Hungary 🇭🇺</div>
             </div>
             <div class="gq-liner">
-                "Good words — but meanwhile what is being done for this family?"
+                "Good words, but meanwhile what is being done for this family?"
                 <div class="gq-liner-attr">— Noemi M., Italy 🇮🇹</div>
             </div>
             <div class="gq-liner">
@@ -341,11 +341,11 @@ lang: en
                 <div class="gq-liner-attr">— Cristian P., Italy 🇮🇹</div>
             </div>
             <div class="gq-liner">
-                "Not just that family — they have destroyed many, creating an insurmountable wall."
+                "Not just that family, they have destroyed many, creating an insurmountable wall."
                 <div class="gq-liner-attr">— Vita Maria N., Italy 🇮🇹</div>
             </div>
             <div class="gq-liner">
-                "The law should protect the weakest — not divide them from their mothers."
+                "The law should protect the weakest, not divide them from their mothers."
                 <div class="gq-liner-attr">— Angelina A., Italy 🇮🇹</div>
             </div>
         </div>

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Situation Update: January 2026"
 date: 2026-01-20
@@ -40,7 +40,7 @@ According to supporters with knowledge of the case, all three primary justificat
 
 A qualified psychologist has assessed the children since their removal. The findings were significant enough that the psychologist held a formal press conference:
 
-**Key finding:** The children are now exhibiting self-harm behaviors — behaviors that did not exist before the separation.
+**Key finding:** The children are now exhibiting self-harm behaviors, behaviors that did not exist before the separation.
 
 This is documented evidence that the intervention itself is causing harm to the children it was supposed to protect.
 
@@ -63,9 +63,9 @@ While the family faces restrictions and surveillance, the public has the freedom
 
 ## What You Can Do
 
-1. **[Email Italian officials](/action/#email)** — Use the template provided
-2. **Share the story** — Use #TruthProtectsTheInnocent
-3. **Contact media** — Help get this story covered
+1. **[Email Italian officials](/action/#email)**, Use the template provided
+2. **Share the story**, Use #TruthProtectsTheInnocent
+3. **Contact media**, Help get this story covered
 
 ## The Central Question
 

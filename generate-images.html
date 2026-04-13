@@ -58,9 +58,9 @@
         <p>Click the buttons below to generate and download the images needed for the website.</p>
         <p><strong>After downloading, place these files in <code>/assets/images/</code></strong></p>
         <ul>
-            <li><strong>OG Image:</strong> 1200x630px — Social media sharing (Facebook, Twitter, WhatsApp, LinkedIn)</li>
-            <li><strong>Favicon:</strong> 512x512px — Browser tab icon</li>
-            <li><strong>Apple Touch Icon:</strong> 180x180px — iOS home screen</li>
+            <li><strong>OG Image:</strong> 1200x630px, Social media sharing (Facebook, Twitter, WhatsApp, LinkedIn)</li>
+            <li><strong>Favicon:</strong> 512x512px, Browser tab icon</li>
+            <li><strong>Apple Touch Icon:</strong> 180x180px, iOS home screen</li>
         </ul>
     </div>
 
@@ -95,28 +95,28 @@
         }
 
         // ========================
-        // OG IMAGE — 1200 x 630
+        // OG IMAGE, 1200 x 630
         // Chase Hughes Behavioral Influence Design
         //
         // Principles applied:
-        // 1. PATTERN INTERRUPT — 0.3s to stop the scroll (massive "3", stark isolation)
-        // 2. INCOMPLETE LOOP (Zeigarnik) — the brain CANNOT leave an open story
-        // 3. THREAT DETECTION — amygdala fires before logic (children + danger)
-        // 4. NEGATIVE SPACE AS WEAPON — emptiness = isolation = something is WRONG
-        // 5. SPECIFICITY = CREDIBILITY — exact numbers, not vague claims
-        // 6. EMOTIONAL SEQUENCING — Threat → Outrage → Curiosity (in that order)
+        // 1. PATTERN INTERRUPT, 0.3s to stop the scroll (massive "3", stark isolation)
+        // 2. INCOMPLETE LOOP (Zeigarnik), the brain CANNOT leave an open story
+        // 3. THREAT DETECTION, amygdala fires before logic (children + danger)
+        // 4. NEGATIVE SPACE AS WEAPON, emptiness = isolation = something is WRONG
+        // 5. SPECIFICITY = CREDIBILITY, exact numbers, not vague claims
+        // 6. EMOTIONAL SEQUENCING, Threat → Outrage → Curiosity (in that order)
         // ========================
         function drawOGImage() {
             const canvas = document.getElementById('og-canvas');
             const ctx = canvas.getContext('2d');
             const W = 1200, H = 630;
 
-            // ===== BACKGROUND: TRUE BLACK — not dark grey, BLACK =====
+            // ===== BACKGROUND: TRUE BLACK, not dark grey, BLACK =====
             // Black = threat environment. The brain goes on alert.
             ctx.fillStyle = '#000000';
             ctx.fillRect(0, 0, W, H);
 
-            // Extremely subtle noise/grain — makes it feel REAL, not designed
+            // Extremely subtle noise/grain, makes it feel REAL, not designed
             for (let i = 0; i < 8000; i++) {
                 const x = Math.random() * W;
                 const y = Math.random() * H;
@@ -125,14 +125,14 @@
                 ctx.fillRect(x, y, 1, 1);
             }
 
-            // Single faint red glow — like something bleeding in the dark
+            // Single faint red glow, like something bleeding in the dark
             const dangerGlow = ctx.createRadialGradient(100, H * 0.4, 0, 100, H * 0.4, 400);
             dangerGlow.addColorStop(0, 'rgba(220, 38, 38, 0.06)');
             dangerGlow.addColorStop(1, 'rgba(0,0,0,0)');
             ctx.fillStyle = dangerGlow;
             ctx.fillRect(0, 0, W, H);
 
-            // ===== THE WOUND — left edge red line =====
+            // ===== THE WOUND, left edge red line =====
             // Thin, surgical. Like a cut. The eye follows it down.
             const woundGrad = ctx.createLinearGradient(0, 0, 0, H);
             woundGrad.addColorStop(0, 'rgba(220, 38, 38, 0)');
@@ -142,19 +142,19 @@
             ctx.fillStyle = woundGrad;
             ctx.fillRect(0, 0, 4, H);
 
-            // ===== THE MASSIVE "3" — pattern interrupt =====
+            // ===== THE MASSIVE "3", pattern interrupt =====
             // This is the scroll-stopper. A giant number alone in darkness.
-            // The brain asks: "3 what?" — and now you own their attention.
+            // The brain asks: "3 what?", and now you own their attention.
             ctx.save();
             ctx.font = '900 480px Inter, Arial, sans-serif';
             ctx.textAlign = 'right';
             ctx.textBaseline = 'top';
-            // Ghostly, barely there — like it's haunting the image
+            // Ghostly, barely there, like it's haunting the image
             ctx.fillStyle = 'rgba(220, 38, 38, 0.045)';
             ctx.fillText('3', W - 20, -40);
             ctx.restore();
 
-            // ===== THREE FIGURES — the children =====
+            // ===== THREE FIGURES, the children =====
             // Three small silhouette circles representing the children.
             // Isolated in darkness = the brain screams DANGER.
             // Hughes: "The protective instinct is the strongest human drive."
@@ -202,7 +202,7 @@
             ctx.textAlign = 'center';
             ctx.fillText('STILL SEPARATED', figStartX + figSpacing, figY + 56);
 
-            // ===== AUTHORITY SIGNAL — top left, understated =====
+            // ===== AUTHORITY SIGNAL, top left, understated =====
             // Hughes: Authority must be STATED, not shouted.
             // Small, factual, muted = more believable than a badge.
             ctx.textAlign = 'left';
@@ -214,11 +214,11 @@
             ctx.fillStyle = 'rgba(255, 255, 255, 0.2)';
             ctx.fillText('INVESTIGATION', 40, 56);
 
-            // ===== THE HEADLINE — Chase Hughes "Incomplete Loop" =====
+            // ===== THE HEADLINE, Chase Hughes "Incomplete Loop" =====
             // Rule: State the WHAT. Withhold the HOW and WHY.
             // The brain will do ANYTHING to close this loop.
 
-            // Line 1: The setup — big, white, clinical
+            // Line 1: The setup, big, white, clinical
             ctx.font = '800 84px Inter, Arial, sans-serif';
             ctx.fillStyle = '#ffffff';
             ctx.textAlign = 'left';
@@ -229,34 +229,34 @@
             ctx.fillStyle = '#ffffff';
             ctx.fillText('3 lies.', 40, 295);
 
-            // Line 3: The open loop — in red, this is the trigger
+            // Line 3: The open loop, in red, this is the trigger
             // "Now the world knows." implies a REVEAL that you haven't seen yet
             ctx.font = '800 56px Inter, Arial, sans-serif';
             ctx.fillStyle = '#dc2626';
             ctx.fillText('Now the world knows.', 40, 380);
 
-            // ===== THE EVIDENCE LINE — specificity = credibility =====
+            // ===== THE EVIDENCE LINE, specificity = credibility =====
             // Hughes: "Specific claims are believed 72% more than vague ones"
             // This line is SMALL. It rewards the person who stopped to look closer.
-            // That's a micro-commitment — now they're invested.
+            // That's a micro-commitment, now they're invested.
             ctx.font = '400 19px Inter, Arial, sans-serif';
             ctx.fillStyle = 'rgba(148, 163, 184, 0.7)';
-            ctx.fillText('All 3 official justifications for removal — exposed as false.', 40, 435);
+            ctx.fillText('All 3 official justifications for removal, exposed as false.', 40, 435);
 
             // ===== BOTTOM ZONE =====
-            // Faint separator — barely visible. The card should feel like
+            // Faint separator, barely visible. The card should feel like
             // it fades into nothingness at the bottom. Isolation.
             ctx.fillStyle = 'rgba(255,255,255,0.04)';
             ctx.fillRect(40, H - 80, W - 80, 1);
 
-            // URL — ghostly, almost hidden. 
+            // URL, ghostly, almost hidden. 
             // Hughes: "If they have to look for it, they want it more."
             ctx.font = '400 15px Inter, Arial, sans-serif';
             ctx.fillStyle = 'rgba(255, 255, 255, 0.18)';
             ctx.textAlign = 'left';
             ctx.fillText('truthprotectstheinnocent.quantummerlin.com', 40, H - 30);
 
-            // Right side: the emotional residue — one last punch
+            // Right side: the emotional residue, one last punch
             ctx.font = '600 14px Inter, Arial, sans-serif';
             ctx.fillStyle = 'rgba(220, 38, 38, 0.5)';
             ctx.textAlign = 'right';
@@ -264,7 +264,7 @@
         }
 
         // ========================
-        // FAVICON — 512 x 512
+        // FAVICON, 512 x 512
         // Bold shield + T design (readable at 16px)
         // ========================
         function drawFavicon() {
@@ -335,7 +335,7 @@
         }
 
         // ========================
-        // APPLE TOUCH ICON — 180 x 180
+        // APPLE TOUCH ICON, 180 x 180
         // Same shield + T, tighter spacing
         // ========================
         function drawAppleIcon() {

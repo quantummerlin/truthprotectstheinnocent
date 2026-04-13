@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: Najczęściej Zadawane Pytania
 subtitle: Pełny Kontekst dla Pytań o Relacje Medialne
@@ -79,7 +79,7 @@ lang: pl
                     <strong style="color: #3b82f6;">Kontekst często pomijany w reportażach:</strong>
                 </div>
                 
-                <p>Kiedy rodzina kupiła nieruchomość, priorytetem był sam teren — jego długoterminowa zrównoważoność, naturalne środowisko i dojrzałe drzewa. Dom był drugorzędną kwestią do przyszłego rozwoju.</p>
+                <p>Kiedy rodzina kupiła nieruchomość, priorytetem był sam teren, jego długoterminowa zrównoważoność, naturalne środowisko i dojrzałe drzewa. Dom był drugorzędną kwestią do przyszłego rozwoju.</p>
                 
                 <p><strong>W początkowym okresie potrzeby sanitarne były zaspokajane przez:</strong></p>
                 <ul style="margin: 1rem 0; padding-left: 1.5rem;">
@@ -204,15 +204,15 @@ lang: pl
                 <div style="margin: 1.5rem 0;">
                     <div style="background: rgba(239, 68, 68, 0.2); border-left: 4px solid #ef4444; padding: 1rem 1.5rem; border-radius: 0 0.5rem 0.5rem 0; margin-bottom: 0.75rem;">
                         <strong style="color: #fca5a5;">1. Status szczepień</strong>
-                        <span style="color: var(--color-gray-300);"> — Zgromadzenie Chieti i Teramo potwierdziło, że dzieci <strong style="color: white;">BYŁY ZASZCZEPIONE</strong></span>
+                        <span style="color: var(--color-gray-300);">, Zgromadzenie Chieti i Teramo potwierdziło, że dzieci <strong style="color: white;">BYŁY ZASZCZEPIONE</strong></span>
                     </div>
                     <div style="background: rgba(239, 68, 68, 0.2); border-left: 4px solid #ef4444; padding: 1rem 1.5rem; border-radius: 0 0.5rem 0.5rem 0; margin-bottom: 0.75rem;">
                         <strong style="color: #fca5a5;">2. Edukacja</strong>
-                        <span style="color: var(--color-gray-300);"> — Ministerstwo Edukacji potwierdziło <strong style="color: white;">legalną edukację domową</strong></span>
+                        <span style="color: var(--color-gray-300);">, Ministerstwo Edukacji potwierdziło <strong style="color: white;">legalną edukację domową</strong></span>
                     </div>
                     <div style="background: rgba(239, 68, 68, 0.2); border-left: 4px solid #ef4444; padding: 1rem 1.5rem; border-radius: 0 0.5rem 0.5rem 0;">
                         <strong style="color: #fca5a5;">3. Bezpieczeństwo mieszkaniowe</strong>
-                        <span style="color: var(--color-gray-300);"> — Certyfikowany geodeta potwierdził, że <strong style="color: white;">struktura jest bezpieczna</strong></span>
+                        <span style="color: var(--color-gray-300);">, Certyfikowany geodeta potwierdził, że <strong style="color: white;">struktura jest bezpieczna</strong></span>
                     </div>
                 </div>
                 

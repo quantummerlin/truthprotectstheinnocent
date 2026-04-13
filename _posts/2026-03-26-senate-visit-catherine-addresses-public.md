@@ -1,16 +1,16 @@
----
+﻿---
 layout: post
-title: "Catherine and Nathan at the Italian Senate — And Catherine's First Public Address"
+title: "Catherine and Nathan at the Italian Senate, And Catherine's First Public Address"
 date: 2026-03-26
 categories: [Senate, Breaking]
-summary: "For the first time since the ordeal began, Catherine and Nathan were received at the Italian Senate. Afterwards, Catherine stepped outside and — for the first time — addressed the public directly, reading a letter of profound gratitude and heartfelt truth."
+summary: "For the first time since the ordeal began, Catherine and Nathan were received at the Italian Senate. Afterwards, Catherine stepped outside and, for the first time, addressed the public directly, reading a letter of profound gratitude and heartfelt truth."
 ---
 
 <div style="background: linear-gradient(135deg, #1a1a2e 0%, #2d1b4e 100%); color: white; padding: 2rem; border-radius: 1rem; margin-bottom: 2rem;">
-    <div style="font-size: 0.8rem; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: rgba(255,255,255,0.6); margin-bottom: 0.5rem;">Senate — March 2026</div>
+    <div style="font-size: 0.8rem; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: rgba(255,255,255,0.6); margin-bottom: 0.5rem;">Senate, March 2026</div>
     <h2 style="color: white; font-size: 1.6rem; margin: 0 0 1rem 0;">Catherine &amp; Nathan at the Italian Senate</h2>
     <p style="color: rgba(255,255,255,0.9); font-size: 1.05rem; line-height: 1.7; margin: 0;">
-        After months of silence, Catherine and Nathan were received by the President of the Italian Senate. What followed — Catherine stepping outside and speaking publicly for the first time — is a moment the supporters of this family will not forget.
+        After months of silence, Catherine and Nathan were received by the President of the Italian Senate. What followed, Catherine stepping outside and speaking publicly for the first time, is a moment the supporters of this family will not forget.
     </p>
 </div>
 
@@ -18,7 +18,7 @@ summary: "For the first time since the ordeal began, Catherine and Nathan were r
 
 On March 26, 2026, Catherine Birmingham and Nathan Trevallion attended the Italian Senate, received by the President of the Senate with, as Catherine described, *"great humanity."*
 
-This was not just a courtesy visit. It was recognition at the highest level of Italian government that this family's case — and the truth at its heart — deserved to be heard.
+This was not just a courtesy visit. It was recognition at the highest level of Italian government that this family's case, and the truth at its heart, deserved to be heard.
 
 <div style="margin: 2rem 0;">
     <div style="background: #f8fafc; border-radius: 1rem; overflow: hidden; box-shadow: 0 8px 30px rgba(0,0,0,0.12);">
@@ -34,9 +34,9 @@ This was not just a courtesy visit. It was recognition at the highest level of I
 
 ---
 
-## Catherine Speaks Publicly — For the First Time
+## Catherine Speaks Publicly, For the First Time
 
-After months of choosing silence — to protect the children, to protect the case, to protect what little hope remained — Catherine stepped outside the Senate and spoke.
+After months of choosing silence, to protect the children, to protect the case, to protect what little hope remained, Catherine stepped outside the Senate and spoke.
 
 Below is the letter she read to those gathered, and to the world:
 
@@ -61,7 +61,7 @@ We purposefully chose our life out of a clear conscious choice, grounded in our 
 </p>
 
 <p style="font-size: 1.05rem; line-height: 1.9; color: #1f2937;">
-As a Mother and Father who adore our children, whom have always put their needs first, who have always acted in the awareness and the knowledge of what was right for them, while fully aware of not being perfect or possessing absolute truths — to be targeted and attacked the way we have, is beyond our ability to accept and understand.
+As a Mother and Father who adore our children, whom have always put their needs first, who have always acted in the awareness and the knowledge of what was right for them, while fully aware of not being perfect or possessing absolute truths, to be targeted and attacked the way we have, is beyond our ability to accept and understand.
 </p>
 
 <p style="font-size: 1.05rem; line-height: 1.9; color: #1f2937;">
@@ -76,7 +76,7 @@ Our sincere and heartfelt thanks to the President of the Italian Senate for rece
 — Grazie di cuore.
 </p>
 
-<p style="color: #6b7280; font-size: 0.85rem; margin-top: 1rem; margin-bottom: 0; font-style: italic;">— Catherine Birmingham, outside the Italian Senate, March 2026</p>
+<p style="color: #6b7280; font-size: 0.85rem; margin-top: 1rem; margin-bottom: 0; font-style: italic;">, Catherine Birmingham, outside the Italian Senate, March 2026</p>
 
 </div>
 
@@ -84,16 +84,16 @@ Our sincere and heartfelt thanks to the President of the Italian Senate for rece
 
 ## Why This Moment Matters
 
-For months, Catherine and Nathan have remained silent publicly — not from indifference, but from care. Every word calculated. Every move observed.
+For months, Catherine and Nathan have remained silent publicly, not from indifference, but from care. Every word calculated. Every move observed.
 
-This letter is the first time Catherine has spoken — not to a judge, not to a journalist, not in a legal document — but directly to the people who have stood beside this family through everything.
+This letter is the first time Catherine has spoken, not to a judge, not to a journalist, not in a legal document, but directly to the people who have stood beside this family through everything.
 
 It is a letter of gratitude. But it is also a statement of truth:
 
-- They chose Italy for its values — family, love, togetherness
+- They chose Italy for its values, family, love, togetherness
 - They lived peacefully within the law
 - They never taught their children to distrust authorities
-- They came to the Senate to be heard — and they were
+- They came to the Senate to be heard, and they were
 
 The President of the Italian Senate received them with *"great humanity."* That matters. It is a signal, at the very highest level, that the truth in this case has not gone unheard.
 
@@ -105,7 +105,7 @@ The President of the Italian Senate received them with *"great humanity."* That 
 - A qualified psychologist confirmed the children suffer **irreparable daily harm** from the separation
 - The children have been held in institutional care **for over a year**, separated from both parents
 - The twins spent their **7th birthday** inside the institution
-- The court ordered Catherine **banned from a new facility** — an order the family successfully appealed, blocking the transfer
+- The court ordered Catherine **banned from a new facility**, an order the family successfully appealed, blocking the transfer
 - The National Children's Guarantor visited and made clear the situation requires resolution
 
 ---

@@ -37,7 +37,7 @@ Every email, every share, every conversation creates pressure. When officials kn
             <span style="font-size: 1.5rem; min-width: 2rem; text-align: center;">📢</span>
             <div>
                 <strong style="font-size: 1rem;">3. Share on social media</strong>
-                <p style="margin: 0.25rem 0 0 0; color: rgba(255,255,255,0.75); font-size: 0.9rem;">Use <strong>#TruthProtectsTheInnocent</strong> or <strong>#VeritàPerLaFamiglia</strong> — visibility creates accountability. <a href="#share" style="color: #f59e0b;">Posts below ↓</a></p>
+                <p style="margin: 0.25rem 0 0 0; color: rgba(255,255,255,0.75); font-size: 0.9rem;">Use <strong>#TruthProtectsTheInnocent</strong> or <strong>#VeritàPerLaFamiglia</strong>, visibility creates accountability. <a href="#share" style="color: #f59e0b;">Posts below ↓</a></p>
             </div>
         </div>
         <div style="display: flex; align-items: flex-start; gap: 1rem; background: rgba(255,255,255,0.08); border-radius: 0.75rem; padding: 1rem;">
@@ -68,13 +68,13 @@ Every email, every share, every conversation creates pressure. When officials kn
 ### Priority Contacts
 
 **Committee for Children & Adolescents:**
-- `michela.brambilla@camera.it` — President
-- `gloria.saccanijotti@camera.it` — Vice President
-- `simona.malpezzi@senato.it` — Vice President
+- `michela.brambilla@camera.it`, President
+- `gloria.saccanijotti@camera.it`, Vice President
+- `simona.malpezzi@senato.it`, Vice President
 
 **Justice Committee:**
-- `ciro.maschio@camera.it` — President
-- `michela.dibiase@camera.it` — Secretary
+- `ciro.maschio@camera.it`, President
+- `michela.dibiase@camera.it`, Secretary
 
 ### Always CC These Government Addresses:
 ```
@@ -84,7 +84,7 @@ ministero.affariesteri@cert.esteri.it
 
 ### Subject Line (Copy Exactly):
 ```
-Richiesta di attenzione istituzionale – tutela dei minori e unità familiare
+Richiesta di attenzione istituzionale, tutela dei minori e unità familiare
 ```
 *(Translation: "Request for institutional attention - protection of minors and family unity")*
 
@@ -114,7 +114,7 @@ in Italia.
 è a rischio di stabilità.
 
 Inoltre, una valutazione psicologica ha documentato comportamenti di 
-autolesionismo emergenti nei bambini — comportamenti che non esistevano 
+autolesionismo emergenti nei bambini, comportamenti che non esistevano 
 prima della separazione.
 
 Chiedo rispettosamente: se tutte le giustificazioni ufficiali sono state 
@@ -139,7 +139,7 @@ Distinti saluti,
 
 ---
 
-<h2 id="petition">🇺🇳 UN Petition — Petizione ONU (OHCHR / CIDU)</h2>
+<h2 id="petition">🇺🇳 UN Petition, Petizione ONU (OHCHR / CIDU)</h2>
 
 <div class="alert alert-danger" style="background: linear-gradient(135deg, rgba(220,38,38,0.15), rgba(220,38,38,0.05)); border: 2px solid rgba(220,38,38,0.4); border-radius: 1rem; padding: 2rem; margin-bottom: 1.5rem;">
 <h3 style="margin-top: 0; color: #dc2626;">⚠️ URGENTE: I bambini saranno trattenuti fino a giugno 2026</h3>
@@ -178,9 +178,9 @@ Social media spreads awareness and shows officials that people are paying attent
 Three children were removed from their parents in Italy.
 
 The official reasons given:
-❌ "Not vaccinated" — PROVEN FALSE by health authorities
-❌ "Not educated" — PROVEN FALSE by Ministry of Education
-❌ "Unsafe house" — PROVEN FALSE by certified assessment
+❌ "Not vaccinated", PROVEN FALSE by health authorities
+❌ "Not educated", PROVEN FALSE by Ministry of Education
+❌ "Unsafe house", PROVEN FALSE by certified assessment
 
 All three justifications disproven. Children still separated.
 
@@ -234,13 +234,13 @@ Media coverage creates public awareness and pressure on authorities to act fairl
 
 ### Story Angles for Journalists:
 
-1. **"All Official Reasons Proven False"** — Three justifications for child removal, all disproven by official sources. Why are children still separated?
+1. **"All Official Reasons Proven False"**, Three justifications for child removal, all disproven by official sources. Why are children still separated?
 
-2. **"Intervention Causing Documented Harm"** — Psychologist documents self-harm behaviors in children that didn't exist before removal.
+2. **"Intervention Causing Documented Harm"**, Psychologist documents self-harm behaviors in children that didn't exist before removal.
 
-3. **"International Diplomatic Situation"** — Australian family in Italy, both embassies aware, Prime Ministers informed.
+3. **"International Diplomatic Situation"**, Australian family in Italy, both embassies aware, Prime Ministers informed.
 
-4. **"Legally Educated Children Removed"** — One of 15,000+ families using Italy's legal parental instruction framework, but only one had children removed.
+4. **"Legally Educated Children Removed"**, One of 15,000+ families using Italy's legal parental instruction framework, but only one had children removed.
 
 ### What to Include When Contacting Media:
 - Link to this website with documented evidence
@@ -282,9 +282,9 @@ If you know this family personally, your testimony matters.
 <h3 style="margin-top: 0;">Keep It Factual</h3>
 
 When taking action, focus on:
-- **Documented facts** — the three false claims, the psychological assessment
-- **Questions** — why are children still separated if justifications are false?
-- **Requests** — for transparency, review, and fair treatment
+- **Documented facts**, the three false claims, the psychological assessment
+- **Questions**, why are children still separated if justifications are false?
+- **Requests**, for transparency, review, and fair treatment
 
 Avoid:
 - Speculation about motives

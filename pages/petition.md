@@ -1,6 +1,6 @@
----
+﻿---
 layout: page
-title: 📋 Petizione ONU — UN Petition
+title: 📋 Petizione ONU, UN Petition
 subtitle: Modello di petizione formale per OHCHR e CIDU / Formal petition template for OHCHR and CIDU
 permalink: /petition/
 ---
@@ -9,16 +9,16 @@ permalink: /petition/
 
 <div class="alert alert-danger" style="background: linear-gradient(135deg, rgba(220,38,38,0.15), rgba(220,38,38,0.05)); border: 2px solid rgba(220,38,38,0.4); border-radius: 1rem; padding: 2rem; margin-bottom: 2rem;">
 <h3 style="margin-top: 0; color: #dc2626;">⚠️ URGENTE: I bambini saranno tenuti fino a giugno 2026</h3>
-<p style="font-size: 1.1rem; margin-bottom: 0;">Informazioni rivelano l'intenzione del tribunale di mantenere i bambini in istituto <strong>fino a maggio/giugno 2026</strong>. I gemelli compiono 7 anni a marzo — ancora separati dai genitori. <strong>Ogni giorno causa danni psicologici irreparabili documentati.</strong> È necessaria la massima pressione internazionale ORA.</p>
+<p style="font-size: 1.1rem; margin-bottom: 0;">Informazioni rivelano l'intenzione del tribunale di mantenere i bambini in istituto <strong>fino a maggio/giugno 2026</strong>. I gemelli compiono 7 anni a marzo, ancora separati dai genitori. <strong>Ogni giorno causa danni psicologici irreparabili documentati.</strong> È necessaria la massima pressione internazionale ORA.</p>
 </div>
 
 ## Cos'è questa petizione?
 
 Questo è un **modello completo** per presentare una petizione formale alle Nazioni Unite riguardante la violazione dei diritti dei minori e della famiglia Birmingham-Trevallion. La petizione è diretta a:
 
-- **OHCHR** — Alto Commissariato delle Nazioni Unite per i Diritti Umani
-- **CIDU** — Comitato Interministeriale per i Diritti Umani (Italia)
-- **Presidenza del Consiglio dei Ministri** — Governo Italiano
+- **OHCHR**, Alto Commissariato delle Nazioni Unite per i Diritti Umani
+- **CIDU**, Comitato Interministeriale per i Diritti Umani (Italia)
+- **Presidenza del Consiglio dei Ministri**, Governo Italiano
 
 ### Come usare questo modello
 
@@ -31,7 +31,7 @@ Questo è un **modello completo** per presentare una petizione formale alle Nazi
 
 <h2 id="destinatari">📬 Destinatari / Recipients</h2>
 
-### Nazioni Unite — OHCHR
+### Nazioni Unite, OHCHR
 
 ```
 Alto Commissariato delle Nazioni Unite per i Diritti Umani (OHCHR)
@@ -42,7 +42,7 @@ Email: petitions@ohchr.org
 Email: InfoDesk@ohchr.org
 ```
 
-### CIDU — Comitato Interministeriale per i Diritti Umani
+### CIDU, Comitato Interministeriale per i Diritti Umani
 
 ```
 CIDU - Comitato Interministeriale per i Diritti Umani
@@ -84,11 +84,11 @@ Copia il testo seguente e personalizza le parti tra parentesi quadre:
 
 ```
 PETIZIONE AL COMITATO PER I DIRITTI UMANI DELLE NAZIONI UNITE
-OHCHR — Alto Commissariato per i Diritti Umani
-CIDU — Comitato Interministeriale per i Diritti Umani
+OHCHR, Alto Commissariato per i Diritti Umani
+CIDU, Comitato Interministeriale per i Diritti Umani
 Presidenza del Consiglio dei Ministri
 
-OGGETTO: Violazione dei diritti dei minori e della famiglia — 
+OGGETTO: Violazione dei diritti dei minori e della famiglia , 
 Caso Birmingham-Trevallion / "La Famiglia nel Bosco"
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -144,7 +144,7 @@ istituzionale, separati dai genitori. Informazioni indicano che il
 tribunale intende trattenerli fino a maggio/giugno 2026.
 
 Una valutazione psicologica condotta da professionisti qualificati ha 
-documentato l'emergere di comportamenti autolesionistici nei bambini — 
+documentato l'emergere di comportamenti autolesionistici nei bambini , 
 comportamenti che non esistevano prima della separazione. Gli psicologi 
 hanno dichiarato pubblicamente che i bambini subiscono traumi quotidiani 
 a causa dell'isolamento e della separazione dai genitori.
@@ -155,37 +155,37 @@ a causa dell'isolamento e della separazione dai genitori.
 La presente situazione configura la violazione delle seguenti norme:
 
 CONVENZIONE ONU SUI DIRITTI DELL'INFANZIA (CRC):
-   • Art. 9 — Diritto a non essere separati dai genitori contro la 
+   • Art. 9, Diritto a non essere separati dai genitori contro la 
      loro volontà, salvo quando le autorità competenti determinino, 
      sotto riserva di revisione giudiziaria, che questa separazione 
      è necessaria nell'interesse superiore del bambino.
-   • Art. 12 — Diritto del minore di essere ascoltato.
-   • Art. 18 — Responsabilità comune dei genitori per l'educazione 
+   • Art. 12, Diritto del minore di essere ascoltato.
+   • Art. 18, Responsabilità comune dei genitori per l'educazione 
      e lo sviluppo del bambino.
 
 CONVENZIONE EUROPEA DEI DIRITTI DELL'UOMO (CEDU):
-   • Art. 8 — Diritto al rispetto della vita privata e familiare.
+   • Art. 8, Diritto al rispetto della vita privata e familiare.
 
 DICHIARAZIONE UNIVERSALE DEI DIRITTI DELL'UOMO:
-   • Art. 16 — La famiglia è il nucleo naturale e fondamentale della 
+   • Art. 16, La famiglia è il nucleo naturale e fondamentale della 
      società e ha diritto ad essere protetta dalla società e dallo Stato.
 
 COSTITUZIONE ITALIANA:
-   • Art. 2 — La Repubblica riconosce e garantisce i diritti 
+   • Art. 2, La Repubblica riconosce e garantisce i diritti 
      inviolabili dell'uomo.
-   • Art. 30 — È dovere e diritto dei genitori mantenere, istruire 
+   • Art. 30, È dovere e diritto dei genitori mantenere, istruire 
      ed educare i figli.
-   • Art. 31 — La Repubblica agevola la formazione della famiglia e 
+   • Art. 31, La Repubblica agevola la formazione della famiglia e 
      protegge l'infanzia e la gioventù.
 
 NORMATIVA ITALIANA APPLICABILE:
-   • Legge 149/2001 — Diritto del minore a crescere nella propria 
+   • Legge 149/2001, Diritto del minore a crescere nella propria 
      famiglia.
-   • Art. 403 Codice Civile — Intervento urgente solo in caso di 
+   • Art. 403 Codice Civile, Intervento urgente solo in caso di 
      pericolo reale e imminente.
-   • D.Lgs. 286/1998 — Tutela dei diritti fondamentali delle persone 
+   • D.Lgs. 286/1998, Tutela dei diritti fondamentali delle persone 
      straniere in Italia.
-   • Legge 184/1983 — Disciplina dell'adozione e dell'affidamento 
+   • Legge 184/1983, Disciplina dell'adozione e dell'affidamento 
      dei minori.
 
 
@@ -251,11 +251,11 @@ Below is the complete English translation of the petition. You may use this vers
 
 ```
 PETITION TO THE UNITED NATIONS HUMAN RIGHTS COMMITTEE
-OHCHR — Office of the High Commissioner for Human Rights
-CIDU — Inter-Ministerial Committee for Human Rights
+OHCHR, Office of the High Commissioner for Human Rights
+CIDU, Inter-Ministerial Committee for Human Rights
 Presidency of the Council of Ministers
 
-SUBJECT: Violation of the rights of children and the family —
+SUBJECT: Violation of the rights of children and the family ,
 Birmingham-Trevallion Case / "La Famiglia nel Bosco" 
 (The Family in the Woods)
 
@@ -268,7 +268,7 @@ Date of Birth: [YOUR DATE OF BIRTH]
 Citizenship: [YOUR CITIZENSHIP]
 Address: [YOUR ADDRESS]
 Email: [YOUR EMAIL]
-Phone: [YOUR PHONE — optional]
+Phone: [YOUR PHONE, optional]
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -315,7 +315,7 @@ facility, separated from their parents. Information indicates the
 court intends to keep them there until May/June 2026.
 
 A psychological assessment conducted by qualified professionals has 
-documented the emergence of self-harm behaviours in the children — 
+documented the emergence of self-harm behaviours in the children , 
 behaviours that did not exist before the separation. Psychologists 
 have publicly stated that the children are experiencing daily trauma 
 due to isolation and separation from their parents.
@@ -327,37 +327,37 @@ The current situation constitutes a violation of the following
 provisions:
 
 UN CONVENTION ON THE RIGHTS OF THE CHILD (CRC):
-   • Art. 9 — Right not to be separated from parents against their 
+   • Art. 9, Right not to be separated from parents against their 
      will, except when competent authorities determine, subject to 
      judicial review, that such separation is necessary in the best 
      interests of the child.
-   • Art. 12 — Right of the child to be heard.
-   • Art. 18 — Common responsibility of parents for the upbringing 
+   • Art. 12, Right of the child to be heard.
+   • Art. 18, Common responsibility of parents for the upbringing 
      and development of the child.
 
 EUROPEAN CONVENTION ON HUMAN RIGHTS (ECHR):
-   • Art. 8 — Right to respect for private and family life.
+   • Art. 8, Right to respect for private and family life.
 
 UNIVERSAL DECLARATION OF HUMAN RIGHTS (UDHR):
-   • Art. 16 — The family is the natural and fundamental group unit 
+   • Art. 16, The family is the natural and fundamental group unit 
      of society and is entitled to protection by society and the State.
 
 ITALIAN CONSTITUTION:
-   • Art. 2 — The Republic recognises and guarantees the inviolable 
+   • Art. 2, The Republic recognises and guarantees the inviolable 
      rights of the person.
-   • Art. 30 — It is the duty and right of parents to support, 
+   • Art. 30, It is the duty and right of parents to support, 
      educate, and raise their children.
-   • Art. 31 — The Republic facilitates the formation of the family 
+   • Art. 31, The Republic facilitates the formation of the family 
      and protects childhood and youth.
 
 APPLICABLE ITALIAN LEGISLATION:
-   • Law 149/2001 — Right of the child to grow up in their own 
+   • Law 149/2001, Right of the child to grow up in their own 
      family.
-   • Art. 403 Civil Code — Urgent intervention only in cases of 
+   • Art. 403 Civil Code, Urgent intervention only in cases of 
      real and imminent danger.
-   • Legislative Decree 286/1998 — Protection of the fundamental 
+   • Legislative Decree 286/1998, Protection of the fundamental 
      rights of foreign persons in Italy.
-   • Law 184/1983 — Regulation of adoption and foster care of 
+   • Law 184/1983, Regulation of adoption and foster care of 
      minors.
 
 
@@ -423,18 +423,18 @@ ATTACHMENTS:
 | **ECHR** | Art. 8 | Right to respect for private and family life |
 | **UDHR** | Art. 16 | Family as natural unit protected by the state |
 | **Italian Constitution** | Art. 2, 30, 31 | Inviolable rights, parental rights, family protection |
-| **Italian Law 149/2001** | — | Right of child to grow up in their own family |
+| **Italian Law 149/2001** |, | Right of child to grow up in their own family |
 
 ### How You Can Help
 
 1. **Italian speakers**: Copy the Italian petition template above, personalize it, and send it to the listed addresses
-2. **Non-Italian speakers**: Use the English translation to understand the content, then share this page with Italian contacts who can submit the petition — or submit the English version to OHCHR directly (they accept English)
+2. **Non-Italian speakers**: Use the English translation to understand the content, then share this page with Italian contacts who can submit the petition, or submit the English version to OHCHR directly (they accept English)
 3. **Everyone**: Share this page on social media to maximize pressure
 
 ### The Urgency
 
 <div class="alert alert-danger" style="background: linear-gradient(135deg, rgba(220,38,38,0.15), rgba(220,38,38,0.05)); border: 2px solid rgba(220,38,38,0.4); border-radius: 1rem; padding: 1.5rem;">
-<strong>⏰ The children are planned to be held in the institution until June 2026.</strong> The twins turn 7 in March — still separated from their parents. Psychologists have publicly confirmed the children are suffering daily trauma from the separation. Every day of delay causes documented, irreparable harm. Maximum international pressure is needed NOW.
+<strong>⏰ The children are planned to be held in the institution until June 2026.</strong> The twins turn 7 in March, still separated from their parents. Psychologists have publicly confirmed the children are suffering daily trauma from the separation. Every day of delay causes documented, irreparable harm. Maximum international pressure is needed NOW.
 </div>
 
 ---

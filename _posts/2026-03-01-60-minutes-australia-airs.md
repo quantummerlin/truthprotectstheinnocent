@@ -1,16 +1,16 @@
----
+﻿---
 layout: post
-title: "60 Minutes Australia Airs Tonight — The World Is Watching"
+title: "60 Minutes Australia Airs Tonight, The World Is Watching"
 date: 2026-03-01
 categories: [Breaking, Media]
-summary: "Tonight, 60 Minutes Australia airs their investigation into the Birmingham-Trevallion case — bringing the story of three children separated from their parents to millions of viewers."
+summary: "Tonight, 60 Minutes Australia airs their investigation into the Birmingham-Trevallion case, bringing the story of three children separated from their parents to millions of viewers."
 ---
 
 ## Tonight on 60 Minutes Australia
 
-**March 1, 2026** — Australia's most-watched current affairs program, *60 Minutes*, airs their full investigation into the case of Catherine Birmingham, Nathan Trevallion, and their three children tonight on Channel 9.
+**March 1, 2026**, Australia's most-watched current affairs program, *60 Minutes*, airs their full investigation into the case of Catherine Birmingham, Nathan Trevallion, and their three children tonight on Channel 9.
 
-Millions of Australians — and viewers around the world — will see the truth for the first time:
+Millions of Australians, and viewers around the world, will see the truth for the first time:
 
 - Three children removed from loving parents
 - Three official justifications given by authorities
@@ -39,13 +39,13 @@ Millions of Australians — and viewers around the world — will see the truth 
 The segment documents:
 
 - The family's life in Italy and the circumstances of the children's removal
-- The three official justifications — and the official Italian documents that disprove each one
+- The three official justifications, and the official Italian documents that disprove each one
 - The psychological harm being done to the children daily, confirmed by psychologists
 - The family's fight to be reunited
 
 ---
 
-## The Three False Claims — A Summary
+## The Three False Claims, A Summary
 
 | Claim | Authority That Disproved It |
 |-------|----------------------------|
@@ -57,7 +57,7 @@ The segment documents:
 
 ## Why This Matters
 
-This case is not just about one family. It is about whether a government can remove children from loving parents based on reasons that are demonstrably false — and keep them separated for months, causing documented daily trauma, with no accountability.
+This case is not just about one family. It is about whether a government can remove children from loving parents based on reasons that are demonstrably false, and keep them separated for months, causing documented daily trauma, with no accountability.
 
 *60 Minutes* reaching millions of viewers tonight is a turning point. Share this story. The pressure needs to continue.
 

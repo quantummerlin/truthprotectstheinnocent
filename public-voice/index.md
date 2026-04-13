@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Public Voice — 1,344 Voices Speak Out"
+title: "Public Voice, 1,344 Voices Speak Out"
 description: "1,344 public comments from Italy and around the world demanding the release of Utopia, Galorian and Blue Bell. 96% support the family. Voices from 12+ countries."
 permalink: /public-voice/
 lang: en
@@ -166,7 +166,7 @@ lang: en
 <div class="pv-hero">
     <div class="container">
         <h1>The World Speaks Out</h1>
-        <p>Hundreds of people — from Italy and around the world — have publicly commented across two sources, demanding the immediate return of Utopia, Galorian and Blue Bell to their parents.</p>
+        <p>Hundreds of people, from Italy and around the world, have publicly commented across two sources, demanding the immediate return of Utopia, Galorian and Blue Bell to their parents.</p>
         <div class="pv-hero-stats">
             <div class="pv-hero-stat"><div class="num">1,344</div><div class="lbl">Public Comments</div></div>
             <div class="pv-hero-stat"><div class="num">1,130</div><div class="lbl">Unique Voices</div></div>
