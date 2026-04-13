@@ -4,7 +4,7 @@ title: "Happy Birthday Catherine — April 13, 2026"
 description: "Today is Catherine Birmingham's birthday and her children are still not home. Almost 5 months separated. A lifelong friend's open letter. #TruthProtectsTheInnocent"
 permalink: /birthday/
 lang: en
-image: /assets/images/og-image.jpg
+image: /assets/images/birthday-og.jpg
 ---
 
 <style>
@@ -141,7 +141,14 @@ image: /assets/images/og-image.jpg
     font-weight: 700; font-size: 0.88rem; cursor: pointer;
     transition: opacity 0.2s; font-family: inherit;
   }
-  .bd-btn-fb:hover, .bd-btn-wa:hover, .bd-btn-tw:hover, .bd-btn-copy:hover { opacity: 0.85; }
+  .bd-btn-save {
+    display: inline-flex; align-items: center; gap: 0.5rem;
+    background: rgba(167,139,250,0.35); color: #e9d8fd; border: 1.5px solid rgba(167,139,250,0.65);
+    padding: 0.7rem 1.4rem; border-radius: 0.5rem;
+    font-weight: 700; font-size: 0.88rem; cursor: pointer;
+    transition: opacity 0.2s; font-family: inherit;
+  }
+  .bd-btn-fb:hover, .bd-btn-wa:hover, .bd-btn-tw:hover, .bd-btn-copy:hover, .bd-btn-save:hover { opacity: 0.85; }
 
   /* Full letter section */
   .bd-letter-section {
@@ -249,7 +256,12 @@ image: /assets/images/og-image.jpg
           <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 01-2-2V4a2 2 0 012-2h9a2 2 0 012 2v1"/></svg>
           Copy Link
         </button>
+        <button class="bd-btn-save" id="saveCardBtn" onclick="saveCardImage(this)">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+          Save as Image
+        </button>
       </div>
+      <p style="color: rgba(255,255,255,0.3); font-size: 0.72rem; margin-top: 0.6rem;">Save the card image to share on Instagram, Facebook &amp; beyond</p>
     </div>
 
     <!-- ── FULL LETTER ── -->
@@ -285,11 +297,12 @@ image: /assets/images/og-image.jpg
 </section>
 </div>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js" integrity="sha512-BNaRQnYJYiPSqHHDb58B0yaPfCu+Wgds8Gp/gU33kqBtgNS4tSPHuGibyoeqMV/TJlSKda6FXzoEyYGjTe+vXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script>
 function copyLink(btn) {
   navigator.clipboard.writeText('https://truthprotectstheinnocent.quantummerlin.com/birthday/').then(function() {
     var orig = btn.innerHTML;
-    btn.innerHTML = '✓ Copied!';
+    btn.innerHTML = '&#10003; Copied!';
     btn.style.background = 'rgba(74,222,128,0.2)';
     btn.style.borderColor = 'rgba(74,222,128,0.5)';
     btn.style.color = '#86efac';
@@ -299,6 +312,47 @@ function copyLink(btn) {
       btn.style.borderColor = '';
       btn.style.color = '';
     }, 2000);
+  });
+}
+
+function saveCardImage(btn) {
+  var card = document.getElementById('shareCard');
+  var orig = btn.innerHTML;
+  btn.innerHTML = 'Generating...';
+  btn.disabled = true;
+
+  // Temporarily hide the glow overlay to get cleaner capture
+  var glow = document.querySelector('.bd-glow');
+  if (glow) glow.style.display = 'none';
+
+  html2canvas(card, {
+    backgroundColor: null,
+    scale: 2,
+    useCORS: true,
+    logging: false,
+    width: card.offsetWidth,
+    height: card.offsetHeight
+  }).then(function(canvas) {
+    if (glow) glow.style.display = '';
+    var link = document.createElement('a');
+    link.download = 'happy-birthday-catherine-2026.png';
+    link.href = canvas.toDataURL('image/png');
+    link.click();
+    btn.innerHTML = '&#10003; Saved!';
+    btn.style.background = 'rgba(74,222,128,0.2)';
+    btn.style.borderColor = 'rgba(74,222,128,0.5)';
+    btn.style.color = '#86efac';
+    setTimeout(function() {
+      btn.innerHTML = orig;
+      btn.style.background = '';
+      btn.style.borderColor = '';
+      btn.style.color = '';
+      btn.disabled = false;
+    }, 2500);
+  }).catch(function() {
+    if (glow) glow.style.display = '';
+    btn.innerHTML = orig;
+    btn.disabled = false;
   });
 }
 </script>
